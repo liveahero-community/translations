@@ -37,7 +37,7 @@
     "resourceName": "",
     "subResourceName": "",
     "timing": 0,
-    "description": "消除我方所有增益效果、減益效果，獲得無敵（免疫攻擊傷害） 1 層。",
+    "description": "消除我方所有增益效果、減益效果，獲得無敵 1 層。",
     "cutin": [],
     "effects": [
       {
@@ -696,7 +696,7 @@
     "resourceName": "b_skill_buff",
     "subResourceName": "",
     "timing": 0,
-    "description": "賦予自己「傷害集中」 2 層。",
+    "description": "賦予自己傷害集中 2 層。",
     "cutin": [
       {
         "info": {
@@ -721,7 +721,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "s_skill_buffOwn",
     "timing": 0,
-    "description": "對敵方全體造成攻擊 90% 傷害。賦予自己「無敵」（免疫攻擊傷害） 1 層。",
+    "description": "對敵方全體造成攻擊 90% 傷害。賦予自己無敵 1 層。",
     "cutin": [
       {
         "info": {
@@ -1491,7 +1491,7 @@
     "resourceName": "b_skill_view",
     "subResourceName": "s_skill_buffOwn",
     "timing": 0,
-    "description": "獲得 5000 View。賦予自己「無敵」（免疫攻擊傷害） 1 層。",
+    "description": "獲得 5000 View。賦予自己無敵 1 層。",
     "cutin": [
       {
         "info": {
@@ -1546,7 +1546,7 @@
     "resourceName": "b_skill_view",
     "subResourceName": "s_skill_buffOwn",
     "timing": 0,
-    "description": "獲得 5000 View。賦予自己「無敵」（免疫攻擊傷害）1層、速度上升 1 層。",
+    "description": "獲得 5000 View。賦予自己無敵 1 層、速度上升 1 層。",
     "cutin": [
       {
         "info": {
@@ -2076,7 +2076,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "s_skill_debuffAll",
     "timing": 0,
-    "description": "對敵方全體造成攻擊 120% 傷害。40% 機率賦予攻擊力下降 1 層。",
+    "description": "對敵方全體造成攻擊 70% 傷害。40% 機率賦予攻擊力下降 1 層。",
     "cutin": [
       {
         "info": {
@@ -2436,7 +2436,7 @@
     "resourceName": "b_skill_healAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "賦予我方所有成員回春（恢復血量）2 層。",
+    "description": "賦予我方所有成員回春 2 層。",
     "cutin": [
       {
         "info": {
@@ -3195,7 +3195,7 @@
     "resourceName": "b_skill_buff",
     "subResourceName": "",
     "timing": 0,
-    "description": "賦予自己免疫攻擊傷害 1 層。",
+    "description": "賦予自己無敵 1 層。",
     "cutin": [
       {
         "info": {
@@ -3220,7 +3220,7 @@
     "resourceName": "b_skill_buff",
     "subResourceName": "s_skill_heal",
     "timing": 0,
-    "description": "賦予自己免疫攻擊傷害 1 層。恢復基礎攻擊 50% 血量。",
+    "description": "賦予自己無敵 1 層。恢復基礎攻擊 50% 血量。",
     "cutin": [
       {
         "info": {
@@ -3250,7 +3250,7 @@
     "resourceName": "b_skill_buff",
     "subResourceName": "s_skill_heal",
     "timing": 0,
-    "description": "賦予自己免疫攻擊傷害 1 層。恢復基礎攻擊 80% 血量。",
+    "description": "賦予自己無敵 1 層。恢復基礎攻擊 80% 血量。",
     "cutin": [
       {
         "info": {
@@ -4455,7 +4455,7 @@
     "resourceName": "b_skill_heal",
     "subResourceName": "",
     "timing": 0,
-    "description": "賦予自己回春（恢復血量）2 層。",
+    "description": "賦予自己回春 2 層。",
     "cutin": [
       {
         "info": {
@@ -4480,7 +4480,7 @@
     "resourceName": "b_skill_heal",
     "subResourceName": "",
     "timing": 0,
-    "description": "賦予自己回春（恢復血量）3 層。",
+    "description": "賦予自己回春 3 層。",
     "cutin": [
       {
         "info": {
@@ -4505,7 +4505,7 @@
     "resourceName": "b_skill_heal",
     "subResourceName": "",
     "timing": 0,
-    "description": "賦予自己或一位友軍回春（恢復血量）3 層。",
+    "description": "賦予自己或一位友軍回春 3 層。",
     "cutin": [
       {
         "info": {
@@ -4620,7 +4620,7 @@
     "resourceName": "b_skill_spdUp",
     "subResourceName": "s_skill_buffTeam",
     "timing": 0,
-    "description": "賦予自己速度上升、免疫攻擊傷害 1 層。",
+    "description": "賦予自己速度上升、無敵 1 層。",
     "cutin": [
       {
         "info": {
@@ -4650,7 +4650,7 @@
     "resourceName": "b_skill_spdUp",
     "subResourceName": "s_skill_buffTeam",
     "timing": 0,
-    "description": "賦予自己速度上升、免疫攻擊傷害 1 層。",
+    "description": "賦予自己速度上升、無敵 1 層。",
     "cutin": [
       {
         "info": {
@@ -4680,7 +4680,7 @@
     "resourceName": "b_skill_spdUp",
     "subResourceName": "s_skill_buffTeam",
     "timing": 0,
-    "description": "賦予自己速度上升、免疫攻擊傷害 1 層。",
+    "description": "賦予自己速度上升、無敵 1 層。",
     "cutin": [
       {
         "info": {
@@ -7193,7 +7193,7 @@
     "resourceName": "icon_kirsch_s01",
     "subResourceName": "",
     "timing": 2,
-    "description": "行動開始時有 15% 賦予自己回春（恢復血量）2 層。",
+    "description": "行動開始時有 15% 賦予自己回春 2 層。",
     "cutin": [],
     "effects": [
       {
@@ -7211,7 +7211,7 @@
     "resourceName": "icon_kirsch_s01",
     "subResourceName": "",
     "timing": 2,
-    "description": "行動開始時有 20% 賦予自己回春（恢復血量）2 層。",
+    "description": "行動開始時有 20% 賦予自己回春 2 層。",
     "cutin": [],
     "effects": [
       {
@@ -7229,7 +7229,7 @@
     "resourceName": "icon_kirsch_s01",
     "subResourceName": "",
     "timing": 2,
-    "description": "行動開始時有 25% 賦予自己回春（恢復血量）2 層。",
+    "description": "行動開始時有 25% 賦予自己回春 2 層。",
     "cutin": [],
     "effects": [
       {
@@ -7247,7 +7247,7 @@
     "resourceName": "icon_kirsch_s01",
     "subResourceName": "",
     "timing": 2,
-    "description": "行動開始時有 30% 賦予自己回春（恢復血量）2 層。",
+    "description": "行動開始時有 30% 賦予自己回春 2 層。",
     "cutin": [],
     "effects": [
       {
@@ -7265,7 +7265,7 @@
     "resourceName": "icon_kirsch_s01",
     "subResourceName": "",
     "timing": 2,
-    "description": "行動開始時有 35% 賦予自己回春（恢復血量）2 層。",
+    "description": "行動開始時有 35% 賦予自己回春 2 層。",
     "cutin": [],
     "effects": [
       {
@@ -7283,7 +7283,7 @@
     "resourceName": "icon_kirsch_s01",
     "subResourceName": "",
     "timing": 2,
-    "description": "行動開始時有 40% 賦予自己回春（恢復血量）2 層。",
+    "description": "行動開始時有 40% 賦予自己回春 2 層。",
     "cutin": [],
     "effects": [
       {
@@ -8148,7 +8148,7 @@
     "resourceName": "",
     "subResourceName": "",
     "timing": 0,
-    "description": "（敵人專屬）對所有玩家角色造成攻擊 90% 傷害。賦予自己攻擊力上升、防禦力上升 2 層。賦予自己回春（恢復血量）3 層。",
+    "description": "（敵人專屬）對所有玩家角色造成攻擊 90% 傷害。賦予自己攻擊力上升、防禦力上升 2 層。賦予自己回春 3 層。",
     "cutin": [
       {
         "info": {
