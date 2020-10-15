@@ -1,12 +1,13 @@
 // Node modules.
 import fs from 'fs';
 import fetch from 'node-fetch';
+import appRoot from 'app-root-path';
 
 const download = async (url: string, locale: string, filename: string) => {
   const res = await fetch(url);
 
   await new Promise((resolve, reject) => {
-    const filepath = `./translations/${locale}/${filename}`;
+    const filepath = `${appRoot}/translations/${locale}/${filename}`;
     const fileStream = fs.createWriteStream(filepath);
     res.body.pipe(fileStream);
     res.body.on('error', reject);

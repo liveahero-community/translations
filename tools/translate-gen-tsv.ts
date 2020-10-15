@@ -2,8 +2,8 @@
 import fs from 'fs';
 import _ from 'lodash';
 // Local modules.
-import SkillData from '../master-data/ja-JP/SkillMaster.json';
-import StatusData from '../master-data/ja-JP/StatusMaster.json';
+import SkillData from '../master-data/latest/ja-JP/SkillMaster.json';
+import StatusData from '../master-data/latest/ja-JP/StatusMaster.json';
 
 const main = async () => {
   // File 1.

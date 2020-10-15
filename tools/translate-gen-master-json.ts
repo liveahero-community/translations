@@ -2,46 +2,68 @@
 import fs from 'fs';
 import _ from 'lodash';
 import appRoot from 'app-root-path';
+import { ncp } from 'ncp';
 // Local modules.
-import SkillData from '../master-data/ja-JP/SkillMaster.json';
-import StatusData from '../master-data/ja-JP/StatusMaster.json';
+import SkillData from '../master-data/latest/ja-JP/SkillMaster.json';
+import StatusData from '../master-data/latest/ja-JP/StatusMaster.json';
 
-const main = async () => {
-  // File 1.
-  const skillsRawData = fs.readFileSync(`${appRoot}/translations/zh-TW/skills.tsv`, 'utf-8');
-  const updatedSkills = skillsRawData.split(/\n/).map((line) => {
-    const [skillId, skillName, description] = line.split('\t');
-    return { skillId, skillName, description };
+// Global variables.
+const masterVersion = 'latest';
+const sourceLocale = 'ja-JP';
+const targetLocale = 'zh-TW';
+const translatedRawDataRoot = `${appRoot}/translations/${targetLocale}`;
+const masterDataRoot = `${appRoot}/master-data/${masterVersion}`;
+const sourceMasterDataPath = `${masterDataRoot}/${sourceLocale}`;
+const targetMasterDataPath = `${masterDataRoot}/${targetLocale}`;
+
+const generate = (tsvName: string, jsonName: string, keys: string[], baseMasterData: any) => {
+  const rawFilePath = `${translatedRawDataRoot}/${tsvName}.tsv`;
+  const rawData = fs.readFileSync(rawFilePath, 'utf-8');
+  const updatedList = rawData.split(/\n/).map((line) => {
+    const tokens = line.split('\t');
+    const row = _.zipObject(keys, tokens);
+    return row;
   });
 
-  updatedSkills.forEach((skill) => {
-    Object.assign(_.get(SkillData, skill.skillId), {
-      ...skill,
-      skillId: Number(skill.skillId),
+  updatedList.forEach((row) => {
+    const idKey = keys[0];
+    const id = row[idKey];
+    Object.assign(_.get(baseMasterData, id), {
+      ...row,
+      [idKey]: Number(id),
     });
   });
 
-  const skillText = JSON.stringify(SkillData, null, 2) + '\n';
+  const exportFilePath = `${targetMasterDataPath}/${jsonName}.json`;
+  const exportText = JSON.stringify(baseMasterData, null, 2);
 
-  fs.writeFileSync(`${appRoot}/master-data/zh-TW/SkillMaster.json`, skillText, 'utf-8');
+  fs.mkdirSync(targetMasterDataPath, { recursive: true });
+  fs.writeFileSync(exportFilePath, exportText, 'utf-8');
+}
 
-  // File 2.
-  const statusRawData = fs.readFileSync(`${appRoot}/translations/zh-TW/statuses.tsv`, 'utf-8');
-  const updatedStatuses = statusRawData.split(/\n/).map((line) => {
-    const [statusId, statusName, description] = line.split('\t');
-    return { statusId, statusName, description };
+const main = () => {
+  ncp(sourceMasterDataPath, targetMasterDataPath, (err) => {
+    console.log(`Copy ${sourceMasterDataPath} to ${targetMasterDataPath}`);
+
+    if (err) {
+      console.error(`Error: ${err}`);
+    } else {
+      // Over-write by translated parts.
+      generate(
+        'skills',
+        'SkillMaster',
+        ['skillId', 'skillName', 'description'],
+        SkillData,
+      );
+
+      generate(
+        'statuses',
+        'StatusMaster',
+        ['statusId', 'statusName', 'description'],
+        StatusData,
+      );
+    }
   });
-
-  updatedStatuses.forEach((status) => {
-    Object.assign(_.get(StatusData, status.statusId), {
-      ...status,
-      statusId: Number(status.statusId),
-    });
-  });
-
-  const statusText = JSON.stringify(StatusData, null, 2) + '\n';
-
-  fs.writeFileSync(`${appRoot}/master-data/zh-TW/StatusMaster.json`, statusText, 'utf-8');
 };
 
 main();
