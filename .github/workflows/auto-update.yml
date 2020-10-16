@@ -3,16 +3,13 @@ on:
   push:
     branches:
       - main
-      - test
-  # Not ready
-  # schedule:
-  #   # At minute 0 and 30.
-  #   - cron:  '0,30 * * * *'
+  schedule:
+    # At minute 0 and 30.
+    - cron: '0,30 * * * *'
 jobs:
   build:
     name: Auto-update master data
     env:
-      MY_SECRET: ${{secrets.commit_secret}}
       USER_NAME: githubaction
       USER_EMAIL: githubaction@fake.com
     runs-on: ubuntu-latest
@@ -30,7 +27,13 @@ jobs:
           yarn install
       - name: Download master data
         run: |
+          # Get ja-JP master data
           yarn download:official-master-data
+          # Translate to other locale
+          yarn translate:gen-master-json
+          # Export TSV
+          yarn translate:gen-tsv ja-JP
+          yarn translate:gen-tsv zh-TW
       - name: Diff with previous commit and commit files
         run: |
           mkdir artifacts
@@ -45,8 +48,7 @@ jobs:
             git config --local user.name $USER_NAME
             git config --local user.email $USER_EMAIL
             git status
-            git remote add origin https://$MY_SECRET@github.com/$GITHUB_REPOSITORY.git
-            git add master-data
+            git add --all
             git commit -m "master data auto-update"
             git push origin HEAD
             echo "🤘 update version complete."

@@ -40,9 +40,12 @@ const main = async () => {
   }
 
   fs.writeFileSync(
-    `${appRoot}/master-data/version.json`,
-    JSON.stringify({ appVersion, masterVersion }, null, 2),
-    { encoding: 'utf-8' },
+    `${appRoot}/master-data/AppVersion`,
+    String(appVersion),
+  );
+  fs.writeFileSync(
+    `${appRoot}/master-data/MasterVersion`,
+    String(masterVersion),
   );
   console.log(`Version: ${appVersion} / ${masterVersion}`);
 
