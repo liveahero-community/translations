@@ -43,10 +43,11 @@ yarn download:official-master-data
 
 ### translate-gen-tsv
 
-Convert the JSON of **ja-JP** master data into **.tsv** files.
+Convert the JSON of master data into **.tsv** files.
 
 ```shell
-yarn translate:gen-tsv
+# locale: zh-TW, ja-JP
+yarn translate:gen-tsv <locale>
 ```
 
 ### download-translation-tsv
@@ -54,8 +55,7 @@ yarn translate:gen-tsv
 Download translated **.tsv** files from cloud.
 
 ```shell
-# locale: zh-TW, ja-JP
-yarn download:translation-tsv <locale>
+yarn download:translation-tsv
 ```
 
 ### translate-gen-master-json
