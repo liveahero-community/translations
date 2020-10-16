@@ -1,6 +1,6 @@
 [![](https://github.com/liveahero-community/translations/workflows/deploy%20gh-pages/badge.svg)](https://github.com/liveahero-community/translations/actions?query=workflow%3A%22deploy+gh-pages%22) Provide the text data (multi-languages)
 
-[![](https://github.com/liveahero-community/translations/workflows/auto%20update/badge.svg)](https://github.com/liveahero-community/translations/actions?query=workflow%3A%22auto+update%22) update master data automation
+[![](https://github.com/liveahero-community/translations/workflows/auto%20update/badge.svg)](https://github.com/liveahero-community/translations/actions?query=workflow%3A%22auto+update%22) Update master data automation
 
 ---
 
