@@ -20,7 +20,7 @@ jobs:
       matrix:
         node-version: [12.x]
     steps:
-      - uses: actions/checkout@v1
+      - uses: actions/checkout@v2
       - name: Use Node.js ${{ matrix.node-version }}
         uses: actions/setup-node@v1
         with:
@@ -45,8 +45,9 @@ jobs:
             git config --local user.name $USER_NAME
             git config --local user.email $USER_EMAIL
             git status
-            # git add master-data
-            # git commit -m "xxxx"
-            # git push origin HEAD
-            echo 🤘 update version complete.
+            git remote add origin https://$MY_SECRET@github.com/$GITHUB_REPOSITORY.git
+            git add master-data
+            git commit -m "master data auto-update"
+            git push origin HEAD
+            echo "🤘 update version complete."
           fi
