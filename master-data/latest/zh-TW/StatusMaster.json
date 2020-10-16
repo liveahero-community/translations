@@ -1,176 +1,176 @@
 {
   "1": {
     "statusId": 1,
-    "statusName": "ATKアップ",
+    "statusName": "攻擊力上升",
     "isGoodStatus": 1,
-    "description": "攻撃力が1.5倍になる。"
+    "description": "攻擊力變成 1.5 倍。"
   },
   "2": {
     "statusId": 2,
-    "statusName": "DEFアップ",
+    "statusName": "防禦力上升",
     "isGoodStatus": 1,
-    "description": "一度だけ相手からのダメージが半分になる。"
+    "description": "僅一次減半對手的攻擊傷害。"
   },
   "3": {
     "statusId": 3,
-    "statusName": "SPDアップ",
+    "statusName": "速度上升",
     "isGoodStatus": 1,
-    "description": "SPDが+10される。"
+    "description": "速度數值 +10。"
   },
   "4": {
     "statusId": 4,
     "statusName": "注目",
     "isGoodStatus": 1,
-    "description": "行動時のViewの増加量が1.5倍になる。"
+    "description": "行動時的 View 的增加量變為 1.5 倍。"
   },
   "5": {
     "statusId": 5,
-    "statusName": "挑発",
+    "statusName": "嘲諷",
     "isGoodStatus": 1,
-    "description": "ターン終了時まで相手から狙われやすくなる。"
+    "description": "直到回合結束前，對手都更容易攻擊該名角色。"
   },
   "6": {
     "statusId": 6,
     "statusName": "無敵",
     "isGoodStatus": 1,
-    "description": "一度だけ相手からのダメージを無効化する。"
+    "description": "僅一次完全抵擋來自對手的攻擊傷害。"
   },
   "7": {
     "statusId": 7,
     "statusName": "幸運",
     "isGoodStatus": 1,
-    "description": "確率で発動する効果の発動率が20%上がる。"
+    "description": "有機率發動的技能，發動機率增加 20%。"
   },
   "8": {
     "statusId": 8,
-    "statusName": "覚醒",
+    "statusName": "覺醒",
     "isGoodStatus": 1,
-    "description": "スキルに必要なViewPointが半分になる。"
+    "description": "發動技能所需的 View 量減半。"
   },
   "9": {
     "statusId": 9,
     "statusName": "復活",
     "isGoodStatus": 1,
-    "description": "死亡時に復活する。"
+    "description": "角色死亡時復活。"
   },
   "10": {
     "statusId": 10,
-    "statusName": "リジェネ",
+    "statusName": "回春",
     "isGoodStatus": 1,
-    "description": "ターン終了時にHP最大値の10%の回復する。"
+    "description": "回合結束時恢復最大血量的 10%。"
   },
   "11": {
     "statusId": 11,
-    "statusName": "ATKダウン",
+    "statusName": "攻擊力下降",
     "isGoodStatus": 0,
-    "description": "攻撃力が0.5倍になる。"
+    "description": "攻擊力減半。"
   },
   "12": {
     "statusId": 12,
-    "statusName": "DEFダウン",
+    "statusName": "防禦力下降",
     "isGoodStatus": 0,
-    "description": "一度だけ相手からのダメージが1.5倍になる。"
+    "description": "僅一次來自對手的攻擊傷害變為 1.5 倍。"
   },
   "13": {
     "statusId": 13,
-    "statusName": "SPDダウン",
+    "statusName": "速度下降",
     "isGoodStatus": 0,
-    "description": "SPDが-10される。"
+    "description": "速度數值 -10。"
   },
   "14": {
     "statusId": 14,
-    "statusName": "モザイク",
+    "statusName": "モザイク（馬賽克磚）",
     "isGoodStatus": 0,
-    "description": "行動時のViewの増加量が半分になる。"
+    "description": "行動時的 View 的增加量變為一半。"
   },
   "15": {
     "statusId": 15,
-    "statusName": "隠蔽",
+    "statusName": "隱匿",
     "isGoodStatus": 1,
-    "description": "ターン終了時まで相手から狙われなくなる。"
+    "description": "直到回合結束前對手都無法指定攻擊該角色。"
   },
   "16": {
     "statusId": 16,
     "statusName": "不幸",
     "isGoodStatus": 0,
-    "description": "確率で発動する効果の発動率が20%下がる。"
+    "description": "有機率發動的技能，發動機率減少 20%。"
   },
   "17": {
     "statusId": 17,
     "statusName": "困惑",
     "isGoodStatus": 0,
-    "description": "スキルに必要なViewPointが2倍になる。"
+    "description": "發動技能所需的 View 量變成 2 倍。"
   },
   "18": {
     "statusId": 18,
-    "statusName": "毒",
+    "statusName": "中毒",
     "isGoodStatus": 0,
-    "description": "ターン終了時にHP最大値の5%のダメージを受ける。"
+    "description": "回合結束時受到生命最大值 5% 的傷害。"
   },
   "19": {
     "statusId": 19,
-    "statusName": "火傷",
+    "statusName": "燒傷",
     "isGoodStatus": 0,
-    "description": "ターン終了時にHP最大値の10%のダメージを受ける。"
+    "description": "回合結束時受到生命最大值 10% 的傷害。"
   },
   "20": {
     "statusId": 20,
-    "statusName": "超SPDアップ",
+    "statusName": "超級速度上升",
     "isGoodStatus": 1,
-    "description": "SPDが+30される。"
+    "description": "速度數值 +30。"
   },
   "21": {
     "statusId": 21,
     "statusName": "免疫",
     "isGoodStatus": 1,
-    "description": "敵のデバフを無効化する。"
+    "description": "敵方賦予的減益效果無效。"
   },
   "22": {
     "statusId": 22,
-    "statusName": "沈黙",
+    "statusName": "沉默",
     "isGoodStatus": 0,
-    "description": "Viewを使用するスキルが使えなくなる。"
+    "description": "無法使用需要消耗 View 值的技能。"
   },
   "23": {
     "statusId": 23,
     "statusName": "火事場力",
     "isGoodStatus": 1,
-    "description": "HPが減れば減るほど攻撃力が上昇する。"
+    "description": "自己生命越少攻擊力越高。"
   },
   "24": {
     "statusId": 24,
-    "statusName": "ウェイト",
+    "statusName": "等待",
     "isGoodStatus": 1,
-    "description": "自身の行動順を現時点での最後にする。"
+    "description": "該名角色的行動次序轉變為該回合最後一位。"
   },
   "25": {
     "statusId": 25,
     "statusName": "俊敏",
     "isGoodStatus": 1,
-    "description": "相手とSPDが離れてる程攻撃力が増加。"
+    "description": "自己與對手的速度差越多，則攻擊力越高。"
   },
   "26": {
     "statusId": 26,
-    "statusName": "ダメージ集約",
+    "statusName": "傷害集中",
     "isGoodStatus": 1,
-    "description": "ターン終了時まで全体攻撃のダメージを自分に集める。"
+    "description": "直到回合結束前，全體攻擊的傷害都會算在該名角色身上。"
   },
   "27": {
     "statusId": 27,
-    "statusName": "永続効果",
+    "statusName": "永久效果",
     "isGoodStatus": 1,
-    "description": "バトル中に永続的に発動する効果。"
+    "description": "在戰鬥中會永遠發動的效果。"
   },
   "28": {
     "statusId": 28,
-    "statusName": "イベントボーナス",
+    "statusName": "事件加成",
     "isGoodStatus": 1,
-    "description": "イベントにより発動する効果。"
+    "description": "從 event 發動的效果。"
   },
   "29": {
     "statusId": 29,
-    "statusName": "超SPDダウン",
+    "statusName": "超級速度下降",
     "isGoodStatus": 0,
-    "description": "SPDが-30される。"
+    "description": "速度數值 -30。"
   }
 }
