@@ -1,8 +1,7 @@
 // Node modules.
-import fs from 'fs';
 import _ from 'lodash';
+import fs from 'fs-extra';
 import appRoot from 'app-root-path';
-import { ncp } from 'ncp';
 // Local modules.
 import SkillData from '../master-data/latest/ja-JP/SkillMaster.json';
 import StatusData from '../master-data/latest/ja-JP/StatusMaster.json';
@@ -16,9 +15,9 @@ const masterDataRoot = `${appRoot}/master-data/${masterVersion}`;
 const sourceMasterDataPath = `${masterDataRoot}/${sourceLocale}`;
 const targetMasterDataPath = `${masterDataRoot}/${targetLocale}`;
 
-const generate = (tsvName: string, jsonName: string, keys: string[], baseMasterData: any) => {
+const generate = async (tsvName: string, jsonName: string, keys: string[], baseMasterData: any) => {
   const rawFilePath = `${translatedRawDataRoot}/${tsvName}.tsv`;
-  const rawData = fs.readFileSync(rawFilePath, 'utf-8');
+  const rawData = await fs.readFile(rawFilePath, 'utf-8');
   const updatedList = rawData.split(/\n/).map((line) => {
     const tokens = line.split('\t');
     const row = _.zipObject(keys, tokens);
@@ -37,33 +36,30 @@ const generate = (tsvName: string, jsonName: string, keys: string[], baseMasterD
   const exportFilePath = `${targetMasterDataPath}/${jsonName}.json`;
   const exportText = JSON.stringify(baseMasterData, null, 2);
 
-  fs.mkdirSync(targetMasterDataPath, { recursive: true });
-  fs.writeFileSync(exportFilePath, exportText, 'utf-8');
+  if (!await fs.pathExists(targetMasterDataPath)) {
+    await fs.mkdir(targetMasterDataPath);
+  }
+  await fs.writeFile(exportFilePath, exportText);
 }
 
-const main = () => {
-  ncp(sourceMasterDataPath, targetMasterDataPath, (err) => {
-    console.log(`Copy ${sourceMasterDataPath} to ${targetMasterDataPath}`);
+const main = async () => {
+  await fs.copy(sourceMasterDataPath, targetMasterDataPath);
+  console.log(`Copy ${sourceMasterDataPath} to ${targetMasterDataPath}`);
 
-    if (err) {
-      console.error(`Error: ${err}`);
-    } else {
-      // Over-write by translated parts.
-      generate(
-        'skills',
-        'SkillMaster',
-        ['skillId', 'skillName', 'description'],
-        SkillData,
-      );
+  // Over-write by translated parts.
+  await generate(
+    'skills',
+    'SkillMaster',
+    ['skillId', 'skillName', 'description'],
+    SkillData,
+  );
 
-      generate(
-        'statuses',
-        'StatusMaster',
-        ['statusId', 'statusName', 'description'],
-        StatusData,
-      );
-    }
-  });
+  await generate(
+    'statuses',
+    'StatusMaster',
+    ['statusId', 'statusName', 'description'],
+    StatusData,
+  );
 };
 
 main();
