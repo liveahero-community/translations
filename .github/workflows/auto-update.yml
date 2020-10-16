@@ -1,0 +1,46 @@
+name: auto update
+on:
+  push:
+    branches:
+      - main
+      - test
+  # Not ready
+  # schedule:
+  #   # At minute 0 and 30.
+  #   - cron:  '0,30 * * * *'
+jobs:
+  build:
+    name: Auto-update master data
+    env:
+      MY_SECRET: ${{secrets.commit_secret}}
+      USER_NAME: githubaction
+      USER_EMAIL: githubaction@fake.com
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+      - name: Installation
+        run: |
+          yarn build
+          yarn install
+      - name: Download master data
+        run: |
+          yarn download:official-master-data
+      - name: Diff with previous commit and commit files
+        run: |
+          mkdir artifacts
+          git diff master-data/latest/ > artifacts/master-data.diff
+          DIFF_SIZE=$(wc -c artifacts/master-data.diff | awk '{print $1}')
+
+          if [ "$DIFF_SIZE" -eq "0" ]; then
+            echo "Master data is already up to date."
+          else
+            echo "Master data is updated."
+
+            git config --local user.name $USER_NAME
+            git config --local user.email $USER_EMAIL
+            git status
+            # git add master-data
+            # git commit -m "xxxx"
+            # git push origin HEAD
+            echo 🤘 update version complete.
+          fi
