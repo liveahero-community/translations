@@ -101,7 +101,7 @@
     "resourceName": "",
     "subResourceName": "",
     "timing": 0,
-    "description": "ATK+10%（イベントボーナス）",
+    "description": "攻擊力增加 10%（事件加成）",
     "cutin": [],
     "effects": [
       {
@@ -119,7 +119,7 @@
     "resourceName": "",
     "subResourceName": "",
     "timing": 0,
-    "description": "HP基礎値+50%(イベントボーナス)",
+    "description": "基礎生命值增加 50%（事件加成）",
     "cutin": [],
     "effects": [
       {
@@ -137,7 +137,7 @@
     "resourceName": "",
     "subResourceName": "",
     "timing": 0,
-    "description": "HP基礎値+30%(イベントボーナス)",
+    "description": "基礎生命值增加 30%（事件加成）",
     "cutin": [],
     "effects": [
       {
@@ -720,7 +720,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_combo",
     "timing": 0,
-    "description": "敵単体に60%ダメージ。コンボ数+1。",
+    "description": "對一個敵人造成攻擊 60% 傷害。combo 數 +1。",
     "cutin": [
       {
         "info": {
@@ -750,7 +750,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_spdDownTeam",
     "timing": 0,
-    "description": "敵単体に120%ダメージ。50%の確率で1ターンの間SPDダウンを付与。",
+    "description": "對一個敵人造成攻擊 120% 傷害。50% 賦予速度下降 1 層。",
     "cutin": [
       {
         "info": {
@@ -780,7 +780,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵全体に70%ダメージ+コンボ数に応じてダメージ量が上昇。",
+    "description": "對敵方全體造成攻擊 70% 傷害，且隨 combo 數增幅傷害。",
     "cutin": [
       {
         "info": {
@@ -805,7 +805,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_spdDownTeam",
     "timing": 0,
-    "description": "敵単体に120%ダメージ。1ターンの間SPDダウンを付与。",
+    "description": "對一個敵人造成攻擊 120% 傷害。賦予速度下降 1 層。",
     "cutin": [
       {
         "info": {
@@ -2880,7 +2880,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_buffOwn",
     "timing": 0,
-    "description": "敵単体に70%ダメージ。自身に50%の確率で1ターンの間注目を付与。",
+    "description": "對一個敵人造成攻擊 70% 傷害。50% 機率賦予自己注目 1 層。",
     "cutin": [
       {
         "info": {
@@ -2910,7 +2910,7 @@
     "resourceName": "b_skill_view",
     "subResourceName": "",
     "timing": 0,
-    "description": "Viewを7000獲得。",
+    "description": "獲得 7000 View。",
     "cutin": [
       {
         "info": {
@@ -2935,7 +2935,7 @@
     "resourceName": "b_skill_healAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "味方全体のHPを基礎ATKの100%回復する。",
+    "description": "恢復我方全體自身基礎攻擊 100% 血量。",
     "cutin": [
       {
         "info": {
@@ -2960,7 +2960,7 @@
     "resourceName": "b_skill_healAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "味方全体のHPを基礎ATKの110%回復する。",
+    "description": "恢復我方全體自身基礎攻擊 110% 血量。",
     "cutin": [
       {
         "info": {
@@ -3469,7 +3469,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_combo",
     "timing": 0,
-    "description": "敵単体に90%ダメージ。コンボ数+1。",
+    "description": "對一個敵人造成攻擊 90% 傷害。combo 數 +1。",
     "cutin": [
       {
         "info": {
@@ -3499,7 +3499,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_combo",
     "timing": 0,
-    "description": "敵単体に90%ダメージ。コンボ数+1。",
+    "description": "對一個敵人造成攻擊 90% 傷害。combo 數 +1。",
     "cutin": [
       {
         "info": {
@@ -3529,7 +3529,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_combo",
     "timing": 0,
-    "description": "敵単体に90%ダメージ。コンボ数+1。",
+    "description": "對一個敵人造成攻擊 90% 傷害。combo 數 +1。",
     "cutin": [
       {
         "info": {
@@ -5074,7 +5074,7 @@
     "resourceName": "b_skill_spdUp",
     "subResourceName": "s_skill_cureTeam",
     "timing": 0,
-    "description": "味方単体に1ターンの間SPDアップを付与。デバフを１つ解除。",
+    "description": "賦予自己或一個友軍速度上升 1 層。消除一個減益效果。",
     "cutin": [
       {
         "info": {
@@ -5104,7 +5104,7 @@
     "resourceName": "b_skill_spdUp",
     "subResourceName": "s_skill_cureTeam",
     "timing": 0,
-    "description": "味方単体に1ターンの間SPDアップを付与。デバフを１つ解除。",
+    "description": "賦予自己或一個友軍速度上升 1 層。消除一個減益效果。",
     "cutin": [
       {
         "info": {
@@ -5134,7 +5134,7 @@
     "resourceName": "b_skill_spdUp",
     "subResourceName": "s_skill_cureTeam",
     "timing": 0,
-    "description": "味方単体に1ターンの間SPDアップを付与。デバフを１つ解除。",
+    "description": "賦予自己或一個友軍速度上升 1 層。消除一個減益效果。",
     "cutin": [
       {
         "info": {
@@ -6002,7 +6002,7 @@
     "resourceName": "icon_barrel_s01",
     "subResourceName": "",
     "timing": 3,
-    "description": "行動終了時、10%の確率でコンボ数+1。",
+    "description": "行動結束時有 10% 機率 combo 數 +1。",
     "cutin": [],
     "effects": [
       {
@@ -6020,7 +6020,7 @@
     "resourceName": "icon_barrel_s01",
     "subResourceName": "",
     "timing": 3,
-    "description": "行動終了時、12%の確率でコンボ数+1。",
+    "description": "行動結束時有 12% 機率 combo 數 +1。",
     "cutin": [],
     "effects": [
       {
@@ -6038,7 +6038,7 @@
     "resourceName": "icon_barrel_s01",
     "subResourceName": "",
     "timing": 3,
-    "description": "行動終了時、14%の確率でコンボ数+1。",
+    "description": "行動結束時有 14% 機率 combo 數 +1。",
     "cutin": [],
     "effects": [
       {
@@ -6056,7 +6056,7 @@
     "resourceName": "icon_barrel_s01",
     "subResourceName": "",
     "timing": 3,
-    "description": "行動終了時、16%の確率でコンボ数+1。",
+    "description": "行動結束時有 16% 機率 combo 數 +1。",
     "cutin": [],
     "effects": [
       {
@@ -6074,7 +6074,7 @@
     "resourceName": "icon_barrel_s01",
     "subResourceName": "",
     "timing": 3,
-    "description": "行動終了時、18%の確率でコンボ数+1。",
+    "description": "行動結束時有 18% 機率 combo 數 +1。",
     "cutin": [],
     "effects": [
       {
@@ -6092,7 +6092,7 @@
     "resourceName": "icon_barrel_s01",
     "subResourceName": "",
     "timing": 3,
-    "description": "行動終了時、20%の確率でコンボ数+1。",
+    "description": "行動結束時有 20% 機率 combo 數 +1。",
     "cutin": [],
     "effects": [
       {
@@ -8079,7 +8079,7 @@
     "resourceName": "icon_gomeisa_s01",
     "subResourceName": "",
     "timing": 10,
-    "description": "HP基礎値+5%。",
+    "description": "基礎生命值 +5%。",
     "cutin": [],
     "effects": [
       {
@@ -8097,7 +8097,7 @@
     "resourceName": "icon_gomeisa_s01",
     "subResourceName": "",
     "timing": 10,
-    "description": "HP基礎値+6%。",
+    "description": "基礎生命值 +6%。",
     "cutin": [],
     "effects": [
       {
@@ -8115,7 +8115,7 @@
     "resourceName": "icon_gomeisa_s01",
     "subResourceName": "",
     "timing": 10,
-    "description": "HP基礎値+7%。",
+    "description": "基礎生命值 +7%。",
     "cutin": [],
     "effects": [
       {
@@ -8133,7 +8133,7 @@
     "resourceName": "icon_gomeisa_s01",
     "subResourceName": "",
     "timing": 10,
-    "description": "HP基礎値+8%。",
+    "description": "基礎生命值 +8%。",
     "cutin": [],
     "effects": [
       {
@@ -8151,7 +8151,7 @@
     "resourceName": "icon_gomeisa_s01",
     "subResourceName": "",
     "timing": 10,
-    "description": "HP基礎値+9%。",
+    "description": "基礎生命值 +9%。",
     "cutin": [],
     "effects": [
       {
@@ -8169,7 +8169,7 @@
     "resourceName": "icon_gomeisa_s01",
     "subResourceName": "",
     "timing": 10,
-    "description": "HP基礎値+10%。",
+    "description": "基礎生命值 +10%。",
     "cutin": [],
     "effects": [
       {
@@ -8918,7 +8918,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵全体に70%ダメージ。（敵専用）",
+    "description": "（敵人專屬）對所有玩家角色造成攻擊 70% 傷害。",
     "cutin": [
       {
         "info": {
@@ -8943,7 +8943,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体に70%ダメージの有利属性攻撃。（敵専用）",
+    "description": "（敵人專屬）對一名玩家角色造成 70% 的克制屬性傷害。",
     "cutin": [
       {
         "info": {
@@ -9051,7 +9051,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_debuffAll",
     "timing": 0,
-    "description": "敵全体に140%ダメージ。60%の確率で2ターンの間火傷を付与。（敵専用）",
+    "description": "（敵人專屬）對所有玩家角色造成攻擊 140% 傷害。60% 賦予燒傷 2 層。",
     "cutin": [
       {
         "info": {
@@ -9081,7 +9081,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_buffOwn",
     "timing": 0,
-    "description": "敵単体に90%ダメージ。自身に3ターンの間DEFアップを付与。（敵専用）",
+    "description": "（敵人專屬）對一名玩家角色造成攻擊 90% 傷害。賦予自己防禦力上升 3 層。",
     "cutin": [
       {
         "info": {
@@ -9111,7 +9111,7 @@
     "resourceName": "b_skill_heal",
     "subResourceName": "s_skill_buffOwn",
     "timing": 0,
-    "description": "自身のHPを基礎ATKの100%回復する。1ターンの間SPDアップを付与。（敵専用）",
+    "description": "（敵人專屬）恢復自己基礎攻擊 100% 的血量。賦予速度上升 1 層。",
     "cutin": [
       {
         "info": {
@@ -9141,7 +9141,7 @@
     "resourceName": "b_skill_heal",
     "subResourceName": "s_skill_cureOwn",
     "timing": 0,
-    "description": "自身のHPを基礎ATKの100%回復する。デバフを全て解除。1ターンの間SPDアップを付与。（敵専用）",
+    "description": "（敵人專屬）恢復自己基礎攻擊 100% 的血量。消除全部減益效果。賦予速度上升 1 層。",
     "cutin": [
       {
         "info": {
@@ -9176,7 +9176,7 @@
     "resourceName": "b_skill_special",
     "subResourceName": "",
     "timing": 1,
-    "description": "相手から受けるダメージの上限を20000にする。",
+    "description": "來自玩家的傷害最高為 20000。",
     "cutin": [],
     "effects": [
       {
