@@ -34,6 +34,11 @@ const main = async () => {
   const { appVersion, masterVersion } = await getVersion(versionApiUrl);
 
   // Store the version info.
+  if (!appVersion || !masterVersion) {
+    console.warn('Cannot get version from server');
+    process.exit(0);
+  }
+
   fs.writeFileSync(
     `${appRoot}/master-data/version.json`,
     JSON.stringify({ appVersion, masterVersion }, null, 2),
