@@ -31,6 +31,7 @@ jobs:
           yarn download:official-master-data
           # Translate to other locale
           yarn translate:gen-master-json
+          yarn translate:gen-catalog-data
           # Export TSV
           yarn translate:gen-tsv ja-JP
           yarn translate:gen-tsv zh-TW
