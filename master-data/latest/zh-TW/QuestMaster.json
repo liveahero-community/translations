@@ -3154,6 +3154,130 @@
     "hasBattle": true,
     "hasStockBattle": false
   },
+  "402004": {
+    "questId": 402004,
+    "questName": "癒しのちから",
+    "subName": "第４話",
+    "questKind": 5,
+    "chapterId": 402,
+    "iconFilename": "ui_icon_eventicon",
+    "startAt": "2020-10-23 18:00:00",
+    "endAt": null,
+    "dayOfWeek": 0,
+    "sortWeight": 0,
+    "enemyLevel": 6,
+    "canNotRetire": false,
+    "canNotContinue": false,
+    "canNotGetFriendPoint": false,
+    "rewards": [
+      {
+        "rewardType": 3,
+        "objectId": 2,
+        "objectValue": 1,
+        "bonus": 100,
+        "fixAddValue": 0
+      }
+    ],
+    "drops": [
+      {
+        "rewardType": 3,
+        "objectId": 30,
+        "objectValue": 160,
+        "prob": 100
+      }
+    ],
+    "conditions": [
+      {
+        "class": "QuestClear",
+        "questId": 402003
+      },
+      {
+        "class": "Stamina",
+        "stamina": 7
+      }
+    ],
+    "enemies": [
+      {
+        "battleInfoIcon": "icon_villainFire_h01",
+        "battleInfoElement": 1
+      },
+      {
+        "battleInfoIcon": "icon_villainWater_h01",
+        "battleInfoElement": 2
+      },
+      {
+        "battleInfoIcon": "icon_villainEarth_h01",
+        "battleInfoElement": 3
+      },
+      {
+        "battleInfoIcon": "icon_villainLight_h01",
+        "battleInfoElement": 4
+      }
+    ],
+    "hasAdv": true,
+    "hasBattle": true,
+    "hasStockBattle": false
+  },
+  "402005": {
+    "questId": 402005,
+    "questName": "薄紫のもや",
+    "subName": "第５話",
+    "questKind": 5,
+    "chapterId": 402,
+    "iconFilename": "ui_icon_eventicon",
+    "startAt": "2020-10-23 18:00:00",
+    "endAt": null,
+    "dayOfWeek": 0,
+    "sortWeight": 0,
+    "enemyLevel": 6,
+    "canNotRetire": false,
+    "canNotContinue": false,
+    "canNotGetFriendPoint": false,
+    "rewards": [
+      {
+        "rewardType": 3,
+        "objectId": 2,
+        "objectValue": 1,
+        "bonus": 100,
+        "fixAddValue": 0
+      }
+    ],
+    "drops": [
+      {
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 160,
+        "prob": 100
+      }
+    ],
+    "conditions": [
+      {
+        "class": "QuestClear",
+        "questId": 402004
+      },
+      {
+        "class": "Stamina",
+        "stamina": 7
+      }
+    ],
+    "enemies": [
+      {
+        "battleInfoIcon": "icon_villainFire_h01",
+        "battleInfoElement": 1
+      },
+      {
+        "battleInfoIcon": "icon_villainWater_h01",
+        "battleInfoElement": 2
+      },
+      {
+        "battleInfoIcon": "icon_villainEarth_h01",
+        "battleInfoElement": 3
+      }
+    ],
+    "hasAdv": true,
+    "hasBattle": true,
+    "hasStockBattle": false
+  },
   "403001": {
     "questId": 403001,
     "questName": "強制捜査！",
