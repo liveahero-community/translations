@@ -1,4 +1,5 @@
 // Node modules.
+import _ from 'lodash';
 import fs from 'fs';
 import fetch from 'node-fetch';
 import appRoot from 'app-root-path';
@@ -18,13 +19,13 @@ const getVersion = async (url: string) => {
   };
 }
 
-const download = async (url: string, filedir: string, filename: string) => {
+const download = async (url: string, filedir: string, filename: string, isJson = true) => {
   const res = await fetch(url, FETCH_OPTIONS);
-  const data = await res.json();
+  const data = isJson ? await res.json() : await res.text();
 
   fs.mkdirSync(filedir, { recursive: true });
 
-  const text = JSON.stringify(data, null, 2);
+  const text = isJson ? JSON.stringify(data, null, 2) : data;
   fs.writeFileSync(`${filedir}/${filename}`, text, { encoding: 'utf-8' });
 };
 
@@ -75,6 +76,16 @@ const main = async () => {
     );
     console.log(`Save ${url}`);
   });
+
+  // Step 3: get catalog data.
+  const catalogDataUrl = `https://d1itvxfdul6wxg.cloudfront.net/datas/catalog/Japanese.properties`;
+  download(
+    catalogDataUrl,
+    `${appRoot}/master-data/latest/ja-JP`,
+    `Japanese.properties`,
+    false,
+  );
+  console.log(`Save ${catalogDataUrl}`);
 };
 
 main();
