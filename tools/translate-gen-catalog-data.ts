@@ -15,7 +15,8 @@ const generate = async (from: string, to: string) => {
   const rawFilePath = `${translatedRawDataRoot}/${from}`;
   const rawData = await fs.readFile(rawFilePath, 'utf-8');
   const updatedDict = rawData.split(/\n/).reduce((dict, line) => {
-    const [key, value] = line.split('=');
+    const key = line.substr(0, line.indexOf('='));
+    const value = line.substr(line.indexOf('=') + 1);
     dict[key] = value;
     return dict;
   }, {} as any);
@@ -23,11 +24,14 @@ const generate = async (from: string, to: string) => {
   const baseFilePath = `${sourceCatalogDataPath}/${to}`;
   const baseData = await fs.readFile(baseFilePath, 'utf-8');
   const results = baseData.split(/\n/).reduce<string[]>((all, line) => {
-    const [key, value] = line.split('=');
+    const key = line.substr(0, line.indexOf('='));
+    const value = line.substr(line.indexOf('=') + 1);
     if (updatedDict[key]) {
       all.push(`${key}=${updatedDict[key]}`);
-    } else {
+    } else if (value) {
       all.push(`${key}=${value}`);
+    } else {
+      all.push(value);
     }
     return all;
   }, []);
