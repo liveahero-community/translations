@@ -2702,5 +2702,549 @@
         "description": "SALES_BONUS_DESCRIPTION_TEST_EVENT"
       }
     ]
+  },
+  "20201": {
+    "salesId": 20201,
+    "regionId": 202,
+    "salesName": "発見！事件の痕跡！（短期）",
+    "iconFilename": "item_2010akatsuki_exchange02",
+    "startAt": null,
+    "endAt": "2020-11-06 20:00:00",
+    "requiredTime": 7200,
+    "memberLimitNumber": 8,
+    "rewards": [
+      {
+        "salesId": 20201,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 280
+      },
+      {
+        "salesId": 20201,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 240
+      },
+      {
+        "salesId": 20201,
+        "rewardType": 3,
+        "objectId": 49,
+        "objectValue": 12
+      },
+      {
+        "salesId": 20201,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 160
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_AKATSUKI_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20201
+      },
+      {
+        "textKey": "SALES_EVENT_AKATSUKI_REPORT_2",
+        "condition": null,
+        "laravelThroughKey": 20201
+      },
+      {
+        "textKey": "SALES_EVENT_AKATSUKI_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 20201
+      },
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20201
+      },
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20201
+      },
+      {
+        "textKey": "SALES_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 20201
+      },
+      {
+        "textKey": "SALES_REPORT_4",
+        "condition": null,
+        "laravelThroughKey": 20201
+      },
+      {
+        "textKey": "SALES_REPORT_5",
+        "condition": null,
+        "laravelThroughKey": 20201
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ]
+      },
+      {
+        "class": "StockCountBonus",
+        "stocks": [
+          10071,
+          10331
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 25
+          },
+          {
+            "count": 2,
+            "upwardRate": 50
+          }
+        ],
+        "description": "SALES_BONUS_DESCRIPTION_TEST_EVENT"
+      }
+    ]
+  },
+  "20202": {
+    "salesId": 20202,
+    "regionId": 202,
+    "salesName": "発見！事件の痕跡！（中期）",
+    "iconFilename": "item_2010akatsuki_exchange02",
+    "startAt": null,
+    "endAt": "2020-11-06 20:00:00",
+    "requiredTime": 14400,
+    "memberLimitNumber": 8,
+    "rewards": [
+      {
+        "salesId": 20202,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 560
+      },
+      {
+        "salesId": 20202,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 480
+      },
+      {
+        "salesId": 20202,
+        "rewardType": 3,
+        "objectId": 49,
+        "objectValue": 24
+      },
+      {
+        "salesId": 20202,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 320
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_AKATSUKI_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20202
+      },
+      {
+        "textKey": "SALES_EVENT_AKATSUKI_REPORT_2",
+        "condition": null,
+        "laravelThroughKey": 20202
+      },
+      {
+        "textKey": "SALES_EVENT_AKATSUKI_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 20202
+      },
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20202
+      },
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20202
+      },
+      {
+        "textKey": "SALES_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 20202
+      },
+      {
+        "textKey": "SALES_REPORT_4",
+        "condition": null,
+        "laravelThroughKey": 20202
+      },
+      {
+        "textKey": "SALES_REPORT_5",
+        "condition": null,
+        "laravelThroughKey": 20202
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ]
+      },
+      {
+        "class": "StockCountBonus",
+        "stocks": [
+          10071,
+          10331
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 25
+          },
+          {
+            "count": 2,
+            "upwardRate": 50
+          }
+        ],
+        "description": "SALES_BONUS_DESCRIPTION_TEST_EVENT"
+      }
+    ]
+  },
+  "20203": {
+    "salesId": 20203,
+    "regionId": 202,
+    "salesName": "発見！事件の痕跡！（中長期）",
+    "iconFilename": "item_2010akatsuki_exchange02",
+    "startAt": null,
+    "endAt": "2020-11-06 20:00:00",
+    "requiredTime": 28800,
+    "memberLimitNumber": 8,
+    "rewards": [
+      {
+        "salesId": 20203,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 1120
+      },
+      {
+        "salesId": 20203,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 960
+      },
+      {
+        "salesId": 20203,
+        "rewardType": 3,
+        "objectId": 49,
+        "objectValue": 48
+      },
+      {
+        "salesId": 20203,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 640
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_AKATSUKI_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20203
+      },
+      {
+        "textKey": "SALES_EVENT_AKATSUKI_REPORT_2",
+        "condition": null,
+        "laravelThroughKey": 20203
+      },
+      {
+        "textKey": "SALES_EVENT_AKATSUKI_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 20203
+      },
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20203
+      },
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20203
+      },
+      {
+        "textKey": "SALES_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 20203
+      },
+      {
+        "textKey": "SALES_REPORT_4",
+        "condition": null,
+        "laravelThroughKey": 20203
+      },
+      {
+        "textKey": "SALES_REPORT_5",
+        "condition": null,
+        "laravelThroughKey": 20203
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ]
+      },
+      {
+        "class": "StockCountBonus",
+        "stocks": [
+          10071,
+          10331
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 25
+          },
+          {
+            "count": 2,
+            "upwardRate": 50
+          }
+        ],
+        "description": "SALES_BONUS_DESCRIPTION_TEST_EVENT"
+      }
+    ]
+  },
+  "20204": {
+    "salesId": 20204,
+    "regionId": 202,
+    "salesName": "発見！事件の痕跡！（長期）",
+    "iconFilename": "item_2010akatsuki_exchange02",
+    "startAt": null,
+    "endAt": "2020-11-06 20:00:00",
+    "requiredTime": 57600,
+    "memberLimitNumber": 8,
+    "rewards": [
+      {
+        "salesId": 20204,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 2240
+      },
+      {
+        "salesId": 20204,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 1920
+      },
+      {
+        "salesId": 20204,
+        "rewardType": 3,
+        "objectId": 49,
+        "objectValue": 96
+      },
+      {
+        "salesId": 20204,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 1280
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_AKATSUKI_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20204
+      },
+      {
+        "textKey": "SALES_EVENT_AKATSUKI_REPORT_2",
+        "condition": null,
+        "laravelThroughKey": 20204
+      },
+      {
+        "textKey": "SALES_EVENT_AKATSUKI_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 20204
+      },
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20204
+      },
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20204
+      },
+      {
+        "textKey": "SALES_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 20204
+      },
+      {
+        "textKey": "SALES_REPORT_4",
+        "condition": null,
+        "laravelThroughKey": 20204
+      },
+      {
+        "textKey": "SALES_REPORT_5",
+        "condition": null,
+        "laravelThroughKey": 20204
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ]
+      },
+      {
+        "class": "StockCountBonus",
+        "stocks": [
+          10071,
+          10331
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 25
+          },
+          {
+            "count": 2,
+            "upwardRate": 50
+          }
+        ],
+        "description": "SALES_BONUS_DESCRIPTION_TEST_EVENT"
+      }
+    ]
   }
 }
