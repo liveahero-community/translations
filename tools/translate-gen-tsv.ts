@@ -23,6 +23,20 @@ const main = async () => {
   const statusText = mappedStatuses.map((data) => `${data.statusId}\t${data.statusName}\t${data.description}`).join('\n');
 
   await fs.writeFile(`${appRoot}/translations/${locale}/statuses.tsv`, statusText);
+
+  // File 3.
+  const heroData = await fs.readJSON(`${appRoot}/master-data/latest/${locale}/CardMaster.json`);
+  const sidekickData = await fs.readJSON(`${appRoot}/master-data/latest/${locale}/SidekickMaster.json`);
+  const heroes = _.values(heroData);
+  const sidekicks = _.values(sidekickData);
+  const mappedHeroes: any[] = _.map(heroes, _.partialRight(_.pick, ['heroCardId', 'cardName', 'job', 'affiliationOffice']));
+  const mappedSidekicks: any[] = _.map(sidekicks, _.partialRight(_.pick, ['sidekickCardId', 'cardName', 'job', 'affiliationOffice']));
+
+  const heroText = mappedHeroes.map((data) => `${data.heroCardId}\t${data.cardName}\t${data.job}\t${data.affiliationOffice}`).join('\n');
+  const sidekickText = mappedSidekicks.map((data) => `${data.sidekickCardId}\t${data.cardName}\t${data.job}\t${data.affiliationOffice}`).join('\n');
+
+  await fs.writeFile(`${appRoot}/translations/${locale}/heroes.tsv`, heroText);
+  await fs.writeFile(`${appRoot}/translations/${locale}/sidekicks.tsv`, sidekickText);
 };
 
 main();

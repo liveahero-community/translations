@@ -5,6 +5,8 @@ import appRoot from 'app-root-path';
 // Local modules.
 import SkillData from '../master-data/latest/ja-JP/SkillMaster.json';
 import StatusData from '../master-data/latest/ja-JP/StatusMaster.json';
+import HeroData from '../master-data/latest/ja-JP/CardMaster.json';
+import SidekickData from '../master-data/latest/ja-JP/SidekickMaster.json';
 
 // Global variables.
 const masterVersion = 'latest';
@@ -59,6 +61,20 @@ const main = async () => {
     'StatusMaster',
     ['statusId', 'statusName', 'description'],
     StatusData,
+  );
+
+  await generate(
+    'heroes',
+    'CardMaster',
+    ['heroCardId', 'cardName', 'job', 'affiliationOffice'],
+    HeroData,
+  );
+
+  await generate(
+    'sidekicks',
+    'SidekickMaster',
+    ['sidekickCardId', 'cardName', 'job', 'affiliationOffice'],
+    SidekickData,
   );
 };
 

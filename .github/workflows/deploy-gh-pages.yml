@@ -3,6 +3,11 @@ on:
   push:
     branches:
       - main
+  workflow_dispatch:
+    inputs:
+      run:
+        description: just run by manually
+        required: false
 jobs:
   build:
     name: Build and deploy gh-pages
