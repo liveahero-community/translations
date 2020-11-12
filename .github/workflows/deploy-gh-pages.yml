@@ -1,29 +1,30 @@
 name: deploy gh-pages
+
 on:
-  push:
-    branches:
-      - main
-  workflow_dispatch:
-    inputs:
-      run:
-        description: just run by manually
-        required: false
+  repository_dispatch:
+    types: [auto-update]
+
 jobs:
   build:
     name: Build and deploy gh-pages
     env:
-      MY_SECRET: ${{secrets.commit_secret}}
+      MY_SECRET: ${{ secrets.commit_secret }}
       USER_NAME: githubaction
       USER_EMAIL: githubaction@fake.com
-      PUBLISH_DIR: ./master-data
+      PUBLISH_DIR: master-data
       GH_PAGES_BRANCH: gh-pages
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
+
       - name: Commit files
         run: |
           cd $PUBLISH_DIR
           touch .nojekyll
+
+          APP_VERSION=$(cat AppVersion)
+          MASTER_VERSION=$(cat MasterVersion)
+
           git init
           git config --local user.name $USER_NAME
           git config --local user.email $USER_EMAIL

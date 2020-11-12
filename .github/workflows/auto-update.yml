@@ -1,30 +1,37 @@
 name: auto update
+
 on:
   push:
     branches:
       - main
   schedule:
-    # At minute 0 and 30.
-    - cron: '0,30 * * * *'
+    # At minute 10,40.
+    - cron: '10,40 * * * *'
+
 jobs:
   build:
     name: Auto-update master data
     env:
+      MY_SECRET: ${{ secrets.commit_secret }}
       USER_NAME: githubaction
       USER_EMAIL: githubaction@fake.com
+      PUBLISH_DIR: master-data
     runs-on: ubuntu-latest
     strategy:
       matrix:
         node-version: [12.x]
     steps:
       - uses: actions/checkout@v2
+
       - name: Use Node.js ${{ matrix.node-version }}
         uses: actions/setup-node@v1
         with:
           node-version: ${{ matrix.node-version }}
+
       - name: Installation
         run: |
           yarn install
+
       - name: Download master data
         run: |
           # Get ja-JP master data
@@ -35,11 +42,15 @@ jobs:
           # Export TSV
           yarn translate:gen-tsv ja-JP
           yarn translate:gen-tsv zh-TW
+
       - name: Diff with previous commit and commit files
         run: |
           mkdir artifacts
-          git diff master-data/latest/ > artifacts/master-data.diff
-          DIFF_SIZE=$(wc -c artifacts/master-data.diff | awk '{print $1}')
+          git diff $PUBLISH_DIR/latest/ > artifacts/$PUBLISH_DIR.diff
+
+          DIFF_SIZE=$(wc -c artifacts/$PUBLISH_DIR.diff | awk '{print $1}')
+          APP_VERSION=$(cat $PUBLISH_DIR/AppVersion)
+          MASTER_VERSION=$(cat $PUBLISH_DIR/MasterVersion)
 
           if [ "$DIFF_SIZE" -eq "0" ]; then
             echo "Master data is already up to date."
@@ -50,7 +61,14 @@ jobs:
             git config --local user.email $USER_EMAIL
             git status
             git add --all
-            git commit -m "master data auto-update"
+            git commit -m "master data auto-update (app: $APP_VERSION ; master: $MASTER_VERSION)"
             git push origin HEAD
             echo "🤘 update version complete."
           fi
+
+      - name: Repository Dispatch
+        uses: peter-evans/repository-dispatch@v1
+        with:
+          token: ${{ env.MY_SECRET }}
+          repository: username/my-repo
+          event-type: auto-update
