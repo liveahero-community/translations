@@ -70,5 +70,4 @@ jobs:
         uses: peter-evans/repository-dispatch@v1
         with:
           token: ${{ env.MY_SECRET }}
-          repository: username/my-repo
           event-type: auto-update
