@@ -720,7 +720,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "敵単体に60%ダメージ。60%の確率で1ターンの間DEFダウンを付与。",
+    "description": "對一個敵人造成 60% 傷害。60% 機率賦予攻擊力下降 1 層。",
     "cutin": [
       {
         "info": {
@@ -750,7 +750,7 @@
     "resourceName": "b_skill_spdDown",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体に2ターンの間SPDダウンを付与。",
+    "description": "賦予一個敵人速度下降 2 層。",
     "cutin": [
       {
         "info": {
@@ -775,7 +775,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "s_skill_spdDownAll",
     "timing": 0,
-    "description": "敵全体に70%ダメージ。1ターンの間SPDダウンを付与。",
+    "description": "對敵方全體造成攻擊 70%傷害。賦予速度下降 1 層。",
     "cutin": [
       {
         "info": {
@@ -805,7 +805,7 @@
     "resourceName": "b_skill_spdDown",
     "subResourceName": "s_skill_antiBuffTeam",
     "timing": 0,
-    "description": "敵単体に2ターンの間SPDダウンを付与。バフを１つ解除。",
+    "description": "賦予一個敵人速度下降 2 層。消除一個增益效果。",
     "cutin": [
       {
         "info": {
@@ -2885,7 +2885,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵全体に20%ダメージ。",
+    "description": "對敵方全體造成攻擊 20% 傷害。",
     "cutin": [
       {
         "info": {
@@ -2910,7 +2910,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "s_skill_debuffAll",
     "timing": 0,
-    "description": "敵全体に70%ダメージ。75%の確率で1ターンの間毒を付与。",
+    "description": "對敵方全體造成攻擊 70% 傷害。75% 機率賦予中毒 1 層。",
     "cutin": [
       {
         "info": {
@@ -2940,7 +2940,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "s_skill_debuffAll",
     "timing": 0,
-    "description": "敵全体に100%ダメージ。1ターンの間火傷を付与 & 50%の確率でDEFダウンを付与。",
+    "description": "對敵方全體造成攻擊 100% 傷害。賦予燒傷 1層，且另有 50% 機率賦予防禦下降 1 層。",
     "cutin": [
       {
         "info": {
@@ -2975,7 +2975,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "s_skill_debuffAll",
     "timing": 0,
-    "description": "敵全体に120%ダメージ。1ターンの間火傷を付与 & 50%の確率でDEFダウンを付与。",
+    "description": "對敵方全體造成攻擊 120% 傷害。賦予燒傷 1層，且另有 50% 機率賦予防禦下降 1 層。",
     "cutin": [
       {
         "info": {
@@ -3709,7 +3709,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_spdDownTeam",
     "timing": 0,
-    "description": "敵単体に80%ダメージ。60%の確率で1ターンの間SPDダウンを付与。",
+    "description": "對一個敵人造成攻擊 80% 傷害。60% 機率賦予速度下降 1 層。",
     "cutin": [
       {
         "info": {
@@ -3739,7 +3739,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_spdDownTeam",
     "timing": 0,
-    "description": "敵単体に80%ダメージ。60%の確率で1ターンの間SPDダウンを付与。",
+    "description": "對一個敵人造成攻擊 80% 傷害。60% 機率賦予速度下降 1 層。",
     "cutin": [
       {
         "info": {
@@ -3769,7 +3769,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_spdDownTeam",
     "timing": 0,
-    "description": "敵単体に80%ダメージ。60%の確率で1ターンの間SPDダウンを付与。",
+    "description": "對一個敵人造成攻擊 80% 傷害。60% 機率賦予速度下降 1 層。",
     "cutin": [
       {
         "info": {
@@ -5314,7 +5314,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "敵単体に90%ダメージ。60%の確率で1ターンの間毒を付与。",
+    "description": "對一個敵人造成攻擊 90% 傷害。60% 機率賦予中毒 1 層。",
     "cutin": [
       {
         "info": {
@@ -5344,7 +5344,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "敵単体に90%ダメージ。80%の確率で1ターンの間毒を付与。",
+    "description": "對一個敵人造成攻擊 90% 傷害。80% 機率賦予中毒 1 層。",
     "cutin": [
       {
         "info": {
@@ -5374,7 +5374,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "敵単体に90%ダメージ。1ターンの間毒を付与。",
+    "description": "對一個敵人造成攻擊 90% 傷害。賦予中毒 1 層。",
     "cutin": [
       {
         "info": {
@@ -8524,7 +8524,7 @@
     "resourceName": "icon_suhail_s01",
     "subResourceName": "",
     "timing": 2,
-    "description": "行動開始時、15%の確率で1ターンの間ATKアップを付与。",
+    "description": "行動開始時，15% 機率賦予自己攻擊力上升 1 層。",
     "cutin": [],
     "effects": [
       {
@@ -8542,7 +8542,7 @@
     "resourceName": "icon_suhail_s01",
     "subResourceName": "",
     "timing": 2,
-    "description": "行動開始時、18%の確率で1ターンの間ATKアップを付与。",
+    "description": "行動開始時，18% 機率賦予自己攻擊力上升 1 層。",
     "cutin": [],
     "effects": [
       {
@@ -8560,7 +8560,7 @@
     "resourceName": "icon_suhail_s01",
     "subResourceName": "",
     "timing": 2,
-    "description": "行動開始時、21%の確率で1ターンの間ATKアップを付与。",
+    "description": "行動開始時，21% 機率賦予自己攻擊力上升 1 層。",
     "cutin": [],
     "effects": [
       {
@@ -8578,7 +8578,7 @@
     "resourceName": "icon_suhail_s01",
     "subResourceName": "",
     "timing": 2,
-    "description": "行動開始時、24%の確率で1ターンの間ATKアップを付与。",
+    "description": "行動開始時，24% 機率賦予自己攻擊力上升 1 層。",
     "cutin": [],
     "effects": [
       {
@@ -8596,7 +8596,7 @@
     "resourceName": "icon_suhail_s01",
     "subResourceName": "",
     "timing": 2,
-    "description": "行動開始時、27%の確率で1ターンの間ATKアップを付与。",
+    "description": "行動開始時，27% 機率賦予自己攻擊力上升 1 層。",
     "cutin": [],
     "effects": [
       {
@@ -8614,7 +8614,7 @@
     "resourceName": "icon_suhail_s01",
     "subResourceName": "",
     "timing": 2,
-    "description": "行動開始時、30%の確率で1ターンの間ATKアップを付与。",
+    "description": "行動開始時，30% 機率賦予自己攻擊力上升 1 層。",
     "cutin": [],
     "effects": [
       {
@@ -9064,7 +9064,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体に120%ダメージ+相手のデバフの数に応じてダメージ量が上昇。（敵専用）",
+    "description": "（敵人專屬）對一名玩家角色造成攻擊 120% 傷害，且隨該角色減益效果數量增加傷害。",
     "cutin": [
       {
         "info": {
@@ -9089,7 +9089,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵全体に90%ダメージ。（敵専用）",
+    "description": "（敵人專屬）對所有玩家角色造成攻擊 90% 傷害。",
     "cutin": [
       {
         "info": {
@@ -9114,7 +9114,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_combo",
     "timing": 0,
-    "description": "敵単体に80%ダメージ。（敵専用）",
+    "description": "（敵人專屬）對一名玩家角色造成攻擊 80% 傷害。",
     "cutin": [
       {
         "info": {
@@ -9189,7 +9189,7 @@
     "resourceName": "b_skill_debuffAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵全体に2ターンの間ATKダウンを付与。（敵専用）",
+    "description": "（敵人專屬）賦予玩家全體角色攻擊力下降 2 層。",
     "cutin": [
       {
         "info": {
@@ -9579,7 +9579,7 @@
     "resourceName": "b_skill_buff",
     "subResourceName": "",
     "timing": 0,
-    "description": "味方全体に1ターンの間ATKアップを付与。（敵専用）",
+    "description": "（敵人專屬）賦予CPU方全體攻擊力上升 1 層。",
     "cutin": [
       {
         "info": {
@@ -9604,7 +9604,7 @@
     "resourceName": "b_skill_buffAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "味方全体に1ターンの間DEFアップを付与。（敵専用）",
+    "description": "（敵人專屬）賦予CPU方全體防禦力上升 1 層。",
     "cutin": [
       {
         "info": {
@@ -9779,7 +9779,7 @@
     "resourceName": "b_skill_debuffAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵全体に2ターンの間毒を付与。（敵専用）",
+    "description": "（敵人專屬）賦予所有玩家角色中毒 2 層。",
     "cutin": [
       {
         "info": {
@@ -9804,7 +9804,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "敵単体に60%ダメージ。1ターンの間毒を付与。（敵専用）",
+    "description": "（敵人專屬）對一名玩家角色造成攻擊 60% 傷害。賦予中毒 1 層。",
     "cutin": [
       {
         "info": {
@@ -10042,7 +10042,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体に70%ダメージ。（敵専用）",
+    "description": "（敵人專屬）對一名玩家角色攻擊 70% 傷害。",
     "cutin": [
       {
         "info": {
@@ -10067,7 +10067,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵全体に70%ダメージ。（敵専用）",
+    "description": "（敵人專屬）對所有玩家角色造成攻擊 70% 傷害。",
     "cutin": [
       {
         "info": {
@@ -10110,7 +10110,7 @@
     "resourceName": "b_skill_buff",
     "subResourceName": "",
     "timing": 1,
-    "description": "登場時、3ターンの間挑発を付与。",
+    "description": "該角色登場時，賦予自己嘲諷 3 層。",
     "cutin": [],
     "effects": [
       {
