@@ -17,7 +17,16 @@ const getVersion = async (url: string) => {
     appVersion: client,
     masterVersion: master,
   };
-}
+};
+
+const getDataList = async (url: string) => {
+  const res = await fetch(url, FETCH_OPTIONS);
+  // { "CardMaster": "7b6414cc5f7d1addf5c1ed7004e27073@113374", ...
+  const data = await res.json();
+  const dataList = Object.keys(data);
+
+  return dataList;
+};
 
 const download = async (url: string, filedir: string, filename: string, isJson = true) => {
   const res = await fetch(url, FETCH_OPTIONS);
@@ -56,16 +65,10 @@ const main = async () => {
 
   // Step 2: get master data JSON.
   const masterDataBaseUrl = `https://d1itvxfdul6wxg.cloudfront.net/datas/master/${masterVersion}`;
-  const masterDataList = [
-    'SkillMaster',
-    'SkillEffectMaster',
-    'QuestMaster',
-    'SidekickMaster',
-    'ItemMaster',
-    'StatusMaster',
-    'CardMaster',
-    'SalesMaster',
-  ];
+  const masterDataCatalogUrl = `${masterDataBaseUrl}/MasterDataCatalog`;
+  
+  const masterDataList = await getDataList(masterDataCatalogUrl);
+
   masterDataList.forEach((masterDataItem) => {
     const url = `${masterDataBaseUrl}/${masterDataItem}`;
     download(
