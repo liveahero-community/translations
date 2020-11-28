@@ -48,6 +48,10 @@ const main = async () => {
     `${appRoot}/master-data/MasterVersion`,
     String(masterVersion),
   );
+  fs.writeFileSync(
+    `${appRoot}/master-data/version.json`,
+    JSON.stringify({ appVersion, masterVersion }, null, 2),
+  );
   console.log(`Version: ${appVersion} / ${masterVersion}`);
 
   // Step 2: get master data JSON.
