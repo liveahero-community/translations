@@ -46,6 +46,8 @@ jobs:
       - name: Diff with previous commit and commit files
         run: |
           mkdir artifacts
+          # Add dummy entries to the index for the diff
+          git add -N .
           git diff $PUBLISH_DIR/latest/ > artifacts/$PUBLISH_DIR.diff
 
           DIFF_SIZE=$(wc -c artifacts/$PUBLISH_DIR.diff | awk '{print $1}')
