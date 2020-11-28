@@ -1,6 +1,18 @@
-[![](https://github.com/liveahero-community/translations/workflows/deploy%20gh-pages/badge.svg)](https://github.com/liveahero-community/translations/actions?query=workflow%3A%22deploy+gh-pages%22) Provide the text data (multi-languages)
+## Current version
 
-[![](https://github.com/liveahero-community/translations/workflows/auto%20update/badge.svg)](https://github.com/liveahero-community/translations/actions?query=workflow%3A%22auto+update%22) Update master data automation
+![APP_VERSION](https://img.shields.io/badge/dynamic/json?color=blue&label=AppVersion&prefix=v&query=%24.appVersion&url=https%3A%2F%2Fraw.githubusercontent.com%2Fliveahero-community%2Ftranslations%2Fmain%2Fmaster-data%2Fversion.json) &nbsp;&nbsp; ![MASTER_VERSION](https://img.shields.io/badge/dynamic/json?color=blue&label=MasterVersion&query=%24.masterVersion&url=https%3A%2F%2Fraw.githubusercontent.com%2Fliveahero-community%2Ftranslations%2Fmain%2Fmaster-data%2Fversion.json)
+
+---
+
+## GitHub Actions (automation)
+
+[![](https://github.com/liveahero-community/translations/workflows/deploy%20gh-pages/badge.svg)](https://github.com/liveahero-community/translations/actions?query=workflow%3A%22deploy+gh-pages%22)
+> Provide the text data (multi-languages)
+
+<br/>
+
+[![](https://github.com/liveahero-community/translations/workflows/auto%20update/badge.svg)](https://github.com/liveahero-community/translations/actions?query=workflow%3A%22auto+update%22)
+> Update master data automation
 
 ---
 
