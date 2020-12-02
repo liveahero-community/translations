@@ -1,0 +1,176 @@
+{
+  "1": {
+    "statusId": 1,
+    "statusName": "攻击力上升",
+    "isGoodStatus": 1,
+    "description": "攻击力变成 1.5 倍。"
+  },
+  "2": {
+    "statusId": 2,
+    "statusName": "防御力上升",
+    "isGoodStatus": 1,
+    "description": "仅一次减半对手的攻击伤害。"
+  },
+  "3": {
+    "statusId": 3,
+    "statusName": "速度上升",
+    "isGoodStatus": 1,
+    "description": "速度数值 +10。"
+  },
+  "4": {
+    "statusId": 4,
+    "statusName": "注目",
+    "isGoodStatus": 1,
+    "description": "行动时的 View 的增加量变为 1.5 倍。"
+  },
+  "5": {
+    "statusId": 5,
+    "statusName": "嘲讽",
+    "isGoodStatus": 1,
+    "description": "直到回合结束前，对手都更容易攻击该名角色。"
+  },
+  "6": {
+    "statusId": 6,
+    "statusName": "无敌",
+    "isGoodStatus": 1,
+    "description": "仅一次完全抵挡来自对手的攻击伤害。"
+  },
+  "7": {
+    "statusId": 7,
+    "statusName": "幸运",
+    "isGoodStatus": 1,
+    "description": "有机率发动的技能，发动机率增加 20%。"
+  },
+  "8": {
+    "statusId": 8,
+    "statusName": "觉醒",
+    "isGoodStatus": 1,
+    "description": "发动技能所需的 View 量减半。"
+  },
+  "9": {
+    "statusId": 9,
+    "statusName": "复活",
+    "isGoodStatus": 1,
+    "description": "角色死亡时复活。"
+  },
+  "10": {
+    "statusId": 10,
+    "statusName": "回春",
+    "isGoodStatus": 1,
+    "description": "回合结束时恢复最大血量的 10%。"
+  },
+  "11": {
+    "statusId": 11,
+    "statusName": "攻击力下降",
+    "isGoodStatus": 0,
+    "description": "攻击力减半。"
+  },
+  "12": {
+    "statusId": 12,
+    "statusName": "防御力下降",
+    "isGoodStatus": 0,
+    "description": "仅一次来自对手的攻击伤害变为 1.5 倍。"
+  },
+  "13": {
+    "statusId": 13,
+    "statusName": "速度下降",
+    "isGoodStatus": 0,
+    "description": "速度数值 -10。"
+  },
+  "14": {
+    "statusId": 14,
+    "statusName": "モザイク（马赛克砖）",
+    "isGoodStatus": 0,
+    "description": "行动时的 View 的增加量变为一半。"
+  },
+  "15": {
+    "statusId": 15,
+    "statusName": "隐匿",
+    "isGoodStatus": 1,
+    "description": "直到回合结束前对手都无法指定攻击该角色。"
+  },
+  "16": {
+    "statusId": 16,
+    "statusName": "不幸",
+    "isGoodStatus": 0,
+    "description": "有机率发动的技能，发动机率减少 20%。"
+  },
+  "17": {
+    "statusId": 17,
+    "statusName": "困惑",
+    "isGoodStatus": 0,
+    "description": "发动技能所需的 View 量变成 2 倍。"
+  },
+  "18": {
+    "statusId": 18,
+    "statusName": "中毒",
+    "isGoodStatus": 0,
+    "description": "回合结束时受到生命最大值 5% 的伤害。"
+  },
+  "19": {
+    "statusId": 19,
+    "statusName": "烧伤",
+    "isGoodStatus": 0,
+    "description": "回合结束时受到生命最大值 10% 的伤害。"
+  },
+  "20": {
+    "statusId": 20,
+    "statusName": "超级速度上升",
+    "isGoodStatus": 1,
+    "description": "速度数值 +30。"
+  },
+  "21": {
+    "statusId": 21,
+    "statusName": "免疫",
+    "isGoodStatus": 1,
+    "description": "敌方赋予的减益效果无效。"
+  },
+  "22": {
+    "statusId": 22,
+    "statusName": "沉默",
+    "isGoodStatus": 0,
+    "description": "无法使用需要消耗 View 值的技能。"
+  },
+  "23": {
+    "statusId": 23,
+    "statusName": "火事场力",
+    "isGoodStatus": 1,
+    "description": "自己生命越少攻击力越高。"
+  },
+  "24": {
+    "statusId": 24,
+    "statusName": "等待",
+    "isGoodStatus": 1,
+    "description": "该名角色的行动次序转变为该回合最后一位。"
+  },
+  "25": {
+    "statusId": 25,
+    "statusName": "俊敏",
+    "isGoodStatus": 1,
+    "description": "自己与对手的速度差越多，则攻击力越高。"
+  },
+  "26": {
+    "statusId": 26,
+    "statusName": "伤害集中",
+    "isGoodStatus": 1,
+    "description": "直到回合结束前，全体攻击的伤害都会算在该名角色身上。"
+  },
+  "27": {
+    "statusId": 27,
+    "statusName": "永久效果",
+    "isGoodStatus": 1,
+    "description": "在战斗中会永远发动的效果。"
+  },
+  "28": {
+    "statusId": 28,
+    "statusName": "事件加成",
+    "isGoodStatus": 1,
+    "description": "从 event 发动的效果。"
+  },
+  "29": {
+    "statusId": 29,
+    "statusName": "超级速度下降",
+    "isGoodStatus": 0,
+    "description": "速度数值 -30。"
+  }
+}
