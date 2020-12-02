@@ -36,12 +36,24 @@ jobs:
         run: |
           # Get ja-JP master data
           yarn download:official-master-data
-          # Translate to other locale
-          yarn translate:gen-master-json
+
+          # Translate TSV - TW to CN
+          yarn translate:tw2s
+
+          # Use TSV to update master data JSON
+          yarn translate:gen-master-json zh-TW
+          yarn translate:gen-master-json zh-CN
+
+          # Use .properties to update catalog
           yarn translate:gen-catalog-data
+
           # Export TSV
           yarn translate:gen-tsv ja-JP
           yarn translate:gen-tsv zh-TW
+          yarn translate:gen-tsv zh-CN
+
+          # Bundle all
+          yarn bundle:master-data
 
       - name: Diff with previous commit and commit files
         run: |

@@ -8,10 +8,11 @@ import StatusData from '../master-data/latest/ja-JP/StatusMaster.json';
 import HeroData from '../master-data/latest/ja-JP/CardMaster.json';
 import SidekickData from '../master-data/latest/ja-JP/SidekickMaster.json';
 
+const [targetLocale] = process.argv.slice(2);
+
 // Global variables.
 const masterVersion = 'latest';
 const sourceLocale = 'ja-JP';
-const targetLocale = 'zh-TW';
 const translatedRawDataRoot = `${appRoot}/translations/${targetLocale}`;
 const masterDataRoot = `${appRoot}/master-data/${masterVersion}`;
 const sourceMasterDataPath = `${masterDataRoot}/${sourceLocale}`;
