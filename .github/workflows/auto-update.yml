@@ -45,7 +45,8 @@ jobs:
           yarn translate:gen-master-json zh-CN
 
           # Use .properties to update catalog
-          yarn translate:gen-catalog-data
+          yarn translate:gen-catalog-data zh-TW
+          yarn translate:gen-catalog-data zh-CN
 
           # Export TSV
           yarn translate:gen-tsv ja-JP

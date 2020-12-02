@@ -11,7 +11,7 @@
     "translate:gen-tsv": "ts-node tools/translate-gen-tsv.ts",
     "translate:gen-master-json": "ts-node tools/translate-gen-master-json.ts",
     "translate:gen-catalog-data": "ts-node tools/translate-gen-catalog-data.ts",
-    "bundle:master-data": "ts-node tools/master-data.ts"
+    "bundle:master-data": "ts-node tools/bundle-master-data.ts"
   },
   "dependencies": {
     "app-root-path": "^3.0.0",
@@ -20,7 +20,7 @@
     "lodash": "^4.17.20",
     "ncp": "^2.0.0",
     "node-fetch": "^2.6.1",
-    "opencc": "^1.1.1",
+    "node-opencc": "^2.0.1",
     "ts-node": "^9.0.0"
   },
   "devDependencies": {

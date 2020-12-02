@@ -3,9 +3,10 @@ import _ from 'lodash';
 import fs from 'fs-extra';
 import appRoot from 'app-root-path';
 
+const [targetLocale] = process.argv.slice(2);
+
 // Global variables.
 const sourceLocale = 'ja-JP';
-const targetLocale = 'zh-TW';
 const translatedRawDataRoot = `${appRoot}/translations/${targetLocale}`;
 const catalogDataRoot = `${appRoot}/master-data/latest`;
 const sourceCatalogDataPath = `${catalogDataRoot}/${sourceLocale}`;
