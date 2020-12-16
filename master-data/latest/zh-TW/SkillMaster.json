@@ -1364,13 +1364,13 @@
   },
   "1012104": {
     "skillId": 1012104,
-    "skillName": "九十九墨跡+",
+    "skillName": "「耐」の墨跡+",
     "useView": 5000,
     "targetFlag": 1,
     "resourceName": "b_skill_buff",
     "subResourceName": "",
     "timing": 0,
-    "description": "對一個敵人造成攻擊 150% 傷害。賦予我方所有人攻擊力上升 1 層。",
+    "description": "賦予自己或一個友軍嘲諷、防禦力上升 2 層。",
     "cutin": [
       {
         "info": {
@@ -1600,7 +1600,7 @@
     "resourceName": "b_skill_cure",
     "subResourceName": "s_skill_buffOwn",
     "timing": 0,
-    "description": "消除自己身上 2 個減益效果。賦予嘲諷 2 層。賦予攻擊力上升 1 層。",
+    "description": "消除自己身上 2 個減益效果。賦予嘲諷 2 層。",
     "cutin": [
       {
         "info": {
@@ -1825,7 +1825,7 @@
     "resourceName": "b_skill_view",
     "subResourceName": "s_skill_buffOwn",
     "timing": 0,
-    "description": "獲得 5000 View。賦予自己無敵 1 層、速度上升 1 層。",
+    "description": "獲得 7000 View。賦予自己無敵 1 層。",
     "cutin": [
       {
         "info": {
@@ -2959,13 +2959,13 @@
   },
   "1030104": {
     "skillId": 1030104,
-    "skillName": "ブラキウム・エクス・マキナ+",
+    "skillName": "マーチソン・メテオ+",
     "useView": 0,
     "targetFlag": 4,
     "resourceName": "b_skill_damageAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "對敵方全體造成攻擊 120% 傷害。賦予燒傷 1層，且另有 50% 機率賦予防禦下降 1 層。",
+    "description": "對敵方全體造成攻擊 30% 傷害。",
     "cutin": [
       {
         "info": {
