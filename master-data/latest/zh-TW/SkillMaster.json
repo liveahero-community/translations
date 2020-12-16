@@ -1600,7 +1600,7 @@
     "resourceName": "b_skill_cure",
     "subResourceName": "s_skill_buffOwn",
     "timing": 0,
-    "description": "消除自己身上 2 個減益效果。賦予嘲諷 2 層。",
+    "description": "消除自己身上全部減益效果。賦予嘲諷 2 層。",
     "cutin": [
       {
         "info": {
