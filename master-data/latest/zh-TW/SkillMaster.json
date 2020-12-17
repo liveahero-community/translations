@@ -1480,7 +1480,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "對一個敵人造成攻擊 70%傷害。賦予防禦力下降 1 層。",
+    "description": "對一個敵人造成攻擊 70% 傷害。賦予防禦力下降 1 層。",
     "cutin": [
       {
         "info": {
@@ -1960,7 +1960,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "對一個敵人造成攻擊 70% 傷害。50% 機率賦予防禦力下降 1 層。",
+    "description": "對一個敵人造成攻擊 60% 傷害。50% 機率賦予防禦力下降 1 層。",
     "cutin": [
       {
         "info": {
@@ -2075,7 +2075,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_cureOwn",
     "timing": 0,
-    "description": "對一個敵人造成攻擊 70% 傷害。消除自己身上 1 個減益效果。",
+    "description": "對一個敵人造成攻擊 60% 傷害。消除自己身上 1 個減益效果。",
     "cutin": [
       {
         "info": {
@@ -6179,7 +6179,7 @@
     "resourceName": "icon_ryekie_s01",
     "subResourceName": "",
     "timing": 10,
-    "description": "速度基礎值 +5，攻擊加1%。",
+    "description": "速度基礎值 +5，攻擊 +1%。",
     "cutin": [],
     "effects": [
       {
@@ -6202,7 +6202,7 @@
     "resourceName": "icon_ryekie_s01",
     "subResourceName": "",
     "timing": 10,
-    "description": "速度基礎值 +5，攻擊加2%。",
+    "description": "速度基礎值 +5，攻擊 +2%。",
     "cutin": [],
     "effects": [
       {
@@ -6225,7 +6225,7 @@
     "resourceName": "icon_ryekie_s01",
     "subResourceName": "",
     "timing": 10,
-    "description": "速度基礎值 +5，攻擊加3%。",
+    "description": "速度基礎值 +5，攻擊 +3%。",
     "cutin": [],
     "effects": [
       {
@@ -6248,7 +6248,7 @@
     "resourceName": "icon_ryekie_s01",
     "subResourceName": "",
     "timing": 10,
-    "description": "速度基礎值 +5，攻擊加4%。",
+    "description": "速度基礎值 +5，攻擊 +4%。",
     "cutin": [],
     "effects": [
       {
@@ -6271,7 +6271,7 @@
     "resourceName": "icon_ryekie_s01",
     "subResourceName": "",
     "timing": 10,
-    "description": "速度基礎值 +5，攻擊加5%。",
+    "description": "速度基礎值 +5，攻擊 +5%。",
     "cutin": [],
     "effects": [
       {
@@ -6384,7 +6384,7 @@
     "resourceName": "icon_crowne_s01",
     "subResourceName": "",
     "timing": 1,
-    "description": "被動傷害-10%。",
+    "description": "被動傷害 -10%。",
     "cutin": [],
     "effects": [
       {
@@ -6402,7 +6402,7 @@
     "resourceName": "icon_gammei_s01",
     "subResourceName": "",
     "timing": 10,
-    "description": "Spd基礎値-5。",
+    "description": "速度基礎值 -5。",
     "cutin": [],
     "effects": [
       {
@@ -6420,7 +6420,7 @@
     "resourceName": "icon_gammei_s01",
     "subResourceName": "",
     "timing": 10,
-    "description": "Spd基礎値-5 & ATK+1%。",
+    "description": "速度基礎值 -5，攻擊 +1%。",
     "cutin": [],
     "effects": [
       {
@@ -6443,7 +6443,7 @@
     "resourceName": "icon_gammei_s01",
     "subResourceName": "",
     "timing": 10,
-    "description": "Spd基礎値-5 & ATK+2%。",
+    "description": "速度基礎值 -5，攻擊 +2%。",
     "cutin": [],
     "effects": [
       {
@@ -6466,7 +6466,7 @@
     "resourceName": "icon_gammei_s01",
     "subResourceName": "",
     "timing": 10,
-    "description": "Spd基礎値-5 & ATK+3%。",
+    "description": "速度基礎值 -5，攻擊 +3%。",
     "cutin": [],
     "effects": [
       {
@@ -6489,7 +6489,7 @@
     "resourceName": "icon_gammei_s01",
     "subResourceName": "",
     "timing": 10,
-    "description": "Spd基礎値-5 & ATK+4%。",
+    "description": "速度基礎值 -5，攻擊 +4%。",
     "cutin": [],
     "effects": [
       {
@@ -6512,7 +6512,7 @@
     "resourceName": "icon_gammei_s01",
     "subResourceName": "",
     "timing": 10,
-    "description": "Spd基礎値-5 & ATK+5%。",
+    "description": "速度基礎值 -5，攻擊 +5%。",
     "cutin": [],
     "effects": [
       {
@@ -6895,7 +6895,7 @@
     "resourceName": "icon_kyoichi_s01",
     "subResourceName": "",
     "timing": 3,
-    "description": "行動結束時有 14% 機率 combo 數+1。",
+    "description": "行動結束時有 14% 機率 combo 數 +1。",
     "cutin": [],
     "effects": [
       {
@@ -6913,7 +6913,7 @@
     "resourceName": "icon_kyoichi_s01",
     "subResourceName": "",
     "timing": 3,
-    "description": "行動結束時有 16% 機率 combo 數+1。",
+    "description": "行動結束時有 16% 機率 combo 數 +1。",
     "cutin": [],
     "effects": [
       {
@@ -6931,7 +6931,7 @@
     "resourceName": "icon_kyoichi_s01",
     "subResourceName": "",
     "timing": 3,
-    "description": "行動結束時有 18% 機率 combo 數+1。",
+    "description": "行動結束時有 18% 機率 combo 數 +1。",
     "cutin": [],
     "effects": [
       {
@@ -6949,7 +6949,7 @@
     "resourceName": "icon_kyoichi_s01",
     "subResourceName": "",
     "timing": 3,
-    "description": "行動結束時有 20% 機率 combo 數+1。",
+    "description": "行動結束時有 20% 機率 combo 數 +1。",
     "cutin": [],
     "effects": [
       {
@@ -7399,7 +7399,7 @@
     "resourceName": "icon_kouki_s01",
     "subResourceName": "",
     "timing": 10,
-    "description": "View基礎值 +5%。",
+    "description": "View 基礎值 +5%。",
     "cutin": [],
     "effects": [
       {
@@ -7417,7 +7417,7 @@
     "resourceName": "icon_kouki_s01",
     "subResourceName": "",
     "timing": 10,
-    "description": "View基礎值 +6%。",
+    "description": "View 基礎值 +6%。",
     "cutin": [],
     "effects": [
       {
@@ -7435,7 +7435,7 @@
     "resourceName": "icon_kouki_s01",
     "subResourceName": "",
     "timing": 10,
-    "description": "View基礎值 +7%。",
+    "description": "View 基礎值 +7%。",
     "cutin": [],
     "effects": [
       {
@@ -7453,7 +7453,7 @@
     "resourceName": "icon_kouki_s01",
     "subResourceName": "",
     "timing": 10,
-    "description": "View基礎值 +8%。",
+    "description": "View 基礎值 +8%。",
     "cutin": [],
     "effects": [
       {
@@ -7471,7 +7471,7 @@
     "resourceName": "icon_kouki_s01",
     "subResourceName": "",
     "timing": 10,
-    "description": "View基礎值 +9%。",
+    "description": "View 基礎值 +9%。",
     "cutin": [],
     "effects": [
       {
@@ -7489,7 +7489,7 @@
     "resourceName": "icon_kouki_s01",
     "subResourceName": "",
     "timing": 10,
-    "description": "View基礎值 +10%。",
+    "description": "View 基礎值 +10%。",
     "cutin": [],
     "effects": [
       {
@@ -8612,7 +8612,7 @@
     "resourceName": "icon_procy_s01",
     "subResourceName": "",
     "timing": 11,
-    "description": "戰鬥金幣獲得增加 1%",
+    "description": "戰鬥金幣獲得增加 1%。",
     "cutin": [],
     "effects": [
       {
@@ -8630,7 +8630,7 @@
     "resourceName": "icon_procy_s01",
     "subResourceName": "",
     "timing": 11,
-    "description": "戰鬥金幣獲得增加 2%",
+    "description": "戰鬥金幣獲得增加 2%。",
     "cutin": [],
     "effects": [
       {
@@ -8648,7 +8648,7 @@
     "resourceName": "icon_procy_s01",
     "subResourceName": "",
     "timing": 11,
-    "description": "戰鬥金幣獲得增加 3%",
+    "description": "戰鬥金幣獲得增加 3%。",
     "cutin": [],
     "effects": [
       {
@@ -8666,7 +8666,7 @@
     "resourceName": "icon_procy_s01",
     "subResourceName": "",
     "timing": 11,
-    "description": "戰鬥金幣獲得增加 4%",
+    "description": "戰鬥金幣獲得增加 4%。",
     "cutin": [],
     "effects": [
       {
@@ -8684,7 +8684,7 @@
     "resourceName": "icon_procy_s01",
     "subResourceName": "",
     "timing": 11,
-    "description": "戰鬥金幣獲得增加 5%",
+    "description": "戰鬥金幣獲得增加 5%。",
     "cutin": [],
     "effects": [
       {
@@ -8702,7 +8702,7 @@
     "resourceName": "icon_procy_s01",
     "subResourceName": "",
     "timing": 11,
-    "description": "戰鬥金幣獲得增加 6%",
+    "description": "戰鬥金幣獲得增加 6%。",
     "cutin": [],
     "effects": [
       {
@@ -8828,7 +8828,7 @@
     "resourceName": "icon_huckle_s01",
     "subResourceName": "",
     "timing": 11,
-    "description": "戰鬥經驗獲得增加 1%",
+    "description": "戰鬥經驗獲得增加 1%。",
     "cutin": [],
     "effects": [
       {
@@ -8846,7 +8846,7 @@
     "resourceName": "icon_huckle_s01",
     "subResourceName": "",
     "timing": 11,
-    "description": "戰鬥經驗獲得增加 2%",
+    "description": "戰鬥經驗獲得增加 2%。",
     "cutin": [],
     "effects": [
       {
@@ -8864,7 +8864,7 @@
     "resourceName": "icon_huckle_s01",
     "subResourceName": "",
     "timing": 11,
-    "description": "戰鬥經驗獲得增加 3%",
+    "description": "戰鬥經驗獲得增加 3%。",
     "cutin": [],
     "effects": [
       {
@@ -8882,7 +8882,7 @@
     "resourceName": "icon_huckle_s01",
     "subResourceName": "",
     "timing": 11,
-    "description": "戰鬥經驗獲得增加 4%",
+    "description": "戰鬥經驗獲得增加 4%。",
     "cutin": [],
     "effects": [
       {
@@ -8900,7 +8900,7 @@
     "resourceName": "icon_huckle_s01",
     "subResourceName": "",
     "timing": 11,
-    "description": "戰鬥經驗獲得增加 5%",
+    "description": "戰鬥經驗獲得增加 5%。",
     "cutin": [],
     "effects": [
       {
@@ -8918,7 +8918,7 @@
     "resourceName": "icon_huckle_s01",
     "subResourceName": "",
     "timing": 11,
-    "description": "戰鬥經驗獲得增加 6%",
+    "description": "戰鬥經驗獲得增加 6%。",
     "cutin": [],
     "effects": [
       {
