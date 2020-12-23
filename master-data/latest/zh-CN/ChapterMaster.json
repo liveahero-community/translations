@@ -155,6 +155,32 @@
     "startAt": "2020-11-27 17:59:00",
     "endAt": "2020-12-11 18:00:00"
   },
+  "407": {
+    "chapterId": 407,
+    "groupType": 2,
+    "chapterType": 1,
+    "chapterName": "イベントメインクエスト",
+    "subName": "極楽！聖夜の熱湯戦線",
+    "peepingName": "メインクエスト",
+    "sortWeight": 1000,
+    "bannerResourceName": "ui_banner_questchoice_event_Xmas2012",
+    "bgResourceName": "ui_bg_sprite_event_Xmas2012",
+    "startAt": null,
+    "endAt": "2021-01-06 20:00:00"
+  },
+  "408": {
+    "chapterId": 408,
+    "groupType": 2,
+    "chapterType": 1,
+    "chapterName": "イベントフリークエスト",
+    "subName": "極楽！聖夜の熱湯戦線",
+    "peepingName": "フリークエスト",
+    "sortWeight": 1000,
+    "bannerResourceName": "ui_banner_questchoice_event_Xmas2012",
+    "bgResourceName": "ui_bg_sprite_event_Xmas2012",
+    "startAt": null,
+    "endAt": "2021-01-06 20:00:00"
+  },
   "501": {
     "chapterId": 501,
     "groupType": 5,

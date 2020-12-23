@@ -223,6 +223,35 @@
       "resourceName": "ryekie"
     }
   ],
+  "10042": [
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 4,
+      "faceType": "c",
+      "serifKey": "SERIF_RYEKIEXMAS2012_PLAYER",
+      "voiceFilename": "",
+      "resourceName": "ryekieXmas2012"
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 5,
+      "faceType": "f",
+      "serifKey": "SERIF_RYEKIEXMAS2012_HERO",
+      "voiceFilename": "",
+      "resourceName": "ryekieXmas2012"
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 12,
+      "faceType": "g",
+      "serifKey": "SERIF_RYEKIEXMAS2012_TOUCH",
+      "voiceFilename": "",
+      "resourceName": "ryekieXmas2012"
+    }
+  ],
   "10051": [
     {
       "cardType": 2,
@@ -593,6 +622,15 @@
       "voiceKind": 12,
       "faceType": "b",
       "serifKey": "SERIF_SHOEN_TOUCH",
+      "voiceFilename": "",
+      "resourceName": "shoen"
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 5,
+      "faceType": "f",
+      "serifKey": "SERIF_SHOEN_HERO",
       "voiceFilename": "",
       "resourceName": "shoen"
     }
@@ -1063,6 +1101,15 @@
       "serifKey": "SERIF_GORO_TOUCH",
       "voiceFilename": "",
       "resourceName": "goro"
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 5,
+      "faceType": "e",
+      "serifKey": "SERIF_GORO_HERO",
+      "voiceFilename": "",
+      "resourceName": "goro"
     }
   ],
   "10241": [
@@ -1166,6 +1213,62 @@
       "serifKey": "SERIF_ALCHIBA_HERO",
       "voiceFilename": "",
       "resourceName": "alchiba"
+    }
+  ],
+  "10271": [
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 4,
+      "faceType": "",
+      "serifKey": "SERIF_SUBARU_PLAYER",
+      "voiceFilename": "",
+      "resourceName": "subaru"
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 5,
+      "faceType": "f",
+      "serifKey": "SERIF_SUBARU_HERO",
+      "voiceFilename": "",
+      "resourceName": "subaru"
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 12,
+      "faceType": "b",
+      "serifKey": "SERIF_SUBARU_TOUCH",
+      "voiceFilename": "",
+      "resourceName": "subaru"
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 3,
+      "faceType": "",
+      "serifKey": "SERIF_SUBARU_DAILY",
+      "voiceFilename": "",
+      "resourceName": "subaru"
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 6,
+      "faceType": "e",
+      "serifKey": "SERIF_SUBARU_RELATION",
+      "voiceFilename": "",
+      "resourceName": "subaru"
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 11,
+      "faceType": "",
+      "serifKey": "SERIF_SUBARU_APPRECIATION",
+      "voiceFilename": "",
+      "resourceName": "subaru"
     }
   ],
   "10281": [
@@ -1493,6 +1596,62 @@
       "serifKey": "SERIF_HUCKLE_RELATION",
       "voiceFilename": "",
       "resourceName": "huckle"
+    }
+  ],
+  "10511": [
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 4,
+      "faceType": "c",
+      "serifKey": "SERIF_NESSEN_PLAYER",
+      "voiceFilename": "",
+      "resourceName": "nessen"
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 5,
+      "faceType": "e",
+      "serifKey": "SERIF_NESSEN_HERO",
+      "voiceFilename": "",
+      "resourceName": "nessen"
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 12,
+      "faceType": "b",
+      "serifKey": "SERIF_NESSEN_TOUCH",
+      "voiceFilename": "",
+      "resourceName": "nessen"
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 3,
+      "faceType": "c",
+      "serifKey": "SERIF_NESSEN_DAILY",
+      "voiceFilename": "",
+      "resourceName": "nessen"
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 6,
+      "faceType": "",
+      "serifKey": "SERIF_NESSEN_RELATION",
+      "voiceFilename": "",
+      "resourceName": "nessen"
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 11,
+      "faceType": "",
+      "serifKey": "SERIF_NESSEN_APPRECIATION",
+      "voiceFilename": "",
+      "resourceName": "nessen"
     }
   ]
 }

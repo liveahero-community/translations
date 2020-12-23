@@ -3246,5 +3246,597 @@
         "description": "SALES_BONUS_DESCRIPTION_TEST_EVENT"
       }
     ]
+  },
+  "20301": {
+    "salesId": 20301,
+    "regionId": 203,
+    "salesName": "歳末ファンミーティング！（短期）",
+    "iconFilename": "item_Xmas2012_exchange",
+    "startAt": "2020-12-18 00:00:00",
+    "endAt": "2021-01-06 20:00:00",
+    "requiredTime": 7200,
+    "memberLimitNumber": 8,
+    "rewards": [
+      {
+        "salesId": 20301,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 280
+      },
+      {
+        "salesId": 20301,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 240
+      },
+      {
+        "salesId": 20301,
+        "rewardType": 3,
+        "objectId": 50,
+        "objectValue": 14
+      },
+      {
+        "salesId": 20301,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 160
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_XMAS2012_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20301
+      },
+      {
+        "textKey": "SALES_EVENT_XMAS2012_REPORT_2",
+        "condition": null,
+        "laravelThroughKey": 20301
+      },
+      {
+        "textKey": "SALES_EVENT_XMAS2012_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 20301
+      },
+      {
+        "textKey": "SALES_EVENT_XMAS2012_REPORT_4",
+        "condition": null,
+        "laravelThroughKey": 20301
+      },
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20301
+      },
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20301
+      },
+      {
+        "textKey": "SALES_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 20301
+      },
+      {
+        "textKey": "SALES_REPORT_4",
+        "condition": null,
+        "laravelThroughKey": 20301
+      },
+      {
+        "textKey": "SALES_REPORT_5",
+        "condition": null,
+        "laravelThroughKey": 20301
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": false
+      },
+      {
+        "class": "StockCountBonus",
+        "stocks": [
+          10042,
+          10511,
+          10271
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 10
+          },
+          {
+            "count": 2,
+            "upwardRate": 30
+          },
+          {
+            "count": 3,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
+      }
+    ]
+  },
+  "20302": {
+    "salesId": 20302,
+    "regionId": 203,
+    "salesName": "歳末ファンミーティング！（中期）",
+    "iconFilename": "item_Xmas2012_exchange",
+    "startAt": "2020-12-18 00:00:00",
+    "endAt": "2021-01-06 20:00:00",
+    "requiredTime": 14400,
+    "memberLimitNumber": 8,
+    "rewards": [
+      {
+        "salesId": 20302,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 560
+      },
+      {
+        "salesId": 20302,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 480
+      },
+      {
+        "salesId": 20302,
+        "rewardType": 3,
+        "objectId": 50,
+        "objectValue": 28
+      },
+      {
+        "salesId": 20302,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 320
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_XMAS2012_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20302
+      },
+      {
+        "textKey": "SALES_EVENT_XMAS2012_REPORT_2",
+        "condition": null,
+        "laravelThroughKey": 20302
+      },
+      {
+        "textKey": "SALES_EVENT_XMAS2012_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 20302
+      },
+      {
+        "textKey": "SALES_EVENT_XMAS2012_REPORT_4",
+        "condition": null,
+        "laravelThroughKey": 20302
+      },
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20302
+      },
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20302
+      },
+      {
+        "textKey": "SALES_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 20302
+      },
+      {
+        "textKey": "SALES_REPORT_4",
+        "condition": null,
+        "laravelThroughKey": 20302
+      },
+      {
+        "textKey": "SALES_REPORT_5",
+        "condition": null,
+        "laravelThroughKey": 20302
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": false
+      },
+      {
+        "class": "StockCountBonus",
+        "stocks": [
+          10042,
+          10511,
+          10271
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 10
+          },
+          {
+            "count": 2,
+            "upwardRate": 30
+          },
+          {
+            "count": 3,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
+      }
+    ]
+  },
+  "20303": {
+    "salesId": 20303,
+    "regionId": 203,
+    "salesName": "歳末ファンミーティング！（中長期）",
+    "iconFilename": "item_Xmas2012_exchange",
+    "startAt": "2020-12-18 00:00:00",
+    "endAt": "2021-01-06 20:00:00",
+    "requiredTime": 28800,
+    "memberLimitNumber": 8,
+    "rewards": [
+      {
+        "salesId": 20303,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 1120
+      },
+      {
+        "salesId": 20303,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 960
+      },
+      {
+        "salesId": 20303,
+        "rewardType": 3,
+        "objectId": 50,
+        "objectValue": 56
+      },
+      {
+        "salesId": 20303,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 640
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_XMAS2012_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20303
+      },
+      {
+        "textKey": "SALES_EVENT_XMAS2012_REPORT_2",
+        "condition": null,
+        "laravelThroughKey": 20303
+      },
+      {
+        "textKey": "SALES_EVENT_XMAS2012_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 20303
+      },
+      {
+        "textKey": "SALES_EVENT_XMAS2012_REPORT_4",
+        "condition": null,
+        "laravelThroughKey": 20303
+      },
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20303
+      },
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20303
+      },
+      {
+        "textKey": "SALES_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 20303
+      },
+      {
+        "textKey": "SALES_REPORT_4",
+        "condition": null,
+        "laravelThroughKey": 20303
+      },
+      {
+        "textKey": "SALES_REPORT_5",
+        "condition": null,
+        "laravelThroughKey": 20303
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": false
+      },
+      {
+        "class": "StockCountBonus",
+        "stocks": [
+          10042,
+          10511,
+          10271
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 10
+          },
+          {
+            "count": 2,
+            "upwardRate": 30
+          },
+          {
+            "count": 3,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
+      }
+    ]
+  },
+  "20304": {
+    "salesId": 20304,
+    "regionId": 203,
+    "salesName": "歳末ファンミーティング！（長期）",
+    "iconFilename": "item_Xmas2012_exchange",
+    "startAt": "2020-12-18 00:00:00",
+    "endAt": "2021-01-06 20:00:00",
+    "requiredTime": 57600,
+    "memberLimitNumber": 8,
+    "rewards": [
+      {
+        "salesId": 20304,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 2240
+      },
+      {
+        "salesId": 20304,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 1920
+      },
+      {
+        "salesId": 20304,
+        "rewardType": 3,
+        "objectId": 50,
+        "objectValue": 112
+      },
+      {
+        "salesId": 20304,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 1280
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_XMAS2012_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20304
+      },
+      {
+        "textKey": "SALES_EVENT_XMAS2012_REPORT_2",
+        "condition": null,
+        "laravelThroughKey": 20304
+      },
+      {
+        "textKey": "SALES_EVENT_XMAS2012_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 20304
+      },
+      {
+        "textKey": "SALES_EVENT_XMAS2012_REPORT_4",
+        "condition": null,
+        "laravelThroughKey": 20304
+      },
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20304
+      },
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20304
+      },
+      {
+        "textKey": "SALES_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 20304
+      },
+      {
+        "textKey": "SALES_REPORT_4",
+        "condition": null,
+        "laravelThroughKey": 20304
+      },
+      {
+        "textKey": "SALES_REPORT_5",
+        "condition": null,
+        "laravelThroughKey": 20304
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": false
+      },
+      {
+        "class": "StockCountBonus",
+        "stocks": [
+          10042,
+          10511,
+          10271
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 10
+          },
+          {
+            "count": 2,
+            "upwardRate": 30
+          },
+          {
+            "count": 3,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
+      }
+    ]
   }
 }
