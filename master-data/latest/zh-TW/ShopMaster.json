@@ -504,7 +504,13 @@
             "objectId": 110042,
             "objectValue": 1
           },
-          "condition": []
+          "condition": [
+            {
+              "class": "ShowInStoreByItemCondition",
+              "itemId": 110042,
+              "stockId": 0
+            }
+          ]
         },
         {
           "productId": 110051,
@@ -1308,7 +1314,13 @@
             "objectId": 110511,
             "objectValue": 1
           },
-          "condition": []
+          "condition": [
+            {
+              "class": "ShowInStoreByItemCondition",
+              "itemId": 110511,
+              "stockId": 0
+            }
+          ]
         },
         {
           "productId": 210011,
@@ -2301,7 +2313,13 @@
             "objectId": 210511,
             "objectValue": 1
           },
-          "condition": []
+          "condition": [
+            {
+              "class": "ShowInStoreByItemCondition",
+              "itemId": 210511,
+              "stockId": 0
+            }
+          ]
         },
         {
           "productId": 219991,
@@ -2679,7 +2697,7 @@
           "product": {
             "rewardType": 3,
             "objectId": 26,
-            "objectValue": 0
+            "objectValue": 1
           },
           "currency": {
             "currencyType": 3,
