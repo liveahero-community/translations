@@ -595,7 +595,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_spdDownTeam",
     "timing": 0,
-    "description": "敌単体に70%ダメージ。50%の确率で1ターンの间SPDダウンを付与。",
+    "description": "对一个敌人造成攻击 70% 伤害。50%机率赋予速度下降 1 层。",
     "cutin": [
       {
         "info": {
@@ -625,7 +625,7 @@
     "resourceName": "b_skill_buff",
     "subResourceName": "s_skill_spdUpTeam",
     "timing": 0,
-    "description": "味方単体に1ターンの间ATKアップを付与 & SPDアップを付与。",
+    "description": "对自己或一个友军攻击力上升 1 层、速度上升 1 层。",
     "cutin": [
       {
         "info": {
@@ -655,7 +655,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "s_skill_cureAll",
     "timing": 0,
-    "description": "敌全体に90%ダメージ。味方全体のデバフを１つ解除。",
+    "description": "对敌方全体造成攻击 90% 伤害。解除我方全体一个减益效果。",
     "cutin": [
       {
         "info": {
@@ -685,7 +685,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "s_skill_cureAll",
     "timing": 0,
-    "description": "敌全体に90%ダメージ。味方全体のデバフを１つ解除。",
+    "description": "对敌方全体造成攻击 90% 伤害。解除我方全体一个减益效果。",
     "cutin": [
       {
         "info": {
@@ -2770,7 +2770,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "敌単体に60%ダメージ。40%の确率で1ターンの间ATKダウンを付与。",
+    "description": "对一个敌人造成攻击 60% 伤害。40% 机率赋予攻击力下降 1 层。",
     "cutin": [
       {
         "info": {
@@ -2800,7 +2800,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "s_skill_debuffAll",
     "timing": 0,
-    "description": "敌全体に50%ダメージ。50%の确率で1ターンの间ATKダウンを付与。",
+    "description": "对敌方全体造成攻击 50% 伤害。50% 机率赋予攻击力下降 1 层。",
     "cutin": [
       {
         "info": {
@@ -2830,7 +2830,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "敌単体に150%ダメージ。2ターンの间过消费を付与。",
+    "description": "对一个敌人造成攻击 150% 伤害。赋予困惑 2 层。",
     "cutin": [
       {
         "info": {
@@ -2860,7 +2860,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "敌単体に60%ダメージ。1ターンの间ATKダウンを付与。",
+    "description": "对一个敌人造成攻击 60% 伤害。赋予攻击力下降 1 层。",
     "cutin": [
       {
         "info": {
@@ -3445,7 +3445,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_cureOwn",
     "timing": 0,
-    "description": "敌単体に70%ダメージ。自身のデバフを１つ解除。",
+    "description": "对一个敌人造成攻击 70% 伤害。解除自己一个减益效果。",
     "cutin": [
       {
         "info": {
@@ -3475,7 +3475,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "敌単体に100%ダメージ。1ターンの间DEFダウンを付与。",
+    "description": "对一个敌人造成攻击 100% 伤害。赋予防御力下降 1 层。",
     "cutin": [
       {
         "info": {
@@ -3505,7 +3505,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_buffOwn",
     "timing": 0,
-    "description": "敌単体に160%ダメージ。自身に1ターンの间ATKアップを付与。",
+    "description": "对一个敌人造成攻击 160% 伤害。赋予自己攻击力上升 1 层。",
     "cutin": [
       {
         "info": {
@@ -3535,7 +3535,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_buffOwn",
     "timing": 0,
-    "description": "敌単体に180%ダメージ。自身に1ターンの间ATKアップを付与。",
+    "description": "对一个敌人造成攻击 180% 伤害。赋予自己攻击力上升 1 层。",
     "cutin": [
       {
         "info": {
@@ -5489,7 +5489,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "敌単体に80%ダメージ。40%の确率で2ターンの间ATKダウンを付与。",
+    "description": "对一个敌人造成攻击 80% 伤害。40%机率赋予攻击力下降 2 层。",
     "cutin": [
       {
         "info": {
@@ -5519,7 +5519,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "敌単体に80%ダメージ。40%の确率で2ターンの间ATKダウンを付与。",
+    "description": "对一个敌人造成攻击 80% 伤害。40%机率赋予攻击力下降 2 层。",
     "cutin": [
       {
         "info": {
@@ -5549,7 +5549,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "敌単体に80%ダメージ。40%の确率で2ターンの间ATKダウンを付与。",
+    "description": "对一个敌人造成攻击 80% 伤害。40%机率赋予攻击力下降 2 层。",
     "cutin": [
       {
         "info": {
@@ -6104,7 +6104,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_cureOwn",
     "timing": 0,
-    "description": "敌単体に80%ダメージ。自身のデバフを１つ解除。",
+    "description": "对一个敌人造成攻击 80% 伤害。消除自己一个减益效果。",
     "cutin": [
       {
         "info": {
@@ -6134,7 +6134,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_cureOwn",
     "timing": 0,
-    "description": "敌単体に80%ダメージ。自身のデバフを１つ解除。",
+    "description": "对一个敌人造成攻击 80% 伤害。消除自己一个减益效果。",
     "cutin": [
       {
         "info": {
@@ -6164,7 +6164,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_cureOwn",
     "timing": 0,
-    "description": "敌単体に80%ダメージ。自身のデバフを１つ解除。",
+    "description": "对一个敌人造成攻击 80% 伤害。消除自己一个减益效果。",
     "cutin": [
       {
         "info": {
@@ -8828,7 +8828,7 @@
     "resourceName": "icon_subaru_s01",
     "subResourceName": "",
     "timing": 2,
-    "description": "行动开始时、敌単体に5%の确率で1ターンの间ATKダウンを付与。",
+    "description": "行动开始时，有 5% 机率赋予一个敌人攻击力下降 1 层。",
     "cutin": [],
     "effects": [
       {
@@ -8846,7 +8846,7 @@
     "resourceName": "icon_subaru_s01",
     "subResourceName": "",
     "timing": 2,
-    "description": "行动开始时、敌単体に6%の确率で1ターンの间ATKダウンを付与。",
+    "description": "行动开始时，有 6% 机率赋予一个敌人攻击力下降 1 层。",
     "cutin": [],
     "effects": [
       {
@@ -8864,7 +8864,7 @@
     "resourceName": "icon_subaru_s01",
     "subResourceName": "",
     "timing": 2,
-    "description": "行动开始时、敌単体に7%の确率で1ターンの间ATKダウンを付与。",
+    "description": "行动开始时，有 7% 机率赋予一个敌人攻击力下降 1 层。",
     "cutin": [],
     "effects": [
       {
@@ -8882,7 +8882,7 @@
     "resourceName": "icon_subaru_s01",
     "subResourceName": "",
     "timing": 2,
-    "description": "行动开始时、敌単体に8%の确率で1ターンの间ATKダウンを付与。",
+    "description": "行动开始时，有 8% 机率赋予一个敌人攻击力下降 1 层。",
     "cutin": [],
     "effects": [
       {
@@ -8900,7 +8900,7 @@
     "resourceName": "icon_subaru_s01",
     "subResourceName": "",
     "timing": 2,
-    "description": "行动开始时、敌単体に9%の确率で1ターンの间ATKダウンを付与。",
+    "description": "行动开始时，有 9% 机率赋予一个敌人攻击力下降 1 层。",
     "cutin": [],
     "effects": [
       {
@@ -8918,7 +8918,7 @@
     "resourceName": "icon_subaru_s01",
     "subResourceName": "",
     "timing": 2,
-    "description": "行动开始时、敌単体に10%の确率で1ターンの间ATKダウンを付与。",
+    "description": "行动开始时，有 10% 机率赋予一个敌人攻击力下降 1 层。",
     "cutin": [],
     "effects": [
       {
@@ -9584,7 +9584,7 @@
     "resourceName": "icon_nessen_s01",
     "subResourceName": "",
     "timing": 2,
-    "description": "行动开始时、25%の确率でデバフを１つ解除。",
+    "description": "行动开始时，有 25% 机率解除自己一个减益效果。",
     "cutin": [],
     "effects": [
       {
@@ -9602,7 +9602,7 @@
     "resourceName": "icon_nessen_s01",
     "subResourceName": "",
     "timing": 2,
-    "description": "行动开始时、30%の确率でデバフを１つ解除。",
+    "description": "行动开始时，有 30% 机率解除自己一个减益效果。",
     "cutin": [],
     "effects": [
       {
@@ -9620,7 +9620,7 @@
     "resourceName": "icon_nessen_s01",
     "subResourceName": "",
     "timing": 2,
-    "description": "行动开始时、35%の确率でデバフを１つ解除。",
+    "description": "行动开始时，有 35% 机率解除自己一个减益效果。",
     "cutin": [],
     "effects": [
       {
@@ -9638,7 +9638,7 @@
     "resourceName": "icon_nessen_s01",
     "subResourceName": "",
     "timing": 2,
-    "description": "行动开始时、40%の确率でデバフを１つ解除。",
+    "description": "行动开始时，有 40% 机率解除自己一个减益效果。",
     "cutin": [],
     "effects": [
       {
@@ -9656,7 +9656,7 @@
     "resourceName": "icon_nessen_s01",
     "subResourceName": "",
     "timing": 2,
-    "description": "行动开始时、45%の确率でデバフを１つ解除。",
+    "description": "行动开始时，有 45% 机率解除自己一个减益效果。",
     "cutin": [],
     "effects": [
       {
@@ -9674,7 +9674,7 @@
     "resourceName": "icon_nessen_s01",
     "subResourceName": "",
     "timing": 2,
-    "description": "行动开始时、50%の确率でデバフを１つ解除。",
+    "description": "行动开始时，有 50% 机率解除自己一个减益效果。",
     "cutin": [],
     "effects": [
       {
@@ -10185,7 +10185,7 @@
     "resourceName": "b_skill_buffAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "味方全体に3ターンの间ATKアップを付与。戦闘不能の场合、100%のHPで复活。（敌専用）",
+    "description": "（敌人专属）赋予 CPU 方全体攻击力上升 3 层。当CUP死亡时，以 100% 血量复活。",
     "cutin": [
       {
         "info": {
@@ -10215,7 +10215,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "s_skill_buffAll",
     "timing": 0,
-    "description": "敌全体に50%ダメージ。味方全体に3ターンの间ATKアップを付与。戦闘不能の场合、100%のHPで复活。（敌専用）",
+    "description": "（敌人专属）对玩家全体造成攻击 50 % 伤害。赋予 CPU 方全体攻击力上升 3 层。当CUP死亡时，以 100% 血量复活。",
     "cutin": [
       {
         "info": {
@@ -10250,7 +10250,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "s_skill_buffAll",
     "timing": 0,
-    "description": "敌全体に100%ダメージ。味方全体に3ターンの间ATKアップを付与。戦闘不能の场合、100%のHPで复活。（敌専用）",
+    "description": "（敌人专属）对玩家全体造成攻击 100 % 伤害。赋予 CPU 方全体攻击力上升 3 层。当CUP死亡时，以 100% 血量复活。",
     "cutin": [
       {
         "info": {
@@ -10670,7 +10670,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "敌単体に80%ダメージ。（敌専用）",
+    "description": "（敌人专属）对一名玩家角色造成攻击 80% 伤害。",
     "cutin": [
       {
         "info": {
@@ -10695,7 +10695,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "（敌人专属）对一名玩家角色造成攻击 70% 伤害。赋予玩家角色速度力下降 1 层。",
+    "description": "（敌人专属）对一名玩家角色造成攻击 70% 伤害。赋予玩家角色速度下降 1 层。",
     "cutin": [
       {
         "info": {
@@ -10953,7 +10953,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_view",
     "timing": 0,
-    "description": "敌単体に80%ダメージ。Viewを3000获得。1ターンの间SPDアップを付与。（敌専用）",
+    "description": "（敌人专属）对一名玩家角色攻击 80% 伤害。获得 3000 view。赋予防御力上升 1 层。",
     "cutin": [
       {
         "info": {
@@ -10988,7 +10988,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "s_skill_debuffAll",
     "timing": 0,
-    "description": "敌全体に100%ダメージ。1ターンの间DEFダウンを付与。（敌専用）",
+    "description": "（敌人专属）对所有玩家角色造成攻击 100% 伤害。赋予防御力下降 1 层。",
     "cutin": [
       {
         "info": {
@@ -11018,7 +11018,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "敌全体に120%ダメージ。（敌専用）",
+    "description": "（敌人专属）对所有玩家角色造成攻击 120% 伤害。赋予防御力下降 1 层。",
     "cutin": [
       {
         "info": {
@@ -11043,7 +11043,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "敌全体に180%ダメージ+Viewに応じてダメージ量が上升。（敌専用）",
+    "description": "（敌人专属）对所有玩家角色造成攻击 180% 伤害，且随 view 值增加伤害。",
     "cutin": [
       {
         "info": {
@@ -11104,7 +11104,7 @@
     "resourceName": "b_skill_special",
     "subResourceName": "",
     "timing": 1,
-    "description": "相手から受けるダメージの上限を10000にする。",
+    "description": "来自玩家的伤害最高为 10000。",
     "cutin": [],
     "effects": [
       {
