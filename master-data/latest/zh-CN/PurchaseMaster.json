@@ -135,5 +135,43 @@
         "fixAddValue": 0
       }
     ]
+  },
+  "7": {
+    "productId": 7,
+    "productName": "jp.co.lifewonders.liveahero.pack001",
+    "startAt": null,
+    "endAt": null,
+    "canPurchaseCount": 1,
+    "price": 4900,
+    "rewards": [
+      {
+        "rewardType": 3,
+        "objectId": 51,
+        "objectValue": 1,
+        "bonus": 100,
+        "fixAddValue": 0
+      },
+      {
+        "rewardType": 3,
+        "objectId": 2,
+        "objectValue": 50,
+        "bonus": 100,
+        "fixAddValue": 0
+      },
+      {
+        "rewardType": 3,
+        "objectId": 29,
+        "objectValue": 1,
+        "bonus": 100,
+        "fixAddValue": 0
+      },
+      {
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 100000,
+        "bonus": 100,
+        "fixAddValue": 0
+      }
+    ]
   }
 }
