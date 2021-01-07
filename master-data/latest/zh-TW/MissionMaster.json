@@ -1171,5 +1171,37 @@
         "fixAddValue": 0
       }
     ]
+  },
+  "30030": {
+    "missionId": 30030,
+    "missionCategory": 3,
+    "missionTextKey": "MISSION_30030_LABEL",
+    "count": 150,
+    "sortWeight": 1000,
+    "rewards": [
+      {
+        "rewardType": 3,
+        "objectId": 2,
+        "objectValue": 10,
+        "bonus": 100,
+        "fixAddValue": 0
+      }
+    ]
+  },
+  "30031": {
+    "missionId": 30031,
+    "missionCategory": 3,
+    "missionTextKey": "MISSION_30031_LABEL",
+    "count": 200,
+    "sortWeight": 1000,
+    "rewards": [
+      {
+        "rewardType": 3,
+        "objectId": 2,
+        "objectValue": 20,
+        "bonus": 100,
+        "fixAddValue": 0
+      }
+    ]
   }
 }
