@@ -687,6 +687,102 @@
       }
     ]
   },
+  "20038": {
+    "missionId": 20038,
+    "missionCategory": 2,
+    "missionTextKey": "MISSION_20038_LABEL",
+    "count": 10,
+    "sortWeight": 1000,
+    "rewards": [
+      {
+        "rewardType": 3,
+        "objectId": 34,
+        "objectValue": 1,
+        "bonus": 100,
+        "fixAddValue": 0
+      }
+    ]
+  },
+  "20039": {
+    "missionId": 20039,
+    "missionCategory": 2,
+    "missionTextKey": "MISSION_20039_LABEL",
+    "count": 20,
+    "sortWeight": 1000,
+    "rewards": [
+      {
+        "rewardType": 3,
+        "objectId": 34,
+        "objectValue": 1,
+        "bonus": 100,
+        "fixAddValue": 0
+      }
+    ]
+  },
+  "20040": {
+    "missionId": 20040,
+    "missionCategory": 2,
+    "missionTextKey": "MISSION_20040_LABEL",
+    "count": 30,
+    "sortWeight": 1000,
+    "rewards": [
+      {
+        "rewardType": 3,
+        "objectId": 34,
+        "objectValue": 1,
+        "bonus": 100,
+        "fixAddValue": 0
+      }
+    ]
+  },
+  "20041": {
+    "missionId": 20041,
+    "missionCategory": 2,
+    "missionTextKey": "MISSION_20041_LABEL",
+    "count": 40,
+    "sortWeight": 1000,
+    "rewards": [
+      {
+        "rewardType": 3,
+        "objectId": 34,
+        "objectValue": 1,
+        "bonus": 100,
+        "fixAddValue": 0
+      }
+    ]
+  },
+  "20042": {
+    "missionId": 20042,
+    "missionCategory": 2,
+    "missionTextKey": "MISSION_20042_LABEL",
+    "count": 50,
+    "sortWeight": 1000,
+    "rewards": [
+      {
+        "rewardType": 3,
+        "objectId": 34,
+        "objectValue": 1,
+        "bonus": 100,
+        "fixAddValue": 0
+      }
+    ]
+  },
+  "20043": {
+    "missionId": 20043,
+    "missionCategory": 2,
+    "missionTextKey": "MISSION_20042_LABEL",
+    "count": 50,
+    "sortWeight": 1000,
+    "rewards": [
+      {
+        "rewardType": 3,
+        "objectId": 10,
+        "objectValue": 1,
+        "bonus": 100,
+        "fixAddValue": 0
+      }
+    ]
+  },
   "30001": {
     "missionId": 30001,
     "missionCategory": 3,

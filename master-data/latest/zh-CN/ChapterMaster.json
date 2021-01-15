@@ -194,6 +194,32 @@
     "startAt": null,
     "endAt": "2021-01-15 14:00:00"
   },
+  "410": {
+    "chapterId": 410,
+    "groupType": 2,
+    "chapterType": 1,
+    "chapterName": "キャンペーンメイン",
+    "subName": "契約締結-木のウルフマン-",
+    "peepingName": "契約締結メイン",
+    "sortWeight": 1000,
+    "bannerResourceName": "ui_banner_questchoice_campaign_ContractWolfmanEarth2101",
+    "bgResourceName": "ui_bg_sprite_event_ContractWolfmanEarth2101",
+    "startAt": "2021-01-01 00:00:00",
+    "endAt": "2021-02-05 18:00:00"
+  },
+  "411": {
+    "chapterId": 411,
+    "groupType": 2,
+    "chapterType": 1,
+    "chapterName": "キャンペーンフリー",
+    "subName": "契約締結-木のウルフマン-",
+    "peepingName": "契約締結フリー",
+    "sortWeight": 1000,
+    "bannerResourceName": "ui_banner_questchoice_campaign_ContractWolfmanEarth2101",
+    "bgResourceName": "ui_bg_sprite_event_ContractWolfmanEarth2101",
+    "startAt": null,
+    "endAt": "2021-01-29 18:00:00"
+  },
   "501": {
     "chapterId": 501,
     "groupType": 5,
@@ -217,6 +243,32 @@
     "sortWeight": 1000,
     "bannerResourceName": "ui_banner_questchoice_event_2010akatsuki",
     "bgResourceName": "ui_bg_sprite_event_2010akatsuki",
+    "startAt": null,
+    "endAt": null
+  },
+  "505": {
+    "chapterId": 505,
+    "groupType": 5,
+    "chapterType": 4,
+    "chapterName": "過去イベント",
+    "subName": "極楽！聖夜の熱湯戦線",
+    "peepingName": "",
+    "sortWeight": 1000,
+    "bannerResourceName": "ui_banner_questchoice_event_Xmas2012",
+    "bgResourceName": "ui_bg_sprite_event_Xmas2012",
+    "startAt": null,
+    "endAt": null
+  },
+  "506": {
+    "chapterId": 506,
+    "groupType": 5,
+    "chapterType": 4,
+    "chapterName": "過去イベント",
+    "subName": "謹賀新年2021！",
+    "peepingName": "",
+    "sortWeight": 1000,
+    "bannerResourceName": "ui_banner_questchoice_event_Newyear2101",
+    "bgResourceName": "ui_bg_sprite_event_Newyear2101",
     "startAt": null,
     "endAt": null
   }
