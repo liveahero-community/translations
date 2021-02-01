@@ -7,6 +7,7 @@
     "startAt": "2020-10-15 10:00:00",
     "endAt": "2020-11-13 20:00:00",
     "canRemember": 1,
+    "eventPortalJson": null,
     "questBonusJsons": []
   },
   "3": {
@@ -17,6 +18,7 @@
     "startAt": "2020-11-11 17:59:00",
     "endAt": "2020-11-25 18:00:00",
     "canRemember": 0,
+    "eventPortalJson": null,
     "questBonusJsons": []
   },
   "4": {
@@ -27,6 +29,7 @@
     "startAt": "2020-11-27 17:59:00",
     "endAt": "2020-12-11 18:00:00",
     "canRemember": 0,
+    "eventPortalJson": null,
     "questBonusJsons": []
   },
   "5": {
@@ -36,7 +39,8 @@
     "baseResourceName": "Xmas2012",
     "startAt": "2020-12-17 00:00:00",
     "endAt": "2021-01-06 20:00:00",
-    "canRemember": 0,
+    "canRemember": 1,
+    "eventPortalJson": null,
     "questBonusJsons": [
       {
         "type": 3,
@@ -131,7 +135,8 @@
     "baseResourceName": "Newyear2101",
     "startAt": "2020-12-20 00:00:00",
     "endAt": "2021-01-15 14:00:00",
-    "canRemember": 0,
+    "canRemember": 1,
+    "eventPortalJson": null,
     "questBonusJsons": []
   },
   "7": {
@@ -142,6 +147,7 @@
     "startAt": "2021-01-01 00:00:00",
     "endAt": "2021-02-05 18:00:00",
     "canRemember": 0,
+    "eventPortalJson": null,
     "questBonusJsons": []
   }
 }
