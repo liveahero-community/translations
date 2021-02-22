@@ -177,30 +177,30 @@
     "statusId": 30,
     "statusName": "アイテム効果",
     "isGoodStatus": 1,
-    "description": "アイテムによって発動する効果。"
+    "description": "アイテムによって発动する効果。"
   },
   "31": {
     "statusId": 31,
     "statusName": "アイテム効果：HPアップ",
     "isGoodStatus": 1,
-    "description": "アイテムによってHPが上昇する。"
+    "description": "アイテムによってHPが上升する。"
   },
   "32": {
     "statusId": 32,
     "statusName": "アイテム効果：ATKアップ",
     "isGoodStatus": 1,
-    "description": "アイテムによってATKが上昇する。"
+    "description": "アイテムによってATKが上升する。"
   },
   "33": {
     "statusId": 33,
-    "statusName": "アイテム効果：被ダメージ減少",
+    "statusName": "アイテム効果：被ダメージ减少",
     "isGoodStatus": 1,
-    "description": "アイテムによって被ダメージが減少する。"
+    "description": "アイテムによって被ダメージが减少する。"
   },
   "34": {
     "statusId": 34,
     "statusName": "炸裂",
     "isGoodStatus": 0,
-    "description": "ダメージを受けたときに炸裂の作成者のATK基礎値の40%のダメージを受ける。"
+    "description": "ダメージを受けたときに炸裂の作成者のATK基础値の40%のダメージを受ける。"
   }
 }

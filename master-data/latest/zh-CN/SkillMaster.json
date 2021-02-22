@@ -155,7 +155,7 @@
     "resourceName": "",
     "subResourceName": "",
     "timing": 0,
-    "description": "アイテム効果発動時のエフェクト再生用",
+    "description": "アイテム効果発动时のエフェクト再生用",
     "cutin": [
       {
         "info": {
@@ -210,13 +210,13 @@
   },
   "11": {
     "skillId": 11,
-    "skillName": "イベント用_アイテム効果被ダメージ減",
+    "skillName": "イベント用_アイテム効果被ダメージ减",
     "useView": 0,
     "targetFlag": 5,
     "resourceName": "",
     "subResourceName": "",
     "timing": 0,
-    "description": "アイテム効果：被ダメージ減少",
+    "description": "アイテム効果：被ダメージ减少",
     "cutin": [],
     "effects": [
       {
@@ -1473,13 +1473,13 @@
   },
   "1010201": {
     "skillId": 1010201,
-    "skillName": "奇襲指令",
+    "skillName": "奇袭指令",
     "useView": 0,
     "targetFlag": 2,
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体に70%ダメージ。自身に隠蔽が付与されている場合、ダメージ増加。",
+    "description": "敌単体に70%ダメージ。自身に隠蔽が付与されている场合、ダメージ増加。",
     "cutin": [
       {
         "info": {
@@ -1498,13 +1498,13 @@
   },
   "1010202": {
     "skillId": 1010202,
-    "skillName": "諜報活動",
+    "skillName": "谍报活动",
     "useView": 4000,
     "targetFlag": 2,
     "resourceName": "b_skill_spdDown",
     "subResourceName": "s_skill_buffOwn",
     "timing": 0,
-    "description": "敵単体に1ターンの間SPDダウンを付与。自身に2ターンの間隠蔽を付与。",
+    "description": "敌単体に1ターンの间SPDダウンを付与。自身に2ターンの间隠蔽を付与。",
     "cutin": [
       {
         "info": {
@@ -1534,7 +1534,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体に180%ダメージ。自身に隠蔽が付与されている場合、隠蔽を解除し、もう１度行動をする。",
+    "description": "敌単体に180%ダメージ。自身に隠蔽が付与されている场合、隠蔽を解除し、もう１度行动をする。",
     "cutin": [
       {
         "info": {
@@ -1563,13 +1563,13 @@
   },
   "1010204": {
     "skillId": 1010204,
-    "skillName": "諜報活動+",
+    "skillName": "谍报活动+",
     "useView": 3000,
     "targetFlag": 2,
     "resourceName": "b_skill_spdDown",
     "subResourceName": "s_skill_buffOwn",
     "timing": 0,
-    "description": "敵単体に1ターンの間SPDダウンを付与。自身に2ターンの間隠蔽を付与。",
+    "description": "敌単体に1ターンの间SPDダウンを付与。自身に2ターンの间隠蔽を付与。",
     "cutin": [
       {
         "info": {
@@ -1599,7 +1599,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "敵単体に60%ダメージ。60%の確率で2ターンの間火傷を付与。",
+    "description": "敌単体に60%ダメージ。60%の确率で2ターンの间火伤を付与。",
     "cutin": [
       {
         "info": {
@@ -1629,7 +1629,7 @@
     "resourceName": "b_skill_debuff",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "敵単体に2ターンの間DEFダウンを付与。50%の確率で1ターンの間ATKダウンを付与。",
+    "description": "敌単体に2ターンの间DEFダウンを付与。50%の确率で1ターンの间ATKダウンを付与。",
     "cutin": [
       {
         "info": {
@@ -1659,7 +1659,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "s_skill_view",
     "timing": 0,
-    "description": "敵全体に60%ダメージ。Viewを12000獲得。",
+    "description": "敌全体に60%ダメージ。Viewを12000获得。",
     "cutin": [
       {
         "info": {
@@ -1689,7 +1689,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "s_skill_view",
     "timing": 0,
-    "description": "敵全体に60%ダメージ。Viewを15000獲得。",
+    "description": "敌全体に60%ダメージ。Viewを15000获得。",
     "cutin": [
       {
         "info": {
@@ -1833,13 +1833,13 @@
   },
   "1012201": {
     "skillId": 1012201,
-    "skillName": "「隠」の書成術",
+    "skillName": "「隠」の书成术",
     "useView": 0,
     "targetFlag": 2,
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_buffOwn",
     "timing": 0,
-    "description": "敵単体に50%ダメージ。自身に60%の確率で2ターンの間隠蔽を付与。",
+    "description": "敌単体に50%ダメージ。自身に60%の确率で2ターンの间隠蔽を付与。",
     "cutin": [
       {
         "info": {
@@ -1863,13 +1863,13 @@
   },
   "1012202": {
     "skillId": 1012202,
-    "skillName": "「秘」の書成術",
+    "skillName": "「秘」の书成术",
     "useView": 2000,
     "targetFlag": 2,
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体に80%ダメージ+相手のデバフの数に応じてダメージ量が上昇。",
+    "description": "敌単体に80%ダメージ+相手のデバフの数に応じてダメージ量が上升。",
     "cutin": [
       {
         "info": {
@@ -1888,13 +1888,13 @@
   },
   "1012203": {
     "skillId": 1012203,
-    "skillName": "九十九墨跡",
+    "skillName": "九十九墨迹",
     "useView": 11000,
     "targetFlag": 4,
     "resourceName": "b_skill_damageAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵全体に60%ダメージ+HPが多いほどダメージ量が上昇する。",
+    "description": "敌全体に60%ダメージ+HPが多いほどダメージ量が上升する。",
     "cutin": [
       {
         "info": {
@@ -1913,13 +1913,13 @@
   },
   "1012204": {
     "skillId": 1012204,
-    "skillName": "九十九墨跡+",
+    "skillName": "九十九墨迹+",
     "useView": 10000,
     "targetFlag": 4,
     "resourceName": "b_skill_damageAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵全体に60%ダメージ+HPが多いほどダメージ量が上昇する。",
+    "description": "敌全体に60%ダメージ+HPが多いほどダメージ量が上升する。",
     "cutin": [
       {
         "info": {
@@ -4074,7 +4074,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_buffOwn",
     "timing": 0,
-    "description": "敵単体に40%ダメージ。自身に80%の確率で2ターンの間隠蔽を付与。",
+    "description": "敌単体に40%ダメージ。自身に80%の确率で2ターンの间隠蔽を付与。",
     "cutin": [
       {
         "info": {
@@ -4104,7 +4104,7 @@
     "resourceName": "b_skill_buff",
     "subResourceName": "s_skill_view",
     "timing": 0,
-    "description": "味方単体に1ターンの間DEFアップを付与。Viewを6000獲得。",
+    "description": "味方単体に1ターンの间DEFアップを付与。Viewを6000获得。",
     "cutin": [
       {
         "info": {
@@ -4134,7 +4134,7 @@
     "resourceName": "b_skill_buffAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "味方全体に1ターンの間DEFアップを付与。",
+    "description": "味方全体に1ターンの间DEFアップを付与。",
     "cutin": [
       {
         "info": {
@@ -4159,7 +4159,7 @@
     "resourceName": "b_skill_buffAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "味方全体に1ターンの間DEFアップを付与。",
+    "description": "味方全体に1ターンの间DEFアップを付与。",
     "cutin": [
       {
         "info": {
@@ -5113,7 +5113,7 @@
     "resourceName": "b_skill_debuff",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体に1ターンの間毒を付与 & 70%の確率で毒を付与 & 35%の確率で毒を付与。",
+    "description": "敌単体に1ターンの间毒を付与 & 70%の确率で毒を付与 & 35%の确率で毒を付与。",
     "cutin": [
       {
         "info": {
@@ -5148,7 +5148,7 @@
     "resourceName": "b_skill_debuff",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体に1ターンの間毒を付与 & 70%の確率で毒を付与 & 35%の確率で毒を付与。",
+    "description": "敌単体に1ターンの间毒を付与 & 70%の确率で毒を付与 & 35%の确率で毒を付与。",
     "cutin": [
       {
         "info": {
@@ -5183,7 +5183,7 @@
     "resourceName": "b_skill_debuff",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体に1ターンの間毒を付与 & 70%の確率で毒を付与 & 35%の確率で毒を付与。",
+    "description": "敌単体に1ターンの间毒を付与 & 70%の确率で毒を付与 & 35%の确率で毒を付与。",
     "cutin": [
       {
         "info": {
@@ -6993,7 +6993,7 @@
     "resourceName": "b_skill_buff",
     "subResourceName": "",
     "timing": 0,
-    "description": "自身に2ターンの間DEFアップを付与。",
+    "description": "自身に2ターンの间DEFアップを付与。",
     "cutin": [
       {
         "info": {
@@ -7018,7 +7018,7 @@
     "resourceName": "b_skill_buff",
     "subResourceName": "",
     "timing": 0,
-    "description": "自身に2ターンの間DEFアップを付与。",
+    "description": "自身に2ターンの间DEFアップを付与。",
     "cutin": [
       {
         "info": {
@@ -7043,7 +7043,7 @@
     "resourceName": "b_skill_buff",
     "subResourceName": "",
     "timing": 0,
-    "description": "自身に2ターンの間DEFアップを付与。",
+    "description": "自身に2ターンの间DEFアップを付与。",
     "cutin": [
       {
         "info": {
@@ -8381,7 +8381,7 @@
     "resourceName": "icon_flamier_s01",
     "subResourceName": "",
     "timing": 1,
-    "description": "登場時、敵全体に20%の確率で1ターンの間毒を付与。",
+    "description": "登场时、敌全体に20%の确率で1ターンの间毒を付与。",
     "cutin": [],
     "effects": [
       {
@@ -8399,7 +8399,7 @@
     "resourceName": "icon_flamier_s01",
     "subResourceName": "",
     "timing": 1,
-    "description": "登場時、敵全体に24%の確率で1ターンの間毒を付与。",
+    "description": "登场时、敌全体に24%の确率で1ターンの间毒を付与。",
     "cutin": [],
     "effects": [
       {
@@ -8417,7 +8417,7 @@
     "resourceName": "icon_flamier_s01",
     "subResourceName": "",
     "timing": 1,
-    "description": "登場時、敵全体に28%の確率で1ターンの間毒を付与。",
+    "description": "登场时、敌全体に28%の确率で1ターンの间毒を付与。",
     "cutin": [],
     "effects": [
       {
@@ -8435,7 +8435,7 @@
     "resourceName": "icon_flamier_s01",
     "subResourceName": "",
     "timing": 1,
-    "description": "登場時、敵全体に32%の確率で1ターンの間毒を付与。",
+    "description": "登场时、敌全体に32%の确率で1ターンの间毒を付与。",
     "cutin": [],
     "effects": [
       {
@@ -8453,7 +8453,7 @@
     "resourceName": "icon_flamier_s01",
     "subResourceName": "",
     "timing": 1,
-    "description": "登場時、敵全体に36%の確率で1ターンの間毒を付与。",
+    "description": "登场时、敌全体に36%の确率で1ターンの间毒を付与。",
     "cutin": [],
     "effects": [
       {
@@ -8471,7 +8471,7 @@
     "resourceName": "icon_flamier_s01",
     "subResourceName": "",
     "timing": 1,
-    "description": "登場時、敵全体に40%の確率で1ターンの間毒を付与。",
+    "description": "登场时、敌全体に40%の确率で1ターンの间毒を付与。",
     "cutin": [],
     "effects": [
       {
@@ -10776,13 +10776,13 @@
   },
   "3053101": {
     "skillId": 3053101,
-    "skillName": "試作電磁シールドⅠ",
+    "skillName": "试作电磁シールドⅠ",
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "icon_hisaki_s01",
     "subResourceName": "",
     "timing": 8,
-    "description": "ダメージを受けた時、10%の確率で1ターンの間DEFアップを付与。",
+    "description": "ダメージを受けた时、10%の确率で1ターンの间DEFアップを付与。",
     "cutin": [],
     "effects": [
       {
@@ -10794,13 +10794,13 @@
   },
   "3053102": {
     "skillId": 3053102,
-    "skillName": "試作電磁シールドⅡ",
+    "skillName": "试作电磁シールドⅡ",
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "icon_hisaki_s01",
     "subResourceName": "",
     "timing": 8,
-    "description": "ダメージを受けた時、14%の確率で1ターンの間DEFアップを付与。",
+    "description": "ダメージを受けた时、14%の确率で1ターンの间DEFアップを付与。",
     "cutin": [],
     "effects": [
       {
@@ -10812,13 +10812,13 @@
   },
   "3053103": {
     "skillId": 3053103,
-    "skillName": "試作電磁シールドⅢ",
+    "skillName": "试作电磁シールドⅢ",
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "icon_hisaki_s01",
     "subResourceName": "",
     "timing": 8,
-    "description": "ダメージを受けた時、18%の確率で1ターンの間DEFアップを付与。",
+    "description": "ダメージを受けた时、18%の确率で1ターンの间DEFアップを付与。",
     "cutin": [],
     "effects": [
       {
@@ -10830,13 +10830,13 @@
   },
   "3053104": {
     "skillId": 3053104,
-    "skillName": "試作電磁シールドⅣ",
+    "skillName": "试作电磁シールドⅣ",
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "icon_hisaki_s01",
     "subResourceName": "",
     "timing": 8,
-    "description": "ダメージを受けた時、22%の確率で1ターンの間DEFアップを付与。",
+    "description": "ダメージを受けた时、22%の确率で1ターンの间DEFアップを付与。",
     "cutin": [],
     "effects": [
       {
@@ -10848,13 +10848,13 @@
   },
   "3053105": {
     "skillId": 3053105,
-    "skillName": "試作電磁シールドⅤ",
+    "skillName": "试作电磁シールドⅤ",
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "icon_hisaki_s01",
     "subResourceName": "",
     "timing": 8,
-    "description": "ダメージを受けた時、26%の確率で1ターンの間DEFアップを付与。",
+    "description": "ダメージを受けた时、26%の确率で1ターンの间DEFアップを付与。",
     "cutin": [],
     "effects": [
       {
@@ -10866,13 +10866,13 @@
   },
   "3053106": {
     "skillId": 3053106,
-    "skillName": "試作電磁シールドⅥ",
+    "skillName": "试作电磁シールドⅥ",
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "icon_hisaki_s01",
     "subResourceName": "",
     "timing": 8,
-    "description": "ダメージを受けた時、30%の確率で1ターンの間DEFアップを付与。",
+    "description": "ダメージを受けた时、30%の确率で1ターンの间DEFアップを付与。",
     "cutin": [],
     "effects": [
       {
@@ -12441,7 +12441,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体に70%ダメージ。（敵専用）",
+    "description": "敌単体に70%ダメージ。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -12466,7 +12466,7 @@
     "resourceName": "b_skill_buff",
     "subResourceName": "",
     "timing": 0,
-    "description": "自身に2ターンの間ATKアップを付与。（敵専用）",
+    "description": "自身に2ターンの间ATKアップを付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -12491,7 +12491,7 @@
     "resourceName": "b_skill_buff",
     "subResourceName": "",
     "timing": 0,
-    "description": "自身に2ターンの間隠蔽を付与。（敵専用）",
+    "description": "自身に2ターンの间隠蔽を付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -12516,7 +12516,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "敵単体に60%ダメージ。60%の確率で1ターンの間DEFダウンを付与。（敵専用）",
+    "description": "敌単体に60%ダメージ。60%の确率で1ターンの间DEFダウンを付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -12546,7 +12546,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体に130%ダメージ。（敵専用）",
+    "description": "敌単体に130%ダメージ。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -12571,7 +12571,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "s_skill_debuffAll",
     "timing": 0,
-    "description": "敵全体に60%ダメージ。80%の確率で1ターンの間DEFダウンを付与。（敵専用）",
+    "description": "敌全体に60%ダメージ。80%の确率で1ターンの间DEFダウンを付与。（敌専用）",
     "cutin": [
       {
         "info": {
