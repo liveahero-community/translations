@@ -3838,5 +3838,617 @@
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
     ]
+  },
+  "20401": {
+    "salesId": 20401,
+    "regionId": 204,
+    "salesName": "情報収集指令！（短期）",
+    "iconFilename": "item_Valentine2102_exchange01",
+    "startAt": null,
+    "endAt": "2021-03-15 20:00:00",
+    "requiredTime": 7200,
+    "memberLimitNumber": 8,
+    "rewards": [
+      {
+        "salesId": 20401,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 280
+      },
+      {
+        "salesId": 20401,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 240
+      },
+      {
+        "salesId": 20401,
+        "rewardType": 3,
+        "objectId": 57,
+        "objectValue": 14
+      },
+      {
+        "salesId": 20401,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 160
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_CYBERWARS_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20401
+      },
+      {
+        "textKey": "SALES_EVENT_CYBERWARS_REPORT_2",
+        "condition": null,
+        "laravelThroughKey": 20401
+      },
+      {
+        "textKey": "SALES_EVENT_CYBERWARS_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 20401
+      },
+      {
+        "textKey": "SALES_EVENT_CYBERWARS_REPORT_4",
+        "condition": null,
+        "laravelThroughKey": 20401
+      },
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20401
+      },
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20401
+      },
+      {
+        "textKey": "SALES_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 20401
+      },
+      {
+        "textKey": "SALES_REPORT_4",
+        "condition": null,
+        "laravelThroughKey": 20401
+      },
+      {
+        "textKey": "SALES_REPORT_5",
+        "condition": null,
+        "laravelThroughKey": 20401
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": false
+      },
+      {
+        "class": "StockCountBonus",
+        "stocks": [
+          10102,
+          10122,
+          10111,
+          10531
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 10
+          },
+          {
+            "count": 2,
+            "upwardRate": 30
+          },
+          {
+            "count": 3,
+            "upwardRate": 50
+          },
+          {
+            "count": 4,
+            "upwardRate": 70
+          }
+        ],
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
+      }
+    ]
+  },
+  "20402": {
+    "salesId": 20402,
+    "regionId": 204,
+    "salesName": "情報収集指令！（中期）",
+    "iconFilename": "item_Valentine2102_exchange01",
+    "startAt": null,
+    "endAt": "2021-03-15 20:00:00",
+    "requiredTime": 14400,
+    "memberLimitNumber": 8,
+    "rewards": [
+      {
+        "salesId": 20402,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 560
+      },
+      {
+        "salesId": 20402,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 480
+      },
+      {
+        "salesId": 20402,
+        "rewardType": 3,
+        "objectId": 57,
+        "objectValue": 28
+      },
+      {
+        "salesId": 20402,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 320
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_CYBERWARS_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20402
+      },
+      {
+        "textKey": "SALES_EVENT_CYBERWARS_REPORT_2",
+        "condition": null,
+        "laravelThroughKey": 20402
+      },
+      {
+        "textKey": "SALES_EVENT_CYBERWARS_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 20402
+      },
+      {
+        "textKey": "SALES_EVENT_CYBERWARS_REPORT_4",
+        "condition": null,
+        "laravelThroughKey": 20402
+      },
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20402
+      },
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20402
+      },
+      {
+        "textKey": "SALES_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 20402
+      },
+      {
+        "textKey": "SALES_REPORT_4",
+        "condition": null,
+        "laravelThroughKey": 20402
+      },
+      {
+        "textKey": "SALES_REPORT_5",
+        "condition": null,
+        "laravelThroughKey": 20402
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": false
+      },
+      {
+        "class": "StockCountBonus",
+        "stocks": [
+          10102,
+          10122,
+          10111,
+          10531
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 10
+          },
+          {
+            "count": 2,
+            "upwardRate": 30
+          },
+          {
+            "count": 3,
+            "upwardRate": 50
+          },
+          {
+            "count": 4,
+            "upwardRate": 70
+          }
+        ],
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
+      }
+    ]
+  },
+  "20403": {
+    "salesId": 20403,
+    "regionId": 204,
+    "salesName": "情報収集指令！（中長期）",
+    "iconFilename": "item_Valentine2102_exchange01",
+    "startAt": null,
+    "endAt": "2021-03-15 20:00:00",
+    "requiredTime": 28800,
+    "memberLimitNumber": 8,
+    "rewards": [
+      {
+        "salesId": 20403,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 1120
+      },
+      {
+        "salesId": 20403,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 960
+      },
+      {
+        "salesId": 20403,
+        "rewardType": 3,
+        "objectId": 57,
+        "objectValue": 56
+      },
+      {
+        "salesId": 20403,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 640
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_CYBERWARS_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20403
+      },
+      {
+        "textKey": "SALES_EVENT_CYBERWARS_REPORT_2",
+        "condition": null,
+        "laravelThroughKey": 20403
+      },
+      {
+        "textKey": "SALES_EVENT_CYBERWARS_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 20403
+      },
+      {
+        "textKey": "SALES_EVENT_CYBERWARS_REPORT_4",
+        "condition": null,
+        "laravelThroughKey": 20403
+      },
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20403
+      },
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20403
+      },
+      {
+        "textKey": "SALES_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 20403
+      },
+      {
+        "textKey": "SALES_REPORT_4",
+        "condition": null,
+        "laravelThroughKey": 20403
+      },
+      {
+        "textKey": "SALES_REPORT_5",
+        "condition": null,
+        "laravelThroughKey": 20403
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": false
+      },
+      {
+        "class": "StockCountBonus",
+        "stocks": [
+          10102,
+          10122,
+          10111,
+          10531
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 10
+          },
+          {
+            "count": 2,
+            "upwardRate": 30
+          },
+          {
+            "count": 3,
+            "upwardRate": 50
+          },
+          {
+            "count": 4,
+            "upwardRate": 70
+          }
+        ],
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
+      }
+    ]
+  },
+  "20404": {
+    "salesId": 20404,
+    "regionId": 204,
+    "salesName": "情報収集指令！（長期）",
+    "iconFilename": "item_Valentine2102_exchange01",
+    "startAt": null,
+    "endAt": "2021-03-15 20:00:00",
+    "requiredTime": 57600,
+    "memberLimitNumber": 8,
+    "rewards": [
+      {
+        "salesId": 20404,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 2240
+      },
+      {
+        "salesId": 20404,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 1920
+      },
+      {
+        "salesId": 20404,
+        "rewardType": 3,
+        "objectId": 57,
+        "objectValue": 112
+      },
+      {
+        "salesId": 20404,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 1280
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_CYBERWARS_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20404
+      },
+      {
+        "textKey": "SALES_EVENT_CYBERWARS_REPORT_2",
+        "condition": null,
+        "laravelThroughKey": 20404
+      },
+      {
+        "textKey": "SALES_EVENT_CYBERWARS_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 20404
+      },
+      {
+        "textKey": "SALES_EVENT_CYBERWARS_REPORT_4",
+        "condition": null,
+        "laravelThroughKey": 20404
+      },
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20404
+      },
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20404
+      },
+      {
+        "textKey": "SALES_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 20404
+      },
+      {
+        "textKey": "SALES_REPORT_4",
+        "condition": null,
+        "laravelThroughKey": 20404
+      },
+      {
+        "textKey": "SALES_REPORT_5",
+        "condition": null,
+        "laravelThroughKey": 20404
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": false
+      },
+      {
+        "class": "StockCountBonus",
+        "stocks": [
+          10102,
+          10122,
+          10111,
+          10531
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 10
+          },
+          {
+            "count": 2,
+            "upwardRate": 30
+          },
+          {
+            "count": 3,
+            "upwardRate": 50
+          },
+          {
+            "count": 4,
+            "upwardRate": 70
+          }
+        ],
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
+      }
+    ]
   }
 }

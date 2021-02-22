@@ -149,5 +149,291 @@
     "canRemember": 0,
     "eventPortalJson": null,
     "questBonusJsons": []
+  },
+  "8": {
+    "eventId": 8,
+    "chapterId": 412,
+    "lookBackChapterId": 413,
+    "baseResourceName": "Valentine2102",
+    "startAt": "2021-02-01 20:00:00",
+    "endAt": "2021-03-22 20:00:00",
+    "canRemember": 0,
+    "eventPortalJson": {
+      "bg": "ui_bg_sprite_event_Valentine2102",
+      "bgm": "bgm_cyberwars_adv",
+      "logo": "Valentine2102_title",
+      "terms": [
+        {
+          "keys": [
+            "UI_FREE_QUEST",
+            "UI_SALES"
+          ],
+          "endAt": "2021-03-15 20:00:00"
+        },
+        {
+          "keys": [
+            "UI_MAIN_QUEST",
+            "UI_MISSION",
+            "UI_EXCHANGE"
+          ],
+          "endAt": "2021-03-22 14:00:00"
+        }
+      ],
+      "gachaId": 9,
+      "storeId": 7,
+      "questInfos": [
+        {
+          "type": 5,
+          "chapterId": 412
+        },
+        {
+          "type": 6,
+          "chapterId": 413
+        },
+        {
+          "type": 6,
+          "chapterId": 414
+        }
+      ],
+      "tutorialKey": "Valentine2102",
+      "eventItemIds": [
+        57,
+        58
+      ],
+      "salesRegionId": 204,
+      "characterViews": [
+        {
+          "skinId": 0,
+          "stockId": 10531,
+          "cardType": 2,
+          "serifKinds": [
+            27,
+            28
+          ],
+          "visualType": 1,
+          "resourceName": "hisaki",
+          "characterName": "ヒサキ"
+        }
+      ]
+    },
+    "questBonusJsons": [
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 57,
+        "bonusValue": 40,
+        "targetStockId": 10102
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 57,
+        "bonusValue": 30,
+        "targetStockId": 10122
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 57,
+        "bonusValue": 30,
+        "targetStockId": 10111
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 57,
+        "bonusValue": 20,
+        "targetStockId": 10531
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 57,
+        "bonusValue": 20,
+        "targetStockId": 10511
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 57,
+        "bonusValue": 10,
+        "targetStockId": 10011
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 57,
+        "bonusValue": 20,
+        "targetStockId": 10101
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 57,
+        "bonusValue": 10,
+        "targetStockId": 10431
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 57,
+        "bonusValue": 10,
+        "targetStockId": 10101
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 57,
+        "bonusValue": 10,
+        "targetStockId": 10121
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 57,
+        "bonusValue": 20,
+        "targetStockId": 10111
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 57,
+        "bonusValue": 10,
+        "targetStockId": 10531
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 57,
+        "bonusValue": 10,
+        "targetStockId": 10011
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 57,
+        "bonusValue": 10,
+        "targetStockId": 19991
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 57,
+        "bonusValue": 10,
+        "targetStockId": 10431
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 57,
+        "bonusValue": 10,
+        "targetStockId": 10511
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 58,
+        "bonusValue": 40,
+        "targetStockId": 10102
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 58,
+        "bonusValue": 30,
+        "targetStockId": 10122
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 58,
+        "bonusValue": 30,
+        "targetStockId": 10111
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 58,
+        "bonusValue": 20,
+        "targetStockId": 10531
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 58,
+        "bonusValue": 20,
+        "targetStockId": 10042
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 58,
+        "bonusValue": 20,
+        "targetStockId": 10121
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 58,
+        "bonusValue": 10,
+        "targetStockId": 10271
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 58,
+        "bonusValue": 10,
+        "targetStockId": 10431
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 58,
+        "bonusValue": 10,
+        "targetStockId": 10101
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 58,
+        "bonusValue": 10,
+        "targetStockId": 10121
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 58,
+        "bonusValue": 20,
+        "targetStockId": 10111
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 58,
+        "bonusValue": 10,
+        "targetStockId": 10531
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 58,
+        "bonusValue": 10,
+        "targetStockId": 10271
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 58,
+        "bonusValue": 10,
+        "targetStockId": 19991
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 58,
+        "bonusValue": 10,
+        "targetStockId": 10431
+      }
+    ]
   }
 }

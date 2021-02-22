@@ -233,6 +233,32 @@
     "startAt": null,
     "endAt": "2021-01-29 18:00:00"
   },
+  "412": {
+    "chapterId": 412,
+    "groupType": 2,
+    "chapterType": 1,
+    "chapterName": "イベントメインクエスト",
+    "subName": "バレンタイン・サイバーウォーズ",
+    "peepingName": "メインクエスト",
+    "sortWeight": 1000,
+    "bannerResourceName": "ui_banner_questchoice_event_Valentine2102",
+    "bgResourceName": "ui_bg_sprite_event_Valentine2102",
+    "startAt": null,
+    "endAt": "2021-03-22 14:00:00"
+  },
+  "413": {
+    "chapterId": 413,
+    "groupType": 2,
+    "chapterType": 1,
+    "chapterName": "イベントフリークエスト",
+    "subName": "バレンタイン・サイバーウォーズ",
+    "peepingName": "フリークエスト",
+    "sortWeight": 1000,
+    "bannerResourceName": "ui_banner_questchoice_event_Valentine2102",
+    "bgResourceName": "ui_bg_sprite_event_Valentine2102",
+    "startAt": null,
+    "endAt": "2021-03-15 20:00:00"
+  },
   "501": {
     "chapterId": 501,
     "groupType": 5,
