@@ -155,7 +155,7 @@
     "resourceName": "",
     "subResourceName": "",
     "timing": 0,
-    "description": "アイテム効果発動時のエフェクト再生用",
+    "description": "物品效果發動時影響刷新。",
     "cutin": [
       {
         "info": {
@@ -180,7 +180,7 @@
     "resourceName": "",
     "subResourceName": "",
     "timing": 0,
-    "description": "アイテム効果：HPアップ",
+    "description": "物品效果：生命提升。",
     "cutin": [],
     "effects": [
       {
@@ -198,7 +198,7 @@
     "resourceName": "",
     "subResourceName": "",
     "timing": 0,
-    "description": "アイテム効果：ATKアップ",
+    "description": "物品效果：攻擊力提升。",
     "cutin": [],
     "effects": [
       {
@@ -216,7 +216,7 @@
     "resourceName": "",
     "subResourceName": "",
     "timing": 0,
-    "description": "アイテム効果：被ダメージ減少",
+    "description": "物品效果：承受傷害減少。",
     "cutin": [],
     "effects": [
       {
@@ -1479,7 +1479,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体に70%ダメージ。自身に隠蔽が付与されている場合、ダメージ増加。",
+    "description": "對一個敵人造成攻擊 70% 傷害。若自己被賦予隱蔽，傷害增加。",
     "cutin": [
       {
         "info": {
@@ -1504,7 +1504,7 @@
     "resourceName": "b_skill_spdDown",
     "subResourceName": "s_skill_buffOwn",
     "timing": 0,
-    "description": "敵単体に1ターンの間SPDダウンを付与。自身に2ターンの間隠蔽を付与。",
+    "description": "賦予一個敵人速度下降 1 層。賦予自己隱蔽 1 層。",
     "cutin": [
       {
         "info": {
@@ -1534,7 +1534,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体に180%ダメージ。自身に隠蔽が付与されている場合、隠蔽を解除し、もう１度行動をする。",
+    "description": "對一個敵人造成攻擊 180% 傷害。若自己被賦予隱蔽，則解除隱蔽，隨後多行動一次。",
     "cutin": [
       {
         "info": {
@@ -1569,7 +1569,7 @@
     "resourceName": "b_skill_spdDown",
     "subResourceName": "s_skill_buffOwn",
     "timing": 0,
-    "description": "敵単体に1ターンの間SPDダウンを付与。自身に2ターンの間隠蔽を付与。",
+    "description": "賦予一個敵人速度下降 1 層。賦予自己隱蔽 2 層。",
     "cutin": [
       {
         "info": {
@@ -1599,7 +1599,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "敵単体に60%ダメージ。60%の確率で2ターンの間火傷を付与。",
+    "description": "對一個敵人造成攻擊 60% 傷害。60% 機率賦予燒傷 2 層。",
     "cutin": [
       {
         "info": {
@@ -1629,7 +1629,7 @@
     "resourceName": "b_skill_debuff",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "敵単体に2ターンの間DEFダウンを付与。50%の確率で1ターンの間ATKダウンを付与。",
+    "description": "賦予一個敵人防禦力下降 1 層。50% 機率賦予攻擊力下降 1 層。",
     "cutin": [
       {
         "info": {
@@ -1659,7 +1659,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "s_skill_view",
     "timing": 0,
-    "description": "敵全体に60%ダメージ。Viewを12000獲得。",
+    "description": "對敵方全體造成攻擊 60% 傷害。獲得 12000 View。",
     "cutin": [
       {
         "info": {
@@ -1689,7 +1689,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "s_skill_view",
     "timing": 0,
-    "description": "敵全体に60%ダメージ。Viewを15000獲得。",
+    "description": "對敵方全體造成攻擊 60% 傷害。獲得 15000 View。",
     "cutin": [
       {
         "info": {
@@ -1839,7 +1839,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_buffOwn",
     "timing": 0,
-    "description": "敵単体に50%ダメージ。自身に60%の確率で2ターンの間隠蔽を付与。",
+    "description": "對一個敵人造成攻擊 60% 傷害。60% 機率賦予自己隱蔽 2 層。",
     "cutin": [
       {
         "info": {
@@ -1869,7 +1869,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体に80%ダメージ+相手のデバフの数に応じてダメージ量が上昇。",
+    "description": "對一個敵人造成攻擊 80% 傷害，且隨該名敵人身上的減益效果數量增加傷害。",
     "cutin": [
       {
         "info": {
@@ -1894,7 +1894,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵全体に60%ダメージ+HPが多いほどダメージ量が上昇する。",
+    "description": "對敵方全體造成攻擊 60% 傷害，且若是生命越高，傷害量增加。",
     "cutin": [
       {
         "info": {
@@ -1919,7 +1919,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵全体に60%ダメージ+HPが多いほどダメージ量が上昇する。",
+    "description": "對敵方全體造成攻擊 60% 傷害，且若是生命越高，傷害量增加。",
     "cutin": [
       {
         "info": {
@@ -3869,7 +3869,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体に80%ダメージ。",
+    "description": "對一個敵人造成 80% 攻擊傷害。",
     "cutin": [
       {
         "info": {
@@ -3894,7 +3894,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "敵単体に80%ダメージ。80%の確率で1ターンの間毒を付与。",
+    "description": "對一個敵人造成 80% 攻擊傷害。80% 機率賦予中毒 1 層。",
     "cutin": [
       {
         "info": {
@@ -3924,7 +3924,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_buffOwn",
     "timing": 0,
-    "description": "敵単体に110%ダメージ。自身に30%の確率で1ターンの間DEFアップを付与。",
+    "description": "對一個敵人造成攻擊 110% 傷害。30% 機率賦予自己防禦力上升 1 層。",
     "cutin": [
       {
         "info": {
@@ -4074,7 +4074,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_buffOwn",
     "timing": 0,
-    "description": "敵単体に40%ダメージ。自身に80%の確率で2ターンの間隠蔽を付与。",
+    "description": "對一個敵人造成攻擊 40% 傷害。80% 機率賦予自己隱蔽 1 層。",
     "cutin": [
       {
         "info": {
@@ -4104,7 +4104,7 @@
     "resourceName": "b_skill_buff",
     "subResourceName": "s_skill_view",
     "timing": 0,
-    "description": "味方単体に1ターンの間DEFアップを付与。Viewを6000獲得。",
+    "description": "賦予自己或友軍防禦力上升 1 層。獲得 6000 View。",
     "cutin": [
       {
         "info": {
@@ -4134,7 +4134,7 @@
     "resourceName": "b_skill_buffAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "味方全体に1ターンの間DEFアップを付与。",
+    "description": "賦予我方全體防禦力上升 1 層。",
     "cutin": [
       {
         "info": {
@@ -4159,7 +4159,7 @@
     "resourceName": "b_skill_buffAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "味方全体に1ターンの間DEFアップを付与。",
+    "description": "賦予我方全體防禦力上升 1 層。",
     "cutin": [
       {
         "info": {
@@ -5113,7 +5113,7 @@
     "resourceName": "b_skill_debuff",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体に1ターンの間毒を付与 & 70%の確率で毒を付与 & 35%の確率で毒を付与。",
+    "description": "賦予一個敵人中毒 1 層，70% 機率額外賦予中毒 1 層，35% 機率再額外賦予中毒 1 層。",
     "cutin": [
       {
         "info": {
@@ -5148,7 +5148,7 @@
     "resourceName": "b_skill_debuff",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体に1ターンの間毒を付与 & 70%の確率で毒を付与 & 35%の確率で毒を付与。",
+    "description": "賦予一個敵人中毒 1 層，70% 機率額外賦予中毒 1 層，35% 機率再額外賦予中毒 1 層。",
     "cutin": [
       {
         "info": {
@@ -5183,7 +5183,7 @@
     "resourceName": "b_skill_debuff",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体に1ターンの間毒を付与 & 70%の確率で毒を付与 & 35%の確率で毒を付与。",
+    "description": "賦予一個敵人中毒 1 層，70% 機率額外賦予中毒 1 層，35% 機率再額外賦予中毒 1 層。",
     "cutin": [
       {
         "info": {
@@ -6828,7 +6828,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体に55%ダメージ。",
+    "description": "對一個敵人造成攻擊 55% 傷害。",
     "cutin": [
       {
         "info": {
@@ -6853,7 +6853,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体に65%ダメージ。",
+    "description": "對一個敵人造成攻擊 65% 傷害。",
     "cutin": [
       {
         "info": {
@@ -6878,7 +6878,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体に75%ダメージ。",
+    "description": "對一個敵人造成攻擊 75% 傷害。",
     "cutin": [
       {
         "info": {
@@ -6993,7 +6993,7 @@
     "resourceName": "b_skill_buff",
     "subResourceName": "",
     "timing": 0,
-    "description": "自身に2ターンの間DEFアップを付与。",
+    "description": "賦予自己防禦力上升 2 層。",
     "cutin": [
       {
         "info": {
@@ -7018,7 +7018,7 @@
     "resourceName": "b_skill_buff",
     "subResourceName": "",
     "timing": 0,
-    "description": "自身に2ターンの間DEFアップを付与。",
+    "description": "賦予自己防禦力上升 2 層。",
     "cutin": [
       {
         "info": {
@@ -7043,7 +7043,7 @@
     "resourceName": "b_skill_buff",
     "subResourceName": "",
     "timing": 0,
-    "description": "自身に2ターンの間DEFアップを付与。",
+    "description": "賦予自己防禦力上升 2 層。",
     "cutin": [
       {
         "info": {
@@ -8381,7 +8381,7 @@
     "resourceName": "icon_flamier_s01",
     "subResourceName": "",
     "timing": 1,
-    "description": "登場時、敵全体に20%の確率で1ターンの間毒を付与。",
+    "description": "登場時有 20% 機率賦予敵方全體中毒 1 層。",
     "cutin": [],
     "effects": [
       {
@@ -8399,7 +8399,7 @@
     "resourceName": "icon_flamier_s01",
     "subResourceName": "",
     "timing": 1,
-    "description": "登場時、敵全体に24%の確率で1ターンの間毒を付与。",
+    "description": "登場時有 24% 機率賦予敵方全體中毒 1 層。",
     "cutin": [],
     "effects": [
       {
@@ -8417,7 +8417,7 @@
     "resourceName": "icon_flamier_s01",
     "subResourceName": "",
     "timing": 1,
-    "description": "登場時、敵全体に28%の確率で1ターンの間毒を付与。",
+    "description": "登場時有 28% 機率賦予敵方全體中毒 1 層。",
     "cutin": [],
     "effects": [
       {
@@ -8435,7 +8435,7 @@
     "resourceName": "icon_flamier_s01",
     "subResourceName": "",
     "timing": 1,
-    "description": "登場時、敵全体に32%の確率で1ターンの間毒を付与。",
+    "description": "登場時有 32% 機率賦予敵方全體中毒 1 層。",
     "cutin": [],
     "effects": [
       {
@@ -8453,7 +8453,7 @@
     "resourceName": "icon_flamier_s01",
     "subResourceName": "",
     "timing": 1,
-    "description": "登場時、敵全体に36%の確率で1ターンの間毒を付与。",
+    "description": "登場時有 36% 機率賦予敵方全體中毒 1 層。",
     "cutin": [],
     "effects": [
       {
@@ -8471,7 +8471,7 @@
     "resourceName": "icon_flamier_s01",
     "subResourceName": "",
     "timing": 1,
-    "description": "登場時、敵全体に40%の確率で1ターンの間毒を付与。",
+    "description": "登場時有 40% 機率賦予敵方全體中毒 1 層。",
     "cutin": [],
     "effects": [
       {
@@ -10566,7 +10566,7 @@
     "resourceName": "icon_wolfmanEarth_s01",
     "subResourceName": "",
     "timing": 10,
-    "description": "ATK+1%。",
+    "description": "攻擊力增加 1%。",
     "cutin": [],
     "effects": [
       {
@@ -10584,7 +10584,7 @@
     "resourceName": "icon_wolfmanEarth_s01",
     "subResourceName": "",
     "timing": 10,
-    "description": "ATK+2%。",
+    "description": "攻擊力增加 2%。",
     "cutin": [],
     "effects": [
       {
@@ -10602,7 +10602,7 @@
     "resourceName": "icon_wolfmanEarth_s01",
     "subResourceName": "",
     "timing": 10,
-    "description": "ATK+3%。",
+    "description": "攻擊力增加 3%。",
     "cutin": [],
     "effects": [
       {
@@ -10620,7 +10620,7 @@
     "resourceName": "icon_wolfmanEarth_s01",
     "subResourceName": "",
     "timing": 10,
-    "description": "ATK+4%。",
+    "description": "攻擊力增加 4%。",
     "cutin": [],
     "effects": [
       {
@@ -10638,7 +10638,7 @@
     "resourceName": "icon_wolfmanEarth_s01",
     "subResourceName": "",
     "timing": 10,
-    "description": "ATK+5%。",
+    "description": "攻擊力增加 5%。",
     "cutin": [],
     "effects": [
       {
@@ -10656,7 +10656,7 @@
     "resourceName": "icon_wolfmanEarth_s01",
     "subResourceName": "",
     "timing": 10,
-    "description": "ATK+6%。",
+    "description": "攻擊力增加 6%。",
     "cutin": [],
     "effects": [
       {
@@ -10782,7 +10782,7 @@
     "resourceName": "icon_hisaki_s01",
     "subResourceName": "",
     "timing": 8,
-    "description": "ダメージを受けた時、10%の確率で1ターンの間DEFアップを付与。",
+    "description": "受到傷害時，有 10% 機率賦予自己防禦力上升 1 層。",
     "cutin": [],
     "effects": [
       {
@@ -10800,7 +10800,7 @@
     "resourceName": "icon_hisaki_s01",
     "subResourceName": "",
     "timing": 8,
-    "description": "ダメージを受けた時、14%の確率で1ターンの間DEFアップを付与。",
+    "description": "受到傷害時，有 14% 機率賦予自己防禦力上升 1 層。",
     "cutin": [],
     "effects": [
       {
@@ -10818,7 +10818,7 @@
     "resourceName": "icon_hisaki_s01",
     "subResourceName": "",
     "timing": 8,
-    "description": "ダメージを受けた時、18%の確率で1ターンの間DEFアップを付与。",
+    "description": "受到傷害時，有 18% 機率賦予自己防禦力上升 1 層。",
     "cutin": [],
     "effects": [
       {
@@ -10836,7 +10836,7 @@
     "resourceName": "icon_hisaki_s01",
     "subResourceName": "",
     "timing": 8,
-    "description": "ダメージを受けた時、22%の確率で1ターンの間DEFアップを付与。",
+    "description": "受到傷害時，有 22% 機率賦予自己防禦力上升 1 層。",
     "cutin": [],
     "effects": [
       {
@@ -10854,7 +10854,7 @@
     "resourceName": "icon_hisaki_s01",
     "subResourceName": "",
     "timing": 8,
-    "description": "ダメージを受けた時、26%の確率で1ターンの間DEFアップを付与。",
+    "description": "受到傷害時，有 26% 機率賦予自己防禦力上升 1 層。",
     "cutin": [],
     "effects": [
       {
@@ -10872,7 +10872,7 @@
     "resourceName": "icon_hisaki_s01",
     "subResourceName": "",
     "timing": 8,
-    "description": "ダメージを受けた時、30%の確率で1ターンの間DEFアップを付与。",
+    "description": "受到傷害時，有 30% 機率賦予自己防禦力上升 1 層。",
     "cutin": [],
     "effects": [
       {
@@ -12151,7 +12151,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体に50%ダメージ。（敵専用）",
+    "description": "（敵人專屬）對一名玩家角色攻擊 50% 傷害。",
     "cutin": [
       {
         "info": {
@@ -12176,7 +12176,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_buffAll",
     "timing": 0,
-    "description": "敵単体に50%ダメージ。味方全体に1ターンの間ATKアップを付与。（敵専用）",
+    "description": "（敵人專屬）對一名玩家角色攻擊 50% 傷害。賦予所有CPU方角色攻擊力上升 1 層。",
     "cutin": [
       {
         "info": {
@@ -12206,7 +12206,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵全体に100%ダメージ。（敵専用）",
+    "description": "（敵人專屬）對所有玩家角色造成攻擊 100% 傷害。",
     "cutin": [
       {
         "info": {
@@ -12231,7 +12231,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_buffAll",
     "timing": 0,
-    "description": "敵単体に50%ダメージ。味方全体に1ターンの間DEFアップを付与。自身に2ターンの間挑発を付与。（敵専用）",
+    "description": "（敵人專屬）對一名玩家角色攻擊 50% 傷害。賦予所有CPU方角色攻擊力上升 1 層。賦予自己嘲諷 2 層。",
     "cutin": [
       {
         "info": {
@@ -12266,7 +12266,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体に100%ダメージ。（敵専用）",
+    "description": "（敵人專屬）對一名玩家角色攻擊 100% 傷害。",
     "cutin": [
       {
         "info": {
@@ -12291,7 +12291,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_view",
     "timing": 0,
-    "description": "（敵人專屬）對一名玩家角色攻擊 80% 傷害。獲得 3000 view。賦予防禦力上升 1 層。",
+    "description": "（敵人專屬）對一名玩家角色攻擊 80% 傷害。獲得 3000 View。賦予防禦力上升 1 層。",
     "cutin": [
       {
         "info": {
@@ -12381,7 +12381,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "（敵人專屬）對所有玩家角色造成攻擊 180% 傷害，且隨 view 值增加傷害。",
+    "description": "（敵人專屬）對所有玩家角色造成攻擊 180% 傷害，且隨 View 值增加傷害。",
     "cutin": [
       {
         "info": {
@@ -12406,7 +12406,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_view",
     "timing": 0,
-    "description": "敵単体に60%ダメージ。Viewを5000獲得。HPを基礎ATKの50%回復する。（敵専用）",
+    "description": "（敵人專屬）對一名玩家角色造成攻擊 60% 傷害。獲得 5000 View。恢復自己基礎攻擊 50% 的血量。",
     "cutin": [
       {
         "info": {
@@ -12441,7 +12441,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体に70%ダメージ。（敵専用）",
+    "description": "（敵人專屬）對一名玩家角色攻擊 70% 傷害。",
     "cutin": [
       {
         "info": {
@@ -12466,7 +12466,7 @@
     "resourceName": "b_skill_buff",
     "subResourceName": "",
     "timing": 0,
-    "description": "自身に2ターンの間ATKアップを付与。（敵専用）",
+    "description": "（敵人專屬）賦予自己攻擊力上升 2 層。",
     "cutin": [
       {
         "info": {
@@ -12491,7 +12491,7 @@
     "resourceName": "b_skill_buff",
     "subResourceName": "",
     "timing": 0,
-    "description": "自身に2ターンの間隠蔽を付与。（敵専用）",
+    "description": "（敵人專屬）賦予自己隱蔽 2 層。",
     "cutin": [
       {
         "info": {
@@ -12516,7 +12516,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "敵単体に60%ダメージ。60%の確率で1ターンの間DEFダウンを付与。（敵専用）",
+    "description": "（敵人專屬）對一名玩家角色造成攻擊 60% 傷害。60% 機率賦予防禦力下降 1 層。",
     "cutin": [
       {
         "info": {
@@ -12546,7 +12546,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体に130%ダメージ。（敵専用）",
+    "description": "（敵人專屬）對一名玩家角色攻擊 130% 傷害。",
     "cutin": [
       {
         "info": {
@@ -12571,7 +12571,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "s_skill_debuffAll",
     "timing": 0,
-    "description": "敵全体に60%ダメージ。80%の確率で1ターンの間DEFダウンを付与。（敵専用）",
+    "description": "（敵人專屬）對所有玩家角色造成攻擊 60% 傷害。80% 賦予防禦力下降 1 層。",
     "cutin": [
       {
         "info": {

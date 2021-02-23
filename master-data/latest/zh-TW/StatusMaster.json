@@ -175,25 +175,25 @@
   },
   "30": {
     "statusId": 30,
-    "statusName": "アイテム効果",
+    "statusName": "物品效果",
     "isGoodStatus": 1,
     "description": "アイテムによって発動する効果。"
   },
   "31": {
     "statusId": 31,
-    "statusName": "アイテム効果：HPアップ",
+    "statusName": "物品效果：生命提升",
     "isGoodStatus": 1,
     "description": "アイテムによってHPが上昇する。"
   },
   "32": {
     "statusId": 32,
-    "statusName": "アイテム効果：ATKアップ",
+    "statusName": "物品效果：攻擊力提升",
     "isGoodStatus": 1,
     "description": "アイテムによってATKが上昇する。"
   },
   "33": {
     "statusId": 33,
-    "statusName": "アイテム効果：被ダメージ減少",
+    "statusName": "物品效果：承受傷害減少",
     "isGoodStatus": 1,
     "description": "アイテムによって被ダメージが減少する。"
   },
