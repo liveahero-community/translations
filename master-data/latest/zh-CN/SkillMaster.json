@@ -12595,13 +12595,13 @@
   },
   "4054107": {
     "skillId": 4054107,
-    "skillName": "陽動",
+    "skillName": "阳动",
     "useView": 0,
     "targetFlag": 2,
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_buffOwn",
     "timing": 0,
-    "description": "敵単体に25%ダメージ。自身に2ターンの間挑発を付与。（敵専用）",
+    "description": "敌単体に25%ダメージ。自身に2ターンの间挑発を付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -12625,13 +12625,13 @@
   },
   "4054108": {
     "skillId": 4054108,
-    "skillName": "閃光弾",
+    "skillName": "闪光弾",
     "useView": 0,
     "targetFlag": 2,
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_view",
     "timing": 0,
-    "description": "敵単体に70%ダメージ。Viewを3000獲得。（敵専用）",
+    "description": "敌単体に70%ダメージ。Viewを3000获得。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -12661,7 +12661,7 @@
     "resourceName": "b_skill_buff",
     "subResourceName": "s_skill_buffOwn",
     "timing": 0,
-    "description": "味方単体に1ターンの間ATKアップを付与。自身に1ターンの間ATKアップを付与。（敵専用）",
+    "description": "味方単体に1ターンの间ATKアップを付与。自身に1ターンの间ATKアップを付与。（敌専用）",
     "cutin": [
       {
         "info": {
