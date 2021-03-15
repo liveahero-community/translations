@@ -165,14 +165,8 @@
       "terms": [
         {
           "keys": [
-            "UI_FREE_QUEST",
-            "UI_SALES"
-          ],
-          "endAt": "2021-03-15 20:00:00"
-        },
-        {
-          "keys": [
             "UI_MAIN_QUEST",
+            "UI_EPILOGUE_QUEST",
             "UI_MISSION",
             "UI_EXCHANGE"
           ],
@@ -187,12 +181,8 @@
           "chapterId": 412
         },
         {
-          "type": 6,
-          "chapterId": 413
-        },
-        {
-          "type": 6,
-          "chapterId": 414
+          "type": 7,
+          "chapterId": 415
         }
       ],
       "tutorialKey": "Valentine2102",
@@ -200,7 +190,6 @@
         57,
         58
       ],
-      "salesRegionId": 204,
       "characterViews": [
         {
           "skinId": 0,
