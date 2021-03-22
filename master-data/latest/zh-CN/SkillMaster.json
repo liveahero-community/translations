@@ -3074,7 +3074,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_buffOwn",
     "timing": 0,
-    "description": "敵単体に50%ダメージ。自身に2ターンの間挑発を付与。",
+    "description": "敌単体に50%ダメージ。自身に2ターンの间挑発を付与。",
     "cutin": [
       {
         "info": {
@@ -3104,7 +3104,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_heal",
     "timing": 0,
-    "description": "敵単体に70%ダメージ。70%の確率で1ターンの間ATKダウンを付与。自身に2ターンの間リジェネを付与。",
+    "description": "敌単体に70%ダメージ。70%の确率で1ターンの间ATKダウンを付与。自身に2ターンの间リジェネを付与。",
     "cutin": [
       {
         "info": {
@@ -3139,7 +3139,7 @@
     "resourceName": "b_skill_buff",
     "subResourceName": "s_skill_buffOwn",
     "timing": 0,
-    "description": "自身に2ターンの間DEFアップを付与 & ダメージ集約を付与。",
+    "description": "自身に2ターンの间DEFアップを付与 & ダメージ集约を付与。",
     "cutin": [
       {
         "info": {
@@ -3169,7 +3169,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_heal",
     "timing": 0,
-    "description": "敵単体に70%ダメージ。70%の確率で1ターンの間ATKダウンを付与。自身に2ターンの間リジェネを付与。",
+    "description": "敌単体に70%ダメージ。70%の确率で1ターンの间ATKダウンを付与。自身に2ターンの间リジェネを付与。",
     "cutin": [
       {
         "info": {
@@ -4314,7 +4314,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_spdDownTeam",
     "timing": 0,
-    "description": "敵単体に50%ダメージ。50%の確率で1ターンの間SPDダウンを付与。",
+    "description": "敌単体に50%ダメージ。50%の确率で1ターンの间SPDダウンを付与。",
     "cutin": [
       {
         "info": {
@@ -4344,7 +4344,7 @@
     "resourceName": "b_skill_spdUp",
     "subResourceName": "",
     "timing": 0,
-    "description": "味方単体に1ターンの間SPDアップを付与。",
+    "description": "味方単体に1ターンの间SPDアップを付与。",
     "cutin": [
       {
         "info": {
@@ -4369,7 +4369,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_spdUpAll",
     "timing": 0,
-    "description": "敵単体に100%ダメージ。味方全体に1ターンの間SPDアップを付与。",
+    "description": "敌単体に100%ダメージ。味方全体に1ターンの间SPDアップを付与。",
     "cutin": [
       {
         "info": {
@@ -4399,7 +4399,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_spdDownTeam",
     "timing": 0,
-    "description": "敵単体に50%ダメージ。1ターンの間SPDダウンを付与。",
+    "description": "敌単体に50%ダメージ。1ターンの间SPDダウンを付与。",
     "cutin": [
       {
         "info": {
@@ -6377,13 +6377,13 @@
   },
   "2025101": {
     "skillId": 2025101,
-    "skillName": "防護壁展開",
+    "skillName": "防护壁展开",
     "useView": 4000,
     "targetFlag": 1,
     "resourceName": "b_skill_buff",
     "subResourceName": "s_skill_view",
     "timing": 0,
-    "description": "味方単体に1ターンの間DEFアップを付与。Viewを5000獲得。",
+    "description": "味方単体に1ターンの间DEFアップを付与。Viewを5000获得。",
     "cutin": [
       {
         "info": {
@@ -6407,13 +6407,13 @@
   },
   "2025102": {
     "skillId": 2025102,
-    "skillName": "防護壁展開+",
+    "skillName": "防护壁展开+",
     "useView": 3500,
     "targetFlag": 1,
     "resourceName": "b_skill_buff",
     "subResourceName": "s_skill_view",
     "timing": 0,
-    "description": "味方単体に1ターンの間DEFアップを付与。Viewを5000獲得。",
+    "description": "味方単体に1ターンの间DEFアップを付与。Viewを5000获得。",
     "cutin": [
       {
         "info": {
@@ -6437,13 +6437,13 @@
   },
   "2025103": {
     "skillId": 2025103,
-    "skillName": "防護壁展開++",
+    "skillName": "防护壁展开++",
     "useView": 3000,
     "targetFlag": 1,
     "resourceName": "b_skill_buff",
     "subResourceName": "s_skill_view",
     "timing": 0,
-    "description": "味方単体に1ターンの間DEFアップを付与。Viewを5000獲得。",
+    "description": "味方単体に1ターンの间DEFアップを付与。Viewを5000获得。",
     "cutin": [
       {
         "info": {
@@ -7397,13 +7397,13 @@
   },
   "2059101": {
     "skillId": 2059101,
-    "skillName": "攻めの姿勢",
+    "skillName": "攻めの姿势",
     "useView": 3000,
     "targetFlag": 2,
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体に70%ダメージ+対象と自分のSPDの差だけダメージ量が上昇。",
+    "description": "敌単体に70%ダメージ+対象と自分のSPDの差だけダメージ量が上升。",
     "cutin": [
       {
         "info": {
@@ -7422,13 +7422,13 @@
   },
   "2059102": {
     "skillId": 2059102,
-    "skillName": "攻めの姿勢+",
+    "skillName": "攻めの姿势+",
     "useView": 2500,
     "targetFlag": 2,
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体に70%ダメージ+対象と自分のSPDの差だけダメージ量が上昇。",
+    "description": "敌単体に70%ダメージ+対象と自分のSPDの差だけダメージ量が上升。",
     "cutin": [
       {
         "info": {
@@ -7447,13 +7447,13 @@
   },
   "2059103": {
     "skillId": 2059103,
-    "skillName": "攻めの姿勢++",
+    "skillName": "攻めの姿势++",
     "useView": 2000,
     "targetFlag": 2,
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体に70%ダメージ+対象と自分のSPDの差だけダメージ量が上昇。",
+    "description": "敌単体に70%ダメージ+対象と自分のSPDの差だけダメージ量が上升。",
     "cutin": [
       {
         "info": {
@@ -10106,13 +10106,13 @@
   },
   "3025101": {
     "skillId": 3025101,
-    "skillName": "盾となる決意Ⅰ",
+    "skillName": "盾となる决意Ⅰ",
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "icon_andrew_s01",
     "subResourceName": "",
     "timing": 2,
-    "description": "行動開始時、15%の確率で1ターンの間DEFアップを付与。",
+    "description": "行动开始时、15%の确率で1ターンの间DEFアップを付与。",
     "cutin": [],
     "effects": [
       {
@@ -10124,13 +10124,13 @@
   },
   "3025102": {
     "skillId": 3025102,
-    "skillName": "盾となる決意Ⅱ",
+    "skillName": "盾となる决意Ⅱ",
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "icon_andrew_s01",
     "subResourceName": "",
     "timing": 2,
-    "description": "行動開始時、18%の確率で1ターンの間DEFアップを付与。",
+    "description": "行动开始时、18%の确率で1ターンの间DEFアップを付与。",
     "cutin": [],
     "effects": [
       {
@@ -10142,13 +10142,13 @@
   },
   "3025103": {
     "skillId": 3025103,
-    "skillName": "盾となる決意Ⅲ",
+    "skillName": "盾となる决意Ⅲ",
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "icon_andrew_s01",
     "subResourceName": "",
     "timing": 2,
-    "description": "行動開始時、21%の確率で1ターンの間DEFアップを付与。",
+    "description": "行动开始时、21%の确率で1ターンの间DEFアップを付与。",
     "cutin": [],
     "effects": [
       {
@@ -10160,13 +10160,13 @@
   },
   "3025104": {
     "skillId": 3025104,
-    "skillName": "盾となる決意Ⅳ",
+    "skillName": "盾となる决意Ⅳ",
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "icon_andrew_s01",
     "subResourceName": "",
     "timing": 2,
-    "description": "行動開始時、24%の確率で1ターンの間DEFアップを付与。",
+    "description": "行动开始时、24%の确率で1ターンの间DEFアップを付与。",
     "cutin": [],
     "effects": [
       {
@@ -10178,13 +10178,13 @@
   },
   "3025105": {
     "skillId": 3025105,
-    "skillName": "盾となる決意Ⅴ",
+    "skillName": "盾となる决意Ⅴ",
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "icon_andrew_s01",
     "subResourceName": "",
     "timing": 2,
-    "description": "行動開始時、27%の確率で1ターンの間DEFアップを付与。",
+    "description": "行动开始时、27%の确率で1ターンの间DEFアップを付与。",
     "cutin": [],
     "effects": [
       {
@@ -10196,13 +10196,13 @@
   },
   "3025106": {
     "skillId": 3025106,
-    "skillName": "盾となる決意Ⅵ",
+    "skillName": "盾となる决意Ⅵ",
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "icon_andrew_s01",
     "subResourceName": "",
     "timing": 2,
-    "description": "行動開始時、30%の確率で1ターンの間DEFアップを付与。",
+    "description": "行动开始时、30%の确率で1ターンの间DEFアップを付与。",
     "cutin": [],
     "effects": [
       {
@@ -11402,13 +11402,13 @@
   },
   "3059101": {
     "skillId": 3059101,
-    "skillName": "行動派の気質Ⅰ",
+    "skillName": "行动派の気质Ⅰ",
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "icon_maculata_s01",
     "subResourceName": "",
     "timing": 1,
-    "description": "登場時、50%の確率で1ターンの間SPDアップを付与。",
+    "description": "登场时、50%の确率で1ターンの间SPDアップを付与。",
     "cutin": [],
     "effects": [
       {
@@ -11420,13 +11420,13 @@
   },
   "3059102": {
     "skillId": 3059102,
-    "skillName": "行動派の気質Ⅱ",
+    "skillName": "行动派の気质Ⅱ",
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "icon_maculata_s01",
     "subResourceName": "",
     "timing": 1,
-    "description": "登場時、60%の確率で1ターンの間SPDアップを付与。",
+    "description": "登场时、60%の确率で1ターンの间SPDアップを付与。",
     "cutin": [],
     "effects": [
       {
@@ -11438,13 +11438,13 @@
   },
   "3059103": {
     "skillId": 3059103,
-    "skillName": "行動派の気質Ⅲ",
+    "skillName": "行动派の気质Ⅲ",
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "icon_maculata_s01",
     "subResourceName": "",
     "timing": 1,
-    "description": "登場時、70%の確率で1ターンの間SPDアップを付与。",
+    "description": "登场时、70%の确率で1ターンの间SPDアップを付与。",
     "cutin": [],
     "effects": [
       {
@@ -11456,13 +11456,13 @@
   },
   "3059104": {
     "skillId": 3059104,
-    "skillName": "行動派の気質Ⅳ",
+    "skillName": "行动派の気质Ⅳ",
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "icon_maculata_s01",
     "subResourceName": "",
     "timing": 1,
-    "description": "登場時、80%の確率で1ターンの間SPDアップを付与。",
+    "description": "登场时、80%の确率で1ターンの间SPDアップを付与。",
     "cutin": [],
     "effects": [
       {
@@ -11474,13 +11474,13 @@
   },
   "3059105": {
     "skillId": 3059105,
-    "skillName": "行動派の気質Ⅴ",
+    "skillName": "行动派の気质Ⅴ",
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "icon_maculata_s01",
     "subResourceName": "",
     "timing": 1,
-    "description": "登場時、90%の確率で1ターンの間SPDアップを付与。",
+    "description": "登场时、90%の确率で1ターンの间SPDアップを付与。",
     "cutin": [],
     "effects": [
       {
@@ -11492,13 +11492,13 @@
   },
   "3059106": {
     "skillId": 3059106,
-    "skillName": "行動派の気質Ⅵ",
+    "skillName": "行动派の気质Ⅵ",
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "icon_maculata_s01",
     "subResourceName": "",
     "timing": 1,
-    "description": "登場時、1ターンの間SPDアップを付与。",
+    "description": "登场时、1ターンの间SPDアップを付与。",
     "cutin": [],
     "effects": [
       {
