@@ -961,6 +961,16 @@
       "voiceFilename": "",
       "resourceName": "marfik",
       "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 5,
+      "faceType": "d",
+      "serifKey": "SERIF_MARFIK_HERO",
+      "voiceFilename": "",
+      "resourceName": "marfik",
+      "isInHome": true
     }
   ],
   "10151": [
@@ -1426,6 +1436,78 @@
       "serifKey": "SERIF_DIGRAM_TOUCH",
       "voiceFilename": "",
       "resourceName": "digram",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 5,
+      "faceType": "e",
+      "serifKey": "SERIF_DIGRAM_HERO",
+      "voiceFilename": "",
+      "resourceName": "digram",
+      "isInHome": true
+    }
+  ],
+  "10251": [
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 4,
+      "faceType": "b",
+      "serifKey": "SERIF_ANDREW_PLAYER",
+      "voiceFilename": "",
+      "resourceName": "andrew",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 5,
+      "faceType": "e",
+      "serifKey": "SERIF_ANDREW_HERO",
+      "voiceFilename": "",
+      "resourceName": "andrew",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 12,
+      "faceType": "f",
+      "serifKey": "SERIF_ANDREW_TOUCH",
+      "voiceFilename": "",
+      "resourceName": "andrew",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 3,
+      "faceType": "c",
+      "serifKey": "SERIF_ANDREW_DAILY",
+      "voiceFilename": "",
+      "resourceName": "andrew",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 6,
+      "faceType": "f",
+      "serifKey": "SERIF_ANDREW_RELATION",
+      "voiceFilename": "",
+      "resourceName": "andrew",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 11,
+      "faceType": "c",
+      "serifKey": "SERIF_ANDREW_APPRECIATION",
+      "voiceFilename": "",
+      "resourceName": "andrew",
       "isInHome": true
     }
   ],
@@ -2119,6 +2201,68 @@
       "voiceFilename": "",
       "resourceName": "hisaki",
       "isInHome": false
+    }
+  ],
+  "10591": [
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 4,
+      "faceType": "c",
+      "serifKey": "SERIF_MACULATA_PLAYER",
+      "voiceFilename": "",
+      "resourceName": "maculata",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 5,
+      "faceType": "",
+      "serifKey": "SERIF_MACULATA_HERO",
+      "voiceFilename": "",
+      "resourceName": "maculata",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 12,
+      "faceType": "b",
+      "serifKey": "SERIF_MACULATA_TOUCH",
+      "voiceFilename": "",
+      "resourceName": "maculata",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 3,
+      "faceType": "d",
+      "serifKey": "SERIF_MACULATA_DAILY",
+      "voiceFilename": "",
+      "resourceName": "maculata",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 6,
+      "faceType": "e",
+      "serifKey": "SERIF_MACULATA_RELATION",
+      "voiceFilename": "",
+      "resourceName": "maculata",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 11,
+      "faceType": "",
+      "serifKey": "SERIF_MACULATA_APPRECIATION",
+      "voiceFilename": "",
+      "resourceName": "maculata",
+      "isInHome": true
     }
   ]
 }

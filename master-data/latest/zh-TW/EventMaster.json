@@ -153,11 +153,11 @@
   "8": {
     "eventId": 8,
     "chapterId": 412,
-    "lookBackChapterId": 413,
+    "lookBackChapterId": 508,
     "baseResourceName": "Valentine2102",
     "startAt": "2021-02-01 20:00:00",
-    "endAt": "2021-03-22 20:00:00",
-    "canRemember": 0,
+    "endAt": "2021-03-22 14:00:00",
+    "canRemember": 1,
     "eventPortalJson": {
       "bg": "ui_bg_sprite_event_Valentine2102",
       "bgm": "bgm_cyberwars_adv",
