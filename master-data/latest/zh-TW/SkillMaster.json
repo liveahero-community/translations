@@ -3074,7 +3074,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_buffOwn",
     "timing": 0,
-    "description": "敵単体に50%ダメージ。自身に2ターンの間挑発を付与。",
+    "description": "對一個敵人造成攻擊 50% 傷害。賦予自己嘲諷 2 層。",
     "cutin": [
       {
         "info": {
@@ -3104,7 +3104,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_heal",
     "timing": 0,
-    "description": "敵単体に70%ダメージ。70%の確率で1ターンの間ATKダウンを付与。自身に2ターンの間リジェネを付与。",
+    "description": "對一個敵人造成攻擊 70% 傷害。70% 機率賦予防禦力下降 1 層。賦予自己回春 2 層。",
     "cutin": [
       {
         "info": {
@@ -3139,7 +3139,7 @@
     "resourceName": "b_skill_buff",
     "subResourceName": "s_skill_buffOwn",
     "timing": 0,
-    "description": "自身に2ターンの間DEFアップを付与 & ダメージ集約を付与。",
+    "description": "賦予自己防禦力上升 2 層，並賦予自己傷害集中。",
     "cutin": [
       {
         "info": {
@@ -3169,7 +3169,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_heal",
     "timing": 0,
-    "description": "敵単体に70%ダメージ。70%の確率で1ターンの間ATKダウンを付与。自身に2ターンの間リジェネを付与。",
+    "description": "對一個敵人造成攻擊 70% 傷害。70% 機率賦予防禦力下降 1 層。賦予自己回春 2 層。",
     "cutin": [
       {
         "info": {
@@ -4314,7 +4314,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_spdDownTeam",
     "timing": 0,
-    "description": "敵単体に50%ダメージ。50%の確率で1ターンの間SPDダウンを付与。",
+    "description": "對一個敵人造成攻擊 50% 傷害。50% 機率賦予速度下降 1 層。",
     "cutin": [
       {
         "info": {
@@ -4344,7 +4344,7 @@
     "resourceName": "b_skill_spdUp",
     "subResourceName": "",
     "timing": 0,
-    "description": "味方単体に1ターンの間SPDアップを付与。",
+    "description": "賦予自己或友軍速度上升 1 層。",
     "cutin": [
       {
         "info": {
@@ -4369,7 +4369,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_spdUpAll",
     "timing": 0,
-    "description": "敵単体に100%ダメージ。味方全体に1ターンの間SPDアップを付与。",
+    "description": "對一個敵人造成攻擊 100% 傷害。賦予我方全體速度上升 1 層。",
     "cutin": [
       {
         "info": {
@@ -4399,7 +4399,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_spdDownTeam",
     "timing": 0,
-    "description": "敵単体に50%ダメージ。1ターンの間SPDダウンを付与。",
+    "description": "對一個敵人造成攻擊 50% 傷害。賦予速度下降 1 層。",
     "cutin": [
       {
         "info": {
@@ -6383,7 +6383,7 @@
     "resourceName": "b_skill_buff",
     "subResourceName": "s_skill_view",
     "timing": 0,
-    "description": "味方単体に1ターンの間DEFアップを付与。Viewを5000獲得。",
+    "description": "賦予自己或一個友軍防禦力上升 1 層。獲得 5000 View。",
     "cutin": [
       {
         "info": {
@@ -6413,7 +6413,7 @@
     "resourceName": "b_skill_buff",
     "subResourceName": "s_skill_view",
     "timing": 0,
-    "description": "味方単体に1ターンの間DEFアップを付与。Viewを5000獲得。",
+    "description": "賦予自己或一個友軍防禦力上升 1 層。獲得 5000 View。",
     "cutin": [
       {
         "info": {
@@ -6443,7 +6443,7 @@
     "resourceName": "b_skill_buff",
     "subResourceName": "s_skill_view",
     "timing": 0,
-    "description": "味方単体に1ターンの間DEFアップを付与。Viewを5000獲得。",
+    "description": "賦予自己或一個友軍防禦力上升 1 層。獲得 5000 View。",
     "cutin": [
       {
         "info": {
@@ -7403,7 +7403,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体に70%ダメージ+対象と自分のSPDの差だけダメージ量が上昇。",
+    "description": "對一個敵人造成攻擊 70% 傷害，且隨自己與敵方的速度差增加傷害。",
     "cutin": [
       {
         "info": {
@@ -7428,7 +7428,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体に70%ダメージ+対象と自分のSPDの差だけダメージ量が上昇。",
+    "description": "對一個敵人造成攻擊 70% 傷害，且隨自己與敵方的速度差增加傷害。",
     "cutin": [
       {
         "info": {
@@ -7453,7 +7453,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体に70%ダメージ+対象と自分のSPDの差だけダメージ量が上昇。",
+    "description": "對一個敵人造成攻擊 70% 傷害，且隨自己與敵方的速度差增加傷害。",
     "cutin": [
       {
         "info": {
@@ -11408,7 +11408,7 @@
     "resourceName": "icon_maculata_s01",
     "subResourceName": "",
     "timing": 1,
-    "description": "登場時、50%の確率で1ターンの間SPDアップを付与。",
+    "description": "登場時，有 50% 機率賦予自己速度上升 1 層。",
     "cutin": [],
     "effects": [
       {
@@ -11426,7 +11426,7 @@
     "resourceName": "icon_maculata_s01",
     "subResourceName": "",
     "timing": 1,
-    "description": "登場時、60%の確率で1ターンの間SPDアップを付与。",
+    "description": "登場時，有 60% 機率賦予自己速度上升 1 層。",
     "cutin": [],
     "effects": [
       {
@@ -11444,7 +11444,7 @@
     "resourceName": "icon_maculata_s01",
     "subResourceName": "",
     "timing": 1,
-    "description": "登場時、70%の確率で1ターンの間SPDアップを付与。",
+    "description": "登場時，有 70% 機率賦予自己速度上升 1 層。",
     "cutin": [],
     "effects": [
       {
@@ -11462,7 +11462,7 @@
     "resourceName": "icon_maculata_s01",
     "subResourceName": "",
     "timing": 1,
-    "description": "登場時、80%の確率で1ターンの間SPDアップを付与。",
+    "description": "登場時，有 80% 機率賦予自己速度上升 1 層。",
     "cutin": [],
     "effects": [
       {
@@ -11480,7 +11480,7 @@
     "resourceName": "icon_maculata_s01",
     "subResourceName": "",
     "timing": 1,
-    "description": "登場時、90%の確率で1ターンの間SPDアップを付与。",
+    "description": "登場時，有 90% 機率賦予自己速度上升 1 層。",
     "cutin": [],
     "effects": [
       {
@@ -11498,7 +11498,7 @@
     "resourceName": "icon_maculata_s01",
     "subResourceName": "",
     "timing": 1,
-    "description": "登場時、1ターンの間SPDアップを付与。",
+    "description": "登場時，賦予自己速度上升 1 層。",
     "cutin": [],
     "effects": [
       {
@@ -13227,7 +13227,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_buffOwn",
     "timing": 0,
-    "description": "敵単体に25%ダメージ。自身に2ターンの間挑発を付与。（敵専用）",
+    "description": "（敵人專屬）對一名玩家角色攻擊 25% 傷害。賦予自己嘲諷 2 層。",
     "cutin": [
       {
         "info": {
@@ -13257,7 +13257,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_view",
     "timing": 0,
-    "description": "敵単体に70%ダメージ。Viewを3000獲得。（敵専用）",
+    "description": "（敵人專屬）對一名玩家角色造成攻擊 70% 傷害。獲得 3000 View。",
     "cutin": [
       {
         "info": {
@@ -13287,7 +13287,7 @@
     "resourceName": "b_skill_buff",
     "subResourceName": "s_skill_buffOwn",
     "timing": 0,
-    "description": "味方単体に1ターンの間ATKアップを付与。自身に1ターンの間ATKアップを付与。（敵専用）",
+    "description": "（敵人專屬）賦予一名CPU方角色攻擊力上升 1 層。賦予自己攻擊力上升 1 層。",
     "cutin": [
       {
         "info": {
