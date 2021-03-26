@@ -4084,7 +4084,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体に80%ダメージ。",
+    "description": "敌単体に80%ダメージ。",
     "cutin": [
       {
         "info": {
@@ -4109,7 +4109,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "敵単体に80%ダメージ。80%の確率で1ターンの間毒を付与。",
+    "description": "敌単体に80%ダメージ。80%の确率で1ターンの间毒を付与。",
     "cutin": [
       {
         "info": {
@@ -4139,7 +4139,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "敵単体に110%ダメージ。20%の確率で1ターンの間ATKダウンを付与。",
+    "description": "敌単体に110%ダメージ。20%の确率で1ターンの间ATKダウンを付与。",
     "cutin": [
       {
         "info": {
@@ -7317,13 +7317,13 @@
   },
   "2045101": {
     "skillId": 2045101,
-    "skillName": "援護スラッシュ",
+    "skillName": "援护スラッシュ",
     "useView": 0,
     "targetFlag": 2,
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体に55%ダメージ。",
+    "description": "敌単体に55%ダメージ。",
     "cutin": [
       {
         "info": {
@@ -7342,13 +7342,13 @@
   },
   "2045102": {
     "skillId": 2045102,
-    "skillName": "援護スラッシュ+",
+    "skillName": "援护スラッシュ+",
     "useView": 0,
     "targetFlag": 2,
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体に65%ダメージ。",
+    "description": "敌単体に65%ダメージ。",
     "cutin": [
       {
         "info": {
@@ -7367,13 +7367,13 @@
   },
   "2045103": {
     "skillId": 2045103,
-    "skillName": "援護スラッシュ++",
+    "skillName": "援护スラッシュ++",
     "useView": 0,
     "targetFlag": 2,
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体に75%ダメージ。",
+    "description": "敌単体に75%ダメージ。",
     "cutin": [
       {
         "info": {
@@ -11352,7 +11352,7 @@
     "resourceName": "icon_wolfmanShadow_s01",
     "subResourceName": "",
     "timing": 10,
-    "description": "HP基礎値+1%。",
+    "description": "HP基础値+1%。",
     "cutin": [],
     "effects": [
       {
@@ -11370,7 +11370,7 @@
     "resourceName": "icon_wolfmanShadow_s01",
     "subResourceName": "",
     "timing": 10,
-    "description": "HP基礎値+2%。",
+    "description": "HP基础値+2%。",
     "cutin": [],
     "effects": [
       {
@@ -11388,7 +11388,7 @@
     "resourceName": "icon_wolfmanShadow_s01",
     "subResourceName": "",
     "timing": 10,
-    "description": "HP基礎値+3%。",
+    "description": "HP基础値+3%。",
     "cutin": [],
     "effects": [
       {
@@ -11406,7 +11406,7 @@
     "resourceName": "icon_wolfmanShadow_s01",
     "subResourceName": "",
     "timing": 10,
-    "description": "HP基礎値+4%。",
+    "description": "HP基础値+4%。",
     "cutin": [],
     "effects": [
       {
@@ -11424,7 +11424,7 @@
     "resourceName": "icon_wolfmanShadow_s01",
     "subResourceName": "",
     "timing": 10,
-    "description": "HP基礎値+5%。",
+    "description": "HP基础値+5%。",
     "cutin": [],
     "effects": [
       {
@@ -11442,7 +11442,7 @@
     "resourceName": "icon_wolfmanShadow_s01",
     "subResourceName": "",
     "timing": 10,
-    "description": "HP基礎値+6%。",
+    "description": "HP基础値+6%。",
     "cutin": [],
     "effects": [
       {
