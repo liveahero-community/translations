@@ -298,6 +298,32 @@
     "startAt": "2021-03-15 20:00:00",
     "endAt": "2021-03-22 14:00:00"
   },
+  "416": {
+    "chapterId": 416,
+    "groupType": 2,
+    "chapterType": 1,
+    "chapterName": "キャンペーンメイン",
+    "subName": "契約締結-影のウルフマン-",
+    "peepingName": "契約締結メイン",
+    "sortWeight": 1000,
+    "bannerResourceName": "ui_banner_questchoice_campaign_ContractWolfmanEarth2101",
+    "bgResourceName": "ui_bg_sprite_event_ContractWolfmanEarth2101",
+    "startAt": null,
+    "endAt": "2021-04-16 18:00:00"
+  },
+  "417": {
+    "chapterId": 417,
+    "groupType": 2,
+    "chapterType": 1,
+    "chapterName": "キャンペーンフリー",
+    "subName": "契約締結-影のウルフマン-",
+    "peepingName": "契約締結フリー",
+    "sortWeight": 1000,
+    "bannerResourceName": "ui_banner_questchoice_campaign_ContractWolfmanEarth2101",
+    "bgResourceName": "ui_bg_sprite_event_ContractWolfmanEarth2101",
+    "startAt": null,
+    "endAt": "2021-04-09 18:00:00"
+  },
   "501": {
     "chapterId": 501,
     "groupType": 5,

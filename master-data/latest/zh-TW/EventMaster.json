@@ -428,5 +428,66 @@
         "targetStockId": 10431
       }
     ]
+  },
+  "9": {
+    "eventId": 9,
+    "chapterId": 416,
+    "lookBackChapterId": 416,
+    "baseResourceName": "ContractWolfmanShadow2103",
+    "startAt": "2021-03-22 00:00:00",
+    "endAt": "2021-04-16 18:00:00",
+    "canRemember": 0,
+    "eventPortalJson": {
+      "bg": "ui_bg_sprite_event_ContractWolfmanEarth2101",
+      "bgm": "bgm_main",
+      "logo": "ContractWolfmanShadow2103_title",
+      "terms": [
+        {
+          "keys": [
+            "UI_FREE_QUEST"
+          ],
+          "endAt": "2021-04-09 18:00:00"
+        },
+        {
+          "keys": [
+            "UI_MAIN_QUEST",
+            "UI_MISSION",
+            "UI_EXCHANGE"
+          ],
+          "endAt": "2021-04-16 18:00:00"
+        }
+      ],
+      "gachaId": null,
+      "storeId": 8,
+      "questInfos": [
+        {
+          "type": 5,
+          "chapterId": 416
+        },
+        {
+          "type": 6,
+          "chapterId": 417
+        }
+      ],
+      "tutorialKey": "ContractWolfmanShadow",
+      "eventItemIds": [
+        52
+      ],
+      "characterViews": [
+        {
+          "skinId": 0,
+          "stockId": 10451,
+          "cardType": 2,
+          "serifKinds": [
+            27
+          ],
+          "visualType": 1,
+          "resourceName": "wolfmanShadow",
+          "characterName": "影のウルフマン"
+        }
+      ],
+      "salesRegionIds": []
+    },
+    "questBonusJsons": []
   }
 }
