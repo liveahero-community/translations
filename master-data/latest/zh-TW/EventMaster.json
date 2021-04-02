@@ -489,5 +489,16 @@
       "salesRegionIds": []
     },
     "questBonusJsons": []
+  },
+  "10": {
+    "eventId": 10,
+    "chapterId": 418,
+    "lookBackChapterId": 0,
+    "baseResourceName": "2104bombarea",
+    "startAt": "2021-04-02 18:00:00",
+    "endAt": "2021-04-18 18:00:00",
+    "canRemember": 0,
+    "eventPortalJson": null,
+    "questBonusJsons": []
   }
 }
