@@ -12097,7 +12097,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_view",
     "timing": 0,
-    "description": "敵単体に80%ダメージ。Viewを5000獲得。（敵専用）",
+    "description": "敌単体に80%ダメージ。Viewを5000获得。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -12127,7 +12127,7 @@
     "resourceName": "b_skill_buffAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "味方全体に1ターンの間覚醒を付与。（敵専用）",
+    "description": "味方全体に1ターンの间覚醒を付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -12152,7 +12152,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "s_skill_view",
     "timing": 0,
-    "description": "敵全体に90%ダメージ。Viewを10000獲得。（敵専用）",
+    "description": "敌全体に90%ダメージ。Viewを10000获得。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -13670,7 +13670,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体に50%ダメージ。味方全体に100%ダメージ。（敵専用）",
+    "description": "敌単体に50%ダメージ。味方全体に100%ダメージ。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -13700,7 +13700,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_view",
     "timing": 0,
-    "description": "敵単体に110%ダメージ。Viewを10000獲得。（敵専用）",
+    "description": "敌単体に110%ダメージ。Viewを10000获得。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -13730,7 +13730,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵全体に120%ダメージ。（敵専用）",
+    "description": "敌全体に120%ダメージ。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -13755,7 +13755,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体に140%ダメージ。（敵専用）",
+    "description": "敌単体に140%ダメージ。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -13834,7 +13834,7 @@
     "resourceName": "b_skill_cure",
     "subResourceName": "",
     "timing": 2,
-    "description": "行動開始時、デバフを１つ解除。",
+    "description": "行动开始时、デバフを１つ解除。",
     "cutin": [],
     "effects": [
       {
