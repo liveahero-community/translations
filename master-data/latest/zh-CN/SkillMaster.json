@@ -13780,7 +13780,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体に80%ダメージ。70%の確率で1ターンの間DEFダウンを付与。自身に触手が付与されている場合、触手を１つ解除し、もう１度行動をする。（敵専用）",
+    "description": "敌単体に80%ダメージ。70%の确率で1ターンの间DEFダウンを付与。自身に触手が付与されている场合、触手を１つ解除し、もう１度行动をする。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -13820,7 +13820,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵全体に120%ダメージ+自身のバフの数に応じてダメージ量が上昇。（敵専用）",
+    "description": "敌全体に120%ダメージ+自身のバフの数に応じてダメージ量が上升。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -13845,7 +13845,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵全体に50%ダメージ。（敵専用）",
+    "description": "敌全体に50%ダメージ。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -13942,7 +13942,7 @@
     "resourceName": "b_skill_special",
     "subResourceName": "",
     "timing": 4,
-    "description": "ターン開始時、1ターンの間触手×3を付与。",
+    "description": "ターン开始时、1ターンの间触手×3を付与。",
     "cutin": [],
     "effects": [
       {
