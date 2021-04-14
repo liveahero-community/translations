@@ -337,6 +337,32 @@
     "startAt": "2021-04-02 18:00:00",
     "endAt": "2021-04-16 18:00:00"
   },
+  "419": {
+    "chapterId": 419,
+    "groupType": 2,
+    "chapterType": 1,
+    "chapterName": "キャンペーンクエスト",
+    "subName": "漁師からの挑戦状",
+    "peepingName": "漁師からの挑戦状",
+    "sortWeight": 1000,
+    "bannerResourceName": "ui_banner_questchoice2104SeaChallenge",
+    "bgResourceName": "ui_bg_sprite_event_2104SeaChallenge",
+    "startAt": null,
+    "endAt": "2021-04-23 14:00:00"
+  },
+  "420": {
+    "chapterId": 420,
+    "groupType": 2,
+    "chapterType": 1,
+    "chapterName": "育成キャンペーン",
+    "subName": "ヒーロー登竜門",
+    "peepingName": "ヒーロー登竜門",
+    "sortWeight": 1000,
+    "bannerResourceName": "ui_banner_questchoice_traning",
+    "bgResourceName": "bg_sprite_traning_01",
+    "startAt": null,
+    "endAt": "2021-04-23 14:00:00"
+  },
   "501": {
     "chapterId": 501,
     "groupType": 5,

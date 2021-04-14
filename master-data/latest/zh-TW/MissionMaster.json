@@ -95,6 +95,54 @@
       }
     ]
   },
+  "10007": {
+    "missionId": 10007,
+    "missionCategory": 1,
+    "missionTextKey": "MISSION_10007_LABEL",
+    "count": 3,
+    "sortWeight": 1000,
+    "rewards": [
+      {
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 2000,
+        "bonus": 100,
+        "fixAddValue": 0
+      }
+    ]
+  },
+  "10008": {
+    "missionId": 10008,
+    "missionCategory": 1,
+    "missionTextKey": "MISSION_10008_LABEL",
+    "count": 3,
+    "sortWeight": 1000,
+    "rewards": [
+      {
+        "rewardType": 3,
+        "objectId": 30,
+        "objectValue": 2000,
+        "bonus": 100,
+        "fixAddValue": 0
+      }
+    ]
+  },
+  "10009": {
+    "missionId": 10009,
+    "missionCategory": 1,
+    "missionTextKey": "MISSION_10009_LABEL",
+    "count": 5,
+    "sortWeight": 1000,
+    "rewards": [
+      {
+        "rewardType": 3,
+        "objectId": 34,
+        "objectValue": 1,
+        "bonus": 100,
+        "fixAddValue": 0
+      }
+    ]
+  },
   "20001": {
     "missionId": 20001,
     "missionCategory": 2,
@@ -1311,6 +1359,86 @@
       }
     ]
   },
+  "20077": {
+    "missionId": 20077,
+    "missionCategory": 2,
+    "missionTextKey": "MISSION_20077_LABEL",
+    "count": 5,
+    "sortWeight": 800,
+    "rewards": [
+      {
+        "rewardType": 3,
+        "objectId": 34,
+        "objectValue": 5,
+        "bonus": 100,
+        "fixAddValue": 0
+      }
+    ]
+  },
+  "20078": {
+    "missionId": 20078,
+    "missionCategory": 2,
+    "missionTextKey": "MISSION_20078_LABEL",
+    "count": 10,
+    "sortWeight": 800,
+    "rewards": [
+      {
+        "rewardType": 3,
+        "objectId": 10,
+        "objectValue": 1,
+        "bonus": 100,
+        "fixAddValue": 0
+      }
+    ]
+  },
+  "20079": {
+    "missionId": 20079,
+    "missionCategory": 2,
+    "missionTextKey": "MISSION_20079_LABEL",
+    "count": 15,
+    "sortWeight": 800,
+    "rewards": [
+      {
+        "rewardType": 3,
+        "objectId": 29,
+        "objectValue": 1,
+        "bonus": 100,
+        "fixAddValue": 0
+      }
+    ]
+  },
+  "20080": {
+    "missionId": 20080,
+    "missionCategory": 2,
+    "missionTextKey": "MISSION_20080_LABEL",
+    "count": 20,
+    "sortWeight": 800,
+    "rewards": [
+      {
+        "rewardType": 3,
+        "objectId": 10,
+        "objectValue": 1,
+        "bonus": 100,
+        "fixAddValue": 0
+      }
+    ]
+  },
+  "20081": {
+    "missionId": 20081,
+    "missionCategory": 2,
+    "missionTextKey": "MISSION_20081_LABEL",
+    "count": 4,
+    "sortWeight": 800,
+    "rewards": [
+      {
+        "rewardType": 3,
+        "objectId": 10,
+        "objectValue": 1,
+        "bonus": 100,
+        "fixAddValue": 0
+      }
+    ]
+  },
   "30001": {
     "missionId": 30001,
     "missionCategory": 3,
@@ -1855,6 +1983,38 @@
         "rewardType": 3,
         "objectId": 29,
         "objectValue": 1,
+        "bonus": 100,
+        "fixAddValue": 0
+      }
+    ]
+  },
+  "30034": {
+    "missionId": 30034,
+    "missionCategory": 3,
+    "missionTextKey": "MISSION_30034_LABEL",
+    "count": 250,
+    "sortWeight": 1000,
+    "rewards": [
+      {
+        "rewardType": 3,
+        "objectId": 2,
+        "objectValue": 10,
+        "bonus": 100,
+        "fixAddValue": 0
+      }
+    ]
+  },
+  "30035": {
+    "missionId": 30035,
+    "missionCategory": 3,
+    "missionTextKey": "MISSION_30035_LABEL",
+    "count": 300,
+    "sortWeight": 1000,
+    "rewards": [
+      {
+        "rewardType": 3,
+        "objectId": 2,
+        "objectValue": 20,
         "bonus": 100,
         "fixAddValue": 0
       }
