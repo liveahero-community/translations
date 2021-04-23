@@ -522,5 +522,263 @@
     "canRemember": 0,
     "eventPortalJson": null,
     "questBonusJsons": []
+  },
+  "13": {
+    "eventId": 13,
+    "chapterId": 421,
+    "lookBackChapterId": 0,
+    "baseResourceName": "Ruins2104",
+    "startAt": "2021-04-23 00:00:00",
+    "endAt": "2021-05-21 14:00:00",
+    "canRemember": 0,
+    "eventPortalJson": {
+      "bg": "ui_bg_sprite_event_Ruins2104_01",
+      "bgm": "bgm_ruins_adv",
+      "logo": "Ruins2104_title",
+      "terms": [
+        {
+          "keys": [
+            "UI_FREE_QUEST",
+            "UI_SALES"
+          ],
+          "endAt": "2021-05-14 20:00:00"
+        },
+        {
+          "keys": [
+            "UI_MAIN_QUEST",
+            "UI_MISSION",
+            "UI_EXCHANGE"
+          ],
+          "endAt": "2021-05-21 14:00:00"
+        }
+      ],
+      "gachaId": 11,
+      "storeId": 9,
+      "questInfos": [
+        {
+          "type": 5,
+          "chapterId": 421
+        },
+        {
+          "type": 6,
+          "chapterId": 422
+        }
+      ],
+      "tutorialKey": "Ruins2104",
+      "eventItemIds": [
+        64
+      ],
+      "characterViews": [
+        {
+          "skinId": 0,
+          "stockId": 10142,
+          "cardType": 1,
+          "serifKinds": [
+            27,
+            28
+          ],
+          "visualType": 1,
+          "resourceName": "marfikRuins2104",
+          "characterName": "マルフィク"
+        },
+        {
+          "skinId": 0,
+          "stockId": 10621,
+          "cardType": 2,
+          "serifKinds": [
+            27,
+            28
+          ],
+          "visualType": 1,
+          "resourceName": "alphecca",
+          "characterName": "アルフェッカ"
+        },
+        {
+          "skinId": 0,
+          "stockId": 10611,
+          "cardType": 2,
+          "serifKinds": [
+            27,
+            28
+          ],
+          "visualType": 1,
+          "resourceName": "rutilix",
+          "characterName": "ルティリクス"
+        }
+      ],
+      "salesRegionIds": [
+        206
+      ]
+    },
+    "questBonusJsons": [
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 64,
+        "bonusValue": 40,
+        "targetStockId": 10142
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 64,
+        "bonusValue": 40,
+        "targetStockId": 10611
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 64,
+        "bonusValue": 30,
+        "targetStockId": 10621
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 64,
+        "bonusValue": 10,
+        "targetStockId": 10011
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 64,
+        "bonusValue": 10,
+        "targetStockId": 10451
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 64,
+        "bonusValue": 20,
+        "targetStockId": 10251
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 64,
+        "bonusValue": 10,
+        "targetStockId": 10591
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 64,
+        "bonusValue": 10,
+        "targetStockId": 10031
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 64,
+        "bonusValue": 20,
+        "targetStockId": 10141
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 64,
+        "bonusValue": 20,
+        "targetStockId": 10102
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 64,
+        "bonusValue": 10,
+        "targetStockId": 10122
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 64,
+        "bonusValue": 10,
+        "targetStockId": 10111
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 64,
+        "bonusValue": 10,
+        "targetStockId": 10531
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 64,
+        "bonusValue": 10,
+        "targetStockId": 10141
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 64,
+        "bonusValue": 10,
+        "targetStockId": 10611
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 64,
+        "bonusValue": 10,
+        "targetStockId": 10621
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 64,
+        "bonusValue": 10,
+        "targetStockId": 10451
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 64,
+        "bonusValue": 10,
+        "targetStockId": 10251
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 64,
+        "bonusValue": 10,
+        "targetStockId": 10591
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 64,
+        "bonusValue": 10,
+        "targetStockId": 10031
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 64,
+        "bonusValue": 10,
+        "targetStockId": 10011
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 64,
+        "bonusValue": 10,
+        "targetStockId": 10531
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 64,
+        "bonusValue": 10,
+        "targetStockId": 10111
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 64,
+        "bonusValue": 10,
+        "targetStockId": 19991
+      }
+    ]
   }
 }
