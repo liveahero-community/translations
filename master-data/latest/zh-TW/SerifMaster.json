@@ -973,6 +973,58 @@
       "isInHome": true
     }
   ],
+  "10142": [
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 4,
+      "faceType": "",
+      "serifKey": "SERIF_MARFIKRUINS2104_PLAYER",
+      "voiceFilename": "",
+      "resourceName": "marfikRuins2104",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 5,
+      "faceType": "f",
+      "serifKey": "SERIF_MARFIKRUINS2104_HERO",
+      "voiceFilename": "",
+      "resourceName": "marfikRuins2104",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 12,
+      "faceType": "b",
+      "serifKey": "SERIF_MARFIKRUINS2104_TOUCH",
+      "voiceFilename": "",
+      "resourceName": "marfikRuins2104",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 27,
+      "faceType": "c",
+      "serifKey": "SERIF_MARFIKRUINS2104_EVENTA",
+      "voiceFilename": "",
+      "resourceName": "marfikRuins2104",
+      "isInHome": false
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 28,
+      "faceType": "d",
+      "serifKey": "SERIF_MARFIKRUINS2104_EVENTB",
+      "voiceFilename": "",
+      "resourceName": "marfikRuins2104",
+      "isInHome": false
+    }
+  ],
   "10151": [
     {
       "cardType": 2,
@@ -2335,6 +2387,170 @@
       "voiceFilename": "",
       "resourceName": "maculata",
       "isInHome": true
+    }
+  ],
+  "10611": [
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 4,
+      "faceType": "f",
+      "serifKey": "SERIF_RUTILIX_PLAYER",
+      "voiceFilename": "",
+      "resourceName": "rutilix",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 5,
+      "faceType": "",
+      "serifKey": "SERIF_RUTILIX_HERO",
+      "voiceFilename": "",
+      "resourceName": "rutilix",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 12,
+      "faceType": "b",
+      "serifKey": "SERIF_RUTILIX_TOUCH",
+      "voiceFilename": "",
+      "resourceName": "rutilix",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 3,
+      "faceType": "g",
+      "serifKey": "SERIF_RUTILIX_DAILY",
+      "voiceFilename": "",
+      "resourceName": "rutilix",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 6,
+      "faceType": "e",
+      "serifKey": "SERIF_RUTILIX_RELATION",
+      "voiceFilename": "",
+      "resourceName": "rutilix",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 11,
+      "faceType": "c",
+      "serifKey": "SERIF_RUTILIX_APPRECIATION",
+      "voiceFilename": "",
+      "resourceName": "rutilix",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 27,
+      "faceType": "",
+      "serifKey": "SERIF_RUTILIX_EVENTA",
+      "voiceFilename": "",
+      "resourceName": "rutilix",
+      "isInHome": false
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 28,
+      "faceType": "g",
+      "serifKey": "SERIF_RUTILIX_EVENTB",
+      "voiceFilename": "",
+      "resourceName": "rutilix",
+      "isInHome": false
+    }
+  ],
+  "10621": [
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 4,
+      "faceType": "c",
+      "serifKey": "SERIF_ALPHECCA_PLAYER",
+      "voiceFilename": "",
+      "resourceName": "alphecca",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 5,
+      "faceType": "f",
+      "serifKey": "SERIF_ALPHECCA_HERO",
+      "voiceFilename": "",
+      "resourceName": "alphecca",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 12,
+      "faceType": "c",
+      "serifKey": "SERIF_ALPHECCA_TOUCH",
+      "voiceFilename": "",
+      "resourceName": "alphecca",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 3,
+      "faceType": "c",
+      "serifKey": "SERIF_ALPHECCA_DAILY",
+      "voiceFilename": "",
+      "resourceName": "alphecca",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 6,
+      "faceType": "e",
+      "serifKey": "SERIF_ALPHECCA_RELATION",
+      "voiceFilename": "",
+      "resourceName": "alphecca",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 11,
+      "faceType": "",
+      "serifKey": "SERIF_ALPHECCA_APPRECIATION",
+      "voiceFilename": "",
+      "resourceName": "alphecca",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 27,
+      "faceType": "c",
+      "serifKey": "SERIF_ALPHECCA_EVENTA",
+      "voiceFilename": "",
+      "resourceName": "alphecca",
+      "isInHome": false
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 28,
+      "faceType": "f",
+      "serifKey": "SERIF_ALPHECCA_EVENTB",
+      "voiceFilename": "",
+      "resourceName": "alphecca",
+      "isInHome": false
     }
   ]
 }
