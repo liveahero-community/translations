@@ -177,36 +177,36 @@
     "statusId": 30,
     "statusName": "物品效果",
     "isGoodStatus": 1,
-    "description": "アイテムによって発動する効果。"
+    "description": "藉由物品發動的效果。"
   },
   "31": {
     "statusId": 31,
     "statusName": "物品效果：生命提升",
     "isGoodStatus": 1,
-    "description": "アイテムによってHPが上昇する。"
+    "description": "藉由物品使生命提升。"
   },
   "32": {
     "statusId": 32,
     "statusName": "物品效果：攻擊力提升",
     "isGoodStatus": 1,
-    "description": "アイテムによってATKが上昇する。"
+    "description": "藉由物品使攻擊力提升。"
   },
   "33": {
     "statusId": 33,
     "statusName": "物品效果：承受傷害減少",
     "isGoodStatus": 1,
-    "description": "アイテムによって被ダメージが減少する。"
+    "description": "藉由物品使被動傷害減少。"
   },
   "34": {
     "statusId": 34,
     "statusName": "炸裂",
     "isGoodStatus": 0,
-    "description": "ダメージを受けたときに炸裂の作成者のATK基礎値の40%のダメージを受ける。"
+    "description": "該角色若受到傷害而導致爆炸，傷害源將受到自身攻擊基礎值的 40% 傷害。"
   },
   "35": {
     "statusId": 35,
     "statusName": "触手",
     "isGoodStatus": 1,
-    "description": "カイブツの触手。"
+    "description": "怪物的觸手。"
   }
 }
