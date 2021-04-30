@@ -919,7 +919,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "对一个敌人造成 60% 伤害。60% 机率赋予攻击力下降 1 层。",
+    "description": "对一个敌人造成 60% 伤害。60% 机率赋予防御力下降 1 层。",
     "cutin": [
       {
         "info": {
@@ -4689,7 +4689,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "对一个敌人造成攻击 180% 伤害。赋予攻击力下降 1 层。解除 1 个增益效果。",
+    "description": "对一个敌人造成攻击 180% 伤害。赋予防御力下降 1 层。解除 1 个增益效果。",
     "cutin": [
       {
         "info": {
@@ -4724,7 +4724,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "对一个敌人造成攻击 180% 伤害。赋予攻击力下降 1 层。解除 2 个增益效果。",
+    "description": "对一个敌人造成攻击 180% 伤害。赋予防御力下降 1 层。解除 2 个增益效果。",
     "cutin": [
       {
         "info": {
