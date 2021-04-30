@@ -539,7 +539,8 @@
         {
           "keys": [
             "UI_FREE_QUEST",
-            "UI_SALES"
+            "UI_SALES",
+            "UI_DUNGEON"
           ],
           "endAt": "2021-05-14 20:00:00"
         },
@@ -562,6 +563,10 @@
         {
           "type": 6,
           "chapterId": 422
+        },
+        {
+          "type": 2,
+          "chapterId": 423
         }
       ],
       "tutorialKey": "Ruins2104",
