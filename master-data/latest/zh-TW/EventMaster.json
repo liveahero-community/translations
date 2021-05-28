@@ -526,11 +526,11 @@
   "13": {
     "eventId": 13,
     "chapterId": 421,
-    "lookBackChapterId": 0,
+    "lookBackChapterId": 509,
     "baseResourceName": "Ruins2104",
     "startAt": "2021-04-23 00:00:00",
     "endAt": "2021-05-21 14:00:00",
-    "canRemember": 0,
+    "canRemember": 1,
     "eventPortalJson": {
       "bg": "ui_bg_sprite_event_Ruins2104_01",
       "bgm": "bgm_ruins_adv",
@@ -778,6 +778,213 @@
         "type": 3,
         "class": "SidekickQuestRewardBonus",
         "objectId": 64,
+        "bonusValue": 10,
+        "targetStockId": 19991
+      }
+    ]
+  },
+  "14": {
+    "eventId": 14,
+    "chapterId": 425,
+    "lookBackChapterId": 0,
+    "baseResourceName": "Chasers2105",
+    "startAt": null,
+    "endAt": "2021-06-25 14:00:00",
+    "canRemember": 0,
+    "eventPortalJson": {
+      "bg": "ui_bg_sprite_event_Chasers2105",
+      "bgm": "bgm_chasers_adv",
+      "logo": "Chasers2105_title",
+      "terms": [
+        {
+          "keys": [
+            "UI_FREE_QUEST",
+            "UI_SALES"
+          ],
+          "endAt": "2021-06-18 20:00:00"
+        },
+        {
+          "keys": [
+            "UI_MAIN_QUEST",
+            "UI_MISSION",
+            "UI_EXCHANGE"
+          ],
+          "endAt": "2021-06-25 14:00:00"
+        }
+      ],
+      "gachaId": 12,
+      "storeId": 10,
+      "questInfos": [
+        {
+          "type": 5,
+          "chapterId": 425
+        },
+        {
+          "type": 6,
+          "chapterId": 426
+        }
+      ],
+      "tutorialKey": "Chasers2105",
+      "eventItemIds": [
+        67
+      ],
+      "characterViews": [
+        {
+          "skinId": 0,
+          "stockId": 10262,
+          "cardType": 1,
+          "serifKinds": [
+            27,
+            28
+          ],
+          "visualType": 1,
+          "resourceName": "alchibaChasers2105",
+          "characterName": "アルキバ"
+        },
+        {
+          "skinId": 0,
+          "stockId": 10631,
+          "cardType": 2,
+          "serifKinds": [
+            27,
+            28
+          ],
+          "visualType": 1,
+          "resourceName": "shaft",
+          "characterName": "シャフト"
+        },
+        {
+          "skinId": 0,
+          "stockId": 10641,
+          "cardType": 2,
+          "serifKinds": [
+            27,
+            28
+          ],
+          "visualType": 1,
+          "resourceName": "kalaski",
+          "characterName": "カラスキ"
+        },
+        {
+          "skinId": 0,
+          "stockId": 10651,
+          "cardType": 1,
+          "serifKinds": [
+            27,
+            28
+          ],
+          "visualType": 1,
+          "resourceName": "vulpecula",
+          "characterName": "ウルペクラ"
+        }
+      ],
+      "salesRegionIds": [
+        207
+      ]
+    },
+    "questBonusJsons": [
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 67,
+        "bonusValue": 40,
+        "targetStockId": 10262
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 67,
+        "bonusValue": 10,
+        "targetStockId": 10021
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 67,
+        "bonusValue": 40,
+        "targetStockId": 10631
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 67,
+        "bonusValue": 30,
+        "targetStockId": 10641
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 67,
+        "bonusValue": 20,
+        "targetStockId": 10611
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 67,
+        "bonusValue": 20,
+        "targetStockId": 10142
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 67,
+        "bonusValue": 10,
+        "targetStockId": 10261
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 67,
+        "bonusValue": 10,
+        "targetStockId": 10621
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 67,
+        "bonusValue": 10,
+        "targetStockId": 10631
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 67,
+        "bonusValue": 20,
+        "targetStockId": 10641
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 67,
+        "bonusValue": 10,
+        "targetStockId": 10021
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 67,
+        "bonusValue": 10,
+        "targetStockId": 10611
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 67,
+        "bonusValue": 10,
+        "targetStockId": 10621
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 67,
+        "bonusValue": 10,
+        "targetStockId": 10261
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 67,
         "bonusValue": 10,
         "targetStockId": 19991
       }

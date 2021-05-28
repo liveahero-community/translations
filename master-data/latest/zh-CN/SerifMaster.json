@@ -1625,6 +1625,58 @@
       "isInHome": true
     }
   ],
+  "10262": [
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 4,
+      "faceType": "c",
+      "serifKey": "SERIF_ALCHIBACHASERS2105_PLAYER",
+      "voiceFilename": "",
+      "resourceName": "alchibaChasers2105",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 5,
+      "faceType": "e",
+      "serifKey": "SERIF_ALCHIBACHASERS2105_HERO",
+      "voiceFilename": "",
+      "resourceName": "alchibaChasers2105",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 12,
+      "faceType": "c",
+      "serifKey": "SERIF_ALCHIBACHASERS2105_TOUCH",
+      "voiceFilename": "",
+      "resourceName": "alchibaChasers2105",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 27,
+      "faceType": "",
+      "serifKey": "SERIF_ALCHIBACHASERS2105_EVENTA",
+      "voiceFilename": "",
+      "resourceName": "alchibaChasers2105",
+      "isInHome": false
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 28,
+      "faceType": "c",
+      "serifKey": "SERIF_ALCHIBACHASERS2105_EVENTB",
+      "voiceFilename": "",
+      "resourceName": "alchibaChasers2105",
+      "isInHome": false
+    }
+  ],
   "10271": [
     {
       "cardType": 1,
@@ -2550,6 +2602,192 @@
       "serifKey": "SERIF_ALPHECCA_EVENTB",
       "voiceFilename": "",
       "resourceName": "alphecca",
+      "isInHome": false
+    }
+  ],
+  "10631": [
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 4,
+      "faceType": "c",
+      "serifKey": "SERIF_SHAFT_PLAYER",
+      "voiceFilename": "",
+      "resourceName": "shaft",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 5,
+      "faceType": "e",
+      "serifKey": "SERIF_SHAFT_HERO",
+      "voiceFilename": "",
+      "resourceName": "shaft",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 12,
+      "faceType": "b",
+      "serifKey": "SERIF_SHAFT_TOUCH",
+      "voiceFilename": "",
+      "resourceName": "shaft",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 3,
+      "faceType": "f",
+      "serifKey": "SERIF_SHAFT_DAILY",
+      "voiceFilename": "",
+      "resourceName": "shaft",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 6,
+      "faceType": "",
+      "serifKey": "SERIF_SHAFT_RELATION",
+      "voiceFilename": "",
+      "resourceName": "shaft",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 11,
+      "faceType": "c",
+      "serifKey": "SERIF_SHAFT_APPRECIATION",
+      "voiceFilename": "",
+      "resourceName": "shaft",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 27,
+      "faceType": "",
+      "serifKey": "SERIF_SHAFT_EVENTA",
+      "voiceFilename": "",
+      "resourceName": "shaft",
+      "isInHome": false
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 28,
+      "faceType": "e",
+      "serifKey": "SERIF_SHAFT_EVENTB",
+      "voiceFilename": "",
+      "resourceName": "shaft",
+      "isInHome": false
+    }
+  ],
+  "10641": [
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 4,
+      "faceType": "c",
+      "serifKey": "SERIF_KALASKI_PLAYER",
+      "voiceFilename": "",
+      "resourceName": "kalaski",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 5,
+      "faceType": "",
+      "serifKey": "SERIF_KALASKI_HERO",
+      "voiceFilename": "",
+      "resourceName": "kalaski",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 12,
+      "faceType": "b",
+      "serifKey": "SERIF_KALASKI_TOUCH",
+      "voiceFilename": "",
+      "resourceName": "kalaski",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 3,
+      "faceType": "",
+      "serifKey": "SERIF_KALASKI_DAILY",
+      "voiceFilename": "",
+      "resourceName": "kalaski",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 6,
+      "faceType": "e",
+      "serifKey": "SERIF_KALASKI_RELATION",
+      "voiceFilename": "",
+      "resourceName": "kalaski",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 11,
+      "faceType": "c",
+      "serifKey": "SERIF_KALASKI_APPRECIATION",
+      "voiceFilename": "",
+      "resourceName": "kalaski",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 27,
+      "faceType": "",
+      "serifKey": "SERIF_KALASKI_EVENTA",
+      "voiceFilename": "",
+      "resourceName": "kalaski",
+      "isInHome": false
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 28,
+      "faceType": "d",
+      "serifKey": "SERIF_KALASKI_EVENTB",
+      "voiceFilename": "",
+      "resourceName": "kalaski",
+      "isInHome": false
+    }
+  ],
+  "10651": [
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 27,
+      "faceType": "c",
+      "serifKey": "SERIF_VULPECULA_EVENTA",
+      "voiceFilename": "",
+      "resourceName": "vulpecula",
+      "isInHome": false
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 28,
+      "faceType": "",
+      "serifKey": "SERIF_VULPECULA_EVENTB",
+      "voiceFilename": "",
+      "resourceName": "vulpecula",
       "isInHome": false
     }
   ]
