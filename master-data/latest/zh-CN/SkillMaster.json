@@ -18685,7 +18685,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_buffOwn",
     "timing": 0,
-    "description": "敵単体に120%ダメージ。バフを１つ解除。（敵専用）",
+    "description": "敌単体に120%ダメージ。バフを１つ解除。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -18779,13 +18779,13 @@
   },
   "4066105": {
     "skillId": 4066105,
-    "skillName": "違法配信",
+    "skillName": "违法配信",
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "b_skill_view",
     "subResourceName": "",
     "timing": 0,
-    "description": "Viewを5000獲得。（敵専用）",
+    "description": "Viewを5000获得。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -18813,7 +18813,7 @@
     "resourceName": "b_skill_buff",
     "subResourceName": "",
     "timing": 0,
-    "description": "ボスに1回分の無敵を付与。Viewを6000獲得。（敵専用）",
+    "description": "ボスに1回分の无敌を付与。Viewを6000获得。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -18849,7 +18849,7 @@
     "resourceName": "b_skill_buff",
     "subResourceName": "",
     "timing": 0,
-    "description": "ボスに1回の行動の間ATKアップ×2を付与。Viewを10000獲得。（敵専用）",
+    "description": "ボスに1回の行动の间ATKアップ×2を付与。Viewを10000获得。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -18887,13 +18887,13 @@
   },
   "4066108": {
     "skillId": 4066108,
-    "skillName": "増援要請",
+    "skillName": "増援要请",
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "b_skill_healAll",
     "subResourceName": "s_skill_antiBuffTeam",
     "timing": 0,
-    "description": "味方全体に100%のHPで復活。自身に1回分のDEFアップを付与。Viewを4000獲得。（敵専用）",
+    "description": "味方全体に100%のHPで复活。自身に1回分のDEFアップを付与。Viewを4000获得。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -18937,7 +18937,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵全体に120%ダメージ。（敵専用）",
+    "description": "敌全体に120%ダメージ。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -18965,7 +18965,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_view",
     "timing": 0,
-    "description": "敵全体に20%ダメージ。Viewを5000獲得。（敵専用）",
+    "description": "敌全体に20%ダメージ。Viewを5000获得。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -19001,7 +19001,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "s_skill_view",
     "timing": 0,
-    "description": "味方全体に50%ダメージ。（敵専用）",
+    "description": "味方全体に50%ダメージ。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -19029,7 +19029,7 @@
     "resourceName": "b_skill_buff",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵全体に20%ダメージ。ボスに1回の行動の間ATKアップ×2を付与。Viewを5000獲得。（敵専用）",
+    "description": "敌全体に20%ダメージ。ボスに1回の行动の间ATKアップ×2を付与。Viewを5000获得。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -19081,7 +19081,7 @@
     "resourceName": "b_skill_buff",
     "subResourceName": "",
     "timing": 0,
-    "description": "ボスに2回分の無敵を付与。Viewを10000獲得。（敵専用）",
+    "description": "ボスに2回分の无敌を付与。Viewを10000获得。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -19401,7 +19401,7 @@
     "resourceName": "b_skill_special",
     "subResourceName": "",
     "timing": 4,
-    "description": "味方を対象にするスキルはボスを対象にする。（敵専用）",
+    "description": "味方を対象にするスキルはボスを対象にする。（敌専用）",
     "cutin": [],
     "effects": [
       {
@@ -19416,13 +19416,13 @@
   },
   "6070002": {
     "skillId": 6070002,
-    "skillName": "傭兵の絆",
+    "skillName": "佣兵の绊",
     "useView": 0,
     "targetFlag": 1,
     "resourceName": "b_skill_buff",
     "subResourceName": "s_skill_antiBuffTeam",
     "timing": 8,
-    "description": "ダメージを受けた時、ボスのHPを自身の基礎ATKの30%回復＆2回の行動の間View消費量-2000を付与＆ATKアップを1つ解除。",
+    "description": "ダメージを受けた时、ボスのHPを自身の基础ATKの30%回复＆2回の行动の间View消费量-2000を付与＆ATKアップを1つ解除。",
     "cutin": [],
     "effects": [
       {
@@ -19467,7 +19467,7 @@
     "resourceName": "b_skill_cure",
     "subResourceName": "",
     "timing": 3,
-    "description": "行動終了時、毒と火傷をすべて解除。（敵専用）",
+    "description": "行动终了时、毒と火伤をすべて解除。（敌専用）",
     "cutin": [],
     "effects": [
       {
@@ -19498,13 +19498,13 @@
   },
   "6070004": {
     "skillId": 6070004,
-    "skillName": "リーダーの証",
+    "skillName": "リーダーの证",
     "useView": 0,
     "targetFlag": 3,
     "resourceName": "b_skill_special",
     "subResourceName": "",
     "timing": 3,
-    "description": "味方が行う支援行動は自身を対象にする。（敵専用）",
+    "description": "味方が行う支援行动は自身を対象にする。（敌専用）",
     "cutin": [],
     "effects": [
       {
@@ -19525,7 +19525,7 @@
     "resourceName": "b_skill_view",
     "subResourceName": "",
     "timing": 4,
-    "description": "ダメージを受けた時、Viewを3000獲得。",
+    "description": "ダメージを受けた时、Viewを3000获得。",
     "cutin": [],
     "effects": [
       {
