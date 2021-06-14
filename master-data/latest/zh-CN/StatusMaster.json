@@ -232,5 +232,11 @@
     "statusName": "View消费+4000",
     "isGoodStatus": 0,
     "description": "Viewの消费を+4000する。"
+  },
+  "40": {
+    "statusId": 40,
+    "statusName": "行動停止",
+    "isGoodStatus": 0,
+    "description": "そのターン、行動が出来なくなる。"
   }
 }
