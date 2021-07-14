@@ -1915,6 +1915,68 @@
       "isInHome": true
     }
   ],
+  "10311": [
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 4,
+      "faceType": "c",
+      "serifKey": "SERIF_MONOMASA_PLAYER",
+      "voiceFilename": "",
+      "resourceName": "monomasa",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 5,
+      "faceType": "",
+      "serifKey": "SERIF_MONOMASA_HERO",
+      "voiceFilename": "",
+      "resourceName": "monomasa",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 12,
+      "faceType": "c",
+      "serifKey": "SERIF_MONOMASA_TOUCH",
+      "voiceFilename": "",
+      "resourceName": "monomasa",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 3,
+      "faceType": "c",
+      "serifKey": "SERIF_MONOMASA_DAILY",
+      "voiceFilename": "",
+      "resourceName": "monomasa",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 6,
+      "faceType": "",
+      "serifKey": "SERIF_MONOMASA_RELATION",
+      "voiceFilename": "",
+      "resourceName": "monomasa",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 11,
+      "faceType": "e",
+      "serifKey": "SERIF_MONOMASA_APPRECIATION",
+      "voiceFilename": "",
+      "resourceName": "monomasa",
+      "isInHome": true
+    }
+  ],
   "10321": [
     {
       "cardType": 2,
@@ -2789,6 +2851,100 @@
       "voiceFilename": "",
       "resourceName": "vulpecula",
       "isInHome": false
+    }
+  ],
+  "10711": [
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 3,
+      "faceType": "",
+      "serifKey": "SERIF_MELIDE_DAILY",
+      "voiceFilename": "",
+      "resourceName": "melide",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 6,
+      "faceType": "c",
+      "serifKey": "SERIF_MELIDE_RELATION",
+      "voiceFilename": "",
+      "resourceName": "melide",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 11,
+      "faceType": "f",
+      "serifKey": "SERIF_MELIDE_APPRECIATION",
+      "voiceFilename": "",
+      "resourceName": "melide",
+      "isInHome": true
+    }
+  ],
+  "10721": [
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 4,
+      "faceType": "c",
+      "serifKey": "SERIF_YOSHIORI_PLAYER",
+      "voiceFilename": "",
+      "resourceName": "yoshiori",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 5,
+      "faceType": "",
+      "serifKey": "SERIF_YOSHIORI_HERO",
+      "voiceFilename": "",
+      "resourceName": "yoshiori",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 12,
+      "faceType": "g",
+      "serifKey": "SERIF_YOSHIORI_TOUCH",
+      "voiceFilename": "",
+      "resourceName": "yoshiori",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 3,
+      "faceType": "d",
+      "serifKey": "SERIF_YOSHIORI_DAILY",
+      "voiceFilename": "",
+      "resourceName": "yoshiori",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 6,
+      "faceType": "",
+      "serifKey": "SERIF_YOSHIORI_RELATION",
+      "voiceFilename": "",
+      "resourceName": "yoshiori",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 11,
+      "faceType": "i",
+      "serifKey": "SERIF_YOSHIORI_APPRECIATION",
+      "voiceFilename": "",
+      "resourceName": "yoshiori",
+      "isInHome": true
     }
   ]
 }

@@ -786,11 +786,11 @@
   "14": {
     "eventId": 14,
     "chapterId": 425,
-    "lookBackChapterId": 0,
-    "baseResourceName": "Chasers2105_epilogue",
+    "lookBackChapterId": 510,
+    "baseResourceName": "Chasers2105",
     "startAt": null,
     "endAt": "2021-06-28 14:00:00",
-    "canRemember": 0,
+    "canRemember": 1,
     "eventPortalJson": {
       "bg": "ui_bg_sprite_event_Chasers2105",
       "bgm": "bgm_chasers_adv",
@@ -1016,6 +1016,17 @@
     "baseResourceName": "2106Shinrin",
     "startAt": "2021-06-11 00:00:00",
     "endAt": "2021-07-12 14:00:00",
+    "canRemember": 0,
+    "eventPortalJson": null,
+    "questBonusJsons": []
+  },
+  "17": {
+    "eventId": 17,
+    "chapterId": 104,
+    "lookBackChapterId": 0,
+    "baseResourceName": "2107Main4",
+    "startAt": null,
+    "endAt": "2021-08-12 14:00:00",
     "canRemember": 0,
     "eventPortalJson": null,
     "questBonusJsons": []
