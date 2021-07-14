@@ -81,7 +81,7 @@
     "statusId": 14,
     "statusName": "モザイク（馬賽克磚）",
     "isGoodStatus": 0,
-    "description": "行動時的 View 的增加量變為一半。"
+    "description": "行動時的 View 值增加 0 。"
   },
   "15": {
     "statusId": 15,
@@ -121,9 +121,9 @@
   },
   "21": {
     "statusId": 21,
-    "statusName": "免疫",
+    "statusName": "弱化抵抗",
     "isGoodStatus": 1,
-    "description": "敵方賦予的減益效果無效。"
+    "description": "被賦予減益效果的機率少 20%。"
   },
   "22": {
     "statusId": 22,
@@ -225,18 +225,18 @@
     "statusId": 38,
     "statusName": "View消費-2000",
     "isGoodStatus": 1,
-    "description": "Viewの消費を-2000する。"
+    "description": "技能所需的 View 費用減少 2000。"
   },
   "39": {
     "statusId": 39,
     "statusName": "View消費+4000",
     "isGoodStatus": 0,
-    "description": "Viewの消費を+4000する。"
+    "description": "技能所需的 View 費用增加 4000。"
   },
   "40": {
     "statusId": 40,
     "statusName": "行動停止",
     "isGoodStatus": 0,
-    "description": "そのターン、行動が出来なくなる。"
+    "description": "該回合變得無法行動。"
   }
 }
