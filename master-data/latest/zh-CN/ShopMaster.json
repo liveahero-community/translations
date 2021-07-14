@@ -343,7 +343,7 @@
           "productId": 220029,
           "storeId": 1,
           "storeProductNo": 15,
-          "sortWeight": 1000,
+          "sortWeight": 500,
           "exchangeLimit": 1,
           "startAt": null,
           "endAt": null,
@@ -3346,28 +3346,6 @@
             "rewardType": 3,
             "objectId": 35,
             "objectValue": 150
-          },
-          "currency": {
-            "currencyType": 3,
-            "objectId": 68,
-            "objectValue": 1
-          },
-          "condition": []
-        },
-        {
-          "productId": 220362,
-          "storeId": 11,
-          "storeProductNo": 9,
-          "sortWeight": 1000,
-          "exchangeLimit": 0,
-          "startAt": null,
-          "endAt": null,
-          "resetType": 4,
-          "resetDetail": null,
-          "product": {
-            "rewardType": 3,
-            "objectId": 35,
-            "objectValue": 250
           },
           "currency": {
             "currencyType": 3,
