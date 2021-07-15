@@ -859,7 +859,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_spdDownTeam",
     "timing": 0,
-    "description": "對一個敵人造成攻擊 70% 傷害。50%機率賦予速度下降 1 層。",
+    "description": "對一個敵人造成攻擊 70% 傷害。50% 機率賦予速度下降 1 層。",
     "cutin": [
       {
         "info": {
@@ -5034,7 +5034,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_buffOwn",
     "timing": 0,
-    "description": "對一個敵人造成攻擊 160% 傷害。在「攻擊姿態」時，傷害 1.5 倍。對自己造成最大生命值 51%傷害，並獲得隱身 1 層。在「防禦姿態」時，賦予自己無敵 1 層。",
+    "description": "對一個敵人造成攻擊 160% 傷害。在「攻擊姿態」時，傷害 1.5 倍。對自己造成最大生命值 51% 傷害，並獲得隱身 1 層。在「防禦姿態」時，賦予自己無敵 1 層。",
     "cutin": [
       {
         "info": {
@@ -5102,7 +5102,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_buffOwn",
     "timing": 0,
-    "description": "對一個敵人造成攻擊 180% 傷害。在「攻擊姿態」時，傷害 1.5 倍。對自己造成最大生命值 51%傷害，並獲得隱身 1 層。在「防禦姿態」時，賦予自己無敵 1 層。",
+    "description": "對一個敵人造成攻擊 180% 傷害。在「攻擊姿態」時，傷害 1.5 倍。對自己造成最大生命值 51% 傷害，並獲得隱身 1 層。在「防禦姿態」時，賦予自己無敵 1 層。",
     "cutin": [
       {
         "info": {
@@ -18602,7 +18602,7 @@
     "resourceName": "b_skill_buff",
     "subResourceName": "",
     "timing": 0,
-    "description": "（敵人專屬）賦予CPU方全體攻擊力上升 1 層。",
+    "description": "（敵人專屬）賦予 CPU 方全體攻擊力上升 1 層。",
     "cutin": [
       {
         "info": {
@@ -18631,7 +18631,7 @@
     "resourceName": "b_skill_buffAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "（敵人專屬）賦予CPU方全體防禦力上升 1 層。",
+    "description": "（敵人專屬）賦予 CPU 方全體防禦力上升 1 層。",
     "cutin": [
       {
         "info": {
@@ -19456,7 +19456,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_buffAll",
     "timing": 0,
-    "description": "（敵人專屬）對一名玩家角色攻擊 50% 傷害。賦予所有CPU方角色攻擊力上升 1 層。",
+    "description": "（敵人專屬）對一名玩家角色攻擊 50% 傷害。賦予所有 CPU 方角色攻擊力上升 1 層。",
     "cutin": [
       {
         "info": {
@@ -19522,7 +19522,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_buffAll",
     "timing": 0,
-    "description": "（敵人專屬）對一名玩家角色攻擊 50% 傷害。賦予所有CPU方角色攻擊力上升 1 層。賦予自己嘲諷 2 層。",
+    "description": "（敵人專屬）對一名玩家角色攻擊 50% 傷害。賦予所有 CPU 方角色攻擊力上升 1 層。賦予自己嘲諷 2 層。",
     "cutin": [
       {
         "info": {
@@ -21103,7 +21103,7 @@
     "resourceName": "b_skill_buff",
     "subResourceName": "",
     "timing": 0,
-    "description": "（敵人專屬）賦予一名CPU方角色攻擊力上升 1 層。獲得 5000 View。",
+    "description": "（敵人專屬）賦予一名 CPU 方角色攻擊力上升 1 層。獲得 5000 View。",
     "cutin": [
       {
         "info": {
@@ -21644,7 +21644,7 @@
     "resourceName": "b_skill_special",
     "subResourceName": "",
     "timing": 1,
-    "description": "該角色登場那個回合受到傷害上限為15000。",
+    "description": "該角色登場那個回合受到傷害上限為 15000。",
     "cutin": [],
     "isEquip": true,
     "effects": [
@@ -21770,7 +21770,7 @@
     "resourceName": "b_skill_view",
     "subResourceName": "",
     "timing": 8,
-    "description": "受到傷害時，獲得 7000 View。50%機率解除自身減益效果 1 個。",
+    "description": "受到傷害時，獲得 7000 View。50% 機率解除自身減益效果 1 個。",
     "cutin": [],
     "isEquip": true,
     "effects": [
