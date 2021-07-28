@@ -737,6 +737,36 @@
     "endAt": null,
     "executeLimit": null
   },
+  "602": {
+    "chapterId": 602,
+    "groupType": 6,
+    "chapterType": 8,
+    "chapterName": "強敵シミュレーター",
+    "subName": "漁師からの挑戦状",
+    "peepingName": "漁師からの挑戦状",
+    "sortWeight": 1000,
+    "bannerResourceName": "ui_banner_questchoice_strongenemy",
+    "bgResourceName": "ui_bg_sprite_strongenemy",
+    "missionGroupId": 602,
+    "startAt": null,
+    "endAt": null,
+    "executeLimit": null
+  },
+  "604": {
+    "chapterId": 604,
+    "groupType": 6,
+    "chapterType": 8,
+    "chapterName": "強敵シミュレーター",
+    "subName": "カイブツ・襲来",
+    "peepingName": "カイブツ・襲来",
+    "sortWeight": 1000,
+    "bannerResourceName": "ui_banner_questchoice_strongenemy",
+    "bgResourceName": "ui_bg_sprite_strongenemy",
+    "missionGroupId": 604,
+    "startAt": null,
+    "endAt": null,
+    "executeLimit": null
+  },
   "606": {
     "chapterId": 606,
     "groupType": 6,
@@ -763,6 +793,21 @@
     "bannerResourceName": "ui_banner_questchoice_strongenemy",
     "bgResourceName": "ui_bg_sprite_strongenemy",
     "missionGroupId": 607,
+    "startAt": null,
+    "endAt": null,
+    "executeLimit": null
+  },
+  "608": {
+    "chapterId": 608,
+    "groupType": 6,
+    "chapterType": 8,
+    "chapterName": "強敵シミュレーター",
+    "subName": "シミュレート・ツリー型カイブツ",
+    "peepingName": "ツリー型カイブツ",
+    "sortWeight": 1000,
+    "bannerResourceName": "ui_banner_questchoice_strongenemy",
+    "bgResourceName": "ui_bg_sprite_strongenemy",
+    "missionGroupId": 608,
     "startAt": null,
     "endAt": null,
     "executeLimit": null
