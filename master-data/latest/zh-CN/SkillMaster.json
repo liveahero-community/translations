@@ -17681,7 +17681,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体に80%ダメージ。",
+    "description": "敌単体に80%ダメージ。",
     "cutin": [
       {
         "info": {
@@ -17710,7 +17710,7 @@
     "resourceName": "b_skill_spdUpAll",
     "subResourceName": "s_skill_buffOwn",
     "timing": 0,
-    "description": "味方全体に1回の行動の間SPDアップを付与。自身に1回の行動の間ATKアップを付与。",
+    "description": "味方全体に1回の行动の间SPDアップを付与。自身に1回の行动の间ATKアップを付与。",
     "cutin": [
       {
         "info": {
@@ -17747,7 +17747,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵全体に90%ダメージ+対象と自分のSPDの差だけダメージ量が上昇。",
+    "description": "敌全体に90%ダメージ+対象と自分のSPDの差だけダメージ量が上升。",
     "cutin": [
       {
         "info": {
@@ -18747,7 +18747,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体に60%ダメージ。（敵専用）",
+    "description": "敌単体に60%ダメージ。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -18776,7 +18776,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "敵単体に120%ダメージ。1回分のDEFダウンを付与。1回の行動の間ATKダウンを付与。（敵専用）",
+    "description": "敌単体に120%ダメージ。1回分のDEFダウンを付与。1回の行动の间ATKダウンを付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -22815,7 +22815,7 @@
     "resourceName": "b_skill_special",
     "subResourceName": "",
     "timing": 4,
-    "description": "ターン開始時、HPを基礎ATKの100%回復する。Viewを6000獲得。",
+    "description": "ターン开始时、HPを基础ATKの100%回复する。Viewを6000获得。",
     "cutin": [],
     "isEquip": true,
     "effects": [
