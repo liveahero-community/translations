@@ -3,288 +3,336 @@
     "statusId": 1,
     "statusName": "攻击力上升",
     "isGoodStatus": 1,
+    "statusType": 1,
     "description": "攻击力变成 1.5 倍。"
   },
   "2": {
     "statusId": 2,
     "statusName": "防御力上升",
     "isGoodStatus": 1,
+    "statusType": 1,
     "description": "仅一次减半对手的攻击伤害。"
   },
   "3": {
     "statusId": 3,
     "statusName": "速度上升",
     "isGoodStatus": 1,
+    "statusType": 1,
     "description": "速度数值 +10。"
   },
   "4": {
     "statusId": 4,
     "statusName": "注目",
     "isGoodStatus": 1,
+    "statusType": 1,
     "description": "行动时的 View 的增加量变为 1.5 倍。"
   },
   "5": {
     "statusId": 5,
     "statusName": "嘲讽",
     "isGoodStatus": 1,
+    "statusType": 1,
     "description": "直到回合结束前，对手都更容易攻击该名角色。"
   },
   "6": {
     "statusId": 6,
     "statusName": "无敌",
     "isGoodStatus": 1,
+    "statusType": 1,
     "description": "仅一次完全抵挡来自对手的攻击伤害。"
   },
   "7": {
     "statusId": 7,
     "statusName": "幸运",
     "isGoodStatus": 1,
+    "statusType": 1,
     "description": "有机率发动的技能，发动机率增加 20%。"
   },
   "8": {
     "statusId": 8,
     "statusName": "觉醒",
     "isGoodStatus": 1,
+    "statusType": 1,
     "description": "发动技能所需的 View 量减半。"
   },
   "9": {
     "statusId": 9,
     "statusName": "复活",
     "isGoodStatus": 1,
+    "statusType": 1,
     "description": "角色死亡时复活。"
   },
   "10": {
     "statusId": 10,
     "statusName": "回春",
     "isGoodStatus": 1,
+    "statusType": 1,
     "description": "回合结束时恢复最大血量的 10%。"
   },
   "11": {
     "statusId": 11,
     "statusName": "攻击力下降",
     "isGoodStatus": 0,
+    "statusType": 0,
     "description": "攻击力减半。"
   },
   "12": {
     "statusId": 12,
     "statusName": "防御力下降",
     "isGoodStatus": 0,
+    "statusType": 0,
     "description": "仅一次来自对手的攻击伤害变为 1.5 倍。"
   },
   "13": {
     "statusId": 13,
     "statusName": "速度下降",
     "isGoodStatus": 0,
+    "statusType": 0,
     "description": "速度数值 -10。"
   },
   "14": {
     "statusId": 14,
     "statusName": "马赛克",
     "isGoodStatus": 0,
+    "statusType": 0,
     "description": "行动时的 View 值增加 0 。"
   },
   "15": {
     "statusId": 15,
     "statusName": "隐匿",
     "isGoodStatus": 1,
+    "statusType": 1,
     "description": "直到回合结束前对手都无法指定攻击该角色。"
   },
   "16": {
     "statusId": 16,
     "statusName": "不幸",
     "isGoodStatus": 0,
+    "statusType": 0,
     "description": "有机率发动的技能，发动机率减少 20%。"
   },
   "17": {
     "statusId": 17,
     "statusName": "困惑",
     "isGoodStatus": 0,
+    "statusType": 0,
     "description": "发动技能所需的 View 量变成 2 倍。"
   },
   "18": {
     "statusId": 18,
     "statusName": "中毒",
     "isGoodStatus": 0,
+    "statusType": 0,
     "description": "回合结束时受到生命最大值 5% 的伤害。"
   },
   "19": {
     "statusId": 19,
     "statusName": "烧伤",
     "isGoodStatus": 0,
+    "statusType": 0,
     "description": "回合结束时受到生命最大值 10% 的伤害。"
   },
   "20": {
     "statusId": 20,
     "statusName": "超级速度上升",
     "isGoodStatus": 1,
+    "statusType": 1,
     "description": "速度数值 +30。"
   },
   "21": {
     "statusId": 21,
     "statusName": "弱化抵抗",
     "isGoodStatus": 1,
+    "statusType": 1,
     "description": "被赋予减益效果的机率少 20%。"
   },
   "22": {
     "statusId": 22,
     "statusName": "沉默",
     "isGoodStatus": 0,
+    "statusType": 0,
     "description": "无法使用需要消耗 View 值的技能。"
   },
   "23": {
     "statusId": 23,
     "statusName": "火事场力",
     "isGoodStatus": 1,
+    "statusType": 1,
     "description": "自己生命越少攻击力越高。"
   },
   "24": {
     "statusId": 24,
     "statusName": "等待",
     "isGoodStatus": 1,
+    "statusType": 1,
     "description": "该名角色的行动次序转变为该回合最后一位。"
   },
   "25": {
     "statusId": 25,
     "statusName": "俊敏",
     "isGoodStatus": 1,
+    "statusType": 1,
     "description": "自己与对手的速度差越多，则攻击力越高。"
   },
   "26": {
     "statusId": 26,
     "statusName": "伤害集中",
     "isGoodStatus": 1,
+    "statusType": 1,
     "description": "直到回合结束前，全体攻击的伤害都会算在该名角色身上。"
   },
   "27": {
     "statusId": 27,
     "statusName": "永久效果",
     "isGoodStatus": 1,
+    "statusType": 1,
     "description": "在战斗中会永远发动的效果。"
   },
   "28": {
     "statusId": 28,
     "statusName": "事件加成",
     "isGoodStatus": 1,
+    "statusType": 1,
     "description": "从 event 发动的效果。"
   },
   "29": {
     "statusId": 29,
     "statusName": "超级速度下降",
     "isGoodStatus": 0,
+    "statusType": 0,
     "description": "速度数值 -30。"
   },
   "30": {
     "statusId": 30,
     "statusName": "物品效果",
     "isGoodStatus": 1,
+    "statusType": 1,
     "description": "借由物品发动的效果。"
   },
   "31": {
     "statusId": 31,
     "statusName": "物品效果：生命提升",
     "isGoodStatus": 1,
+    "statusType": 1,
     "description": "借由物品使生命提升。"
   },
   "32": {
     "statusId": 32,
     "statusName": "物品效果：攻击力提升",
     "isGoodStatus": 1,
+    "statusType": 1,
     "description": "借由物品使攻击力提升。"
   },
   "33": {
     "statusId": 33,
     "statusName": "物品效果：承受伤害减少",
     "isGoodStatus": 1,
+    "statusType": 1,
     "description": "借由物品使被动伤害减少。"
   },
   "34": {
     "statusId": 34,
     "statusName": "炸裂",
     "isGoodStatus": 0,
+    "statusType": 0,
     "description": "该角色若受到伤害而导致爆炸，伤害源将受到自身攻击基础值的 40% 伤害。"
   },
   "35": {
     "statusId": 35,
     "statusName": "触手",
     "isGoodStatus": 1,
+    "statusType": 1,
     "description": "怪物的触手。"
   },
   "36": {
     "statusId": 36,
     "statusName": "View消费-3000",
     "isGoodStatus": 1,
+    "statusType": 1,
     "description": "技能所需的 View 费用减少 3000。"
   },
   "37": {
     "statusId": 37,
     "statusName": "ボーナス：ATKアップ",
     "isGoodStatus": 1,
+    "statusType": 1,
     "description": "透过任务加成使攻击力上升。"
   },
   "38": {
     "statusId": 38,
     "statusName": "View消费-2000",
     "isGoodStatus": 1,
+    "statusType": 1,
     "description": "技能所需的 View 费用减少 2000。"
   },
   "39": {
     "statusId": 39,
     "statusName": "View消费+4000",
     "isGoodStatus": 0,
+    "statusType": 0,
     "description": "技能所需的 View 费用增加 4000。"
   },
   "40": {
     "statusId": 40,
     "statusName": "行动停止",
     "isGoodStatus": 0,
+    "statusType": 0,
     "description": "该回合变得无法行动。"
   },
   "41": {
     "statusId": 41,
     "statusName": "ATKアップ(微小)",
     "isGoodStatus": 1,
+    "statusType": 1,
     "description": "攻撃力が1.1倍になる。"
   },
   "42": {
     "statusId": 42,
     "statusName": "",
     "isGoodStatus": 0,
+    "statusType": 0,
     "description": ""
   },
   "43": {
     "statusId": 43,
     "statusName": "",
     "isGoodStatus": 1,
+    "statusType": 1,
     "description": ""
   },
   "44": {
     "statusId": 44,
     "statusName": "弱体抵抗100",
     "isGoodStatus": 1,
+    "statusType": 1,
     "description": "被デバフ付与率が100%减少する。"
   },
   "45": {
     "statusId": 45,
     "statusName": "",
     "isGoodStatus": 1,
+    "statusType": 1,
     "description": ""
   },
   "46": {
     "statusId": 46,
     "statusName": "弱体抵抗100",
     "isGoodStatus": 1,
+    "statusType": 1,
     "description": "被デバフ付与率が100%减少する。"
   },
   "47": {
     "statusId": 47,
     "statusName": "",
     "isGoodStatus": 1,
+    "statusType": 1,
     "description": ""
   },
   "48": {
     "statusId": 48,
     "statusName": "无効",
     "isGoodStatus": 1,
+    "statusType": 1,
     "description": "特定のデバフにかからない。"
   }
 }
