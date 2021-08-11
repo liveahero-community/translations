@@ -17770,13 +17770,13 @@
   },
   "4006101": {
     "skillId": 4006101,
-    "skillName": "公務執行",
+    "skillName": "公务执行",
     "useView": 0,
     "targetFlag": 2,
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "敵単体に60%ダメージ。60%の確率で1回分のDEFダウンを付与。",
+    "description": "敌単体に60%ダメージ。60%の确率で1回分のDEFダウンを付与。",
     "cutin": [
       {
         "info": {
@@ -17807,13 +17807,13 @@
   },
   "4006102": {
     "skillId": 4006102,
-    "skillName": "対象補足",
+    "skillName": "対象补足",
     "useView": 0,
     "targetFlag": 2,
     "resourceName": "b_skill_debuff",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体に1ターンの間標的を付与。（敵専用）",
+    "description": "敌単体に1ターンの间标的を付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -17929,7 +17929,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体に70%ダメージ。（敵専用）",
+    "description": "敌単体に70%ダメージ。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -17958,7 +17958,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵全体からランダムに4回50%ダメージ。（敵専用）",
+    "description": "敌全体からランダムに4回50%ダメージ。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -18098,7 +18098,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_antiBuffTeam",
     "timing": 0,
-    "description": "敵単体に80%ダメージ。自身のバフを１つ解除。（敵専用）",
+    "description": "敌単体に80%ダメージ。自身のバフを１つ解除。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -18135,13 +18135,13 @@
   },
   "4008105": {
     "skillId": 4008105,
-    "skillName": "火中の協力",
+    "skillName": "火中の协力",
     "useView": 0,
     "targetFlag": 1,
     "resourceName": "b_skill_buff",
     "subResourceName": "s_skill_buffOwn",
     "timing": 0,
-    "description": "味方単体に1回の行動の間View消費量-18000を付与。自身に1ターンの間挑発を付与。（敵専用）",
+    "description": "味方単体に1回の行动の间View消费量-18000を付与。自身に1ターンの间挑発を付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -18244,7 +18244,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵全体に180%ダメージ。（敵専用）",
+    "description": "敌全体に180%ダメージ。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -18273,7 +18273,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "敵単体に90%ダメージ。自身に1ターンの間火傷を付与。（敵専用）",
+    "description": "敌単体に90%ダメージ。自身に1ターンの间火伤を付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -22057,7 +22057,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_cureOwn",
     "timing": 0,
-    "description": "敵単体に80%ダメージ+対象と自分のSPD差ダメージ上昇。自身のデバフを１つ解除。【ピンチ状態時追加効果】更にデバフを１つ解除。（敵専用）",
+    "description": "敌単体に80%ダメージ+対象と自分のSPD差ダメージ上升。自身のデバフを１つ解除。【ピンチ状态时追加効果】更にデバフを１つ解除。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -22108,7 +22108,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "s_skill_spdDownAll",
     "timing": 0,
-    "description": "敵全体に70%ダメージ。1回の行動の間超SPDダウンを付与。（敵専用）",
+    "description": "敌全体に70%ダメージ。1回の行动の间超SPDダウンを付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -22145,7 +22145,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "s_skill_antiBuffTeam",
     "timing": 0,
-    "description": "敵全体に110%ダメージ+対象と自分のSPDの差だけダメージ量が上昇。自身のクロックアップ全解除。（敵専用）",
+    "description": "敌全体に110%ダメージ+対象と自分のSPDの差だけダメージ量が上升。自身のクロックアップ全解除。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -22700,7 +22700,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "敵単体に80%ダメージ。自身にバフが付与されている場合、攻撃対象の、このターンの行動を消去。（敵専用）",
+    "description": "敌単体に80%ダメージ。自身にバフが付与されている场合、攻撃対象の、このターンの行动を消去。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -22737,13 +22737,13 @@
   },
   "4066118": {
     "skillId": 4066118,
-    "skillName": "補給物資",
+    "skillName": "补给物资",
     "useView": 0,
     "targetFlag": 3,
     "resourceName": "b_skill_cureAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "味方全体のデバフを１つ解除。（敵専用）",
+    "description": "味方全体のデバフを１つ解除。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -22772,7 +22772,7 @@
     "resourceName": "b_skill_buffAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "味方全体に1回分のDEFアップを付与。（敵専用）",
+    "description": "味方全体に1回分のDEFアップを付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -23329,13 +23329,13 @@
   },
   "6000030": {
     "skillId": 6000030,
-    "skillName": "訓練開始！",
+    "skillName": "训练开始！",
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "b_skill_view",
     "subResourceName": "",
     "timing": 4,
-    "description": "ターン開始時、Viewを10000獲得。",
+    "description": "ターン开始时、Viewを10000获得。",
     "cutin": [],
     "isEquip": false,
     "effects": [
@@ -23379,7 +23379,7 @@
     "resourceName": "b_skill_view",
     "subResourceName": "",
     "timing": 8,
-    "description": "ダメージを受けた時、Viewを7000獲得。",
+    "description": "ダメージを受けた时、Viewを7000获得。",
     "cutin": [],
     "isEquip": true,
     "effects": [
@@ -23401,7 +23401,7 @@
     "resourceName": "b_skill_view",
     "subResourceName": "",
     "timing": 8,
-    "description": "ダメージを受けた時、Viewを7000獲得。50%の確率でデバフを１つ解除。",
+    "description": "ダメージを受けた时、Viewを7000获得。50%の确率でデバフを１つ解除。",
     "cutin": [],
     "isEquip": true,
     "effects": [
@@ -23930,13 +23930,13 @@
   },
   "6065101": {
     "skillId": 6065101,
-    "skillName": "高速移動",
+    "skillName": "高速移动",
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "b_skill_buff",
     "subResourceName": "",
     "timing": 5,
-    "description": "ターン終了時、自身のデバフが１つ以下の場合、自身にクロックアップを付与。",
+    "description": "ターン终了时、自身のデバフが１つ以下の场合、自身にクロックアップを付与。",
     "cutin": [],
     "isEquip": true,
     "effects": [
@@ -23978,7 +23978,7 @@
     "resourceName": "b_skill_buffAll",
     "subResourceName": "",
     "timing": 6,
-    "description": "ピンチ状態になった時、戦闘不能の場合、味方全体を70%のHPで復活。味方全体に1回分の無敵を付与。",
+    "description": "ピンチ状态になった时、戦闘不能の场合、味方全体を70%のHPで复活。味方全体に1回分の无敌を付与。",
     "cutin": [],
     "isEquip": true,
     "effects": [
