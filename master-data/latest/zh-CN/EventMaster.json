@@ -1275,6 +1275,20 @@
         "objectId": 69,
         "bonusValue": 10,
         "targetStockId": 10641
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 69,
+        "bonusValue": 10,
+        "targetStockId": 10011
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 69,
+        "bonusValue": 20,
+        "targetStockId": 10191
       }
     ]
   }
