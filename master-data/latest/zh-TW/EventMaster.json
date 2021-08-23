@@ -1030,5 +1030,252 @@
     "canRemember": 0,
     "eventPortalJson": null,
     "questBonusJsons": []
+  },
+  "18": {
+    "eventId": 18,
+    "chapterId": 431,
+    "lookBackChapterId": 0,
+    "baseResourceName": "Summerdive2108",
+    "startAt": null,
+    "endAt": "2021-09-21 14:00:00",
+    "canRemember": 0,
+    "eventPortalJson": {
+      "bg": "ui_bg_sprite_event_Summerdive2108",
+      "bgm": "bgm_summerdive_adv1",
+      "logo": "Summerdive2108_title",
+      "terms": [
+        {
+          "keys": [
+            "UI_FREE_QUEST",
+            "UI_SALES"
+          ],
+          "endAt": "2021-09-13 20:00:00"
+        },
+        {
+          "keys": [
+            "UI_MAIN_QUEST",
+            "UI_MISSION",
+            "UI_EXCHANGE"
+          ],
+          "endAt": "2021-09-21 14:00:00"
+        }
+      ],
+      "gachaId": 19,
+      "storeId": 12,
+      "questInfos": [
+        {
+          "type": 5,
+          "chapterId": 431
+        },
+        {
+          "type": 6,
+          "chapterId": 432
+        },
+        {
+          "type": 8,
+          "chapterId": 433
+        }
+      ],
+      "tutorialKey": "Summerdive2108",
+      "eventItemIds": [
+        69
+      ],
+      "characterViews": [
+        {
+          "skinId": 0,
+          "stockId": 10012,
+          "cardType": 1,
+          "serifKinds": [
+            27,
+            28
+          ],
+          "visualType": 1,
+          "resourceName": "akashiSummerdive2108",
+          "characterName": "アカシ"
+        },
+        {
+          "skinId": 0,
+          "stockId": 10192,
+          "cardType": 1,
+          "serifKinds": [
+            27,
+            28
+          ],
+          "visualType": 1,
+          "resourceName": "hitomiSummerdive2108",
+          "characterName": "ヒトミ"
+        },
+        {
+          "skinId": 0,
+          "stockId": 10731,
+          "cardType": 2,
+          "serifKinds": [
+            27,
+            28
+          ],
+          "visualType": 1,
+          "resourceName": "pubraseer",
+          "characterName": "パブラシア"
+        }
+      ],
+      "salesRegionIds": [
+        208
+      ],
+      "missionGroupIds": [
+        2
+      ],
+      "missionCategoryButtonLabels": {
+        "event": ""
+      }
+    },
+    "questBonusJsons": [
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 69,
+        "bonusValue": 40,
+        "targetStockId": 10012
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 69,
+        "bonusValue": 30,
+        "targetStockId": 10192
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 69,
+        "bonusValue": 30,
+        "targetStockId": 10171
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 69,
+        "bonusValue": 20,
+        "targetStockId": 10731
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 69,
+        "bonusValue": 20,
+        "targetStockId": 10311
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 69,
+        "bonusValue": 10,
+        "targetStockId": 10721
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 69,
+        "bonusValue": 10,
+        "targetStockId": 10041
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 69,
+        "bonusValue": 20,
+        "targetStockId": 10631
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 69,
+        "bonusValue": 20,
+        "targetStockId": 10262
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 69,
+        "bonusValue": 10,
+        "targetStockId": 10641
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 69,
+        "bonusValue": 10,
+        "targetStockId": 10011
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 69,
+        "bonusValue": 10,
+        "targetStockId": 10191
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 69,
+        "bonusValue": 10,
+        "targetStockId": 10171
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 69,
+        "bonusValue": 10,
+        "targetStockId": 10731
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 69,
+        "bonusValue": 10,
+        "targetStockId": 10311
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 69,
+        "bonusValue": 10,
+        "targetStockId": 10721
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 69,
+        "bonusValue": 10,
+        "targetStockId": 10711
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 69,
+        "bonusValue": 10,
+        "targetStockId": 10341
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 69,
+        "bonusValue": 10,
+        "targetStockId": 10631
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 69,
+        "bonusValue": 10,
+        "targetStockId": 19991
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 69,
+        "bonusValue": 10,
+        "targetStockId": 10641
+      }
+    ]
   }
 }

@@ -6066,5 +6066,497 @@
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
     ]
+  },
+  "20801": {
+    "salesId": 20801,
+    "regionId": 208,
+    "salesName": "常夏！プールサイドでリゾート営業（短期）",
+    "iconFilename": "item_Summerdive2108_exchange01",
+    "startAt": null,
+    "endAt": "2021-09-13 20:00:00",
+    "requiredTime": 7200,
+    "memberLimitNumber": 8,
+    "rewards": [
+      {
+        "salesId": 20801,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 280
+      },
+      {
+        "salesId": 20801,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 240
+      },
+      {
+        "salesId": 20801,
+        "rewardType": 3,
+        "objectId": 69,
+        "objectValue": 14
+      },
+      {
+        "salesId": 20801,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 160
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_SUMMER_DIVE_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20801
+      },
+      {
+        "textKey": "SALES_EVENT_SUMMER_DIVE_REPORT_2",
+        "condition": null,
+        "laravelThroughKey": 20801
+      },
+      {
+        "textKey": "SALES_EVENT_SUMMER_DIVE_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 20801
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": false
+      },
+      {
+        "class": "StockCountBonus",
+        "stocks": [
+          10012,
+          10192,
+          10171,
+          10731
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 10
+          },
+          {
+            "count": 2,
+            "upwardRate": 30
+          },
+          {
+            "count": 3,
+            "upwardRate": 50
+          },
+          {
+            "count": 4,
+            "upwardRate": 70
+          }
+        ],
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
+      }
+    ]
+  },
+  "20802": {
+    "salesId": 20802,
+    "regionId": 208,
+    "salesName": "常夏！プールサイドでリゾート営業（中期）",
+    "iconFilename": "item_Summerdive2108_exchange01",
+    "startAt": null,
+    "endAt": "2021-09-13 20:00:00",
+    "requiredTime": 14400,
+    "memberLimitNumber": 8,
+    "rewards": [
+      {
+        "salesId": 20802,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 560
+      },
+      {
+        "salesId": 20802,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 480
+      },
+      {
+        "salesId": 20802,
+        "rewardType": 3,
+        "objectId": 69,
+        "objectValue": 28
+      },
+      {
+        "salesId": 20802,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 320
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_SUMMER_DIVE_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20802
+      },
+      {
+        "textKey": "SALES_EVENT_SUMMER_DIVE_REPORT_2",
+        "condition": null,
+        "laravelThroughKey": 20802
+      },
+      {
+        "textKey": "SALES_EVENT_SUMMER_DIVE_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 20802
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": false
+      },
+      {
+        "class": "StockCountBonus",
+        "stocks": [
+          10012,
+          10192,
+          10171,
+          10731
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 10
+          },
+          {
+            "count": 2,
+            "upwardRate": 30
+          },
+          {
+            "count": 3,
+            "upwardRate": 50
+          },
+          {
+            "count": 4,
+            "upwardRate": 70
+          }
+        ],
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
+      }
+    ]
+  },
+  "20803": {
+    "salesId": 20803,
+    "regionId": 208,
+    "salesName": "常夏！プールサイドでリゾート営業（中長期）",
+    "iconFilename": "item_Summerdive2108_exchange01",
+    "startAt": null,
+    "endAt": "2021-09-13 20:00:00",
+    "requiredTime": 28800,
+    "memberLimitNumber": 8,
+    "rewards": [
+      {
+        "salesId": 20803,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 1120
+      },
+      {
+        "salesId": 20803,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 960
+      },
+      {
+        "salesId": 20803,
+        "rewardType": 3,
+        "objectId": 69,
+        "objectValue": 56
+      },
+      {
+        "salesId": 20803,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 640
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_SUMMER_DIVE_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20803
+      },
+      {
+        "textKey": "SALES_EVENT_SUMMER_DIVE_REPORT_2",
+        "condition": null,
+        "laravelThroughKey": 20803
+      },
+      {
+        "textKey": "SALES_EVENT_SUMMER_DIVE_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 20803
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": false
+      },
+      {
+        "class": "StockCountBonus",
+        "stocks": [
+          10012,
+          10192,
+          10171,
+          10731
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 10
+          },
+          {
+            "count": 2,
+            "upwardRate": 30
+          },
+          {
+            "count": 3,
+            "upwardRate": 50
+          },
+          {
+            "count": 4,
+            "upwardRate": 70
+          }
+        ],
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
+      }
+    ]
+  },
+  "20804": {
+    "salesId": 20804,
+    "regionId": 208,
+    "salesName": "常夏！プールサイドでリゾート営業（長期）",
+    "iconFilename": "item_Summerdive2108_exchange01",
+    "startAt": null,
+    "endAt": "2021-09-13 20:00:00",
+    "requiredTime": 57600,
+    "memberLimitNumber": 8,
+    "rewards": [
+      {
+        "salesId": 20804,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 2240
+      },
+      {
+        "salesId": 20804,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 1920
+      },
+      {
+        "salesId": 20804,
+        "rewardType": 3,
+        "objectId": 69,
+        "objectValue": 112
+      },
+      {
+        "salesId": 20804,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 1280
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_SUMMER_DIVE_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20804
+      },
+      {
+        "textKey": "SALES_EVENT_SUMMER_DIVE_REPORT_2",
+        "condition": null,
+        "laravelThroughKey": 20804
+      },
+      {
+        "textKey": "SALES_EVENT_SUMMER_DIVE_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 20804
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": false
+      },
+      {
+        "class": "StockCountBonus",
+        "stocks": [
+          10012,
+          10192,
+          10171,
+          10731
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 10
+          },
+          {
+            "count": 2,
+            "upwardRate": 30
+          },
+          {
+            "count": 3,
+            "upwardRate": 50
+          },
+          {
+            "count": 4,
+            "upwardRate": 70
+          }
+        ],
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
+      }
+    ]
   }
 }

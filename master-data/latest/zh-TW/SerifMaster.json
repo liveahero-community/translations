@@ -61,6 +61,58 @@
       "isInHome": true
     }
   ],
+  "10012": [
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 4,
+      "faceType": "b",
+      "serifKey": "SERIF_AKASHISUMMERDIVE2108_PLAYER",
+      "voiceFilename": "",
+      "resourceName": "akashiSummerdive2108",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 5,
+      "faceType": "c",
+      "serifKey": "SERIF_AKASHISUMMERDIVE2108_HERO",
+      "voiceFilename": "",
+      "resourceName": "akashiSummerdive2108",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 12,
+      "faceType": "f",
+      "serifKey": "SERIF_AKASHISUMMERDIVE2108_TOUCH",
+      "voiceFilename": "",
+      "resourceName": "akashiSummerdive2108",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 27,
+      "faceType": "b",
+      "serifKey": "SERIF_AKASHISUMMERDIVE2108_EVENTA",
+      "voiceFilename": "",
+      "resourceName": "akashiSummerdive2108",
+      "isInHome": false
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 28,
+      "faceType": "e",
+      "serifKey": "SERIF_AKASHISUMMERDIVE2108_EVENTB",
+      "voiceFilename": "",
+      "resourceName": "akashiSummerdive2108",
+      "isInHome": false
+    }
+  ],
   "10021": [
     {
       "cardType": 2,
@@ -1077,6 +1129,68 @@
       "isInHome": true
     }
   ],
+  "10171": [
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 3,
+      "faceType": "",
+      "serifKey": "SERIF_HYDOOR_DAILY",
+      "voiceFilename": "",
+      "resourceName": "hydoor",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 4,
+      "faceType": "c",
+      "serifKey": "SERIF_HYDOOR_PLAYER",
+      "voiceFilename": "",
+      "resourceName": "hydoor",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 5,
+      "faceType": "",
+      "serifKey": "SERIF_HYDOOR_HERO",
+      "voiceFilename": "",
+      "resourceName": "hydoor",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 6,
+      "faceType": "d",
+      "serifKey": "SERIF_HYDOOR_RELATION",
+      "voiceFilename": "",
+      "resourceName": "hydoor",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 11,
+      "faceType": "c",
+      "serifKey": "SERIF_HYDOOR_APPRECIATION",
+      "voiceFilename": "",
+      "resourceName": "hydoor",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 12,
+      "faceType": "f",
+      "serifKey": "SERIF_HYDOOR_TOUCH",
+      "voiceFilename": "",
+      "resourceName": "hydoor",
+      "isInHome": true
+    }
+  ],
   "10181": [
     {
       "cardType": 2,
@@ -1199,6 +1313,58 @@
       "voiceFilename": "",
       "resourceName": "hitomi",
       "isInHome": true
+    }
+  ],
+  "10192": [
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 4,
+      "faceType": "c",
+      "serifKey": "SERIF_HITOMISUMMERDIVE2108_PLAYER",
+      "voiceFilename": "",
+      "resourceName": "hitomiSummerdive2108",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 5,
+      "faceType": "",
+      "serifKey": "SERIF_HITOMISUMMERDIVE2108_HERO",
+      "voiceFilename": "",
+      "resourceName": "hitomiSummerdive2108",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 12,
+      "faceType": "f",
+      "serifKey": "SERIF_HITOMISUMMERDIVE2108_TOUCH",
+      "voiceFilename": "",
+      "resourceName": "hitomiSummerdive2108",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 27,
+      "faceType": "c",
+      "serifKey": "SERIF_HITOMISUMMERDIVE2108_EVENTA",
+      "voiceFilename": "",
+      "resourceName": "hitomiSummerdive2108",
+      "isInHome": false
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 28,
+      "faceType": "f",
+      "serifKey": "SERIF_HITOMISUMMERDIVE2108_EVENTB",
+      "voiceFilename": "",
+      "resourceName": "hitomiSummerdive2108",
+      "isInHome": false
     }
   ],
   "10201": [
@@ -1372,6 +1538,16 @@
       "voiceKind": 12,
       "faceType": "c",
       "serifKey": "SERIF_ISARIBI_TOUCH",
+      "voiceFilename": "",
+      "resourceName": "isaribi",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 5,
+      "faceType": "f",
+      "serifKey": "SERIF_ISARIBI_HERO",
       "voiceFilename": "",
       "resourceName": "isaribi",
       "isInHome": true
@@ -1910,6 +2086,16 @@
       "voiceKind": 11,
       "faceType": "c",
       "serifKey": "SERIF_SUHAIL_APPRECIATION",
+      "voiceFilename": "",
+      "resourceName": "suhail",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 6,
+      "faceType": "h",
+      "serifKey": "SERIF_SUHAIL_RELATION",
       "voiceFilename": "",
       "resourceName": "suhail",
       "isInHome": true
@@ -2945,6 +3131,88 @@
       "voiceFilename": "",
       "resourceName": "yoshiori",
       "isInHome": true
+    }
+  ],
+  "10731": [
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 3,
+      "faceType": "",
+      "serifKey": "SERIF_PUBRASEER_DAILY",
+      "voiceFilename": "",
+      "resourceName": "pubraseer",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 4,
+      "faceType": "",
+      "serifKey": "SERIF_PUBRASEER_PLAYER",
+      "voiceFilename": "",
+      "resourceName": "pubraseer",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 5,
+      "faceType": "c",
+      "serifKey": "SERIF_PUBRASEER_HERO",
+      "voiceFilename": "",
+      "resourceName": "pubraseer",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 6,
+      "faceType": "c",
+      "serifKey": "SERIF_PUBRASEER_RELATION",
+      "voiceFilename": "",
+      "resourceName": "pubraseer",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 11,
+      "faceType": "",
+      "serifKey": "SERIF_PUBRASEER_APPRECIATION",
+      "voiceFilename": "",
+      "resourceName": "pubraseer",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 12,
+      "faceType": "f",
+      "serifKey": "SERIF_PUBRASEER_TOUCH",
+      "voiceFilename": "",
+      "resourceName": "pubraseer",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 27,
+      "faceType": "c",
+      "serifKey": "SERIF_PUBRASEER_EVENTA",
+      "voiceFilename": "",
+      "resourceName": "pubraseer",
+      "isInHome": false
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 28,
+      "faceType": "",
+      "serifKey": "SERIF_PUBRASEER_EVENTB",
+      "voiceFilename": "",
+      "resourceName": "pubraseer",
+      "isInHome": false
     }
   ]
 }
