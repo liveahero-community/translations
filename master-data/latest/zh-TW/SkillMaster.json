@@ -331,7 +331,7 @@
     "resourceName": "",
     "subResourceName": "",
     "timing": 0,
-    "description": "サマーダイブメインクエスト用のView半減スキル",
+    "description": "夏日浮潛者任務用的 View 值減半技能。",
     "cutin": [],
     "isEquip": false,
     "effects": [
@@ -477,7 +477,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_cureOwn",
     "timing": 0,
-    "description": "敵単体に70%ダメージ。80%の確率で自身のデバフを１つ解除。ダメージを受けたとき、25%の確率でこのスキルで反撃。",
+    "description": "對一個敵人造成攻擊 70% 傷害。80% 機率解除自己 1 個減益效果。受到傷害時，有 25% 機率以此技能反擊。",
     "cutin": [
       {
         "info": {
@@ -514,7 +514,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_buffOwn",
     "timing": 0,
-    "description": "敵単体に120%ダメージ。自身に1回の行動の間幸運を付与。",
+    "description": "對一個敵人造成攻擊 120% 傷害。賦予自己幸運 1 層。",
     "cutin": [
       {
         "info": {
@@ -551,7 +551,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵全体に90%ダメージ+HPが減るほどダメージ量が上昇する。",
+    "description": "對敵方全體造成攻擊 90% 傷害，且血量越低傷害越高。",
     "cutin": [
       {
         "info": {
@@ -580,7 +580,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵全体に100%ダメージ+HPが減るほどダメージ量が上昇する。",
+    "description": "對敵方全體造成攻擊 100% 傷害，且血量越低傷害越高。",
     "cutin": [
       {
         "info": {
@@ -3121,7 +3121,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵全体からランダムに2回45%ダメージ。",
+    "description": "從所有敵方角色中隨機對單體造成攻擊 45% 傷害 2 次。",
     "cutin": [
       {
         "info": {
@@ -3158,7 +3158,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_spdDownTeam",
     "timing": 0,
-    "description": "敵単体に100%ダメージ。60%の確率で1回の行動の間SPDダウンを付与。",
+    "description": "對一個敵人造成攻擊 100% 傷害。60% 賦予速度下降 1 層。",
     "cutin": [
       {
         "info": {
@@ -3195,7 +3195,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵全体からランダムに4回50%ダメージ＋対象と自分のSPDの差だけダメージ量が上昇。",
+    "description": "從所有敵方角色中隨機對單體造成攻擊 50% 傷害 4 次，且隨自己與對手的速度差增加傷害。",
     "cutin": [
       {
         "info": {
@@ -3248,7 +3248,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵全体からランダムに4回50%ダメージ＋対象と自分のSPDの差だけダメージ量が上昇。",
+    "description": "從所有敵方角色中隨機對單體造成攻擊 50% 傷害 4 次，且隨自己與對手的速度差增加傷害。",
     "cutin": [
       {
         "info": {
@@ -3565,7 +3565,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_cureOwn",
     "timing": 0,
-    "description": "敵単体に60%ダメージ。ランダムな味方のデバフを１つ解除。自身に熱狂を１つ付与。",
+    "description": "對一個敵人造成攻擊 60% 傷害。隨機消除我方角色 1 個減益效果。賦予自己 1 層狂熱。",
     "cutin": [
       {
         "info": {
@@ -3610,7 +3610,7 @@
     "resourceName": "b_skill_buff",
     "subResourceName": "s_skill_buffTeam",
     "timing": 0,
-    "description": "味方単体に1回分のDEFアップを付与。2ターンの間弱体抵抗+100を付与。自身に熱狂を１つ付与。",
+    "description": "賦予自己或一個友軍防禦上升 1 層。賦予抵抗弱化 2 層。賦予自己 1 層狂熱。",
     "cutin": [
       {
         "info": {
@@ -3655,7 +3655,7 @@
     "resourceName": "b_skill_heal",
     "subResourceName": "s_skill_cureTeam",
     "timing": 0,
-    "description": "味方単体のHPを基礎ATKの150%回復する。デバフを２つ解除。【熱狂が３つ以上】対象のバフ効果１ターン延長。自身の熱狂を３つ解除。【熱狂が２つ以下】自身に熱狂を１つ付与。",
+    "description": "恢復自己或一個友軍攻擊力 150% 的血量。消除 2 個減益效果。自己有 3 層狂熱以上時，消耗 3 層狂熱，並使對象的增益效果延長 1 次；只有 2 有兩層狂熱時，增加 1 層狂熱。",
     "cutin": [
       {
         "info": {
@@ -3734,7 +3734,7 @@
     "resourceName": "b_skill_heal",
     "subResourceName": "s_skill_buffTeam",
     "timing": 0,
-    "description": "味方単体のHPを基礎ATKの150%回復する。デバフを２つ解除。【熱狂が３つ以上】対象のバフ効果１ターン延長。自身の熱狂を３つ解除。【熱狂が２つ以下】自身に熱狂を１つ付与。【バトル開始時】自身に熱狂×3を付与。",
+    "description": "恢復自己或一個友軍攻擊力 150% 的血量。消除 2 個減益效果。自己有 3 層狂熱以上時，消耗 3 層狂熱，並使對象的增益效果延長 1 次；只有 2 有兩層狂熱以下時，增加 1 層狂熱。戰鬥開始時，賦予自己 3 層狂熱。",
     "cutin": [
       {
         "info": {
@@ -7382,7 +7382,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体に80%ダメージ。",
+    "description": "對一個敵人造成攻擊 80% 傷害。",
     "cutin": [
       {
         "info": {
@@ -7411,7 +7411,7 @@
     "resourceName": "b_skill_healAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "味方全体のHPを基礎ATKの80%回復する。",
+    "description": "恢復我方全體自身基礎攻擊 80% 血量。",
     "cutin": [
       {
         "info": {
@@ -7440,7 +7440,7 @@
     "resourceName": "b_skill_heal",
     "subResourceName": "s_skill_cureTeam",
     "timing": 0,
-    "description": "味方単体のHPを基礎ATKの160%回復する。デバフを１つ解除。",
+    "description": "恢復自己或一個友軍攻擊力 160% 的血量。解除 1 層減益效果。",
     "cutin": [
       {
         "info": {
@@ -7477,7 +7477,7 @@
     "resourceName": "b_skill_heal",
     "subResourceName": "s_skill_buffTeam",
     "timing": 0,
-    "description": "味方単体のHPを基礎ATKの160%回復する。1回の行動の間ATKアップを付与。デバフを１つ解除。",
+    "description": "恢復自己或一個友軍攻擊力 160% 的血量。解除 1 層減益效果。賦予攻擊力上升 1 層。",
     "cutin": [
       {
         "info": {
@@ -9189,7 +9189,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵全体からランダムに2回60%ダメージ。",
+    "description": "從所有敵方角色中隨機對單體造成攻擊 60% 傷害 2 次。",
     "cutin": [
       {
         "info": {
@@ -9226,7 +9226,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵全体からランダムに2回60%ダメージ。",
+    "description": "從所有敵方角色中隨機對單體造成攻擊 60% 傷害 2 次。",
     "cutin": [
       {
         "info": {
@@ -9263,7 +9263,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵全体からランダムに2回60%ダメージ。",
+    "description": "從所有敵方角色中隨機對單體造成攻擊 60% 傷害 2 次。",
     "cutin": [
       {
         "info": {
@@ -12128,7 +12128,7 @@
     "resourceName": "b_skill_debuff",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体に1回の行動の間ATKダウンを付与。",
+    "description": "賦予一個敵人攻擊力下降 1 層。",
     "cutin": [
       {
         "info": {
@@ -12157,7 +12157,7 @@
     "resourceName": "b_skill_debuff",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体に1回の行動の間ATKダウンを付与。",
+    "description": "賦予一個敵人攻擊力下降 1 層。",
     "cutin": [
       {
         "info": {
@@ -12186,7 +12186,7 @@
     "resourceName": "b_skill_debuff",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体に1回の行動の間ATKダウンを付与。",
+    "description": "賦予一個敵人攻擊力下降 1 層。",
     "cutin": [
       {
         "info": {
@@ -14494,7 +14494,7 @@
     "resourceName": "icon_hydoor_s01",
     "subResourceName": "",
     "timing": 7,
-    "description": "自身の攻撃で敵をピンチ状態にした時、50%の確率で1回の行動の間SPDアップを付与。",
+    "description": "自己攻擊造成對手爆衣狀態時，有 50% 機率賦予自己速度上升 1 層。",
     "cutin": [],
     "isEquip": true,
     "effects": [
@@ -14516,7 +14516,7 @@
     "resourceName": "icon_hydoor_s01",
     "subResourceName": "",
     "timing": 7,
-    "description": "自身の攻撃で敵をピンチ状態にした時、60%の確率で1回の行動の間SPDアップを付与。",
+    "description": "自己攻擊造成對手爆衣狀態時，有 60% 機率賦予自己速度上升 1 層。",
     "cutin": [],
     "isEquip": true,
     "effects": [
@@ -14538,7 +14538,7 @@
     "resourceName": "icon_hydoor_s01",
     "subResourceName": "",
     "timing": 7,
-    "description": "自身の攻撃で敵をピンチ状態にした時、70%の確率で1回の行動の間SPDアップを付与。",
+    "description": "自己攻擊造成對手爆衣狀態時，有 70% 機率賦予自己速度上升 1 層。",
     "cutin": [],
     "isEquip": true,
     "effects": [
@@ -14560,7 +14560,7 @@
     "resourceName": "icon_hydoor_s01",
     "subResourceName": "",
     "timing": 7,
-    "description": "自身の攻撃で敵をピンチ状態にした時、80%の確率で1回の行動の間SPDアップを付与。",
+    "description": "自己攻擊造成對手爆衣狀態時，有 80% 機率賦予自己速度上升 1 層。",
     "cutin": [],
     "isEquip": true,
     "effects": [
@@ -14582,7 +14582,7 @@
     "resourceName": "icon_hydoor_s01",
     "subResourceName": "",
     "timing": 7,
-    "description": "自身の攻撃で敵をピンチ状態にした時、90%の確率で1回の行動の間SPDアップを付与。",
+    "description": "自己攻擊造成對手爆衣狀態時，有 90% 機率賦予自己速度上升 1 層。",
     "cutin": [],
     "isEquip": true,
     "effects": [
@@ -14604,7 +14604,7 @@
     "resourceName": "icon_hydoor_s01",
     "subResourceName": "",
     "timing": 7,
-    "description": "自身の攻撃で敵をピンチ状態にした時、1回の行動の間SPDアップを付与。",
+    "description": "自己攻擊造成對手爆衣狀態時，賦予自己速度上升 1 層。",
     "cutin": [],
     "isEquip": true,
     "effects": [
@@ -18506,7 +18506,7 @@
     "resourceName": "icon_pubraseer_s01",
     "subResourceName": "",
     "timing": 13,
-    "description": "ダメージを与えないスキルを使用した後、自身に30%の確率で1回分のDEFアップを付与。",
+    "description": "使用不造成傷害的技能後，有 30% 機率賦予自己防禦力上升 1 層。",
     "cutin": [],
     "isEquip": true,
     "effects": [
@@ -18528,7 +18528,7 @@
     "resourceName": "icon_pubraseer_s01",
     "subResourceName": "",
     "timing": 13,
-    "description": "ダメージを与えないスキルを使用した後、自身に36%の確率で1回分のDEFアップを付与。",
+    "description": "使用不造成傷害的技能後，有 36% 機率賦予自己防禦力上升 1 層。",
     "cutin": [],
     "isEquip": true,
     "effects": [
@@ -18550,7 +18550,7 @@
     "resourceName": "icon_pubraseer_s01",
     "subResourceName": "",
     "timing": 13,
-    "description": "ダメージを与えないスキルを使用した後、自身に42%の確率で1回分のDEFアップを付与。",
+    "description": "使用不造成傷害的技能後，有 42% 機率賦予自己防禦力上升 1 層。",
     "cutin": [],
     "isEquip": true,
     "effects": [
@@ -18572,7 +18572,7 @@
     "resourceName": "icon_pubraseer_s01",
     "subResourceName": "",
     "timing": 13,
-    "description": "ダメージを与えないスキルを使用した後、自身に48%の確率で1回分のDEFアップを付与。",
+    "description": "使用不造成傷害的技能後，有 48% 機率賦予自己防禦力上升 1 層。",
     "cutin": [],
     "isEquip": true,
     "effects": [
@@ -18594,7 +18594,7 @@
     "resourceName": "icon_pubraseer_s01",
     "subResourceName": "",
     "timing": 13,
-    "description": "ダメージを与えないスキルを使用した後、自身に54%の確率で1回分のDEFアップを付与。",
+    "description": "使用不造成傷害的技能後，有 54% 機率賦予自己防禦力上升 1 層。",
     "cutin": [],
     "isEquip": true,
     "effects": [
@@ -18616,7 +18616,7 @@
     "resourceName": "icon_pubraseer_s01",
     "subResourceName": "",
     "timing": 13,
-    "description": "ダメージを与えないスキルを使用した後、自身に60%の確率で1回分のDEFアップを付与。",
+    "description": "使用不造成傷害的技能後，有 60% 機率賦予自己防禦力上升 1 層。",
     "cutin": [],
     "isEquip": true,
     "effects": [
@@ -18865,7 +18865,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体に80%ダメージ。",
+    "description": "對一個敵人造成攻擊 80% 傷害。",
     "cutin": [
       {
         "info": {
@@ -18894,7 +18894,7 @@
     "resourceName": "b_skill_spdUpAll",
     "subResourceName": "s_skill_buffOwn",
     "timing": 0,
-    "description": "味方全体に1回の行動の間SPDアップを付与。自身に1回の行動の間ATKアップを付与。",
+    "description": "賦予我方所有角色速度上升 1 層。賦予自己攻擊力上升 1 層。",
     "cutin": [
       {
         "info": {
@@ -18931,7 +18931,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵全体に90%ダメージ+対象と自分のSPDの差だけダメージ量が上昇。",
+    "description": "對敵方全體造成 90% 攻擊傷害，且隨對象與自己的速度差增加傷害。",
     "cutin": [
       {
         "info": {
@@ -18960,7 +18960,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "敵単体に60%ダメージ。60%の確率で1回分のDEFダウンを付与。",
+    "description": "對一個敵人造成攻擊 60% 傷害。60% 機率賦予防禦下降 1 層。",
     "cutin": [
       {
         "info": {
@@ -18997,7 +18997,7 @@
     "resourceName": "b_skill_debuff",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体に1ターンの間標的を付与。（敵専用）",
+    "description": "（敵人專屬）賦予一名玩家角色「目標」 2 層。",
     "cutin": [
       {
         "info": {
@@ -19113,7 +19113,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体に70%ダメージ。（敵専用）",
+    "description": "（敵人專屬）對一名玩家角色造成攻擊 70% 傷害。",
     "cutin": [
       {
         "info": {
@@ -19142,7 +19142,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵全体からランダムに4回50%ダメージ。（敵専用）",
+    "description": "（敵人專屬）從所有玩家角色中隨機造成單體攻擊 50% 傷害 4 次。",
     "cutin": [
       {
         "info": {
@@ -19282,7 +19282,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_antiBuffTeam",
     "timing": 0,
-    "description": "敵単体に80%ダメージ。自身のバフを１つ解除。（敵専用）",
+    "description": "（敵人專屬）對一名玩家角色造成攻擊 80% 傷害。解除自己 1 個減益效果。",
     "cutin": [
       {
         "info": {
@@ -19325,7 +19325,7 @@
     "resourceName": "b_skill_buff",
     "subResourceName": "s_skill_buffOwn",
     "timing": 0,
-    "description": "味方単体に1回の行動の間View消費量-18000を付与。自身に1ターンの間挑発を付与。（敵専用）",
+    "description": "（敵人專屬）賦予一名 CPU 方角色「View 消費減少 18000」1 層。賦予自己嘲諷 1 層。",
     "cutin": [
       {
         "info": {
@@ -19428,7 +19428,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵全体に180%ダメージ。（敵専用）",
+    "description": "（敵人專屬）對所有玩家角色造成攻擊 180% 傷害。",
     "cutin": [
       {
         "info": {
@@ -19457,7 +19457,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "敵単体に90%ダメージ。自身に1ターンの間火傷を付与。（敵専用）",
+    "description": "（敵人專屬）對一名玩家角色造成 90% 攻擊傷害。賦予自己燒傷 1 層。",
     "cutin": [
       {
         "info": {
@@ -19808,7 +19808,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵全体に80%ダメージ。（敵専用）",
+    "description": "（敵人專屬）對所有玩家角色造成攻擊 80% 傷害。",
     "cutin": [
       {
         "info": {
@@ -19837,7 +19837,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵全体に60%ダメージ。（敵専用）",
+    "description": "（敵人專屬）對所有玩家角色造成攻擊 60% 傷害。",
     "cutin": [
       {
         "info": {
@@ -19866,7 +19866,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体に60%ダメージ。（敵専用）",
+    "description": "（敵人專屬）對一名玩家角色造成 60% 攻擊傷害。",
     "cutin": [
       {
         "info": {
@@ -20196,7 +20196,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵全体に55%ダメージ。（敵専用）",
+    "description": "（敵人專屬）對所有玩家角色造成攻擊 55% 傷害。",
     "cutin": [
       {
         "info": {
@@ -20225,7 +20225,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体に60%ダメージ。（敵専用）",
+    "description": "（敵人專屬）對一名玩家角色造成 60% 攻擊傷害。",
     "cutin": [
       {
         "info": {
@@ -20254,7 +20254,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "敵単体に120%ダメージ。1回分のDEFダウンを付与。1回の行動の間ATKダウンを付与。（敵専用）",
+    "description": "（敵人專屬）對一名玩家角色造成 120% 攻擊傷害。賦予防禦力下降 1 層。賦予攻擊力下降 1 層。",
     "cutin": [
       {
         "info": {
@@ -20526,7 +20526,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_buffAll",
     "timing": 0,
-    "description": "敵単体に60%ダメージ。味方全体に1ターンの間弱体抵抗100を付与。1回分のDEFアップを付与。（敵専用）",
+    "description": "（敵人專屬）對一名玩家角色造成攻擊 60% 傷害。賦予 CPU 方全體「弱體抵抗 100」 1 層。賦予防禦力上升 1 層。",
     "cutin": [
       {
         "info": {
@@ -20571,7 +20571,7 @@
     "resourceName": "b_skill_buff",
     "subResourceName": "",
     "timing": 0,
-    "description": "味方単体に1回の行動の間ATKアップを付与。（敵専用）",
+    "description": "（敵人專屬）賦予一名 CPU 方角色攻擊力上升 1 層。",
     "cutin": [
       {
         "info": {
@@ -20600,7 +20600,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_view",
     "timing": 0,
-    "description": "敵単体に70%ダメージ。味方全体に1回の行動の間覚醒を付与。Viewを10000獲得。（敵専用）",
+    "description": "（敵人專屬）對一名玩家角色造成攻擊 70% 傷害。賦予 CPU 方全體覺醒 1 層。獲得 10000 View。",
     "cutin": [
       {
         "info": {
@@ -20991,7 +20991,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "敵単体に60%ダメージ。50%の確率で1回の行動の間ATKダウンを付与。（敵専用）",
+    "description": "（敵人專屬）對一名玩家角色造成攻擊 60% 傷害。50% 機率賦予玩家角色攻擊力下降 1 層。",
     "cutin": [
       {
         "info": {
@@ -21028,7 +21028,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "敵単体に90%ダメージ。80%の確率で1回分のDEFダウンを付与。（敵専用）",
+    "description": "（敵人專屬）對一名玩家角色造成攻擊 90% 傷害。80% 機率賦予玩家角色防禦力下降 1 層。",
     "cutin": [
       {
         "info": {
@@ -21065,7 +21065,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体に80%ダメージ。対象にデバフが付与されている場合、ランダムな味方が追撃。（敵専用）",
+    "description": "（敵人專屬）對一名玩家角色造成攻擊 80% 傷害，該名玩家角色若有減益效果，CPU 方隨機一名角色將進行追擊。",
     "cutin": [
       {
         "info": {
@@ -21108,7 +21108,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "敵単体に70%ダメージ。50%の確率で2ターンの間火傷を付与。（敵専用）",
+    "description": "（敵人專屬）對一名玩家角色造成攻擊 70% 傷害。50% 機率賦予玩家角色燒傷 1 層。",
     "cutin": [
       {
         "info": {
@@ -21145,7 +21145,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "敵単体に60%ダメージ。50%の確率で1回の行動の間ATKダウンを付与。（敵専用）",
+    "description": "（敵人專屬）對一名玩家角色造成攻擊 60% 傷害。50% 機率賦予玩家角色攻擊力下降 1 層。",
     "cutin": [
       {
         "info": {
@@ -21756,7 +21756,7 @@
     "resourceName": "b_skill_buff",
     "subResourceName": "s_skill_cureOwn",
     "timing": 0,
-    "description": "自身に2回の行動の間ATKアップ & SPDアップを付与。デバフを全て解除。（敵専用）",
+    "description": "（敵人專屬）賦予自己攻擊力上升 2 層、速度上升 2 層。解除所有減益效果。",
     "cutin": [
       {
         "info": {
@@ -21801,7 +21801,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "s_skill_debuffAll",
     "timing": 0,
-    "description": "敵全体に90%ダメージ。60%の確率で2ターンの間火傷を付与。（敵専用）",
+    "description": "（敵人專屬）對一名玩家角色攻擊 90% 傷害。60% 機率賦予燒傷 1 層。",
     "cutin": [
       {
         "info": {
@@ -21838,7 +21838,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体に90%ダメージ。（敵専用）",
+    "description": "（敵人專屬）對一名玩家角色攻擊 90% 傷害。",
     "cutin": [
       {
         "info": {
@@ -22052,7 +22052,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "s_skill_debuffAll",
     "timing": 0,
-    "description": "敵全体に100%ダメージ。50%の確率で2回の行動の間過消費を付与。（敵専用）",
+    "description": "（敵人專屬）對所有玩家角色造成攻擊 100% 傷害。賦予困惑 2 層。",
     "cutin": [
       {
         "info": {
@@ -22119,7 +22119,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "敵単体に80%ダメージ。3回の行動の間ATKダウンを付与。【ピンチ状態時追加効果】もう１度行動をする。（敵専用）",
+    "description": "（敵人專屬）對一名玩家角色攻擊 80% 傷害。賦予攻擊力下降 3 層。爆衣狀態下再額行動一次。",
     "cutin": [
       {
         "info": {
@@ -22220,7 +22220,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "s_skill_debuffAll",
     "timing": 0,
-    "description": "敵全体に80%ダメージ。3ターンの間毒を付与。【ピンチ状態時追加効果】更に3ターンの間毒を付与。（敵専用）",
+    "description": "（敵人專屬）對所有玩家角色造成攻擊 80% 傷害。賦予中毒 3 層。爆衣狀態下再額外增加中毒 3 層。",
     "cutin": [
       {
         "info": {
@@ -23432,7 +23432,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_cureOwn",
     "timing": 0,
-    "description": "敵単体に80%ダメージ+対象と自分のSPD差ダメージ上昇。自身のデバフを１つ解除。【ピンチ状態時追加効果】更にデバフを１つ解除。（敵専用）",
+    "description": "（敵人專屬）對一名玩家角色攻擊 80% 傷害，且隨自己與對方的速度差增加傷害。解除一個減益效果。爆衣狀態下再多解除一個。",
     "cutin": [
       {
         "info": {
@@ -23483,7 +23483,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "s_skill_spdDownAll",
     "timing": 0,
-    "description": "敵全体に70%ダメージ。1回の行動の間超SPDダウンを付与。（敵専用）",
+    "description": "（敵人專屬）對一名玩家角色造成攻擊 100% 傷害。賦予自己超級速度上升 2 層。",
     "cutin": [
       {
         "info": {
@@ -23520,7 +23520,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "s_skill_antiBuffTeam",
     "timing": 0,
-    "description": "敵全体に110%ダメージ+対象と自分のSPDの差だけダメージ量が上昇。自身のクロックアップ全解除。（敵専用）",
+    "description": "（敵人專屬）對所有玩家角色造成攻擊 110% 傷害，且隨對方與自己的速度差增加傷害。解除自己身上的 clock-up。",
     "cutin": [
       {
         "info": {
@@ -24075,7 +24075,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "敵単体に80%ダメージ。自身にバフが付与されている場合、攻撃対象の、このターンの行動を消去。（敵専用）",
+    "description": "（敵人專屬）對一名玩家角色攻擊 80% 傷害，若自己身上有增益效果，則攻擊的玩家角色跳過該回合行動。",
     "cutin": [
       {
         "info": {
@@ -24118,7 +24118,7 @@
     "resourceName": "b_skill_cureAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "味方全体のデバフを１つ解除。（敵専用）",
+    "description": "（敵人專屬）解除 CPU 方角色減益效果 1 層。",
     "cutin": [
       {
         "info": {
@@ -24147,7 +24147,7 @@
     "resourceName": "b_skill_buffAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "味方全体に1回分のDEFアップを付与。（敵専用）",
+    "description": "（敵人專屬）賦予 CPU 方角色防禦上升 1 層。",
     "cutin": [
       {
         "info": {
@@ -24406,7 +24406,7 @@
     "resourceName": "b_skill_special",
     "subResourceName": "",
     "timing": 9,
-    "description": "デバフを受けた時、自身に2ターンの間弱体抵抗100を付与。",
+    "description": "獲得減益效果時，賦予自身「弱體抵抗100」 2 層。",
     "cutin": [],
     "isEquip": true,
     "effects": [
@@ -24620,7 +24620,7 @@
     "resourceName": "b_skill_view",
     "subResourceName": "",
     "timing": 1,
-    "description": "登場時、Viewを5000獲得。",
+    "description": "登場時，獲得 5000 View。",
     "cutin": [],
     "isEquip": true,
     "effects": [
@@ -24642,7 +24642,7 @@
     "resourceName": "b_skill_special",
     "subResourceName": "",
     "timing": 1,
-    "description": "相手から受けるダメージの上限を25000にする。",
+    "description": "來自對手的傷害上限值為 25000。",
     "cutin": [],
     "isEquip": true,
     "effects": [
@@ -24680,7 +24680,7 @@
     "resourceName": "b_skill_special",
     "subResourceName": "",
     "timing": 1,
-    "description": "相手から受けるダメージの上限を25000にする。",
+    "description": "來自對手的傷害上限值為 25000。",
     "cutin": [],
     "isEquip": true,
     "effects": [
@@ -24710,7 +24710,7 @@
     "resourceName": "b_skill_view",
     "subResourceName": "",
     "timing": 4,
-    "description": "ターン開始時、Viewを10000獲得。",
+    "description": "登場時，獲得 10000 View。",
     "cutin": [],
     "isEquip": false,
     "effects": [
@@ -24732,7 +24732,7 @@
     "resourceName": "b_skill_special",
     "subResourceName": "",
     "timing": 12,
-    "description": "味方を対象にするスキルは味方の中で一番Atkが高いキャラクターを対象にする。",
+    "description": "以我方為對象的技能將以攻擊力最高者施放。",
     "cutin": [],
     "isEquip": true,
     "effects": [
@@ -24754,7 +24754,7 @@
     "resourceName": "b_skill_view",
     "subResourceName": "",
     "timing": 8,
-    "description": "ダメージを受けた時、Viewを7000獲得。",
+    "description": "受到傷害時獲得 7000 View。",
     "cutin": [],
     "isEquip": true,
     "effects": [
@@ -24776,7 +24776,7 @@
     "resourceName": "b_skill_view",
     "subResourceName": "",
     "timing": 8,
-    "description": "ダメージを受けた時、Viewを7000獲得。50%の確率でデバフを１つ解除。",
+    "description": "受到傷害時獲得 7000 View。50%機率解除 1 個減益效果。",
     "cutin": [],
     "isEquip": true,
     "effects": [
@@ -24806,7 +24806,7 @@
     "resourceName": "b_skill_cureAll",
     "subResourceName": "",
     "timing": 14,
-    "description": "戦闘不能時、敵全体のデバフを１つ解除。",
+    "description": "無法戰鬥時，敵方全體解除 1 個減益效果。",
     "cutin": [],
     "isEquip": true,
     "effects": [
@@ -24828,7 +24828,7 @@
     "resourceName": "b_skill_special",
     "subResourceName": "",
     "timing": 4,
-    "description": "ターン開始時、HPを基礎ATKの100%回復する。Viewを6000獲得。",
+    "description": "回合開始時，恢復基礎攻擊 100% 的生命值。獲得 6000 View。",
     "cutin": [],
     "isEquip": true,
     "effects": [
@@ -24858,7 +24858,7 @@
     "resourceName": "b_skill_heal",
     "subResourceName": "",
     "timing": 4,
-    "description": "ターン開始時、HPを基礎ATKの10%回復する。",
+    "description": "回合開始時，恢復基礎攻擊 10% 的生命值。",
     "cutin": [],
     "isEquip": true,
     "effects": [
@@ -24880,7 +24880,7 @@
     "resourceName": "b_skill_debuff",
     "subResourceName": "",
     "timing": 2,
-    "description": "行動開始時、自身がピンチ状態 ＆ デバフが付与されている場合、自身に１回の行動の間モザイクを付与。",
+    "description": "行動開始時，自身如果是爆衣及有減益效果時，賦予自己「馬賽克」1 層。",
     "cutin": [],
     "isEquip": true,
     "effects": [
@@ -25115,7 +25115,7 @@
     "resourceName": "b_skill_debuffAll",
     "subResourceName": "",
     "timing": 6,
-    "description": "ピンチ状態になった時、敵全体に2ターンの間沈黙を付与。",
+    "description": "爆衣時，賦予敵方全體沉默 2 層。",
     "cutin": [],
     "isEquip": true,
     "effects": [
@@ -25333,7 +25333,7 @@
     "resourceName": "b_skill_buff",
     "subResourceName": "",
     "timing": 5,
-    "description": "ターン終了時、自身のデバフが１つ以下の場合、自身にクロックアップを付与。",
+    "description": "回合結束時，自己若是減益效果只有 1 個時，賦予自己 clock-up。",
     "cutin": [],
     "isEquip": true,
     "effects": [
@@ -25375,7 +25375,7 @@
     "resourceName": "b_skill_buffAll",
     "subResourceName": "",
     "timing": 6,
-    "description": "ピンチ状態になった時、戦闘不能の場合、味方全体を70%のHPで復活。味方全体に1回分の無敵を付与。",
+    "description": "爆衣時、無法戰鬥時，我方全體以血量 70% 復活。賦予我方全體無敵 1 層。",
     "cutin": [],
     "isEquip": true,
     "effects": [
@@ -25567,7 +25567,7 @@
     "resourceName": "b_skill_debuff",
     "subResourceName": "",
     "timing": 1,
-    "description": "登場時、自身にモザイク（解除不可）を付与。",
+    "description": "登場時，賦予自己「馬賽克」（無法解除）。",
     "cutin": [],
     "isEquip": true,
     "effects": [
@@ -25721,7 +25721,7 @@
     "resourceName": "",
     "subResourceName": "",
     "timing": 8,
-    "description": "ダメージを受けた後に、スキル１で反撃。",
+    "description": "受到傷害時，以第一招進行反擊。",
     "cutin": [],
     "isEquip": true,
     "effects": [
@@ -25743,7 +25743,7 @@
     "resourceName": "",
     "subResourceName": "",
     "timing": 1,
-    "description": "登場時、×3を付与。",
+    "description": "登場時，賦予 ×3。",
     "cutin": [],
     "isEquip": true,
     "effects": [
