@@ -20460,7 +20460,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_cureAll",
     "timing": 0,
-    "description": "敵単体に60%ダメージの有利属性攻撃。味方全体のデバフを１つ解除。（敵専用）",
+    "description": "敌単体に60%ダメージの有利属性攻撃。味方全体のデバフを１つ解除。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -20497,7 +20497,7 @@
     "resourceName": "b_skill_view",
     "subResourceName": "s_skill_spdUpAll",
     "timing": 0,
-    "description": "Viewを25000獲得。味方全体に1回の行動の間超SPDアップを付与。【ピンチ状態時追加効果】味方全体のデバフを1つ解除（敵専用）",
+    "description": "Viewを25000获得。味方全体に1回の行动の间超SPDアップを付与。【ピンチ状态时追加効果】味方全体のデバフを1つ解除（敌専用）",
     "cutin": [
       {
         "info": {
@@ -20651,7 +20651,7 @@
     "resourceName": "b_skill_view",
     "subResourceName": "",
     "timing": 0,
-    "description": "Viewを25000獲得。",
+    "description": "Viewを25000获得。",
     "cutin": [
       {
         "info": {
@@ -20674,13 +20674,13 @@
   },
   "4033101": {
     "skillId": 4033101,
-    "skillName": "日輪の踊り",
+    "skillName": "日轮の踊り",
     "useView": 0,
     "targetFlag": 3,
     "resourceName": "b_skill_healAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "戦闘不能の味方全体を100%のHPで復活。（敵専用）",
+    "description": "戦闘不能の味方全体を100%のHPで复活。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -20719,13 +20719,13 @@
   },
   "4033102": {
     "skillId": 4033102,
-    "skillName": "大風の舞い",
+    "skillName": "大风の舞い",
     "useView": 0,
     "targetFlag": 4,
     "resourceName": "b_skill_damageAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵全体に50%ダメージ。（敵専用）",
+    "description": "敌全体に50%ダメージ。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -20754,7 +20754,7 @@
     "resourceName": "b_skill_buffAll",
     "subResourceName": "s_skill_heal",
     "timing": 0,
-    "description": "味方全体に3回の行動の間ATKアップ×2を付与。1回分の無敵を付与。戦闘不能の場合100%のHPで復活。（敵専用）",
+    "description": "味方全体に3回の行动の间ATKアップ×2を付与。1回分の无敌を付与。戦闘不能の场合100%のHPで复活。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -24766,7 +24766,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体に70%ダメージの有利属性攻撃。ダメージを受けたとき、30%の確率でこのスキルで反撃。（敵専用）",
+    "description": "敌単体に70%ダメージの有利属性攻撃。ダメージを受けたとき、30%の确率でこのスキルで反撃。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -25254,7 +25254,7 @@
     "resourceName": "b_skill_heal",
     "subResourceName": "",
     "timing": 4,
-    "description": "ターン開始時、自身のHPを基礎ATKの500%回復する。",
+    "description": "ターン开始时、自身のHPを基础ATKの500%回复する。",
     "cutin": [],
     "isEquip": true,
     "effects": [
@@ -25891,7 +25891,7 @@
     "resourceName": "b_skill_special",
     "subResourceName": "",
     "timing": 1,
-    "description": "プロキーがピンチ状態の時、自身のスキルに必要なViewが半分になる。",
+    "description": "プロキーがピンチ状态の时、自身のスキルに必要なViewが半分になる。",
     "cutin": [],
     "isEquip": false,
     "effects": [
@@ -26566,13 +26566,13 @@
   },
   "6066402": {
     "skillId": 6066402,
-    "skillName": "援護不可",
+    "skillName": "援护不可",
     "useView": 0,
     "targetFlag": 3,
     "resourceName": "b_skill_debuff",
     "subResourceName": "",
     "timing": 14,
-    "description": "このヒーローが戦闘不能になっている間、味方のViewを使うスキルのViewの消費量が50%増加する。",
+    "description": "このヒーローが戦闘不能になっている间、味方のViewを使うスキルのViewの消费量が50%増加する。",
     "cutin": [],
     "isEquip": false,
     "effects": [
