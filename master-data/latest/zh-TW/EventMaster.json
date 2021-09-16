@@ -1289,5 +1289,27 @@
         "targetStockId": 10191
       }
     ]
+  },
+  "19": {
+    "eventId": 19,
+    "chapterId": 435,
+    "lookBackChapterId": 0,
+    "baseResourceName": "Breed",
+    "startAt": "2021-09-16 18:00:00",
+    "endAt": "2021-09-30 14:00:00",
+    "canRemember": 0,
+    "eventPortalJson": null,
+    "questBonusJsons": []
+  },
+  "20": {
+    "eventId": 20,
+    "chapterId": 436,
+    "lookBackChapterId": 0,
+    "baseResourceName": "2109SecurityTraining",
+    "startAt": "2021-09-16 17:59:59",
+    "endAt": "2021-09-30 14:00:00",
+    "canRemember": 0,
+    "eventPortalJson": null,
+    "questBonusJsons": []
   }
 }
