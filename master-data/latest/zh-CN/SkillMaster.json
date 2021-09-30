@@ -353,7 +353,7 @@
     "resourceName": "",
     "subResourceName": "",
     "timing": 0,
-    "description": "ViewPowerに応じて味方全体のAtk上昇効果",
+    "description": "ViewPowerに応じて味方全体のAtk上升効果",
     "cutin": [],
     "isEquip": false,
     "effects": [
@@ -1619,7 +1619,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_heal",
     "timing": 0,
-    "description": "敵単体に60%ダメージ。自身のHPを基礎ATKの30%回復する。",
+    "description": "敌単体に60%ダメージ。自身のHPを基础ATKの30%回复する。",
     "cutin": [
       {
         "info": {
@@ -1656,7 +1656,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体に90%ダメージ。コンボ数が５以上の場合、スキル１を追加発動。",
+    "description": "敌単体に90%ダメージ。コンボ数が５以上の场合、スキル１を追加発动。",
     "cutin": [
       {
         "info": {
@@ -1699,7 +1699,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵全体に100%ダメージ。このスキルは発動するごとに威力が上昇する。（３回まで。）",
+    "description": "敌全体に100%ダメージ。このスキルは発动するごとに威力が上升する。（３回まで。）",
     "cutin": [
       {
         "info": {
@@ -1794,7 +1794,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_combo",
     "timing": 0,
-    "description": "敵単体に90%ダメージ。コンボ数が５以上の場合、スキル１を追加発動。コンボ数+2。",
+    "description": "敌単体に90%ダメージ。コンボ数が５以上の场合、スキル１を追加発动。コンボ数+2。",
     "cutin": [
       {
         "info": {
@@ -2125,7 +2125,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_spdDownTeam",
     "timing": 0,
-    "description": "敵単体に60%ダメージ。60%の確率で1回の行動の間SPDダウンを付与。",
+    "description": "敌単体に60%ダメージ。60%の确率で1回の行动の间SPDダウンを付与。",
     "cutin": [
       {
         "info": {
@@ -2162,7 +2162,7 @@
     "resourceName": "b_skill_view",
     "subResourceName": "s_skill_buffAll",
     "timing": 0,
-    "description": "Viewを9000獲得。【常時発動】このヒーローが生存している間、ViewPowerに応じて味方全体のAtkを上昇。この効果は重複しない。",
+    "description": "Viewを9000获得。【常时発动】このヒーローが生存している间、ViewPowerに応じて味方全体のAtkを上升。この効果は重复しない。",
     "cutin": [
       {
         "info": {
@@ -2191,7 +2191,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "敵単体に120%ダメージ。1ターンの間沈黙を付与。",
+    "description": "敌単体に120%ダメージ。1ターンの间沈黙を付与。",
     "cutin": [
       {
         "info": {
@@ -2228,7 +2228,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_spdDownTeam",
     "timing": 0,
-    "description": "敵単体に60%ダメージ。1回の行動の間SPDダウンを付与。",
+    "description": "敌単体に60%ダメージ。1回の行动の间SPDダウンを付与。",
     "cutin": [
       {
         "info": {
@@ -7904,13 +7904,13 @@
   },
   "1075101": {
     "skillId": 1075101,
-    "skillName": "射将先馬の策",
+    "skillName": "射将先马の策",
     "useView": 0,
     "targetFlag": 2,
     "resourceName": "b_skill_antiBuff",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体のバフを１つ解除。自身の行動時にこのスキルを発動した場合、自身以外のランダムな味方がスキル１で追撃。",
+    "description": "敌単体のバフを１つ解除。自身の行动时にこのスキルを発动した场合、自身以外のランダムな味方がスキル１で追撃。",
     "cutin": [
       {
         "info": {
@@ -7947,13 +7947,13 @@
   },
   "1075102": {
     "skillId": 1075102,
-    "skillName": "一騎当千の策",
+    "skillName": "一骑当千の策",
     "useView": 6000,
     "targetFlag": 1,
     "resourceName": "b_skill_buff",
     "subResourceName": "",
     "timing": 0,
-    "description": "味方単体に3回の行動の間ATKアップを付与。",
+    "description": "味方単体に3回の行动の间ATKアップを付与。",
     "cutin": [
       {
         "info": {
@@ -7976,13 +7976,13 @@
   },
   "1075103": {
     "skillId": 1075103,
-    "skillName": "風向転勝刃",
+    "skillName": "风向転胜刃",
     "useView": 9000,
     "targetFlag": 3,
     "resourceName": "b_skill_buffAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "味方全体に1回分のDEFアップを付与。1ターンの間弱体抵抗+50を付与。",
+    "description": "味方全体に1回分のDEFアップを付与。1ターンの间弱体抵抗+50を付与。",
     "cutin": [
       {
         "info": {
@@ -8013,13 +8013,13 @@
   },
   "1075104": {
     "skillId": 1075104,
-    "skillName": "一騎当千の策+",
+    "skillName": "一骑当千の策+",
     "useView": 5000,
     "targetFlag": 1,
     "resourceName": "b_skill_buff",
     "subResourceName": "",
     "timing": 0,
-    "description": "味方単体に3回の行動の間ATKアップを付与。",
+    "description": "味方単体に3回の行动の间ATKアップを付与。",
     "cutin": [
       {
         "info": {
@@ -12741,7 +12741,7 @@
     "resourceName": "b_skill_buff",
     "subResourceName": "s_skill_combo",
     "timing": 0,
-    "description": "味方単体に2回の行動の間ATKアップを付与。コンボ数+1。",
+    "description": "味方単体に2回の行动の间ATKアップを付与。コンボ数+1。",
     "cutin": [
       {
         "info": {
@@ -12778,7 +12778,7 @@
     "resourceName": "b_skill_buff",
     "subResourceName": "s_skill_combo",
     "timing": 0,
-    "description": "味方単体に2回の行動の間ATKアップを付与。コンボ数+1。",
+    "description": "味方単体に2回の行动の间ATKアップを付与。コンボ数+1。",
     "cutin": [
       {
         "info": {
@@ -12815,7 +12815,7 @@
     "resourceName": "b_skill_buff",
     "subResourceName": "s_skill_combo",
     "timing": 0,
-    "description": "味方単体に2回の行動の間ATKアップを付与。コンボ数+2。",
+    "description": "味方単体に2回の行动の间ATKアップを付与。コンボ数+2。",
     "cutin": [
       {
         "info": {
@@ -19269,13 +19269,13 @@
   },
   "3075101": {
     "skillId": 3075101,
-    "skillName": "後方支援Ⅰ",
+    "skillName": "后方支援Ⅰ",
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "icon_okitaka_s01",
     "subResourceName": "",
     "timing": 4,
-    "description": "ターン開始時、ATK+2%（5回まで発動）。オート行動時、敵を対象にするスキルは敵の中で一番SPDが高いキャラクターを対象にする。",
+    "description": "ターン开始时、ATK+2%（5回まで発动）。オート行动时、敌を対象にするスキルは敌の中で一番SPDが高いキャラクターを対象にする。",
     "cutin": [],
     "isEquip": false,
     "effects": [
@@ -19305,13 +19305,13 @@
   },
   "3075102": {
     "skillId": 3075102,
-    "skillName": "後方支援Ⅱ",
+    "skillName": "后方支援Ⅱ",
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "icon_okitaka_s01",
     "subResourceName": "",
     "timing": 4,
-    "description": "ターン開始時、ATK+2.4%（5回まで発動）。オート行動時、敵を対象にするスキルは敵の中で一番SPDが高いキャラクターを対象にする。",
+    "description": "ターン开始时、ATK+2.4%（5回まで発动）。オート行动时、敌を対象にするスキルは敌の中で一番SPDが高いキャラクターを対象にする。",
     "cutin": [],
     "isEquip": false,
     "effects": [
@@ -19341,13 +19341,13 @@
   },
   "3075103": {
     "skillId": 3075103,
-    "skillName": "後方支援Ⅲ",
+    "skillName": "后方支援Ⅲ",
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "icon_okitaka_s01",
     "subResourceName": "",
     "timing": 4,
-    "description": "ターン開始時、ATK+2.8%（5回まで発動）。オート行動時、敵を対象にするスキルは敵の中で一番SPDが高いキャラクターを対象にする。",
+    "description": "ターン开始时、ATK+2.8%（5回まで発动）。オート行动时、敌を対象にするスキルは敌の中で一番SPDが高いキャラクターを対象にする。",
     "cutin": [],
     "isEquip": false,
     "effects": [
@@ -19377,13 +19377,13 @@
   },
   "3075104": {
     "skillId": 3075104,
-    "skillName": "後方支援Ⅳ",
+    "skillName": "后方支援Ⅳ",
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "icon_okitaka_s01",
     "subResourceName": "",
     "timing": 4,
-    "description": "ターン開始時、ATK+3.2%（5回まで発動）。オート行動時、敵を対象にするスキルは敵の中で一番SPDが高いキャラクターを対象にする。",
+    "description": "ターン开始时、ATK+3.2%（5回まで発动）。オート行动时、敌を対象にするスキルは敌の中で一番SPDが高いキャラクターを対象にする。",
     "cutin": [],
     "isEquip": false,
     "effects": [
@@ -19413,13 +19413,13 @@
   },
   "3075105": {
     "skillId": 3075105,
-    "skillName": "後方支援Ⅴ",
+    "skillName": "后方支援Ⅴ",
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "icon_okitaka_s01",
     "subResourceName": "",
     "timing": 4,
-    "description": "ターン開始時、ATK+3.6%（5回まで発動）。オート行動時、敵を対象にするスキルは敵の中で一番SPDが高いキャラクターを対象にする。",
+    "description": "ターン开始时、ATK+3.6%（5回まで発动）。オート行动时、敌を対象にするスキルは敌の中で一番SPDが高いキャラクターを対象にする。",
     "cutin": [],
     "isEquip": false,
     "effects": [
@@ -19449,13 +19449,13 @@
   },
   "3075106": {
     "skillId": 3075106,
-    "skillName": "後方支援Ⅵ",
+    "skillName": "后方支援Ⅵ",
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "icon_okitaka_s01",
     "subResourceName": "",
     "timing": 4,
-    "description": "ターン開始時、ATK+4%（5回まで発動）。オート行動時、敵を対象にするスキルは敵の中で一番SPDが高いキャラクターを対象にする。",
+    "description": "ターン开始时、ATK+4%（5回まで発动）。オート行动时、敌を対象にするスキルは敌の中で一番SPDが高いキャラクターを対象にする。",
     "cutin": [],
     "isEquip": false,
     "effects": [
@@ -25759,7 +25759,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_view",
     "timing": 0,
-    "description": "敵単体に80%ダメージ。Viewを1000獲得。（敵専用）",
+    "description": "敌単体に80%ダメージ。Viewを1000获得。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -25790,13 +25790,13 @@
   },
   "4076104": {
     "skillId": 4076104,
-    "skillName": "高速連打",
+    "skillName": "高速连打",
     "useView": 9000,
     "targetFlag": 4,
     "resourceName": "b_skill_damageAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵全体に90%ダメージ。（敵専用）",
+    "description": "敌全体に90%ダメージ。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -25819,13 +25819,13 @@
   },
   "4076105": {
     "skillId": 4076105,
-    "skillName": "必殺攻撃",
+    "skillName": "必杀攻撃",
     "useView": 12000,
     "targetFlag": 4,
     "resourceName": "b_skill_damageAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵全体に120%ダメージ+Viewに応じてダメージ量が上昇。（敵専用）",
+    "description": "敌全体に120%ダメージ+Viewに応じてダメージ量が上升。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -25848,13 +25848,13 @@
   },
   "4076106": {
     "skillId": 4076106,
-    "skillName": "必殺攻撃",
+    "skillName": "必杀攻撃",
     "useView": 12000,
     "targetFlag": 4,
     "resourceName": "b_skill_damageAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵全体に90%ダメージ+Viewに応じてダメージ量が上昇。（敵専用）",
+    "description": "敌全体に90%ダメージ+Viewに応じてダメージ量が上升。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -25883,7 +25883,7 @@
     "resourceName": "b_skill_buffAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "味方全体に1回の行動の間ATKアップを付与。（敵専用）",
+    "description": "味方全体に1回の行动の间ATKアップを付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -25906,13 +25906,13 @@
   },
   "4080101": {
     "skillId": 4080101,
-    "skillName": "決めポーズ",
+    "skillName": "决めポーズ",
     "useView": 5000,
     "targetFlag": 0,
     "resourceName": "b_skill_view",
     "subResourceName": "",
     "timing": 0,
-    "description": "Viewを10000獲得。（敵専用）",
+    "description": "Viewを10000获得。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -27955,7 +27955,7 @@
     "resourceName": "",
     "subResourceName": "",
     "timing": 5,
-    "description": "ターン開始時に付与したシステム効果60番を全除去",
+    "description": "ターン开始时に付与したシステム効果60番を全除去",
     "cutin": [],
     "isEquip": false,
     "effects": [
@@ -27977,7 +27977,7 @@
     "resourceName": "",
     "subResourceName": "",
     "timing": 14,
-    "description": "死亡時、ターン開始時に付与したシステム効果60番を全除去",
+    "description": "死亡时、ターン开始时に付与したシステム効果60番を全除去",
     "cutin": [],
     "isEquip": false,
     "effects": [
@@ -27999,7 +27999,7 @@
     "resourceName": "b_skill_special",
     "subResourceName": "",
     "timing": 4,
-    "description": "Viewを獲得するスキルで獲得するViewが25%上昇 & ViewPowerに応じて味方全体のAtkを上昇。",
+    "description": "Viewを获得するスキルで获得するViewが25%上升 & ViewPowerに応じて味方全体のAtkを上升。",
     "cutin": [],
     "isEquip": false,
     "effects": [
