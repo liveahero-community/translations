@@ -1034,11 +1034,11 @@
   "18": {
     "eventId": 18,
     "chapterId": 431,
-    "lookBackChapterId": 0,
-    "baseResourceName": "Summerdive2108_epilogue",
+    "lookBackChapterId": 511,
+    "baseResourceName": "Summerdive2108",
     "startAt": null,
     "endAt": "2021-09-21 14:00:00",
-    "canRemember": 0,
+    "canRemember": 1,
     "eventPortalJson": {
       "bg": "ui_bg_sprite_event_Summerdive2108",
       "bgm": "bgm_summerdive_adv1",
@@ -1311,5 +1311,228 @@
     "canRemember": 0,
     "eventPortalJson": null,
     "questBonusJsons": []
+  },
+  "21": {
+    "eventId": 21,
+    "chapterId": 437,
+    "lookBackChapterId": 0,
+    "baseResourceName": "Herofesta2109",
+    "startAt": "2021-09-19 00:00:00",
+    "endAt": "2021-10-28 20:00:00",
+    "canRemember": 0,
+    "eventPortalJson": {
+      "bg": "ui_bg_sprite_event_Herofesta2109",
+      "bgm": "bgm_herofesta_adv",
+      "logo": "Herofesta2109_title",
+      "terms": [
+        {
+          "keys": [
+            "UI_MAIN_QUEST",
+            "UI_MISSION",
+            "UI_EXCHANGE"
+          ],
+          "endAt": "2021-10-28 14:00:00"
+        },
+        {
+          "keys": [
+            "UI_FREE_QUEST",
+            "UI_SALES"
+          ],
+          "endAt": "2021-10-21 20:00:00"
+        }
+      ],
+      "gachaId": 20,
+      "storeId": 14,
+      "questInfos": [
+        {
+          "type": 5,
+          "chapterId": 437
+        },
+        {
+          "type": 6,
+          "chapterId": 438
+        },
+        {
+          "type": 8,
+          "chapterId": 439
+        },
+        {
+          "type": 7,
+          "chapterId": 440
+        }
+      ],
+      "tutorialKey": "Herofesta2109",
+      "eventItemIds": [
+        71
+      ],
+      "characterViews": [
+        {
+          "skinId": 0,
+          "stockId": 10072,
+          "cardType": 1,
+          "serifKinds": [
+            27,
+            28
+          ],
+          "visualType": 1,
+          "resourceName": "barrelHerofesta2109",
+          "characterName": "バレル"
+        },
+        {
+          "skinId": 0,
+          "stockId": 10092,
+          "cardType": 1,
+          "serifKinds": [
+            27,
+            28
+          ],
+          "visualType": 1,
+          "resourceName": "victomHerofesta2109",
+          "characterName": "ヴィクトム"
+        },
+        {
+          "skinId": 0,
+          "stockId": 10751,
+          "cardType": 2,
+          "serifKinds": [
+            27,
+            28
+          ],
+          "visualType": 1,
+          "resourceName": "okitaka",
+          "characterName": "オキタカ"
+        }
+      ],
+      "salesRegionIds": [
+        209
+      ],
+      "missionGroupIds": [
+        437
+      ],
+      "missionCategoryButtonLabels": {
+        "event": ""
+      }
+    },
+    "questBonusJsons": [
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 71,
+        "bonusValue": 40,
+        "targetStockId": 10072
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 71,
+        "bonusValue": 40,
+        "targetStockId": 10092
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 71,
+        "bonusValue": 30,
+        "targetStockId": 10751
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 71,
+        "bonusValue": 20,
+        "targetStockId": 10071
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 71,
+        "bonusValue": 20,
+        "targetStockId": 10091
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 71,
+        "bonusValue": 20,
+        "targetStockId": 10012
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 71,
+        "bonusValue": 10,
+        "targetStockId": 10192
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 71,
+        "bonusValue": 10,
+        "targetStockId": 10171
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 71,
+        "bonusValue": 10,
+        "targetStockId": 10731
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 71,
+        "bonusValue": 10,
+        "targetStockId": 10071
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 71,
+        "bonusValue": 10,
+        "targetStockId": 10091
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 71,
+        "bonusValue": 20,
+        "targetStockId": 10751
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 71,
+        "bonusValue": 10,
+        "targetStockId": 10011
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 71,
+        "bonusValue": 10,
+        "targetStockId": 10191
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 71,
+        "bonusValue": 10,
+        "targetStockId": 10171
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 71,
+        "bonusValue": 10,
+        "targetStockId": 10731
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 71,
+        "bonusValue": 10,
+        "targetStockId": 19991
+      }
+    ]
   }
 }

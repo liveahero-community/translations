@@ -517,6 +517,58 @@
       "isInHome": true
     }
   ],
+  "10072": [
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 4,
+      "faceType": "",
+      "serifKey": "SERIF_BARRELHEROFESTA2109_PLAYER",
+      "voiceFilename": "",
+      "resourceName": "barrelHerofesta2109",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 5,
+      "faceType": "",
+      "serifKey": "SERIF_BARRELHEROFESTA2109_HERO",
+      "voiceFilename": "",
+      "resourceName": "barrelHerofesta2109",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 12,
+      "faceType": "c",
+      "serifKey": "SERIF_BARRELHEROFESTA2109_TOUCH",
+      "voiceFilename": "",
+      "resourceName": "barrelHerofesta2109",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 27,
+      "faceType": "c",
+      "serifKey": "SERIF_BARRELHEROFESTA2109_EVENTA",
+      "voiceFilename": "",
+      "resourceName": "barrelHerofesta2109",
+      "isInHome": false
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 28,
+      "faceType": "",
+      "serifKey": "SERIF_BARRELHEROFESTA2109_EVENTB",
+      "voiceFilename": "",
+      "resourceName": "barrelHerofesta2109",
+      "isInHome": false
+    }
+  ],
   "10081": [
     {
       "cardType": 2,
@@ -638,6 +690,68 @@
       "serifKey": "SERIF_VICTOM_RELATION",
       "voiceFilename": "",
       "resourceName": "victom",
+      "isInHome": true
+    }
+  ],
+  "10092": [
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 4,
+      "faceType": "e",
+      "serifKey": "SERIF_VICTOMHEROFESTA2109_PLAYER",
+      "voiceFilename": "",
+      "resourceName": "victomHerofesta2109",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 5,
+      "faceType": "e",
+      "serifKey": "SERIF_VICTOMHEROFESTA2109_HERO",
+      "voiceFilename": "",
+      "resourceName": "victomHerofesta2109",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 12,
+      "faceType": "f",
+      "serifKey": "SERIF_VICTOMHEROFESTA2109_TOUCH",
+      "voiceFilename": "",
+      "resourceName": "victomHerofesta2109",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 27,
+      "faceType": "",
+      "serifKey": "SERIF_VICTOMHEROFESTA2109_EVENTA",
+      "voiceFilename": "",
+      "resourceName": "victomHerofesta2109",
+      "isInHome": false
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 28,
+      "faceType": "c",
+      "serifKey": "SERIF_VICTOMHEROFESTA2109_EVENTB",
+      "voiceFilename": "",
+      "resourceName": "victomHerofesta2109",
+      "isInHome": false
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 11,
+      "faceType": "",
+      "serifKey": "SERIF_VICTOMHEROFESTA2109_APPRECIATION",
+      "voiceFilename": "",
+      "resourceName": "victomHerofesta2109",
       "isInHome": true
     }
   ],
@@ -3212,6 +3326,88 @@
       "serifKey": "SERIF_PUBRASEER_EVENTB",
       "voiceFilename": "",
       "resourceName": "pubraseer",
+      "isInHome": false
+    }
+  ],
+  "10751": [
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 4,
+      "faceType": "c",
+      "serifKey": "SERIF_OKITAKA_PLAYER",
+      "voiceFilename": "",
+      "resourceName": "okitaka",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 5,
+      "faceType": "f",
+      "serifKey": "SERIF_OKITAKA_HERO",
+      "voiceFilename": "",
+      "resourceName": "okitaka",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 12,
+      "faceType": "b",
+      "serifKey": "SERIF_OKITAKA_TOUCH",
+      "voiceFilename": "",
+      "resourceName": "okitaka",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 3,
+      "faceType": "",
+      "serifKey": "SERIF_OKITAKA_DAILY",
+      "voiceFilename": "",
+      "resourceName": "okitaka",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 6,
+      "faceType": "",
+      "serifKey": "SERIF_OKITAKA_RELATION",
+      "voiceFilename": "",
+      "resourceName": "okitaka",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 11,
+      "faceType": "i",
+      "serifKey": "SERIF_OKITAKA_APPRECIATION",
+      "voiceFilename": "",
+      "resourceName": "okitaka",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 27,
+      "faceType": "",
+      "serifKey": "SERIF_OKITAKA_EVENTA",
+      "voiceFilename": "",
+      "resourceName": "okitaka",
+      "isInHome": false
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 28,
+      "faceType": "g",
+      "serifKey": "SERIF_OKITAKA_EVENTB",
+      "voiceFilename": "",
+      "resourceName": "okitaka",
       "isInHome": false
     }
   ]
