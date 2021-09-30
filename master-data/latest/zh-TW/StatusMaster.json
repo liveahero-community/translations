@@ -239,7 +239,7 @@
   },
   "35": {
     "statusId": 35,
-    "statusName": "触手",
+    "statusName": "觸手",
     "isGoodStatus": 1,
     "statusType": 1,
     "description": "怪物的觸手。"
@@ -281,7 +281,7 @@
   },
   "41": {
     "statusId": 41,
-    "statusName": "ATKアップ(微小)",
+    "statusName": "攻擊力上升（微）",
     "isGoodStatus": 1,
     "statusType": 1,
     "description": "攻擊力變為 1.1 倍。"
@@ -302,7 +302,7 @@
   },
   "44": {
     "statusId": 44,
-    "statusName": "弱体抵抗100",
+    "statusName": "衰弱抵抗100",
     "isGoodStatus": 1,
     "statusType": 1,
     "description": "被施予減益效果的機率減少 100%。"
@@ -316,7 +316,7 @@
   },
   "46": {
     "statusId": 46,
-    "statusName": "弱体抵抗100",
+    "statusName": "衰弱抵抗100",
     "isGoodStatus": 1,
     "statusType": 1,
     "description": "被施予減益效果的機率減少 100%。"
@@ -330,21 +330,21 @@
   },
   "48": {
     "statusId": 48,
-    "statusName": "無効",
+    "statusName": "無效",
     "isGoodStatus": 1,
     "statusType": 1,
     "description": "無法被賦予特定的增益效果。"
   },
   "49": {
     "statusId": 49,
-    "statusName": "クロックアップ",
+    "statusName": "Clock-up",
     "isGoodStatus": 1,
     "statusType": 1,
     "description": "速度值 +5，View 值消耗減少 2000。此技能無法被解除。"
   },
   "50": {
     "statusId": 50,
-    "statusName": "標的",
+    "statusName": "標記",
     "isGoodStatus": 0,
     "statusType": 0,
     "description": "直到本回合結束前都容易成為對手攻擊目標。"
@@ -358,14 +358,14 @@
   },
   "52": {
     "statusId": 52,
-    "statusName": "弱体抵抗10",
+    "statusName": "衰弱抵抗10",
     "isGoodStatus": 1,
     "statusType": 1,
     "description": "被施予減益效果的機率減少 10%。"
   },
   "53": {
     "statusId": 53,
-    "statusName": "熱狂",
+    "statusName": "狂熱",
     "isGoodStatus": 1,
     "statusType": 1,
     "description": "解除時 View 值增加 2000。"
@@ -386,7 +386,7 @@
   },
   "56": {
     "statusId": 56,
-    "statusName": "酸素ボンベ",
+    "statusName": "氧氣筒",
     "isGoodStatus": 1,
     "statusType": 1,
     "description": "在海中的氧氣補給道具。受到傷害時破損。"
@@ -403,42 +403,42 @@
     "statusName": "View消費+1000",
     "isGoodStatus": 0,
     "statusType": 0,
-    "description": "Viewの消費を+1000する。"
+    "description": "View 值消耗增加 1000。"
   },
   "59": {
     "statusId": 59,
-    "statusName": "弱体抵抗",
+    "statusName": "衰弱抵抗",
     "isGoodStatus": 1,
     "statusType": 1,
-    "description": "被デバフ付与率が数値だけ減少する。"
+    "description": "被施予減益效果的機率減少。"
   },
   "60": {
     "statusId": 60,
     "statusName": "",
     "isGoodStatus": 2,
     "statusType": 2,
-    "description": "限定ヴィクトム専用システム効果"
+    "description": "限定勝利者專用系統效果。"
   },
   "61": {
     "statusId": 61,
     "statusName": "View消費量減少",
     "isGoodStatus": 1,
     "statusType": 1,
-    "description": "Viewの消費量が減少する。スキルによる解除不可。"
+    "description": "View 值消耗減少。此技能無法解除。"
   },
   "62": {
     "statusId": 62,
     "statusName": "View消費量増加",
     "isGoodStatus": 0,
     "statusType": 0,
-    "description": "Viewの消費量が増加する。スキルによる解除不可。"
+    "description": "View 值消耗增加。此技能無法解除。"
   },
   "63": {
     "statusId": 63,
     "statusName": "View消費量減少",
     "isGoodStatus": 0,
     "statusType": 0,
-    "description": "Viewの消費量が減少する。スキルによる解除不可。"
+    "description": "View 值消耗減少。此技能無法解除。"
   },
   "64": {
     "statusId": 64,
