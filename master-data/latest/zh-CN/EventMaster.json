@@ -1316,7 +1316,7 @@
     "eventId": 21,
     "chapterId": 437,
     "lookBackChapterId": 0,
-    "baseResourceName": "Herofesta2109",
+    "baseResourceName": "Herofesta2109_epilogue",
     "startAt": "2021-09-19 00:00:00",
     "endAt": "2021-10-28 20:00:00",
     "canRemember": 0,
@@ -1329,17 +1329,10 @@
           "keys": [
             "UI_MAIN_QUEST",
             "UI_MISSION",
-            "UI_EXCHANGE"
+            "UI_EXCHANGE",
+            "UI_EPILOGUE_QUEST"
           ],
           "endAt": "2021-10-28 14:00:00"
-        },
-        {
-          "keys": [
-            "UI_FREE_QUEST",
-            "UI_SALES",
-            "UI_SCORE_ATTACK"
-          ],
-          "endAt": "2021-10-21 20:00:00"
         }
       ],
       "gachaId": 20,
