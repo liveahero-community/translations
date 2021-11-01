@@ -1528,5 +1528,215 @@
         "targetStockId": 19991
       }
     ]
+  },
+  "22": {
+    "eventId": 22,
+    "chapterId": 441,
+    "lookBackChapterId": 0,
+    "baseResourceName": "Xmas2012Revival",
+    "startAt": null,
+    "endAt": "2021-11-22 14:00:00",
+    "canRemember": 0,
+    "eventPortalJson": {
+      "bg": "ui_bg_sprite_event_Xmas2012",
+      "bgm": "bgm_yukemuri_adv",
+      "logo": "Xmas2012Revival_title",
+      "terms": [
+        {
+          "keys": [
+            "UI_MAIN_QUEST",
+            "UI_FREE_QUEST",
+            "UI_SALES"
+          ],
+          "endAt": "2021-11-15 20:00:00"
+        },
+        {
+          "keys": [
+            "UI_MISSION",
+            "UI_EXCHANGE"
+          ],
+          "endAt": "2021-11-19 14:00:00"
+        }
+      ],
+      "gachaId": 21,
+      "storeId": 5,
+      "questInfos": [
+        {
+          "type": 5,
+          "chapterId": 441
+        },
+        {
+          "type": 6,
+          "chapterId": 442
+        },
+        {
+          "type": 8,
+          "chapterId": 443
+        }
+      ],
+      "tutorialKey": "Xmas2012Revival",
+      "eventItemIds": [
+        50
+      ],
+      "characterViews": [
+        {
+          "skinId": 0,
+          "stockId": 10511,
+          "cardType": 2,
+          "serifKinds": [
+            3,
+            11
+          ],
+          "visualType": 1,
+          "resourceName": "nessen",
+          "characterName": "ネッセン"
+        },
+        {
+          "skinId": 0,
+          "stockId": 10042,
+          "cardType": 1,
+          "serifKinds": [
+            4,
+            12
+          ],
+          "visualType": 1,
+          "resourceName": "ryekieXmas2012",
+          "characterName": "ライキ"
+        },
+        {
+          "skinId": 0,
+          "stockId": 10271,
+          "cardType": 2,
+          "serifKinds": [
+            3,
+            11
+          ],
+          "visualType": 1,
+          "resourceName": "subaru",
+          "characterName": "スバル"
+        }
+      ],
+      "salesRegionIds": [
+        210
+      ],
+      "missionGroupIds": [
+        441
+      ],
+      "missionCategoryButtonLabels": null
+    },
+    "questBonusJsons": [
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 50,
+        "bonusValue": 40,
+        "targetStockId": 10042
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 50,
+        "bonusValue": 40,
+        "targetStockId": 10511
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 50,
+        "bonusValue": 30,
+        "targetStockId": 10271
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 50,
+        "bonusValue": 20,
+        "targetStockId": 10041
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 50,
+        "bonusValue": 10,
+        "targetStockId": 10011
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 50,
+        "bonusValue": 10,
+        "targetStockId": 10021
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 50,
+        "bonusValue": 10,
+        "targetStockId": 10511
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 50,
+        "bonusValue": 10,
+        "targetStockId": 10271
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 50,
+        "bonusValue": 10,
+        "targetStockId": 19991
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 50,
+        "bonusValue": 10,
+        "targetStockId": 10041
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 50,
+        "bonusValue": 10,
+        "targetStockId": 10011
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 50,
+        "bonusValue": 10,
+        "targetStockId": 10021
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 50,
+        "bonusValue": 20,
+        "targetStockId": 10072
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 50,
+        "bonusValue": 20,
+        "targetStockId": 10092
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 50,
+        "bonusValue": 10,
+        "targetStockId": 10751
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 50,
+        "bonusValue": 10,
+        "targetStockId": 10751
+      }
+    ]
   }
 }
