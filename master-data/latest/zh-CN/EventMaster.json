@@ -39,7 +39,7 @@
     "baseResourceName": "Xmas2012",
     "startAt": "2020-12-17 00:00:00",
     "endAt": "2021-01-06 20:00:00",
-    "canRemember": 1,
+    "canRemember": 0,
     "eventPortalJson": null,
     "questBonusJsons": [
       {
@@ -1315,11 +1315,11 @@
   "21": {
     "eventId": 21,
     "chapterId": 437,
-    "lookBackChapterId": 0,
-    "baseResourceName": "Herofesta2109_epilogue",
+    "lookBackChapterId": 512,
+    "baseResourceName": "Herofesta2109",
     "startAt": "2021-09-19 00:00:00",
     "endAt": "2021-10-28 14:00:00",
-    "canRemember": 0,
+    "canRemember": 1,
     "eventPortalJson": {
       "bg": "ui_bg_sprite_event_Herofesta2109",
       "bgm": "bgm_herofesta_adv",
