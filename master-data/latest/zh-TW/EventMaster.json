@@ -1545,21 +1545,22 @@
         {
           "keys": [
             "UI_MAIN_QUEST",
-            "UI_FREE_QUEST",
-            "UI_SALES"
-          ],
-          "endAt": "2021-11-15 20:00:00"
-        },
-        {
-          "keys": [
             "UI_MISSION",
             "UI_EXCHANGE"
           ],
-          "endAt": "2021-11-19 14:00:00"
+          "endAt": "2021-11-22 14:00:00"
+        },
+        {
+          "keys": [
+            "UI_FREE_QUEST",
+            "UI_SALES",
+            "UI_SCORE_ATTACK"
+          ],
+          "endAt": "2021-11-15 20:00:00"
         }
       ],
       "gachaId": 21,
-      "storeId": 5,
+      "storeId": 15,
       "questInfos": [
         {
           "type": 5,
