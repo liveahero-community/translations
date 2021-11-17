@@ -26301,7 +26301,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "s_skill_debuffAll",
     "timing": 0,
-    "description": "敵全体に40%ダメージ。50%の確率で1回の行動の間ATKダウンを付与。（敵専用）",
+    "description": "敌全体に40%ダメージ。50%の确率で1回の行动の间ATKダウンを付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -26338,7 +26338,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "敵単体に70%ダメージ。60%の確率で1回分のDEFダウンを付与。（敵専用）",
+    "description": "敌単体に70%ダメージ。60%の确率で1回分のDEFダウンを付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -26375,7 +26375,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "敵単体に150%ダメージ。80%の確率で1回の行動の間ATKダウンを付与。（敵専用）",
+    "description": "敌単体に150%ダメージ。80%の确率で1回の行动の间ATKダウンを付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -26412,7 +26412,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "s_skill_debuffAll",
     "timing": 0,
-    "description": "敵全体に100%ダメージ。1回分のDEFダウンを付与。（敵専用）",
+    "description": "敌全体に100%ダメージ。1回分のDEFダウンを付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -26449,7 +26449,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_spdDownTeam",
     "timing": 0,
-    "description": "敵単体に70%ダメージ。1回の行動の間SPDダウンを付与。（敵専用）",
+    "description": "敌単体に70%ダメージ。1回の行动の间SPDダウンを付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -28923,7 +28923,7 @@
     "resourceName": "b_skill_buff",
     "subResourceName": "",
     "timing": 4,
-    "description": "ターン開始時、1ターンの間隠蔽を付与。ダメージを受けた時、自身の隠蔽を除去。行動開始時、自身に隠蔽が付与されている場合、自身に1回の行動の間ATKアップを付与。",
+    "description": "ターン开始时、1ターンの间隠蔽を付与。ダメージを受けた时、自身の隠蔽を除去。行动开始时、自身に隠蔽が付与されている场合、自身に1回の行动の间ATKアップを付与。",
     "cutin": [],
     "isEquip": false,
     "effects": [
@@ -28945,7 +28945,7 @@
     "resourceName": "b_skill_special",
     "subResourceName": "",
     "timing": 8,
-    "description": "このターン既に行動を行っていた場合、ダメージを受けた時、50%の確率でスキル１で反撃。",
+    "description": "このターン既に行动を行っていた场合、ダメージを受けた时、50%の确率でスキル１で反撃。",
     "cutin": [],
     "isEquip": false,
     "effects": [
@@ -28973,7 +28973,7 @@
     "resourceName": "b_skill_buff",
     "subResourceName": "",
     "timing": 2,
-    "description": "行動開始時、自身に隠蔽が付与されている場合、自身に1回の行動の間ATKアップを付与。",
+    "description": "行动开始时、自身に隠蔽が付与されている场合、自身に1回の行动の间ATKアップを付与。",
     "cutin": [],
     "isEquip": false,
     "effects": [
@@ -28995,13 +28995,13 @@
   },
   "6074104": {
     "skillId": 6074104,
-    "skillName": "血に飢える",
+    "skillName": "血に饥える",
     "useView": 0,
     "targetFlag": 3,
     "resourceName": "b_skill_buffAll",
     "subResourceName": "",
     "timing": 6,
-    "description": "ピンチ状態になった時、味方全体のATKが30%上昇。",
+    "description": "ピンチ状态になった时、味方全体のATKが30%上升。",
     "cutin": [],
     "isEquip": false,
     "effects": [
@@ -29023,7 +29023,7 @@
     "resourceName": "b_skill_spdUp",
     "subResourceName": "",
     "timing": 4,
-    "description": "ターン開始時、ピンチ状態の場合、自身に1回の行動の間SPDアップを付与。",
+    "description": "ターン开始时、ピンチ状态の场合、自身に1回の行动の间SPDアップを付与。",
     "cutin": [],
     "isEquip": false,
     "effects": [
@@ -29051,7 +29051,7 @@
     "resourceName": "",
     "subResourceName": "",
     "timing": 5,
-    "description": "ターン終了時、システム効果57番除去。",
+    "description": "ターン终了时、システム効果57番除去。",
     "cutin": [],
     "isEquip": false,
     "effects": [
@@ -29073,7 +29073,7 @@
     "resourceName": "",
     "subResourceName": "",
     "timing": 8,
-    "description": "ダメージを受けた時、隠蔽を全て解除。",
+    "description": "ダメージを受けた时、隠蔽を全て解除。",
     "cutin": [],
     "isEquip": false,
     "effects": [
