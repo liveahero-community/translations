@@ -1081,5 +1081,20 @@
     "startAt": null,
     "endAt": null,
     "executeLimit": null
+  },
+  "610": {
+    "chapterId": 610,
+    "groupType": 6,
+    "chapterType": 8,
+    "chapterName": "強敵シミュレーター",
+    "subName": "シミュレート・サメ型カイブツ",
+    "peepingName": "サメ型カイブツ",
+    "sortWeight": 1000,
+    "bannerResourceName": "ui_banner_questchoice_strongenemy",
+    "bgResourceName": "ui_bg_sprite_strongenemy",
+    "missionGroupId": 610,
+    "startAt": null,
+    "endAt": null,
+    "executeLimit": null
   }
 }
