@@ -39,7 +39,7 @@
     "baseResourceName": "Xmas2012",
     "startAt": "2020-12-17 00:00:00",
     "endAt": "2021-01-06 20:00:00",
-    "canRemember": 0,
+    "canRemember": 1,
     "eventPortalJson": null,
     "questBonusJsons": [
       {
@@ -1739,5 +1739,109 @@
         "targetStockId": 10751
       }
     ]
+  },
+  "23": {
+    "eventId": 23,
+    "chapterId": 444,
+    "lookBackChapterId": 0,
+    "baseResourceName": "ContractMercenary2111",
+    "startAt": null,
+    "endAt": "2021-12-16 14:00:00",
+    "canRemember": 0,
+    "eventPortalJson": {
+      "bg": "ui_bg_sprite_event_ContractWolfmanEarth2101",
+      "bgm": "bgm_main",
+      "logo": "ContractMercenary2111_title",
+      "terms": [
+        {
+          "keys": [
+            "UI_FREE_QUEST"
+          ],
+          "endAt": "2021-12-09 14:00:00"
+        },
+        {
+          "keys": [
+            "UI_MISSION",
+            "UI_EXCHANGE"
+          ],
+          "endAt": "2021-12-16 14:00:00"
+        }
+      ],
+      "gachaId": null,
+      "storeId": 16,
+      "questInfos": [
+        {
+          "type": 6,
+          "chapterId": 444
+        }
+      ],
+      "tutorialKey": "ContractMercenary2111",
+      "eventItemIds": [
+        52
+      ],
+      "characterViews": [
+        {
+          "skinId": 0,
+          "stockId": 10661,
+          "cardType": 2,
+          "serifKinds": [
+            27
+          ],
+          "visualType": 1,
+          "resourceName": "mercenaryFire",
+          "characterName": "火のマーセナリ―"
+        },
+        {
+          "skinId": 0,
+          "stockId": 10671,
+          "cardType": 2,
+          "serifKinds": [
+            27
+          ],
+          "visualType": 1,
+          "resourceName": "mercenaryWater",
+          "characterName": "水のマーセナリ―"
+        },
+        {
+          "skinId": 0,
+          "stockId": 10681,
+          "cardType": 2,
+          "serifKinds": [
+            27
+          ],
+          "visualType": 1,
+          "resourceName": "mercenaryEarth",
+          "characterName": "木のマーセナリ―"
+        },
+        {
+          "skinId": 0,
+          "stockId": 10691,
+          "cardType": 2,
+          "serifKinds": [
+            27
+          ],
+          "visualType": 1,
+          "resourceName": "mercenaryLight",
+          "characterName": "光のマーセナリ―"
+        },
+        {
+          "skinId": 0,
+          "stockId": 10701,
+          "cardType": 2,
+          "serifKinds": [
+            27
+          ],
+          "visualType": 1,
+          "resourceName": "mercenaryShadow",
+          "characterName": "影のマーセナリ―"
+        }
+      ],
+      "salesRegionIds": [],
+      "missionGroupIds": [
+        444
+      ],
+      "missionCategoryButtonLabels": null
+    },
+    "questBonusJsons": []
   }
 }

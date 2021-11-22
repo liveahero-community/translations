@@ -6782,6 +6782,108 @@
       }
     ]
   },
+  "20388": {
+    "missionId": 20388,
+    "missionCategory": 2,
+    "missionGroupId": 444,
+    "missionTextKey": "MISSION_20388_LABEL",
+    "count": 10,
+    "sortWeight": 1000,
+    "rewards": [
+      {
+        "rewardType": 3,
+        "objectId": 52,
+        "objectValue": 500,
+        "bonus": 100,
+        "fixAddValue": 0
+      }
+    ]
+  },
+  "20389": {
+    "missionId": 20389,
+    "missionCategory": 2,
+    "missionGroupId": 444,
+    "missionTextKey": "MISSION_20389_LABEL",
+    "count": 20,
+    "sortWeight": 1000,
+    "rewards": [
+      {
+        "rewardType": 3,
+        "objectId": 52,
+        "objectValue": 750,
+        "bonus": 100,
+        "fixAddValue": 0
+      }
+    ]
+  },
+  "20390": {
+    "missionId": 20390,
+    "missionCategory": 2,
+    "missionGroupId": 444,
+    "missionTextKey": "MISSION_20390_LABEL",
+    "count": 30,
+    "sortWeight": 1000,
+    "rewards": [
+      {
+        "rewardType": 3,
+        "objectId": 52,
+        "objectValue": 1000,
+        "bonus": 100,
+        "fixAddValue": 0
+      }
+    ]
+  },
+  "20391": {
+    "missionId": 20391,
+    "missionCategory": 2,
+    "missionGroupId": 444,
+    "missionTextKey": "MISSION_20391_LABEL",
+    "count": 50,
+    "sortWeight": 1000,
+    "rewards": [
+      {
+        "rewardType": 3,
+        "objectId": 52,
+        "objectValue": 1250,
+        "bonus": 100,
+        "fixAddValue": 0
+      }
+    ]
+  },
+  "20392": {
+    "missionId": 20392,
+    "missionCategory": 2,
+    "missionGroupId": 444,
+    "missionTextKey": "MISSION_20392_LABEL",
+    "count": 75,
+    "sortWeight": 1000,
+    "rewards": [
+      {
+        "rewardType": 3,
+        "objectId": 52,
+        "objectValue": 1500,
+        "bonus": 100,
+        "fixAddValue": 0
+      }
+    ]
+  },
+  "20393": {
+    "missionId": 20393,
+    "missionCategory": 2,
+    "missionGroupId": 444,
+    "missionTextKey": "MISSION_20393_LABEL",
+    "count": 100,
+    "sortWeight": 1000,
+    "rewards": [
+      {
+        "rewardType": 3,
+        "objectId": 52,
+        "objectValue": 2000,
+        "bonus": 100,
+        "fixAddValue": 0
+      }
+    ]
+  },
   "30001": {
     "missionId": 30001,
     "missionCategory": 3,
