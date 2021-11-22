@@ -1,290 +1,290 @@
 {
   "1": {
     "statusId": 1,
-    "statusName": "攻击力上升",
+    "statusName": "ATKアップ",
     "isGoodStatus": 1,
     "statusType": 1,
-    "description": "攻击力变成 1.5 倍。"
+    "description": "攻撃力が1.5倍になる。"
   },
   "2": {
     "statusId": 2,
-    "statusName": "防御力上升",
+    "statusName": "DEFアップ",
     "isGoodStatus": 1,
     "statusType": 1,
-    "description": "仅一次减半对手的攻击伤害。"
+    "description": "一度だけ相手からのダメージが半分になる。"
   },
   "3": {
     "statusId": 3,
-    "statusName": "速度上升",
+    "statusName": "SPDアップ",
     "isGoodStatus": 1,
     "statusType": 1,
-    "description": "速度数值 +10。"
+    "description": "SPDが+10される。"
   },
   "4": {
     "statusId": 4,
     "statusName": "注目",
     "isGoodStatus": 1,
     "statusType": 1,
-    "description": "行动时的 View 的增加量变为 1.5 倍。"
+    "description": "自身のViewが1.5倍になる。"
   },
   "5": {
     "statusId": 5,
-    "statusName": "嘲讽",
+    "statusName": "挑発",
     "isGoodStatus": 1,
     "statusType": 1,
-    "description": "直到回合结束前，对手都更容易攻击该名角色。"
+    "description": "ターン終了時まで相手から狙われやすくなる。"
   },
   "6": {
     "statusId": 6,
-    "statusName": "无敌",
+    "statusName": "無敵",
     "isGoodStatus": 1,
     "statusType": 1,
-    "description": "仅一次完全抵挡来自对手的攻击伤害。"
+    "description": "一度だけ相手からのダメージを無効化する。"
   },
   "7": {
     "statusId": 7,
-    "statusName": "幸运",
+    "statusName": "幸運",
     "isGoodStatus": 1,
     "statusType": 1,
-    "description": "有机率发动的技能，发动机率增加 20%。"
+    "description": "確率で発動する効果の発動率が20%上がる。"
   },
   "8": {
     "statusId": 8,
-    "statusName": "觉醒",
+    "statusName": "覚醒",
     "isGoodStatus": 1,
     "statusType": 1,
-    "description": "发动技能所需的 View 量减半。"
+    "description": "スキルに必要なViewPowerが半分になる。"
   },
   "9": {
     "statusId": 9,
-    "statusName": "复活",
+    "statusName": "復活",
     "isGoodStatus": 1,
     "statusType": 1,
-    "description": "角色死亡时复活。"
+    "description": "死亡時に復活する。"
   },
   "10": {
     "statusId": 10,
-    "statusName": "回春",
+    "statusName": "リジェネ",
     "isGoodStatus": 1,
     "statusType": 1,
-    "description": "回合结束时恢复最大血量的 10%。"
+    "description": "ターン終了時にHP最大値の10%の回復する。"
   },
   "11": {
     "statusId": 11,
-    "statusName": "攻击力下降",
+    "statusName": "ATKダウン",
     "isGoodStatus": 0,
     "statusType": 0,
-    "description": "攻击力减半。"
+    "description": "攻撃力が0.5倍になる。"
   },
   "12": {
     "statusId": 12,
-    "statusName": "防御力下降",
+    "statusName": "DEFダウン",
     "isGoodStatus": 0,
     "statusType": 0,
-    "description": "仅一次来自对手的攻击伤害变为 1.5 倍。"
+    "description": "一度だけ相手からのダメージが1.5倍になる。"
   },
   "13": {
     "statusId": 13,
-    "statusName": "速度下降",
+    "statusName": "SPDダウン",
     "isGoodStatus": 0,
     "statusType": 0,
-    "description": "速度数值 -10。"
+    "description": "SPDが-10される。"
   },
   "14": {
     "statusId": 14,
-    "statusName": "马赛克",
+    "statusName": "モザイク",
     "isGoodStatus": 0,
     "statusType": 0,
-    "description": "行动时的 View 值增加 0 。"
+    "description": "自身のViewが0になる。"
   },
   "15": {
     "statusId": 15,
-    "statusName": "隐匿",
+    "statusName": "隠蔽",
     "isGoodStatus": 1,
     "statusType": 1,
-    "description": "直到回合结束前对手都无法指定攻击该角色。"
+    "description": "ターン終了時まで相手から狙われなくなる。"
   },
   "16": {
     "statusId": 16,
     "statusName": "不幸",
     "isGoodStatus": 0,
     "statusType": 0,
-    "description": "有机率发动的技能，发动机率减少 20%。"
+    "description": "確率で発動する効果の発動率が20%下がる。"
   },
   "17": {
     "statusId": 17,
-    "statusName": "困惑",
+    "statusName": "過消費",
     "isGoodStatus": 0,
     "statusType": 0,
-    "description": "发动技能所需的 View 量变成 2 倍。"
+    "description": "スキルに必要なViewPowerが2倍になる。"
   },
   "18": {
     "statusId": 18,
-    "statusName": "中毒",
+    "statusName": "毒",
     "isGoodStatus": 0,
     "statusType": 0,
-    "description": "回合结束时受到生命最大值 5% 的伤害。"
+    "description": "ターン終了時にHP最大値の5%のダメージを受ける。"
   },
   "19": {
     "statusId": 19,
-    "statusName": "烧伤",
+    "statusName": "火傷",
     "isGoodStatus": 0,
     "statusType": 0,
-    "description": "回合结束时受到生命最大值 10% 的伤害。"
+    "description": "ターン終了時にHP最大値の10%のダメージを受ける。"
   },
   "20": {
     "statusId": 20,
-    "statusName": "超级速度上升",
+    "statusName": "超SPDアップ",
     "isGoodStatus": 1,
     "statusType": 1,
-    "description": "速度数值 +30。"
+    "description": "SPDが+30される。"
   },
   "21": {
     "statusId": 21,
-    "statusName": "弱化抵抗",
+    "statusName": "弱体抵抗",
     "isGoodStatus": 1,
     "statusType": 1,
-    "description": "被赋予减益效果的机率少 20%。"
+    "description": "被デバフ付与率が20%減少する。"
   },
   "22": {
     "statusId": 22,
-    "statusName": "沉默",
+    "statusName": "沈黙",
     "isGoodStatus": 0,
     "statusType": 0,
-    "description": "无法使用需要消耗 View 值的技能。"
+    "description": "Viewを使用するスキルが使えなくなる。"
   },
   "23": {
     "statusId": 23,
-    "statusName": "火事场力",
+    "statusName": "火事場力",
     "isGoodStatus": 1,
     "statusType": 1,
-    "description": "自己生命越少攻击力越高。"
+    "description": "HPが減れば減るほど攻撃力が上昇する。"
   },
   "24": {
     "statusId": 24,
-    "statusName": "等待",
+    "statusName": "ウェイト",
     "isGoodStatus": 1,
     "statusType": 2,
-    "description": "该名角色的行动次序转变为该回合最后一位。"
+    "description": "自身の行動順を現時点での最後にする。"
   },
   "25": {
     "statusId": 25,
     "statusName": "俊敏",
     "isGoodStatus": 1,
     "statusType": 1,
-    "description": "自己与对手的速度差越多，则攻击力越高。"
+    "description": "相手とSPDが離れてる程攻撃力が増加。"
   },
   "26": {
     "statusId": 26,
-    "statusName": "伤害集中",
+    "statusName": "ダメージ集約",
     "isGoodStatus": 1,
     "statusType": 1,
-    "description": "直到回合结束前，全体攻击的伤害都会算在该名角色身上。"
+    "description": "ターン終了時まで全体攻撃のダメージを自分に集める。"
   },
   "27": {
     "statusId": 27,
-    "statusName": "永久效果",
+    "statusName": "永続効果",
     "isGoodStatus": 1,
     "statusType": 1,
-    "description": "在战斗中会永远发动的效果。"
+    "description": "バトル中に永続的に発動する効果。"
   },
   "28": {
     "statusId": 28,
-    "statusName": "事件加成",
+    "statusName": "イベントボーナス",
     "isGoodStatus": 1,
     "statusType": 1,
-    "description": "从 event 发动的效果。"
+    "description": "イベントにより発動する効果。"
   },
   "29": {
     "statusId": 29,
-    "statusName": "超级速度下降",
+    "statusName": "超SPDダウン",
     "isGoodStatus": 0,
     "statusType": 0,
-    "description": "速度数值 -30。"
+    "description": "SPDが-30される。"
   },
   "30": {
     "statusId": 30,
-    "statusName": "物品效果",
+    "statusName": "アイテム効果",
     "isGoodStatus": 1,
     "statusType": 1,
-    "description": "借由物品发动的效果。"
+    "description": "アイテムによって発動する効果。"
   },
   "31": {
     "statusId": 31,
-    "statusName": "物品效果：生命提升",
+    "statusName": "アイテム効果：HPアップ",
     "isGoodStatus": 1,
     "statusType": 1,
-    "description": "借由物品使生命提升。"
+    "description": "アイテムによってHPが上昇する。"
   },
   "32": {
     "statusId": 32,
-    "statusName": "物品效果：攻击力提升",
+    "statusName": "アイテム効果：ATKアップ",
     "isGoodStatus": 1,
     "statusType": 1,
-    "description": "借由物品使攻击力提升。"
+    "description": "アイテムによってATKが上昇する。"
   },
   "33": {
     "statusId": 33,
-    "statusName": "物品效果：承受伤害减少",
+    "statusName": "アイテム効果：被ダメージ減少",
     "isGoodStatus": 1,
     "statusType": 1,
-    "description": "借由物品使被动伤害减少。"
+    "description": "アイテムによって被ダメージが減少する。"
   },
   "34": {
     "statusId": 34,
     "statusName": "炸裂",
     "isGoodStatus": 0,
     "statusType": 0,
-    "description": "该角色若受到伤害而导致爆炸，伤害源将受到自身攻击基础值的 40% 伤害。"
+    "description": "ダメージを受けたときに炸裂の作成者のATK基礎値の40%のダメージを受ける。"
   },
   "35": {
     "statusId": 35,
     "statusName": "触手",
     "isGoodStatus": 1,
     "statusType": 1,
-    "description": "怪物的触手。"
+    "description": "カイブツの触手。"
   },
   "36": {
     "statusId": 36,
-    "statusName": "View消费-3000",
+    "statusName": "View消費-3000",
     "isGoodStatus": 1,
     "statusType": 1,
-    "description": "技能所需的 View 费用减少 3000。"
+    "description": "Viewの消費を-3000する。"
   },
   "37": {
     "statusId": 37,
     "statusName": "ボーナス：ATKアップ",
     "isGoodStatus": 1,
     "statusType": 1,
-    "description": "透过任务加成使攻击力上升。"
+    "description": "クエストボーナスによってATKが上昇する。"
   },
   "38": {
     "statusId": 38,
-    "statusName": "View消费-2000",
+    "statusName": "View消費-2000",
     "isGoodStatus": 1,
     "statusType": 1,
-    "description": "技能所需的 View 费用减少 2000。"
+    "description": "Viewの消費を-2000する。"
   },
   "39": {
     "statusId": 39,
-    "statusName": "View消费+4000",
+    "statusName": "View消費+4000",
     "isGoodStatus": 0,
     "statusType": 0,
-    "description": "技能所需的 View 费用增加 4000。"
+    "description": "Viewの消費を+4000する。"
   },
   "40": {
     "statusId": 40,
-    "statusName": "行动停止",
+    "statusName": "行動停止",
     "isGoodStatus": 0,
     "statusType": 0,
-    "description": "该回合变得无法行动。"
+    "description": "そのターン、行動が出来なくなる。"
   },
   "41": {
     "statusId": 41,
-    "statusName": "攻击力上升（微）",
+    "statusName": "ATKアップ(微小)",
     "isGoodStatus": 1,
     "statusType": 1,
-    "description": "攻击力变为 1.1 倍。"
+    "description": "攻撃力が1.1倍になる。"
   },
   "42": {
     "statusId": 42,
@@ -302,10 +302,10 @@
   },
   "44": {
     "statusId": 44,
-    "statusName": "衰弱抵抗100",
+    "statusName": "弱体抵抗100",
     "isGoodStatus": 1,
     "statusType": 1,
-    "description": "被施予减益效果的机率减少 100%。"
+    "description": "被デバフ付与率が100%減少する。"
   },
   "45": {
     "statusId": 45,
@@ -316,10 +316,10 @@
   },
   "46": {
     "statusId": 46,
-    "statusName": "衰弱抵抗100",
+    "statusName": "弱体抵抗100",
     "isGoodStatus": 1,
     "statusType": 1,
-    "description": "被施予减益效果的机率减少 100%。"
+    "description": "被デバフ付与率が100%減少する。"
   },
   "47": {
     "statusId": 47,
@@ -330,45 +330,45 @@
   },
   "48": {
     "statusId": 48,
-    "statusName": "无效",
+    "statusName": "無効",
     "isGoodStatus": 1,
     "statusType": 1,
-    "description": "无法被赋予特定的增益效果。"
+    "description": "特定のデバフにかからない。"
   },
   "49": {
     "statusId": 49,
-    "statusName": "Clock-up",
+    "statusName": "クロックアップ",
     "isGoodStatus": 1,
     "statusType": 1,
-    "description": "速度值 +5，View 值消耗减少 2000。此技能无法被解除。"
+    "description": "SPD+5 & Viewの消費を-2000。スキルによる解除不可。"
   },
   "50": {
     "statusId": 50,
-    "statusName": "标记",
+    "statusName": "標的",
     "isGoodStatus": 0,
     "statusType": 0,
-    "description": "直到本回合结束前都容易成为对手攻击目标。"
+    "description": "ターン終了時まで相手から狙われやすくなる。"
   },
   "51": {
     "statusId": 51,
-    "statusName": "View消费-18000",
+    "statusName": "View消費-18000",
     "isGoodStatus": 1,
     "statusType": 1,
-    "description": "View 值消耗减少 18000。"
+    "description": "Viewの消費を-18000する。"
   },
   "52": {
     "statusId": 52,
-    "statusName": "衰弱抵抗10",
+    "statusName": "弱体抵抗10",
     "isGoodStatus": 1,
     "statusType": 1,
-    "description": "被施予减益效果的机率减少 10%。"
+    "description": "被デバフ付与率が10%減少する。"
   },
   "53": {
     "statusId": 53,
-    "statusName": "狂热",
+    "statusName": "熱狂",
     "isGoodStatus": 1,
     "statusType": 1,
-    "description": "解除时 View 值增加 2000。"
+    "description": "特殊なスキルで発動。バフでもデバフでも無い状態。"
   },
   "54": {
     "statusId": 54,
@@ -379,17 +379,17 @@
   },
   "55": {
     "statusId": 55,
-    "statusName": "View减少",
+    "statusName": "View減少",
     "isGoodStatus": 0,
     "statusType": 0,
-    "description": "View 基础值减半。"
+    "description": "View基礎値が半分になる。"
   },
   "56": {
     "statusId": 56,
-    "statusName": "氧气筒",
+    "statusName": "酸素ボンベ",
     "isGoodStatus": 1,
     "statusType": 1,
-    "description": "在海中的氧气补给道具。受到伤害时破损。"
+    "description": "海中での酸素補給を行うアイテム。ダメージを受けると破損する。"
   },
   "57": {
     "statusId": 57,
@@ -400,45 +400,45 @@
   },
   "58": {
     "statusId": 58,
-    "statusName": "View消费+1000",
+    "statusName": "View消費+1000",
     "isGoodStatus": 0,
     "statusType": 0,
-    "description": "View 值消耗增加 1000。"
+    "description": "Viewの消費を+1000する。"
   },
   "59": {
     "statusId": 59,
-    "statusName": "衰弱抵抗",
+    "statusName": "弱体抵抗",
     "isGoodStatus": 1,
     "statusType": 1,
-    "description": "被施予减益效果的机率减少。"
+    "description": "被デバフ付与率が数値だけ減少する。"
   },
   "60": {
     "statusId": 60,
     "statusName": "",
     "isGoodStatus": 2,
     "statusType": 2,
-    "description": "限定胜利者专用系统效果。"
+    "description": "限定ヴィクトム専用システム効果"
   },
   "61": {
     "statusId": 61,
-    "statusName": "View消费量减少",
+    "statusName": "View消費量減少",
     "isGoodStatus": 1,
     "statusType": 1,
-    "description": "View 值消耗减少。此技能无法解除。"
+    "description": "Viewの消費量が減少する。スキルによる解除不可。"
   },
   "62": {
     "statusId": 62,
-    "statusName": "View消费量増加",
+    "statusName": "View消費量増加",
     "isGoodStatus": 0,
     "statusType": 0,
-    "description": "View 值消耗增加。此技能无法解除。"
+    "description": "Viewの消費量が増加する。スキルによる解除不可。"
   },
   "63": {
     "statusId": 63,
-    "statusName": "View消费量减少",
+    "statusName": "View消費量減少",
     "isGoodStatus": 0,
     "statusType": 0,
-    "description": "View 值消耗减少。此技能无法解除。"
+    "description": "Viewの消費量が減少する。スキルによる解除不可。"
   },
   "64": {
     "statusId": 64,
@@ -480,7 +480,7 @@
     "statusName": "",
     "isGoodStatus": 2,
     "statusType": 2,
-    "description": "限定ヴィクトム専用システム効果 ViewMultipleAttackの実态(クエスト付随)"
+    "description": "限定ヴィクトム専用システム効果 ViewMultipleAttackの実態(クエスト付随)"
   },
   "70": {
     "statusId": 70,
@@ -512,10 +512,10 @@
   },
   "74": {
     "statusId": 74,
-    "statusName": "View消费量减少",
+    "statusName": "View消費量減少",
     "isGoodStatus": 1,
     "statusType": 1,
-    "description": "Viewの消费量が减少する。"
+    "description": "Viewの消費量が減少する。"
   },
   "75": {
     "statusId": 75,
