@@ -1637,6 +1637,34 @@
           ]
         },
         {
+          "productId": 110341,
+          "storeId": 3,
+          "storeProductNo": 110341,
+          "sortWeight": 1000,
+          "exchangeLimit": 0,
+          "startAt": null,
+          "endAt": null,
+          "resetType": 0,
+          "resetDetail": null,
+          "product": {
+            "rewardType": 3,
+            "objectId": 40,
+            "objectValue": 5
+          },
+          "currency": {
+            "currencyType": 3,
+            "objectId": 110341,
+            "objectValue": 1
+          },
+          "condition": [
+            {
+              "class": "ShowInStoreByItemCondition",
+              "itemId": 110341,
+              "stockId": 0
+            }
+          ]
+        },
+        {
           "productId": 110511,
           "storeId": 3,
           "storeProductNo": 110511,
@@ -1878,6 +1906,34 @@
             {
               "class": "ShowInStoreByItemCondition",
               "itemId": 110751,
+              "stockId": 0
+            }
+          ]
+        },
+        {
+          "productId": 110811,
+          "storeId": 3,
+          "storeProductNo": 110811,
+          "sortWeight": 1000,
+          "exchangeLimit": 0,
+          "startAt": null,
+          "endAt": null,
+          "resetType": 0,
+          "resetDetail": null,
+          "product": {
+            "rewardType": 3,
+            "objectId": 40,
+            "objectValue": 20
+          },
+          "currency": {
+            "currencyType": 3,
+            "objectId": 110811,
+            "objectValue": 1
+          },
+          "condition": [
+            {
+              "class": "ShowInStoreByItemCondition",
+              "itemId": 110811,
               "stockId": 0
             }
           ]
@@ -3160,6 +3216,34 @@
             {
               "class": "ShowInStoreByItemCondition",
               "itemId": 210751,
+              "stockId": 0
+            }
+          ]
+        },
+        {
+          "productId": 210811,
+          "storeId": 3,
+          "storeProductNo": 210811,
+          "sortWeight": 1000,
+          "exchangeLimit": 0,
+          "startAt": null,
+          "endAt": null,
+          "resetType": 0,
+          "resetDetail": null,
+          "product": {
+            "rewardType": 3,
+            "objectId": 40,
+            "objectValue": 1
+          },
+          "currency": {
+            "currencyType": 3,
+            "objectId": 210811,
+            "objectValue": 1
+          },
+          "condition": [
+            {
+              "class": "ShowInStoreByItemCondition",
+              "itemId": 210811,
               "stockId": 0
             }
           ]

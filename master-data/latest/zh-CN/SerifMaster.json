@@ -2463,6 +2463,68 @@
       "isInHome": true
     }
   ],
+  "10351": [
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 4,
+      "faceType": "d",
+      "serifKey": "SERIF_EXIO_PLAYER",
+      "voiceFilename": "",
+      "resourceName": "exio",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 5,
+      "faceType": "e",
+      "serifKey": "SERIF_EXIO_HERO",
+      "voiceFilename": "",
+      "resourceName": "exio",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 12,
+      "faceType": "b",
+      "serifKey": "SERIF_EXIO_TOUCH",
+      "voiceFilename": "",
+      "resourceName": "exio",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 3,
+      "faceType": "",
+      "serifKey": "SERIF_EXIO_DAILY",
+      "voiceFilename": "",
+      "resourceName": "exio",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 6,
+      "faceType": "",
+      "serifKey": "SERIF_EXIO_RELATION",
+      "voiceFilename": "",
+      "resourceName": "exio",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 11,
+      "faceType": "c",
+      "serifKey": "SERIF_EXIO_APPRECIATION",
+      "voiceFilename": "",
+      "resourceName": "exio",
+      "isInHome": true
+    }
+  ],
   "10431": [
     {
       "cardType": 1,
@@ -3769,6 +3831,68 @@
       "voiceFilename": "",
       "resourceName": "okitaka",
       "isInHome": false
+    }
+  ],
+  "10811": [
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 4,
+      "faceType": "",
+      "serifKey": "SERIF_SADAYOSHI_PLAYER",
+      "voiceFilename": "",
+      "resourceName": "sadayoshi",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 5,
+      "faceType": "e",
+      "serifKey": "SERIF_SADAYOSHI_HERO",
+      "voiceFilename": "",
+      "resourceName": "sadayoshi",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 12,
+      "faceType": "",
+      "serifKey": "SERIF_SADAYOSHI_TOUCH",
+      "voiceFilename": "",
+      "resourceName": "sadayoshi",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 3,
+      "faceType": "",
+      "serifKey": "SERIF_SADAYOSHI_DAILY",
+      "voiceFilename": "",
+      "resourceName": "sadayoshi",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 6,
+      "faceType": "e",
+      "serifKey": "SERIF_SADAYOSHI_RELATION",
+      "voiceFilename": "",
+      "resourceName": "sadayoshi",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 11,
+      "faceType": "f",
+      "serifKey": "SERIF_SADAYOSHI_APPRECIATION",
+      "voiceFilename": "",
+      "resourceName": "sadayoshi",
+      "isInHome": true
     }
   ]
 }
