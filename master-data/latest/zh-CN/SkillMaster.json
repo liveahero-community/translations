@@ -6396,7 +6396,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_spdUpOwn",
     "timing": 0,
-    "description": "敵単体に50%ダメージ。自身に60%の確率で2回の行動の間SPDアップを付与。",
+    "description": "敌単体に50%ダメージ。自身に60%の确率で2回の行动の间SPDアップを付与。",
     "cutin": [
       {
         "info": {
@@ -6433,7 +6433,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "敵単体に80%ダメージ。1回分のDEFダウンを付与。",
+    "description": "敌単体に80%ダメージ。1回分のDEFダウンを付与。",
     "cutin": [
       {
         "info": {
@@ -6470,7 +6470,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体に150%ダメージ。自身のSPDが130以上かつ攻撃した敵が生存している場合、スキル１を追加発動。",
+    "description": "敌単体に150%ダメージ。自身のSPDが130以上かつ攻撃した敌が生存している场合、スキル１を追加発动。",
     "cutin": [
       {
         "info": {
@@ -6514,7 +6514,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_spdUpOwn",
     "timing": 0,
-    "description": "敵単体に50%ダメージ。自身に80%の確率で2回の行動の間SPDアップを付与。",
+    "description": "敌単体に50%ダメージ。自身に80%の确率で2回の行动の间SPDアップを付与。",
     "cutin": [
       {
         "info": {
@@ -9006,13 +9006,13 @@
   },
   "1081101": {
     "skillId": 1081101,
-    "skillName": "戦略武術",
+    "skillName": "戦略武术",
     "useView": 0,
     "targetFlag": 2,
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体に70%ダメージ。ダメージを受けたとき、25%の確率でこのスキルで反撃。",
+    "description": "敌単体に70%ダメージ。ダメージを受けたとき、25%の确率でこのスキルで反撃。",
     "cutin": [
       {
         "info": {
@@ -9035,13 +9035,13 @@
   },
   "1081102": {
     "skillId": 1081102,
-    "skillName": "陽動指令",
+    "skillName": "阳动指令",
     "useView": 6000,
     "targetFlag": 0,
     "resourceName": "b_skill_buff",
     "subResourceName": "s_skill_buffOwn",
     "timing": 0,
-    "description": "自身に2ターンの間挑発 & 弱体抵抗+100を付与。",
+    "description": "自身に2ターンの间挑発 & 弱体抵抗+100を付与。",
     "cutin": [
       {
         "info": {
@@ -9078,7 +9078,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_buffAll",
     "timing": 0,
-    "description": "敵単体に120%ダメージ+HPが減るほどダメージ量が上昇する。味方全体に1回分のDEFアップを付与。",
+    "description": "敌単体に120%ダメージ+HPが减るほどダメージ量が上升する。味方全体に1回分のDEFアップを付与。",
     "cutin": [
       {
         "info": {
@@ -9109,13 +9109,13 @@
   },
   "1081104": {
     "skillId": 1081104,
-    "skillName": "陽動指令+",
+    "skillName": "阳动指令+",
     "useView": 4500,
     "targetFlag": 0,
     "resourceName": "b_skill_buff",
     "subResourceName": "s_skill_buffOwn",
     "timing": 0,
-    "description": "自身に2ターンの間挑発 & 弱体抵抗+100を付与。",
+    "description": "自身に2ターンの间挑発 & 弱体抵抗+100を付与。",
     "cutin": [
       {
         "info": {
@@ -12705,7 +12705,7 @@
     "resourceName": "b_skill_buff",
     "subResourceName": "",
     "timing": 0,
-    "description": "自身に3ターンの間、狂乱を付与。",
+    "description": "自身に3ターンの间、狂乱を付与。",
     "cutin": [
       {
         "info": {
@@ -12734,7 +12734,7 @@
     "resourceName": "b_skill_buff",
     "subResourceName": "",
     "timing": 0,
-    "description": "自身に3ターンの間、狂乱を付与。",
+    "description": "自身に3ターンの间、狂乱を付与。",
     "cutin": [
       {
         "info": {
@@ -12763,7 +12763,7 @@
     "resourceName": "b_skill_buff",
     "subResourceName": "",
     "timing": 0,
-    "description": "自身に3ターンの間、狂乱を付与。",
+    "description": "自身に3ターンの间、狂乱を付与。",
     "cutin": [
       {
         "info": {
@@ -14472,13 +14472,13 @@
   },
   "2081101": {
     "skillId": 2081101,
-    "skillName": "援護拳撃",
+    "skillName": "援护拳撃",
     "useView": 2500,
     "targetFlag": 2,
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_antiBuffTeam",
     "timing": 0,
-    "description": "敵単体に90%ダメージ。50%の確率でバフを１つ解除。",
+    "description": "敌単体に90%ダメージ。50%の确率でバフを１つ解除。",
     "cutin": [
       {
         "info": {
@@ -14509,13 +14509,13 @@
   },
   "2081102": {
     "skillId": 2081102,
-    "skillName": "援護拳撃+",
+    "skillName": "援护拳撃+",
     "useView": 2500,
     "targetFlag": 2,
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_antiBuffTeam",
     "timing": 0,
-    "description": "敵単体に90%ダメージ。60%の確率でバフを１つ解除。",
+    "description": "敌単体に90%ダメージ。60%の确率でバフを１つ解除。",
     "cutin": [
       {
         "info": {
@@ -14546,13 +14546,13 @@
   },
   "2081103": {
     "skillId": 2081103,
-    "skillName": "援護拳撃++",
+    "skillName": "援护拳撃++",
     "useView": 2500,
     "targetFlag": 2,
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_antiBuffTeam",
     "timing": 0,
-    "description": "敵単体に90%ダメージ。70%の確率でバフを１つ解除。",
+    "description": "敌単体に90%ダメージ。70%の确率でバフを１つ解除。",
     "cutin": [
       {
         "info": {
@@ -19326,13 +19326,13 @@
   },
   "3035101": {
     "skillId": 3035101,
-    "skillName": "接続パス強制拡張Ⅰ",
+    "skillName": "接続パス强制拡张Ⅰ",
     "useView": 0,
     "targetFlag": 3,
     "resourceName": "icon_exio_s01",
     "subResourceName": "",
     "timing": 1,
-    "description": "登場時、現在戦闘中の味方全体のATK+3.5%。同種・範囲の効果が重複した場合、一番高い効果のみ適用される。",
+    "description": "登场时、现在戦闘中の味方全体のATK+3.5%。同种・范囲の効果が重复した场合、一番高い効果のみ适用される。",
     "cutin": [],
     "isEquip": true,
     "effects": [
@@ -19348,13 +19348,13 @@
   },
   "3035102": {
     "skillId": 3035102,
-    "skillName": "接続パス強制拡張Ⅱ",
+    "skillName": "接続パス强制拡张Ⅱ",
     "useView": 0,
     "targetFlag": 3,
     "resourceName": "icon_exio_s01",
     "subResourceName": "",
     "timing": 1,
-    "description": "登場時、現在戦闘中の味方全体のATK+4.3%。同種・範囲の効果が重複した場合、一番高い効果のみ適用される。",
+    "description": "登场时、现在戦闘中の味方全体のATK+4.3%。同种・范囲の効果が重复した场合、一番高い効果のみ适用される。",
     "cutin": [],
     "isEquip": true,
     "effects": [
@@ -19370,13 +19370,13 @@
   },
   "3035103": {
     "skillId": 3035103,
-    "skillName": "接続パス強制拡張Ⅲ",
+    "skillName": "接続パス强制拡张Ⅲ",
     "useView": 0,
     "targetFlag": 3,
     "resourceName": "icon_exio_s01",
     "subResourceName": "",
     "timing": 1,
-    "description": "登場時、現在戦闘中の味方全体のATK+5.1%。同種・範囲の効果が重複した場合、一番高い効果のみ適用される。",
+    "description": "登场时、现在戦闘中の味方全体のATK+5.1%。同种・范囲の効果が重复した场合、一番高い効果のみ适用される。",
     "cutin": [],
     "isEquip": true,
     "effects": [
@@ -19392,13 +19392,13 @@
   },
   "3035104": {
     "skillId": 3035104,
-    "skillName": "接続パス強制拡張Ⅳ",
+    "skillName": "接続パス强制拡张Ⅳ",
     "useView": 0,
     "targetFlag": 3,
     "resourceName": "icon_exio_s01",
     "subResourceName": "",
     "timing": 1,
-    "description": "登場時、現在戦闘中の味方全体のATK+5.9%。同種・範囲の効果が重複した場合、一番高い効果のみ適用される。",
+    "description": "登场时、现在戦闘中の味方全体のATK+5.9%。同种・范囲の効果が重复した场合、一番高い効果のみ适用される。",
     "cutin": [],
     "isEquip": true,
     "effects": [
@@ -19414,13 +19414,13 @@
   },
   "3035105": {
     "skillId": 3035105,
-    "skillName": "接続パス強制拡張Ⅴ",
+    "skillName": "接続パス强制拡张Ⅴ",
     "useView": 0,
     "targetFlag": 3,
     "resourceName": "icon_exio_s01",
     "subResourceName": "",
     "timing": 1,
-    "description": "登場時、現在戦闘中の味方全体のATK+6.7%。同種・範囲の効果が重複した場合、一番高い効果のみ適用される。",
+    "description": "登场时、现在戦闘中の味方全体のATK+6.7%。同种・范囲の効果が重复した场合、一番高い効果のみ适用される。",
     "cutin": [],
     "isEquip": true,
     "effects": [
@@ -19436,13 +19436,13 @@
   },
   "3035106": {
     "skillId": 3035106,
-    "skillName": "接続パス強制拡張Ⅵ",
+    "skillName": "接続パス强制拡张Ⅵ",
     "useView": 0,
     "targetFlag": 3,
     "resourceName": "icon_exio_s01",
     "subResourceName": "",
     "timing": 1,
-    "description": "登場時、現在戦闘中の味方全体のATK+7.5%。同種・範囲の効果が重複した場合、一番高い効果のみ適用される。",
+    "description": "登场时、现在戦闘中の味方全体のATK+7.5%。同种・范囲の効果が重复した场合、一番高い効果のみ适用される。",
     "cutin": [],
     "isEquip": true,
     "effects": [
@@ -22020,7 +22020,7 @@
     "resourceName": "icon_sadayoshi_s01",
     "subResourceName": "",
     "timing": 1,
-    "description": "登場時、50%の確率で1ターンの間自身に弱体抵抗+100を付与。",
+    "description": "登场时、50%の确率で1ターンの间自身に弱体抵抗+100を付与。",
     "cutin": [],
     "isEquip": false,
     "effects": [
@@ -22042,7 +22042,7 @@
     "resourceName": "icon_sadayoshi_s01",
     "subResourceName": "",
     "timing": 1,
-    "description": "登場時、60%の確率で1ターンの間自身に弱体抵抗+100を付与。",
+    "description": "登场时、60%の确率で1ターンの间自身に弱体抵抗+100を付与。",
     "cutin": [],
     "isEquip": false,
     "effects": [
@@ -22064,7 +22064,7 @@
     "resourceName": "icon_sadayoshi_s01",
     "subResourceName": "",
     "timing": 1,
-    "description": "登場時、70%の確率で1ターンの間自身に弱体抵抗+100を付与。",
+    "description": "登场时、70%の确率で1ターンの间自身に弱体抵抗+100を付与。",
     "cutin": [],
     "isEquip": false,
     "effects": [
@@ -22086,7 +22086,7 @@
     "resourceName": "icon_sadayoshi_s01",
     "subResourceName": "",
     "timing": 1,
-    "description": "登場時、80%の確率で1ターンの間自身に弱体抵抗+100を付与。",
+    "description": "登场时、80%の确率で1ターンの间自身に弱体抵抗+100を付与。",
     "cutin": [],
     "isEquip": false,
     "effects": [
@@ -22108,7 +22108,7 @@
     "resourceName": "icon_sadayoshi_s01",
     "subResourceName": "",
     "timing": 1,
-    "description": "登場時、90%の確率で1ターンの間自身に弱体抵抗+100を付与。",
+    "description": "登场时、90%の确率で1ターンの间自身に弱体抵抗+100を付与。",
     "cutin": [],
     "isEquip": false,
     "effects": [
@@ -22130,7 +22130,7 @@
     "resourceName": "icon_sadayoshi_s01",
     "subResourceName": "",
     "timing": 1,
-    "description": "登場時、1ターンの間自身に弱体抵抗+100を付与。",
+    "description": "登场时、1ターンの间自身に弱体抵抗+100を付与。",
     "cutin": [],
     "isEquip": false,
     "effects": [
@@ -22968,7 +22968,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_spdDownTeam",
     "timing": 0,
-    "description": "敵単体に120%ダメージ。1回の行動の間SPDダウンを付与。",
+    "description": "敌単体に120%ダメージ。1回の行动の间SPDダウンを付与。",
     "cutin": [
       {
         "info": {
@@ -31787,13 +31787,13 @@
   },
   "6081101": {
     "skillId": 6081101,
-    "skillName": "増員要請",
+    "skillName": "増员要请",
     "useView": 0,
     "targetFlag": 3,
     "resourceName": "b_skill_healAll",
     "subResourceName": "",
     "timing": 5,
-    "description": "ターン終了時、味方全体を100%のHPで復活。",
+    "description": "ターン终了时、味方全体を100%のHPで复活。",
     "cutin": [],
     "isEquip": false,
     "effects": [
@@ -32133,13 +32133,13 @@
   },
   "8081101": {
     "skillId": 8081101,
-    "skillName": "戦略武術",
+    "skillName": "戦略武术",
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "",
     "subResourceName": "",
     "timing": 8,
-    "description": "ダメージを受けた後に、スキル１で反撃。",
+    "description": "ダメージを受けた后に、スキル１で反撃。",
     "cutin": [],
     "isEquip": false,
     "effects": [
