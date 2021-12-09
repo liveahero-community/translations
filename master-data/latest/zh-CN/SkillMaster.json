@@ -29500,13 +29500,13 @@
   },
   "4081101": {
     "skillId": 4081101,
-    "skillName": "戦略武術",
+    "skillName": "戦略武术",
     "useView": 0,
     "targetFlag": 2,
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体に70%ダメージ。ダメージを受けたとき、25%の確率でこのスキルで反撃。",
+    "description": "敌単体に70%ダメージ。ダメージを受けたとき、25%の确率でこのスキルで反撃。",
     "cutin": [
       {
         "info": {
@@ -29535,7 +29535,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_buffAll",
     "timing": 0,
-    "description": "敵単体に120%ダメージ+HPが減るほどダメージ量が上昇する。味方全体に1回分のDEFアップを付与。",
+    "description": "敌単体に120%ダメージ+HPが减るほどダメージ量が上升する。味方全体に1回分のDEFアップを付与。",
     "cutin": [
       {
         "info": {
