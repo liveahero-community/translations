@@ -25246,7 +25246,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体に90%ダメージ。1回の行動の間過消費を付与。（敵専用）",
+    "description": "敌単体に90%ダメージ。1回の行动の间过消费を付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -26571,7 +26571,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "s_skill_debuffAll",
     "timing": 0,
-    "description": "敵全体からランダムに2回65%ダメージ+3ターンの間毒を付与。（敵専用）",
+    "description": "敌全体からランダムに2回65%ダメージ+3ターンの间毒を付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -26624,7 +26624,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "s_skill_debuffAll",
     "timing": 0,
-    "description": "敵単体に90%ダメージ。1ターンの間過消費を付与。対象がデバフを付与されている場合、スキル１で追撃。（敵専用）",
+    "description": "敌単体に90%ダメージ。1ターンの间过消费を付与。対象がデバフを付与されている场合、スキル１で追撃。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -26670,13 +26670,13 @@
   },
   "4046133": {
     "skillId": 4046133,
-    "skillName": "共鳴する声",
+    "skillName": "共鸣する声",
     "useView": 9000,
     "targetFlag": 4,
     "resourceName": "b_skill_debuffAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵全体に120%ダメージ。敵全体からランダムに3回の行動の間ATKダウンを付与 ＆ 3回分のDEFダウンを付与 ＆ 2ターンの間沈黙を付与 ＆ 3回の行動の間SPDダウンを付与。（敵専用）",
+    "description": "敌全体に120%ダメージ。敌全体からランダムに3回の行动の间ATKダウンを付与 ＆ 3回分のDEFダウンを付与 ＆ 2ターンの间沈黙を付与 ＆ 3回の行动の间SPDダウンを付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -30760,13 +30760,13 @@
   },
   "6000044": {
     "skillId": 6000044,
-    "skillName": "毒・火傷無効",
+    "skillName": "毒・火伤无効",
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "b_skill_cure",
     "subResourceName": "",
     "timing": 1,
-    "description": "毒・火傷を無効化。",
+    "description": "毒・火伤を无効化。",
     "cutin": [],
     "isEquip": true,
     "effects": [
@@ -31129,7 +31129,7 @@
     "resourceName": "b_skill_buff",
     "subResourceName": "",
     "timing": 3,
-    "description": "行動終了時、味方単体に2回分のDEFアップを付与。",
+    "description": "行动终了时、味方単体に2回分のDEFアップを付与。",
     "cutin": [],
     "isEquip": true,
     "effects": [
@@ -31251,7 +31251,7 @@
     "resourceName": "b_skill_special",
     "subResourceName": "",
     "timing": 1,
-    "description": "敵の行動開始時、以下の効果を自身に付与。【自身がバフを所持している場合】ダメージ上限10000【自身がバフを所持していない場合】ダメージ上限40000、被ダメージ2倍",
+    "description": "敌の行动开始时、以下の効果を自身に付与。【自身がバフを所持している场合】ダメージ上限10000【自身がバフを所持していない场合】ダメージ上限40000、被ダメージ2倍",
     "cutin": [],
     "isEquip": true,
     "effects": [
@@ -31283,13 +31283,13 @@
   },
   "6046102": {
     "skillId": 6046102,
-    "skillName": "迷宮の主",
+    "skillName": "迷宫の主",
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "b_skill_buff",
     "subResourceName": "",
     "timing": 4,
-    "description": "ターン開始時、自身にバフが付与されていない場合、1回分のDEFアップ、2回分のDEFアップ、3回分のDEFアップを付与。",
+    "description": "ターン开始时、自身にバフが付与されていない场合、1回分のDEFアップ、2回分のDEFアップ、3回分のDEFアップを付与。",
     "cutin": [],
     "isEquip": true,
     "effects": [
@@ -31348,7 +31348,7 @@
     "resourceName": "b_skill_special",
     "subResourceName": "",
     "timing": 6,
-    "description": "ピンチ状態になった時、迷宮の魔獣（幼体）×2を召喚する。",
+    "description": "ピンチ状态になった时、迷宫の魔獣（幼体）×2を召唤する。",
     "cutin": [],
     "isEquip": true,
     "effects": [
