@@ -1126,5 +1126,20 @@
     "startAt": null,
     "endAt": null,
     "executeLimit": null
+  },
+  "611": {
+    "chapterId": 611,
+    "groupType": 6,
+    "chapterType": 8,
+    "chapterName": "強敵シミュレーター",
+    "subName": "シミュレート・迷宮の魔獣",
+    "peepingName": "迷宮の魔獣",
+    "sortWeight": 1000,
+    "bannerResourceName": "ui_banner_questchoice_strongenemy",
+    "bgResourceName": "ui_bg_sprite_strongenemy",
+    "missionGroupId": 611,
+    "startAt": null,
+    "endAt": null,
+    "executeLimit": null
   }
 }
