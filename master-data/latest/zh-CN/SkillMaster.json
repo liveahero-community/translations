@@ -789,7 +789,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_heal",
     "timing": 0,
-    "description": "敵単体に60%ダメージ。チームで一番HPが減っているヒーローのHPを自身の基礎ATKの30%回復する。",
+    "description": "敌単体に60%ダメージ。チームで一番HPが减っているヒーローのHPを自身の基础ATKの30%回复する。",
     "cutin": [
       {
         "info": {
@@ -828,7 +828,7 @@
     "resourceName": "b_skill_buff",
     "subResourceName": "s_skill_view",
     "timing": 0,
-    "description": "味方単体に2回の行動の間ATKアップを付与。Viewを5000獲得。",
+    "description": "味方単体に2回の行动の间ATKアップを付与。Viewを5000获得。",
     "cutin": [
       {
         "info": {
@@ -867,7 +867,7 @@
     "resourceName": "b_skill_healAll",
     "subResourceName": "s_skill_cureAll",
     "timing": 0,
-    "description": "味方全体のHPを基礎ATKの100%回復する。スキル発動後、Viewが10000以上ある場合、味方全体のデバフを１つ解除。",
+    "description": "味方全体のHPを基础ATKの100%回复する。スキル発动后、Viewが10000以上ある场合、味方全体のデバフを１つ解除。",
     "cutin": [
       {
         "info": {
@@ -913,7 +913,7 @@
     "resourceName": "b_skill_buff",
     "subResourceName": "s_skill_view",
     "timing": 0,
-    "description": "味方単体に2回の行動の間ATKアップ & View消費量-1000を付与。Viewを5000獲得。",
+    "description": "味方単体に2回の行动の间ATKアップ & View消费量-1000を付与。Viewを5000获得。",
     "cutin": [
       {
         "info": {
@@ -6266,7 +6266,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_heal",
     "timing": 0,
-    "description": "敵単体に70%ダメージ。自身のHPを基礎ATKの25%回復する。",
+    "description": "敌単体に70%ダメージ。自身のHPを基础ATKの25%回复する。",
     "cutin": [
       {
         "info": {
@@ -6305,7 +6305,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_buffOwn",
     "timing": 0,
-    "description": "敵単体に120%ダメージ。自身に１回のランダムなバフ効果を付与（ATKアップ、DEFアップ、SPDアップから抽選）。",
+    "description": "敌単体に120%ダメージ。自身に１回のランダムなバフ効果を付与（ATKアップ、DEFアップ、SPDアップから抽选）。",
     "cutin": [
       {
         "info": {
@@ -6362,7 +6362,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "敵単体に200%ダメージ。1ターンの間DEFダウンを付与。このスキルで敵を戦闘不能にした場合、自身に付与されているバフ効果を１ターン延長。",
+    "description": "敌単体に200%ダメージ。1ターンの间DEFダウンを付与。このスキルで敌を戦闘不能にした场合、自身に付与されているバフ効果を１ターン延长。",
     "cutin": [
       {
         "info": {
@@ -6417,7 +6417,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "敵単体に200%ダメージ。1ターンの間DEFダウンを付与。このスキルで敵を戦闘不能にした場合、自身に付与されているバフ効果を１ターン延長。",
+    "description": "敌単体に200%ダメージ。1ターンの间DEFダウンを付与。このスキルで敌を戦闘不能にした场合、自身に付与されているバフ効果を１ターン延长。",
     "cutin": [
       {
         "info": {
@@ -9996,7 +9996,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_view",
     "timing": 0,
-    "description": "敵単体に60%ダメージ。Viewを1000獲得。",
+    "description": "敌単体に60%ダメージ。Viewを1000获得。",
     "cutin": [
       {
         "info": {
@@ -10035,7 +10035,7 @@
     "resourceName": "b_skill_view",
     "subResourceName": "",
     "timing": 0,
-    "description": "Viewを11000獲得。",
+    "description": "Viewを11000获得。",
     "cutin": [
       {
         "info": {
@@ -10065,7 +10065,7 @@
     "resourceName": "b_skill_buffAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "味方全体に2回の行動の間協奏を付与。",
+    "description": "味方全体に2回の行动の间协奏を付与。",
     "cutin": [
       {
         "info": {
@@ -10095,7 +10095,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_view",
     "timing": 0,
-    "description": "敵単体に60%ダメージ。Viewを3000獲得。",
+    "description": "敌単体に60%ダメージ。Viewを3000获得。",
     "cutin": [
       {
         "info": {
@@ -15828,7 +15828,7 @@
     "resourceName": "b_skill_buff",
     "subResourceName": "",
     "timing": 0,
-    "description": "味方単体に1回の行動の間View消費量-1000を付与。",
+    "description": "味方単体に1回の行动の间View消费量-1000を付与。",
     "cutin": [
       {
         "info": {
@@ -15858,7 +15858,7 @@
     "resourceName": "b_skill_buff",
     "subResourceName": "",
     "timing": 0,
-    "description": "味方単体に1回の行動の間View消費量-1250を付与。",
+    "description": "味方単体に1回の行动の间View消费量-1250を付与。",
     "cutin": [
       {
         "info": {
@@ -15888,7 +15888,7 @@
     "resourceName": "b_skill_buff",
     "subResourceName": "",
     "timing": 0,
-    "description": "味方単体に1回の行動の間View消費量-1500を付与。",
+    "description": "味方単体に1回の行动の间View消费量-1500を付与。",
     "cutin": [
       {
         "info": {
@@ -23841,13 +23841,13 @@
   },
   "3082101": {
     "skillId": 3082101,
-    "skillName": "聴衆の喝采Ⅰ",
+    "skillName": "聴众の喝采Ⅰ",
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "icon_borealis_s01",
     "subResourceName": "",
     "timing": 1,
-    "description": "View獲得スキルで獲得するViewが5%上昇。",
+    "description": "View获得スキルで获得するViewが5%上升。",
     "cutin": [],
     "isEquip": true,
     "effects": [
@@ -23864,13 +23864,13 @@
   },
   "3082102": {
     "skillId": 3082102,
-    "skillName": "聴衆の喝采Ⅱ",
+    "skillName": "聴众の喝采Ⅱ",
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "icon_borealis_s01",
     "subResourceName": "",
     "timing": 1,
-    "description": "View獲得スキルで獲得するViewが6%上昇。",
+    "description": "View获得スキルで获得するViewが6%上升。",
     "cutin": [],
     "isEquip": true,
     "effects": [
@@ -23887,13 +23887,13 @@
   },
   "3082103": {
     "skillId": 3082103,
-    "skillName": "聴衆の喝采Ⅲ",
+    "skillName": "聴众の喝采Ⅲ",
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "icon_borealis_s01",
     "subResourceName": "",
     "timing": 1,
-    "description": "View獲得スキルで獲得するViewが7%上昇。",
+    "description": "View获得スキルで获得するViewが7%上升。",
     "cutin": [],
     "isEquip": true,
     "effects": [
@@ -23910,13 +23910,13 @@
   },
   "3082104": {
     "skillId": 3082104,
-    "skillName": "聴衆の喝采Ⅳ",
+    "skillName": "聴众の喝采Ⅳ",
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "icon_borealis_s01",
     "subResourceName": "",
     "timing": 1,
-    "description": "View獲得スキルで獲得するViewが8%上昇。",
+    "description": "View获得スキルで获得するViewが8%上升。",
     "cutin": [],
     "isEquip": true,
     "effects": [
@@ -23933,13 +23933,13 @@
   },
   "3082105": {
     "skillId": 3082105,
-    "skillName": "聴衆の喝采Ⅴ",
+    "skillName": "聴众の喝采Ⅴ",
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "icon_borealis_s01",
     "subResourceName": "",
     "timing": 1,
-    "description": "View獲得スキルで獲得するViewが9%上昇。",
+    "description": "View获得スキルで获得するViewが9%上升。",
     "cutin": [],
     "isEquip": true,
     "effects": [
@@ -23956,13 +23956,13 @@
   },
   "3082106": {
     "skillId": 3082106,
-    "skillName": "聴衆の喝采Ⅵ",
+    "skillName": "聴众の喝采Ⅵ",
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "icon_borealis_s01",
     "subResourceName": "",
     "timing": 1,
-    "description": "View獲得スキルで獲得するViewが10%上昇。",
+    "description": "View获得スキルで获得するViewが10%上升。",
     "cutin": [],
     "isEquip": true,
     "effects": [
@@ -27834,7 +27834,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "自身に30%ダメージ。（敵専用）",
+    "description": "自身に30%ダメージ。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -27864,7 +27864,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体に60%ダメージ。（敵専用）",
+    "description": "敌単体に60%ダメージ。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -32330,7 +32330,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_cureOwn",
     "timing": 0,
-    "description": "敵単体に90%ダメージ。自身のデバフを２つ解除。（敵専用）",
+    "description": "敌単体に90%ダメージ。自身のデバフを２つ解除。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -32369,7 +32369,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵全体からランダムに３回110%ダメージ。",
+    "description": "敌全体からランダムに３回110%ダメージ。",
     "cutin": [
       {
         "info": {
@@ -32417,7 +32417,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵全体に30%ダメージ。（敵専用）",
+    "description": "敌全体に30%ダメージ。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -33414,7 +33414,7 @@
     "resourceName": "b_skill_special",
     "subResourceName": "",
     "timing": 12,
-    "description": "味方を対象にするスキルはボスを対象にする。（敵専用）",
+    "description": "味方を対象にするスキルはボスを対象にする。（敌専用）",
     "cutin": [],
     "isEquip": true,
     "effects": [
