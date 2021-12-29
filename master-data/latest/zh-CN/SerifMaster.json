@@ -175,6 +175,58 @@
       "isInHome": true
     }
   ],
+  "10022": [
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 4,
+      "faceType": "b",
+      "serifKey": "SERIF_MOKDAIMETEORITE2112_PLAYER",
+      "voiceFilename": "",
+      "resourceName": "mokdaiMeteorite2112",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 5,
+      "faceType": "",
+      "serifKey": "SERIF_MOKDAIMETEORITE2112_HERO",
+      "voiceFilename": "",
+      "resourceName": "mokdaiMeteorite2112",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 12,
+      "faceType": "f",
+      "serifKey": "SERIF_MOKDAIMETEORITE2112_TOUCH",
+      "voiceFilename": "",
+      "resourceName": "mokdaiMeteorite2112",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 27,
+      "faceType": "g",
+      "serifKey": "SERIF_MOKDAIMETEORITE2112_EVENTA",
+      "voiceFilename": "",
+      "resourceName": "mokdaiMeteorite2112",
+      "isInHome": false
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 28,
+      "faceType": "c",
+      "serifKey": "SERIF_MOKDAIMETEORITE2112_EVENTB",
+      "voiceFilename": "",
+      "resourceName": "mokdaiMeteorite2112",
+      "isInHome": false
+    }
+  ],
   "10031": [
     {
       "cardType": 2,
@@ -2153,6 +2205,58 @@
       "isInHome": true
     }
   ],
+  "10292": [
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 4,
+      "faceType": "e",
+      "serifKey": "SERIF_NARIHITOMETEORITE2112_PLAYER",
+      "voiceFilename": "",
+      "resourceName": "narihitoMeteorite2112",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 5,
+      "faceType": "",
+      "serifKey": "SERIF_NARIHITOMETEORITE2112_HERO",
+      "voiceFilename": "",
+      "resourceName": "narihitoMeteorite2112",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 12,
+      "faceType": "f",
+      "serifKey": "SERIF_NARIHITOMETEORITE2112_TOUCH",
+      "voiceFilename": "",
+      "resourceName": "narihitoMeteorite2112",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 27,
+      "faceType": "",
+      "serifKey": "SERIF_NARIHITOMETEORITE2112_EVENTA",
+      "voiceFilename": "",
+      "resourceName": "narihitoMeteorite2112",
+      "isInHome": false
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 28,
+      "faceType": "c",
+      "serifKey": "SERIF_NARIHITOMETEORITE2112_EVENTB",
+      "voiceFilename": "",
+      "resourceName": "narihitoMeteorite2112",
+      "isInHome": false
+    }
+  ],
   "10301": [
     {
       "cardType": 1,
@@ -3893,6 +3997,88 @@
       "voiceFilename": "",
       "resourceName": "sadayoshi",
       "isInHome": true
+    }
+  ],
+  "10821": [
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 4,
+      "faceType": "",
+      "serifKey": "SERIF_BOREALIS_PLAYER",
+      "voiceFilename": "",
+      "resourceName": "borealis",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 5,
+      "faceType": "",
+      "serifKey": "SERIF_BOREALIS_HERO",
+      "voiceFilename": "",
+      "resourceName": "borealis",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 12,
+      "faceType": "c",
+      "serifKey": "SERIF_BOREALIS_TOUCH",
+      "voiceFilename": "",
+      "resourceName": "borealis",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 3,
+      "faceType": "",
+      "serifKey": "SERIF_BOREALIS_DAILY",
+      "voiceFilename": "",
+      "resourceName": "borealis",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 6,
+      "faceType": "e",
+      "serifKey": "SERIF_BOREALIS_RELATION",
+      "voiceFilename": "",
+      "resourceName": "borealis",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 11,
+      "faceType": "c",
+      "serifKey": "SERIF_BOREALIS_APPRECIATION",
+      "voiceFilename": "",
+      "resourceName": "borealis",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 27,
+      "faceType": "e",
+      "serifKey": "SERIF_BOREALIS_EVENTA",
+      "voiceFilename": "",
+      "resourceName": "borealis",
+      "isInHome": false
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 28,
+      "faceType": "c",
+      "serifKey": "SERIF_BOREALIS_EVENTB",
+      "voiceFilename": "",
+      "resourceName": "borealis",
+      "isInHome": false
     }
   ]
 }

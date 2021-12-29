@@ -1860,10 +1860,310 @@
     "chapterId": 445,
     "lookBackChapterId": 0,
     "baseResourceName": "Meteorite2112",
-    "startAt": "2021-12-24 18:00:00",
-    "endAt": "2022-01-25 14:00:00",
+    "startAt": null,
+    "endAt": "2022-01-26 14:00:00",
     "canRemember": 0,
-    "eventPortalJson": null,
-    "questBonusJsons": []
+    "eventPortalJson": {
+      "bg": "ui_bg_sprite_event_Meteorite2112",
+      "bgm": "bgm_meteorite_adv1",
+      "logo": "Meteorite2112_title",
+      "terms": [
+        {
+          "keys": [
+            "UI_MAIN_QUEST",
+            "UI_MISSION",
+            "UI_EXCHANGE"
+          ],
+          "endAt": "2022-01-26 14:00:00"
+        },
+        {
+          "keys": [
+            "UI_FREE_QUEST",
+            "UI_SALES"
+          ],
+          "endAt": "2022-01-19 20:00:00"
+        }
+      ],
+      "gachaId": 23,
+      "storeId": 17,
+      "questInfos": [
+        {
+          "type": 5,
+          "chapterId": 445
+        },
+        {
+          "type": 6,
+          "chapterId": 446
+        }
+      ],
+      "tutorialKey": "Meteorite2112",
+      "eventItemIds": [
+        72
+      ],
+      "characterViews": [
+        {
+          "skinId": 0,
+          "stockId": 10022,
+          "cardType": 1,
+          "serifKinds": [
+            27,
+            28
+          ],
+          "visualType": 1,
+          "resourceName": "mokdaiMeteorite2112",
+          "characterName": "モクダイ"
+        },
+        {
+          "skinId": 0,
+          "stockId": 10292,
+          "cardType": 1,
+          "serifKinds": [
+            27,
+            28
+          ],
+          "visualType": 1,
+          "resourceName": "narihitoMeteorite2112",
+          "characterName": "ナリヒト"
+        },
+        {
+          "skinId": 0,
+          "stockId": 10821,
+          "cardType": 2,
+          "serifKinds": [
+            27,
+            28
+          ],
+          "visualType": 1,
+          "resourceName": "borealis",
+          "characterName": "ボレアリス"
+        }
+      ],
+      "salesRegionIds": [
+        211
+      ],
+      "missionGroupIds": [
+        445
+      ],
+      "missionCategoryButtonLabels": null
+    },
+    "questBonusJsons": [
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 72,
+        "bonusValue": 10,
+        "targetStockId": 10821
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 72,
+        "bonusValue": 10,
+        "targetStockId": 10021
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 72,
+        "bonusValue": 10,
+        "targetStockId": 10291
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 72,
+        "bonusValue": 10,
+        "targetStockId": 10811
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 72,
+        "bonusValue": 10,
+        "targetStockId": 10341
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 72,
+        "bonusValue": 10,
+        "targetStockId": 10351
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 72,
+        "bonusValue": 10,
+        "targetStockId": 10051
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 72,
+        "bonusValue": 10,
+        "targetStockId": 10511
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 72,
+        "bonusValue": 10,
+        "targetStockId": 10271
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 72,
+        "bonusValue": 10,
+        "targetStockId": 19991
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 72,
+        "bonusValue": 10,
+        "targetStockId": 10661
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 72,
+        "bonusValue": 10,
+        "targetStockId": 10671
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 72,
+        "bonusValue": 10,
+        "targetStockId": 10681
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 72,
+        "bonusValue": 10,
+        "targetStockId": 10691
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 72,
+        "bonusValue": 10,
+        "targetStockId": 10701
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 72,
+        "bonusValue": 40,
+        "targetStockId": 10022
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 72,
+        "bonusValue": 40,
+        "targetStockId": 10292
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 72,
+        "bonusValue": 30,
+        "targetStockId": 10821
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 72,
+        "bonusValue": 20,
+        "targetStockId": 10811
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 72,
+        "bonusValue": 10,
+        "targetStockId": 10341
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 72,
+        "bonusValue": 10,
+        "targetStockId": 10051
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 72,
+        "bonusValue": 20,
+        "targetStockId": 10042
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 72,
+        "bonusValue": 20,
+        "targetStockId": 10511
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 72,
+        "bonusValue": 10,
+        "targetStockId": 10271
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 72,
+        "bonusValue": 10,
+        "targetStockId": 10021
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 72,
+        "bonusValue": 10,
+        "targetStockId": 10291
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 72,
+        "bonusValue": 10,
+        "targetStockId": 10661
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 72,
+        "bonusValue": 10,
+        "targetStockId": 10671
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 72,
+        "bonusValue": 10,
+        "targetStockId": 10681
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 72,
+        "bonusValue": 10,
+        "targetStockId": 10691
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 72,
+        "bonusValue": 10,
+        "targetStockId": 10701
+      }
+    ]
   }
 }

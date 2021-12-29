@@ -7622,5 +7622,477 @@
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
     ]
+  },
+  "21101": {
+    "salesId": 21101,
+    "regionId": 211,
+    "salesName": "ヒーローサンタのクリスマスショー（短期）",
+    "iconFilename": "item_Meteorite2112_exchange01",
+    "startAt": null,
+    "endAt": "2022-01-19 20:00:00",
+    "requiredTime": 7200,
+    "memberLimitNumber": 8,
+    "rewards": [
+      {
+        "salesId": 21101,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 280
+      },
+      {
+        "salesId": 21101,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 240
+      },
+      {
+        "salesId": 21101,
+        "rewardType": 3,
+        "objectId": 72,
+        "objectValue": 14
+      },
+      {
+        "salesId": 21101,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 160
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_METEORITE2112_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 21101
+      },
+      {
+        "textKey": "SALES_EVENT_METEORITE2112_REPORT_2",
+        "condition": null,
+        "laravelThroughKey": 21101
+      },
+      {
+        "textKey": "SALES_EVENT_METEORITE2112_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 21101
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "StockCountBonus",
+        "stocks": [
+          10022,
+          10292,
+          10821
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 10
+          },
+          {
+            "count": 2,
+            "upwardRate": 30
+          },
+          {
+            "count": 3,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
+      },
+      {
+        "class": "MemberCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": false
+      }
+    ]
+  },
+  "21102": {
+    "salesId": 21102,
+    "regionId": 211,
+    "salesName": "ヒーローサンタのクリスマスショー（中期）",
+    "iconFilename": "item_Meteorite2112_exchange01",
+    "startAt": null,
+    "endAt": "2022-01-19 20:00:00",
+    "requiredTime": 14400,
+    "memberLimitNumber": 8,
+    "rewards": [
+      {
+        "salesId": 21102,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 560
+      },
+      {
+        "salesId": 21102,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 480
+      },
+      {
+        "salesId": 21102,
+        "rewardType": 3,
+        "objectId": 72,
+        "objectValue": 28
+      },
+      {
+        "salesId": 21102,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 320
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_METEORITE2112_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 21102
+      },
+      {
+        "textKey": "SALES_EVENT_METEORITE2112_REPORT_2",
+        "condition": null,
+        "laravelThroughKey": 21102
+      },
+      {
+        "textKey": "SALES_EVENT_METEORITE2112_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 21102
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "StockCountBonus",
+        "stocks": [
+          10022,
+          10292,
+          10821
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 10
+          },
+          {
+            "count": 2,
+            "upwardRate": 30
+          },
+          {
+            "count": 3,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
+      },
+      {
+        "class": "MemberCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": false
+      }
+    ]
+  },
+  "21103": {
+    "salesId": 21103,
+    "regionId": 211,
+    "salesName": "ヒーローサンタのクリスマスショー（中長期）",
+    "iconFilename": "item_Meteorite2112_exchange01",
+    "startAt": null,
+    "endAt": "2022-01-19 20:00:00",
+    "requiredTime": 28800,
+    "memberLimitNumber": 8,
+    "rewards": [
+      {
+        "salesId": 21103,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 1120
+      },
+      {
+        "salesId": 21103,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 960
+      },
+      {
+        "salesId": 21103,
+        "rewardType": 3,
+        "objectId": 72,
+        "objectValue": 56
+      },
+      {
+        "salesId": 21103,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 640
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_METEORITE2112_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 21103
+      },
+      {
+        "textKey": "SALES_EVENT_METEORITE2112_REPORT_2",
+        "condition": null,
+        "laravelThroughKey": 21103
+      },
+      {
+        "textKey": "SALES_EVENT_METEORITE2112_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 21103
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "StockCountBonus",
+        "stocks": [
+          10022,
+          10292,
+          10821
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 10
+          },
+          {
+            "count": 2,
+            "upwardRate": 30
+          },
+          {
+            "count": 3,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
+      },
+      {
+        "class": "MemberCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": false
+      }
+    ]
+  },
+  "21104": {
+    "salesId": 21104,
+    "regionId": 211,
+    "salesName": "ヒーローサンタのクリスマスショー（長期）",
+    "iconFilename": "item_Meteorite2112_exchange01",
+    "startAt": null,
+    "endAt": "2022-01-19 20:00:00",
+    "requiredTime": 57600,
+    "memberLimitNumber": 8,
+    "rewards": [
+      {
+        "salesId": 21104,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 2240
+      },
+      {
+        "salesId": 21104,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 1920
+      },
+      {
+        "salesId": 21104,
+        "rewardType": 3,
+        "objectId": 72,
+        "objectValue": 112
+      },
+      {
+        "salesId": 21104,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 1280
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_METEORITE2112_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 21104
+      },
+      {
+        "textKey": "SALES_EVENT_METEORITE2112_REPORT_2",
+        "condition": null,
+        "laravelThroughKey": 21104
+      },
+      {
+        "textKey": "SALES_EVENT_METEORITE2112_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 21104
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "StockCountBonus",
+        "stocks": [
+          10022,
+          10292,
+          10821
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 10
+          },
+          {
+            "count": 2,
+            "upwardRate": 30
+          },
+          {
+            "count": 3,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
+      },
+      {
+        "class": "MemberCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": false
+      }
+    ]
   }
 }

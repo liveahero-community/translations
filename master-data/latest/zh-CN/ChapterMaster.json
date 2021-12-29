@@ -854,7 +854,22 @@
     "bgResourceName": "ui_bg_sprite_event_Meteorite2112",
     "missionGroupId": 0,
     "startAt": null,
-    "endAt": null,
+    "endAt": "2022-01-26 14:00:00",
+    "executeLimit": null
+  },
+  "446": {
+    "chapterId": 446,
+    "groupType": 2,
+    "chapterType": 1,
+    "chapterName": "イベントフリークエスト",
+    "subName": "旋律のメテオライト・クリスマス",
+    "peepingName": "フリークエスト",
+    "sortWeight": 1000,
+    "bannerResourceName": "ui_banner_questchoice_event_Meteorite2112",
+    "bgResourceName": "ui_bg_sprite_event_Meteorite2112",
+    "missionGroupId": 0,
+    "startAt": null,
+    "endAt": "2022-01-19 20:00:00",
     "executeLimit": null
   },
   "501": {
