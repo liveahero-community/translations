@@ -459,119 +459,119 @@
     "statusName": "",
     "isGoodStatus": 2,
     "statusType": 2,
-    "description": "オキタカのシステムスキル"
+    "description": "興孝的系統技能。"
   },
   "67": {
     "statusId": 67,
     "statusName": "",
     "isGoodStatus": 2,
     "statusType": 2,
-    "description": "限定ヴィクトム専用システム効果2"
+    "description": "豪爽的維多姆專用系統效果二。"
   },
   "68": {
     "statusId": 68,
     "statusName": "",
     "isGoodStatus": 2,
     "statusType": 2,
-    "description": "オキタカスキル１用システムスキル"
+    "description": "興孝技能一用的系統技能。"
   },
   "69": {
     "statusId": 69,
     "statusName": "",
     "isGoodStatus": 2,
     "statusType": 2,
-    "description": "限定ヴィクトム専用システム効果 ViewMultipleAttackの実態(クエスト付随)"
+    "description": "豪爽的維多姆專用系統效果「綜合View攻擊」的實體（任務附加）。"
   },
   "70": {
     "statusId": 70,
     "statusName": "ダメージ上限3000",
     "isGoodStatus": 2,
     "statusType": 2,
-    "description": "受けるダメージの上限が3000になる。"
+    "description": "受到傷害上限為 3000。"
   },
   "71": {
     "statusId": 71,
     "statusName": "ダメージ上限5000",
     "isGoodStatus": 2,
     "statusType": 2,
-    "description": "受けるダメージの上限が5000になる。"
+    "description": "受到傷害上限為 5000。"
   },
   "72": {
     "statusId": 72,
     "statusName": "ダメージ上限10000",
     "isGoodStatus": 2,
     "statusType": 2,
-    "description": "受けるダメージの上限が10000になる。"
+    "description": "受到傷害上限為 10000。"
   },
   "73": {
     "statusId": 73,
     "statusName": "ダメージ上限20000",
     "isGoodStatus": 2,
     "statusType": 2,
-    "description": "受けるダメージの上限が20000になる。"
+    "description": "受到傷害上限為 20000。"
   },
   "74": {
     "statusId": 74,
     "statusName": "View消費量減少",
     "isGoodStatus": 1,
     "statusType": 1,
-    "description": "Viewの消費量が減少する。"
+    "description": "技能所需的 View 費用減少。"
   },
   "75": {
     "statusId": 75,
     "statusName": "ATKアップ(小)",
     "isGoodStatus": 1,
     "statusType": 1,
-    "description": "攻撃力が1.3倍になる。"
+    "description": "攻擊力變為 1.3 倍。"
   },
   "76": {
     "statusId": 76,
     "statusName": "コアを守るもの",
     "isGoodStatus": 1,
     "statusType": 1,
-    "description": "一度だけ相手からのダメージが0.7倍になる。"
+    "description": "來自對手的傷害變為 0.7 倍（僅一次）。"
   },
   "77": {
     "statusId": 77,
     "statusName": "暴走",
     "isGoodStatus": 2,
     "statusType": 2,
-    "description": "1ターンに2回行動を行う。スキルによる解除不可。"
+    "description": "在一回合內可以行動兩次，此技能不能解除。"
   },
   "78": {
     "statusId": 78,
     "statusName": "狂乱",
     "isGoodStatus": 1,
     "statusType": 1,
-    "description": "攻撃力が2倍になる。ターン終了時にHP最大値の10%のダメージを受ける。行動がオート行動になる。"
+    "description": "攻擊力變為 2 倍。回合結束時，受到生命上限 10% 的傷害量。行動變為自動模式。"
   },
   "79": {
     "statusId": 79,
     "statusName": "ATKアップ(重複不可)",
     "isGoodStatus": 2,
     "statusType": 2,
-    "description": "ATKが数値だけ上昇する。この効果が重複した場合、効果量が多い方を優先する。"
+    "description": "僅攻擊力上升。這個效果無法疊加，而是擇優覆蓋。"
   },
   "80": {
     "statusId": 80,
     "statusName": "強化コア",
     "isGoodStatus": 2,
     "statusType": 2,
-    "description": "カイブツのコアを包む膜"
+    "description": "怪物核心的包膜。"
   },
   "81": {
     "statusId": 81,
     "statusName": "無効",
     "isGoodStatus": 2,
     "statusType": 2,
-    "description": "特定のデバフにかからない。"
+    "description": "不會被賦予特定減益效果。"
   },
   "82": {
     "statusId": 82,
     "statusName": "協奏",
     "isGoodStatus": 1,
     "statusType": 1,
-    "description": "View獲得スキルで獲得するViewが2倍。"
+    "description": "獲得 View 值的技能，所獲得的 View 值變為 2 倍。"
   },
   "83": {
     "statusId": 83,
