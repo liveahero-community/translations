@@ -2165,5 +2165,104 @@
         "targetStockId": 10701
       }
     ]
+  },
+  "26": {
+    "eventId": 26,
+    "chapterId": 449,
+    "lookBackChapterId": 0,
+    "baseResourceName": "Newyear2201",
+    "startAt": "2021-12-24 14:00:00",
+    "endAt": "2022-01-21 18:00:00",
+    "canRemember": 0,
+    "eventPortalJson": {
+      "bg": "ui_bg_sprite_event_Newyear2101",
+      "bgm": "bgm_main",
+      "logo": "Newyear2201_title",
+      "terms": [
+        {
+          "keys": [
+            "UI_SCORE_ATTACK"
+          ],
+          "endAt": "2022-01-14 23:59:59"
+        },
+        {
+          "keys": [
+            "UI_EXCHANGE"
+          ],
+          "endAt": "2022-01-21 18:00:00"
+        }
+      ],
+      "gachaId": 24,
+      "storeId": 18,
+      "questInfos": [
+        {
+          "type": 8,
+          "chapterId": 449
+        },
+        {
+          "type": 8,
+          "chapterId": 450
+        },
+        {
+          "type": 8,
+          "chapterId": 451
+        },
+        {
+          "type": 8,
+          "chapterId": 452
+        },
+        {
+          "type": 8,
+          "chapterId": 453
+        },
+        {
+          "type": 8,
+          "chapterId": 454
+        },
+        {
+          "type": 8,
+          "chapterId": 455
+        },
+        {
+          "type": 8,
+          "chapterId": 456
+        },
+        {
+          "type": 8,
+          "chapterId": 457
+        },
+        {
+          "type": 8,
+          "chapterId": 458
+        },
+        {
+          "type": 8,
+          "chapterId": 459
+        }
+      ],
+      "tutorialKey": "Newyear2201",
+      "eventItemIds": [
+        73
+      ],
+      "characterViews": [
+        {
+          "skinId": 0,
+          "stockId": 99041,
+          "cardType": 2,
+          "serifKinds": [
+            27
+          ],
+          "visualType": 1,
+          "resourceName": "ryekie",
+          "characterName": "ライキ"
+        }
+      ],
+      "salesRegionIds": [],
+      "missionGroupIds": [
+        2
+      ],
+      "missionCategoryButtonLabels": null
+    },
+    "questBonusJsons": []
   }
 }
