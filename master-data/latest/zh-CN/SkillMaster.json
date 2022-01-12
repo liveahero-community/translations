@@ -26683,7 +26683,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_buffTeam",
     "timing": 0,
-    "description": "敵単体に100%のダメージ。Viewを12000獲得。味方全体からランダムな対象に２回のランダムなバフ効果を付与（ATKアップ、DEFアップから抽選）を３回繰り返す。（敵専用）",
+    "description": "敌単体に100%のダメージ。Viewを12000获得。味方全体からランダムな対象に２回のランダムなバフ効果を付与（ATKアップ、DEFアップから抽选）を３回缲り返す。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -26776,7 +26776,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "s_skill_buffAll",
     "timing": 0,
-    "description": "敵全体に70%ダメージ。Viewを4000獲得。自身にデバフがついていない場合、味方全体に1回の行動の間、ATKアップを付与。（敵専用）",
+    "description": "敌全体に70%ダメージ。Viewを4000获得。自身にデバフがついていない场合、味方全体に1回の行动の间、ATKアップを付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -26831,7 +26831,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "s_skill_view",
     "timing": 0,
-    "description": "敵全体に115%ダメージ。Viewを10000獲得。（敵専用）",
+    "description": "敌全体に115%ダメージ。Viewを10000获得。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -27101,7 +27101,7 @@
     "resourceName": "b_skill_buffAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "味方全体に1回の行動の間ATKアップを付与。1回分のDEFアップを付与。（敵専用）",
+    "description": "味方全体に1回の行动の间ATKアップを付与。1回分のDEFアップを付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -27140,7 +27140,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_buffOwn",
     "timing": 0,
-    "description": "敵単体に100%ダメージ。Viewを3000獲得。自身にデバフがついていない場合、自身のHPを基礎ATKの150%回復 & 1回の行動の間ATKアップを付与。（敵専用）",
+    "description": "敌単体に100%ダメージ。Viewを3000获得。自身にデバフがついていない场合、自身のHPを基础ATKの150%回复 & 1回の行动の间ATKアップを付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -34410,13 +34410,13 @@
   },
   "6032103": {
     "skillId": 6032103,
-    "skillName": "連係解除",
+    "skillName": "连系解除",
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "b_skill_antiBuff",
     "subResourceName": "",
     "timing": 0,
-    "description": "ゴメイサ型カイブツが戦闘不能になった時、自身のバフを全て解除。",
+    "description": "ゴメイサ型カイブツが戦闘不能になった时、自身のバフを全て解除。",
     "cutin": [],
     "isEquip": false,
     "effects": []
@@ -34429,7 +34429,7 @@
     "resourceName": "b_skill_cureAll",
     "subResourceName": "",
     "timing": 2,
-    "description": "毒・火傷を無効化。行動開始時、自身がピンチ状態の場合、味方全体のデバフを１つ解除。",
+    "description": "毒・火伤を无効化。行动开始时、自身がピンチ状态の场合、味方全体のデバフを１つ解除。",
     "cutin": [],
     "isEquip": false,
     "effects": [
@@ -34459,7 +34459,7 @@
     "resourceName": "b_skill_buff",
     "subResourceName": "",
     "timing": 4,
-    "description": "ターン開始時、自身がピンチ状態の場合、味方単体に2回の行動の間ATKアップを付与。",
+    "description": "ターン开始时、自身がピンチ状态の场合、味方単体に2回の行动の间ATKアップを付与。",
     "cutin": [],
     "isEquip": false,
     "effects": [
@@ -34506,13 +34506,13 @@
   },
   "6033102": {
     "skillId": 6033102,
-    "skillName": "エネルギー補充",
+    "skillName": "エネルギー补充",
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "b_skill_heal",
     "subResourceName": "",
     "timing": 14,
-    "description": "戦闘不能時、100%のHPで復活。復活したターンは行動しない。",
+    "description": "戦闘不能时、100%のHPで复活。复活したターンは行动しない。",
     "cutin": [],
     "isEquip": false,
     "effects": [
