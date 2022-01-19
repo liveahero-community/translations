@@ -1859,7 +1859,7 @@
     "eventId": 25,
     "chapterId": 445,
     "lookBackChapterId": 0,
-    "baseResourceName": "Meteorite2112",
+    "baseResourceName": "Meteorite2112_epilogue",
     "startAt": null,
     "endAt": "2022-01-26 14:00:00",
     "canRemember": 0,
@@ -1872,17 +1872,10 @@
           "keys": [
             "UI_MAIN_QUEST",
             "UI_MISSION",
-            "UI_EXCHANGE"
+            "UI_EXCHANGE",
+            "UI_EPILOGUE_QUEST"
           ],
           "endAt": "2022-01-26 14:00:00"
-        },
-        {
-          "keys": [
-            "UI_FREE_QUEST",
-            "UI_SALES",
-            "UI_SCORE_ATTACK"
-          ],
-          "endAt": "2022-01-19 20:00:00"
         }
       ],
       "gachaId": 23,
@@ -1890,15 +1883,23 @@
       "questInfos": [
         {
           "type": 5,
-          "chapterId": 445
+          "chapterId": 445,
+          "buttonType": 0
         },
         {
           "type": 6,
-          "chapterId": 446
+          "chapterId": 446,
+          "buttonType": 1
         },
         {
           "type": 8,
-          "chapterId": 447
+          "chapterId": 447,
+          "buttonType": 1
+        },
+        {
+          "type": 7,
+          "chapterId": 448,
+          "buttonType": 3
         }
       ],
       "tutorialKey": "Meteorite2112",
