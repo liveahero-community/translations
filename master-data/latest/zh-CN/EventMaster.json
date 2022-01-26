@@ -157,7 +157,7 @@
     "baseResourceName": "Valentine2102",
     "startAt": "2021-02-01 20:00:00",
     "endAt": "2021-03-22 14:00:00",
-    "canRemember": 1,
+    "canRemember": 0,
     "eventPortalJson": {
       "bg": "ui_bg_sprite_event_Valentine2102",
       "bgm": "bgm_cyberwars_adv",
@@ -1858,11 +1858,11 @@
   "25": {
     "eventId": 25,
     "chapterId": 445,
-    "lookBackChapterId": 0,
-    "baseResourceName": "Meteorite2112_epilogue",
+    "lookBackChapterId": 513,
+    "baseResourceName": "Meteorite2112",
     "startAt": null,
     "endAt": "2022-01-26 14:00:00",
-    "canRemember": 0,
+    "canRemember": 1,
     "eventPortalJson": {
       "bg": "ui_bg_sprite_event_Meteorite2112",
       "bgm": "bgm_meteorite_adv1",
@@ -2272,5 +2272,194 @@
       "missionCategoryButtonLabels": null
     },
     "questBonusJsons": []
+  },
+  "27": {
+    "eventId": 27,
+    "chapterId": 460,
+    "lookBackChapterId": 0,
+    "baseResourceName": "2201CyberWarsRevival",
+    "startAt": null,
+    "endAt": "2022-03-22 14:00:00",
+    "canRemember": 0,
+    "eventPortalJson": {
+      "bg": "ui_bg_sprite_event_Valentine2102",
+      "bgm": "bgm_cyberwars_adv",
+      "logo": "CyberWarsRevival2201_title",
+      "terms": [
+        {
+          "keys": [
+            "UI_MAIN_QUEST",
+            "UI_MISSION",
+            "UI_EXCHANGE"
+          ],
+          "endAt": "2022-02-23 14:00:00"
+        },
+        {
+          "keys": [
+            "UI_FREE_QUEST",
+            "UI_SALES"
+          ],
+          "endAt": "2022-02-16 20:00:00"
+        },
+        {
+          "keys": [
+            "UI_EPILOGUE_QUEST"
+          ],
+          "endAt": "2022-03-22 14:00:00"
+        }
+      ],
+      "gachaId": 25,
+      "storeId": 19,
+      "questInfos": [
+        {
+          "type": 5,
+          "chapterId": 460,
+          "buttonType": 0
+        },
+        {
+          "type": 7,
+          "chapterId": 462,
+          "buttonType": 0
+        },
+        {
+          "type": 6,
+          "chapterId": 461,
+          "buttonType": 1
+        }
+      ],
+      "tutorialKey": "CyberWarsRevival2201",
+      "eventItemIds": [
+        57
+      ],
+      "portalWindow": "Valentine2201EventPortalWindow",
+      "characterViews": [
+        {
+          "skinId": 0,
+          "stockId": 10531,
+          "cardType": 2,
+          "serifKinds": [
+            27,
+            28
+          ],
+          "visualType": 1,
+          "resourceName": "hisaki",
+          "characterName": "ヒサキ"
+        }
+      ],
+      "salesRegionIds": [
+        212
+      ],
+      "missionGroupIds": [
+        460
+      ],
+      "missionCategoryButtonLabels": null
+    },
+    "questBonusJsons": [
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 57,
+        "bonusValue": 40,
+        "targetStockId": 10102
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 57,
+        "bonusValue": 30,
+        "targetStockId": 10122
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 57,
+        "bonusValue": 30,
+        "targetStockId": 10111
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 57,
+        "bonusValue": 20,
+        "targetStockId": 10531
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 57,
+        "bonusValue": 20,
+        "targetStockId": 10292
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 57,
+        "bonusValue": 20,
+        "targetStockId": 10022
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 57,
+        "bonusValue": 10,
+        "targetStockId": 10821
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 57,
+        "bonusValue": 10,
+        "targetStockId": 10101
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 57,
+        "bonusValue": 20,
+        "targetStockId": 10121
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 57,
+        "bonusValue": 20,
+        "targetStockId": 10111
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 57,
+        "bonusValue": 10,
+        "targetStockId": 10531
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 57,
+        "bonusValue": 10,
+        "targetStockId": 10821
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 57,
+        "bonusValue": 10,
+        "targetStockId": 10101
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 57,
+        "bonusValue": 10,
+        "targetStockId": 10121
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 57,
+        "bonusValue": 10,
+        "targetStockId": 19991
+      }
+    ]
   }
 }
