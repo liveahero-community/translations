@@ -25375,7 +25375,7 @@
     "resourceName": "b_skill_debuff",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "敵単体に1回の行動の間ATKダウンを付与。2回分のDEFダウンを付与。（敵専用）",
+    "description": "敌単体に1回の行动の间ATKダウンを付与。2回分のDEFダウンを付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -25414,7 +25414,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "敵単体に60%ダメージ。1回の行動の間ATKダウンを付与。（敵専用）",
+    "description": "敌単体に60%ダメージ。1回の行动の间ATKダウンを付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -25447,13 +25447,13 @@
   },
   "4012201": {
     "skillId": 4012201,
-    "skillName": "九十九墨跡",
+    "skillName": "九十九墨迹",
     "useView": 6000,
     "targetFlag": 4,
     "resourceName": "b_skill_damageAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵全体に80%ダメージ。デバフ効果１ターン延長。（敵専用）",
+    "description": "敌全体に80%ダメージ。デバフ効果１ターン延长。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -25486,13 +25486,13 @@
   },
   "4012202": {
     "skillId": 4012202,
-    "skillName": "「隠」の書成術",
+    "skillName": "「隠」の书成术",
     "useView": 0,
     "targetFlag": 2,
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_buffOwn",
     "timing": 0,
-    "description": "敵単体に50%ダメージ。自身に2ターンの間隠蔽を付与。（敵専用）",
+    "description": "敌単体に50%ダメージ。自身に2ターンの间隠蔽を付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -29994,7 +29994,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_buffOwn",
     "timing": 0,
-    "description": "敵単体に40%ダメージ。自身に1回分のDEFアップを付与。（敵専用）",
+    "description": "敌単体に40%ダメージ。自身に1回分のDEFアップを付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -30027,13 +30027,13 @@
   },
   "4053103": {
     "skillId": 4053103,
-    "skillName": "集約型・エネルギーシールド",
+    "skillName": "集约型・エネルギーシールド",
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "b_skill_buff",
     "subResourceName": "s_skill_view",
     "timing": 0,
-    "description": "自身に2ターンの間ダメージ集約を付与。Viewを6000獲得。（敵専用）",
+    "description": "自身に2ターンの间ダメージ集约を付与。Viewを6000获得。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -34495,13 +34495,13 @@
   },
   "6010201": {
     "skillId": 6010201,
-    "skillName": "隠密行動",
+    "skillName": "隠密行动",
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "b_skill_buff",
     "subResourceName": "",
     "timing": 1,
-    "description": "登場時、1ターンの間隠蔽を付与。",
+    "description": "登场时、1ターンの间隠蔽を付与。",
     "cutin": [],
     "isEquip": true,
     "effects": [
@@ -34518,13 +34518,13 @@
   },
   "6011101": {
     "skillId": 6011101,
-    "skillName": "的確な判断",
+    "skillName": "的确な判断",
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "b_skill_special",
     "subResourceName": "",
     "timing": 12,
-    "description": "敵を対象にするスキルは敵の中で一番Atkが高いキャラクターを対象にする。",
+    "description": "敌を対象にするスキルは敌の中で一番Atkが高いキャラクターを対象にする。",
     "cutin": [],
     "isEquip": true,
     "effects": [
@@ -35536,13 +35536,13 @@
   },
   "6053101": {
     "skillId": 6053101,
-    "skillName": "緊急防御",
+    "skillName": "紧急防御",
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "b_skill_buff",
     "subResourceName": "",
     "timing": 8,
-    "description": "ダメージを受けた時、50%の確率で自身に1回分のDEFアップを付与。",
+    "description": "ダメージを受けた时、50%の确率で自身に1回分のDEFアップを付与。",
     "cutin": [],
     "isEquip": true,
     "effects": [
