@@ -2297,7 +2297,8 @@
         {
           "keys": [
             "UI_FREE_QUEST",
-            "UI_SALES"
+            "UI_SALES",
+            "UI_SCORE_ATTACK"
           ],
           "endAt": "2022-02-16 20:00:00"
         },
@@ -2324,6 +2325,11 @@
         {
           "type": 6,
           "chapterId": 461,
+          "buttonType": 1
+        },
+        {
+          "type": 6,
+          "chapterId": 463,
           "buttonType": 1
         }
       ],
