@@ -2279,7 +2279,7 @@
     "lookBackChapterId": 0,
     "baseResourceName": "2201CyberWarsRevival",
     "startAt": null,
-    "endAt": "2022-03-22 14:00:00",
+    "endAt": "2022-03-28 14:00:00",
     "canRemember": 0,
     "eventPortalJson": {
       "bg": "ui_bg_sprite_event_Valentine2102",
@@ -2288,49 +2288,18 @@
       "terms": [
         {
           "keys": [
-            "UI_MAIN_QUEST",
-            "UI_MISSION",
-            "UI_EXCHANGE"
-          ],
-          "endAt": "2022-02-23 14:00:00"
-        },
-        {
-          "keys": [
-            "UI_FREE_QUEST",
-            "UI_SALES",
-            "UI_SCORE_ATTACK"
-          ],
-          "endAt": "2022-02-16 20:00:00"
-        },
-        {
-          "keys": [
             "UI_EPILOGUE_QUEST"
           ],
-          "endAt": "2022-03-22 14:00:00"
+          "endAt": "2022-03-28 14:00:00"
         }
       ],
       "gachaId": 25,
       "storeId": 19,
       "questInfos": [
         {
-          "type": 5,
-          "chapterId": 460,
-          "buttonType": 0
-        },
-        {
           "type": 7,
           "chapterId": 462,
           "buttonType": 0
-        },
-        {
-          "type": 6,
-          "chapterId": 461,
-          "buttonType": 1
-        },
-        {
-          "type": 6,
-          "chapterId": 463,
-          "buttonType": 1
         }
       ],
       "tutorialKey": "CyberWarsRevival2201",
