@@ -683,6 +683,58 @@
       "isInHome": true
     }
   ],
+  "10082": [
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 4,
+      "faceType": "",
+      "serifKey": "SERIF_FURLONGCIRCUS2202_PLAYER",
+      "voiceFilename": null,
+      "resourceName": "furlongCircus2202",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 5,
+      "faceType": "e",
+      "serifKey": "SERIF_FURLONGCIRCUS2202_HERO",
+      "voiceFilename": null,
+      "resourceName": "furlongCircus2202",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 12,
+      "faceType": "c",
+      "serifKey": "SERIF_FURLONGCIRCUS2202_TOUCH",
+      "voiceFilename": null,
+      "resourceName": "furlongCircus2202",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 27,
+      "faceType": "c",
+      "serifKey": "SERIF_FURLONGCIRCUS2202_EVENTA",
+      "voiceFilename": null,
+      "resourceName": "furlongCircus2202",
+      "isInHome": false
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 28,
+      "faceType": "e",
+      "serifKey": "SERIF_FURLONGCIRCUS2202_EVENTB",
+      "voiceFilename": null,
+      "resourceName": "furlongCircus2202",
+      "isInHome": false
+    }
+  ],
   "10091": [
     {
       "cardType": 2,
@@ -3299,6 +3351,66 @@
   ],
   "10651": [
     {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 3,
+      "faceType": "",
+      "serifKey": "SERIF_VULPECULA_DAILY",
+      "voiceFilename": "",
+      "resourceName": "vulpecula",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 4,
+      "faceType": "",
+      "serifKey": "SERIF_VULPECULA_PLAYER",
+      "voiceFilename": "",
+      "resourceName": "vulpecula",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 5,
+      "faceType": "d",
+      "serifKey": "SERIF_VULPECULA_HERO",
+      "voiceFilename": "",
+      "resourceName": "vulpecula",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 6,
+      "faceType": "e",
+      "serifKey": "SERIF_VULPECULA_RELATION",
+      "voiceFilename": "",
+      "resourceName": "vulpecula",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 11,
+      "faceType": "",
+      "serifKey": "SERIF_VULPECULA_APPRECIATION",
+      "voiceFilename": "",
+      "resourceName": "vulpecula",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 12,
+      "faceType": "f",
+      "serifKey": "SERIF_VULPECULA_TOUCH",
+      "voiceFilename": "",
+      "resourceName": "vulpecula",
+      "isInHome": true
+    },
+    {
       "cardType": 1,
       "rarity": 0,
       "voiceKind": 27,
@@ -3315,6 +3427,26 @@
       "faceType": "",
       "serifKey": "SERIF_VULPECULA_EVENTB",
       "voiceFilename": "",
+      "resourceName": "vulpecula",
+      "isInHome": false
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 29,
+      "faceType": "",
+      "serifKey": "SERIF_VULPECULA_EVENTC",
+      "voiceFilename": null,
+      "resourceName": "vulpecula",
+      "isInHome": false
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 30,
+      "faceType": "e",
+      "serifKey": "SERIF_VULPECULA_EVENTD",
+      "voiceFilename": null,
       "resourceName": "vulpecula",
       "isInHome": false
     }
@@ -4078,6 +4210,88 @@
       "serifKey": "SERIF_BOREALIS_EVENTB",
       "voiceFilename": "",
       "resourceName": "borealis",
+      "isInHome": false
+    }
+  ],
+  "11001": [
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 3,
+      "faceType": "c",
+      "serifKey": "SERIF_YASUHIKO_DAILY",
+      "voiceFilename": null,
+      "resourceName": "yasuhiko",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 4,
+      "faceType": "b",
+      "serifKey": "SERIF_YASUHIKO_PLAYER",
+      "voiceFilename": null,
+      "resourceName": "yasuhiko",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 5,
+      "faceType": "e",
+      "serifKey": "SERIF_YASUHIKO_HERO",
+      "voiceFilename": null,
+      "resourceName": "yasuhiko",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 6,
+      "faceType": "",
+      "serifKey": "SERIF_YASUHIKO_RELATION",
+      "voiceFilename": null,
+      "resourceName": "yasuhiko",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 11,
+      "faceType": "",
+      "serifKey": "SERIF_YASUHIKO_APPRECIATION",
+      "voiceFilename": null,
+      "resourceName": "yasuhiko",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 12,
+      "faceType": "f",
+      "serifKey": "SERIF_YASUHIKO_TOUCH",
+      "voiceFilename": null,
+      "resourceName": "yasuhiko",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 27,
+      "faceType": "d",
+      "serifKey": "SERIF_YASUHIKO_EVENTA",
+      "voiceFilename": null,
+      "resourceName": "yasuhiko",
+      "isInHome": false
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 28,
+      "faceType": "b",
+      "serifKey": "SERIF_YASUHIKO_EVENTB",
+      "voiceFilename": null,
+      "resourceName": "yasuhiko",
       "isInHome": false
     }
   ],
