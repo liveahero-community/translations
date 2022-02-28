@@ -2366,7 +2366,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_heal",
     "timing": 0,
-    "description": "敵単体に70%ダメージ。自身のHPを基礎ATKの30%回復する。",
+    "description": "敌単体に70%ダメージ。自身のHPを基础ATKの30%回复する。",
     "cutin": [
       {
         "info": {
@@ -2406,7 +2406,7 @@
     "resourceName": "b_skill_buff",
     "subResourceName": "",
     "timing": 0,
-    "description": "自身に3ターンの間挑発を付与。【ダメージ時】敵とのSpd差に応じて「軽減」が発動。「軽減」が発動した場合、ダメージを30%減少する。自身に挑発が付与されている間、この効果の発動率が２倍になる。",
+    "description": "自身に3ターンの间挑発を付与。【ダメージ时】敌とのSpd差に応じて「軽减」が発动。「軽减」が発动した场合、ダメージを30%减少する。自身に挑発が付与されている间、この効果の発动率が２倍になる。",
     "cutin": [
       {
         "info": {
@@ -2437,7 +2437,7 @@
     "resourceName": "b_skill_buff",
     "subResourceName": "s_skill_buffOwn",
     "timing": 0,
-    "description": "味方単体に2回の行動の間ATKアップ & 幸運を付与。自身に2回の行動の間SPDアップを付与。対象が木属性の場合、ATKアップ & 幸運の効果が3回の行動の間になる。",
+    "description": "味方単体に2回の行动の间ATKアップ & 幸运を付与。自身に2回の行动の间SPDアップを付与。対象が木属性の场合、ATKアップ & 幸运の効果が3回の行动の间になる。",
     "cutin": [
       {
         "info": {
@@ -2532,7 +2532,7 @@
     "resourceName": "b_skill_buff",
     "subResourceName": "",
     "timing": 0,
-    "description": "自身に3ターンの間挑発を付与。【ダメージ時】敵とのSpd差に応じて「軽減」が発動。「軽減」が発動した場合、ダメージを30%減少する。自身に挑発が付与されている間、この効果の発動率が２倍になる。",
+    "description": "自身に3ターンの间挑発を付与。【ダメージ时】敌とのSpd差に応じて「軽减」が発动。「軽减」が発动した场合、ダメージを30%减少する。自身に挑発が付与されている间、この効果の発动率が２倍になる。",
     "cutin": [
       {
         "info": {
@@ -9104,7 +9104,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "敵単体に45%ダメージ。60%の確率で2ターンの間毒を付与。自身がダメージを受けていないかつ敵が生存している場合、スキル１を追加発動。（１回の行動で１度だけ発動。）",
+    "description": "敌単体に45%ダメージ。60%の确率で2ターンの间毒を付与。自身がダメージを受けていないかつ敌が生存している场合、スキル１を追加発动。（１回の行动で１度だけ発动。）",
     "cutin": [
       {
         "info": {
@@ -9175,7 +9175,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_antiBuffTeam",
     "timing": 0,
-    "description": "敵単体に100%ダメージ。敵のバフを１つ解除。解除に成功した場合、その効果を自身に付与。【常時発動】自身がダメージを受けていない間、自身に「隠蔽」と同様の効果を発動。",
+    "description": "敌単体に100%ダメージ。敌のバフを１つ解除。解除に成功した场合、その効果を自身に付与。【常时発动】自身がダメージを受けていない间、自身に「隠蔽」と同様の効果を発动。",
     "cutin": [
       {
         "info": {
@@ -9224,7 +9224,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵全体に70%ダメージ+HPが多いほどダメージ量が上昇する。",
+    "description": "敌全体に70%ダメージ+HPが多いほどダメージ量が上升する。",
     "cutin": [
       {
         "info": {
@@ -9255,7 +9255,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵全体に70%ダメージ+HPが多いほどダメージ量が上昇する。",
+    "description": "敌全体に70%ダメージ+HPが多いほどダメージ量が上升する。",
     "cutin": [
       {
         "info": {
@@ -10828,7 +10828,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_view",
     "timing": 0,
-    "description": "敵単体に60%ダメージ。Viewを1000獲得。",
+    "description": "敌単体に60%ダメージ。Viewを1000获得。",
     "cutin": [
       {
         "info": {
@@ -10868,7 +10868,7 @@
     "resourceName": "b_skill_debuff",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体に3回分のDEFダウンを付与。",
+    "description": "敌単体に3回分のDEFダウンを付与。",
     "cutin": [
       {
         "info": {
@@ -10899,7 +10899,7 @@
     "resourceName": "b_skill_antiBuffAll",
     "subResourceName": "s_skill_view",
     "timing": 0,
-    "description": "敵全体のバフを１つ解除。Viewを9000獲得。",
+    "description": "敌全体のバフを１つ解除。Viewを9000获得。",
     "cutin": [
       {
         "info": {
@@ -10939,7 +10939,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_view",
     "timing": 0,
-    "description": "敵単体に60%ダメージ。Viewを3000獲得。",
+    "description": "敌単体に60%ダメージ。Viewを3000获得。",
     "cutin": [
       {
         "info": {
@@ -15824,7 +15824,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_buffOwn",
     "timing": 0,
-    "description": "敵単体に80%ダメージ。自身に40%の確率で2ターンの間隠蔽を付与。",
+    "description": "敌単体に80%ダメージ。自身に40%の确率で2ターンの间隠蔽を付与。",
     "cutin": [
       {
         "info": {
@@ -15864,7 +15864,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_buffOwn",
     "timing": 0,
-    "description": "敵単体に80%ダメージ。自身に50%の確率で2ターンの間隠蔽を付与。",
+    "description": "敌単体に80%ダメージ。自身に50%の确率で2ターンの间隠蔽を付与。",
     "cutin": [
       {
         "info": {
@@ -15904,7 +15904,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_buffOwn",
     "timing": 0,
-    "description": "敵単体に80%ダメージ。自身に60%の確率で2ターンの間隠蔽を付与。",
+    "description": "敌単体に80%ダメージ。自身に60%の确率で2ターンの间隠蔽を付与。",
     "cutin": [
       {
         "info": {
@@ -17048,7 +17048,7 @@
     "resourceName": "b_skill_view",
     "subResourceName": "",
     "timing": 0,
-    "description": "Viewを7000獲得。",
+    "description": "Viewを7000获得。",
     "cutin": [
       {
         "info": {
@@ -17079,7 +17079,7 @@
     "resourceName": "b_skill_view",
     "subResourceName": "",
     "timing": 0,
-    "description": "Viewを7500獲得。",
+    "description": "Viewを7500获得。",
     "cutin": [
       {
         "info": {
@@ -17110,7 +17110,7 @@
     "resourceName": "b_skill_view",
     "subResourceName": "",
     "timing": 0,
-    "description": "Viewを8000獲得。",
+    "description": "Viewを8000获得。",
     "cutin": [
       {
         "info": {
@@ -23813,7 +23813,7 @@
     "resourceName": "icon_vulpecula_s01",
     "subResourceName": "",
     "timing": 4,
-    "description": "ターン開始時、10%の確率で1ターンの間隠蔽を付与。",
+    "description": "ターン开始时、10%の确率で1ターンの间隠蔽を付与。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -23837,7 +23837,7 @@
     "resourceName": "icon_vulpecula_s01",
     "subResourceName": "",
     "timing": 4,
-    "description": "ターン開始時、12%の確率で1ターンの間隠蔽を付与。",
+    "description": "ターン开始时、12%の确率で1ターンの间隠蔽を付与。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -23861,7 +23861,7 @@
     "resourceName": "icon_vulpecula_s01",
     "subResourceName": "",
     "timing": 4,
-    "description": "ターン開始時、14%の確率で1ターンの間隠蔽を付与。",
+    "description": "ターン开始时、14%の确率で1ターンの间隠蔽を付与。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -23885,7 +23885,7 @@
     "resourceName": "icon_vulpecula_s01",
     "subResourceName": "",
     "timing": 4,
-    "description": "ターン開始時、16%の確率で1ターンの間隠蔽を付与。",
+    "description": "ターン开始时、16%の确率で1ターンの间隠蔽を付与。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -23909,7 +23909,7 @@
     "resourceName": "icon_vulpecula_s01",
     "subResourceName": "",
     "timing": 4,
-    "description": "ターン開始時、18%の確率で1ターンの間隠蔽を付与。",
+    "description": "ターン开始时、18%の确率で1ターンの间隠蔽を付与。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -23933,7 +23933,7 @@
     "resourceName": "icon_vulpecula_s01",
     "subResourceName": "",
     "timing": 4,
-    "description": "ターン開始時、20%の確率で1ターンの間隠蔽を付与。",
+    "description": "ターン开始时、20%の确率で1ターンの间隠蔽を付与。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -25679,13 +25679,13 @@
   },
   "3100101": {
     "skillId": 3100101,
-    "skillName": "サーカス団長の手腕Ⅰ",
+    "skillName": "サーカス団长の手腕Ⅰ",
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "icon_yasuhiko_s01",
     "subResourceName": "",
     "timing": 13,
-    "description": "攻撃以外のスキル発動後、自身のViewの20%を獲得。オート行動時、自身が行う味方を対象にするスキルはがHPが最も低い味方を対象にする。",
+    "description": "攻撃以外のスキル発动后、自身のViewの20%を获得。オート行动时、自身が行う味方を対象にするスキルはがHPが最も低い味方を対象にする。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -25703,13 +25703,13 @@
   },
   "3100102": {
     "skillId": 3100102,
-    "skillName": "サーカス団長の手腕Ⅱ",
+    "skillName": "サーカス団长の手腕Ⅱ",
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "icon_yasuhiko_s01",
     "subResourceName": "",
     "timing": 13,
-    "description": "攻撃以外のスキル発動後、自身のViewの24%を獲得。オート行動時、自身が行う味方を対象にするスキルはがHPが最も低い味方を対象にする。",
+    "description": "攻撃以外のスキル発动后、自身のViewの24%を获得。オート行动时、自身が行う味方を対象にするスキルはがHPが最も低い味方を対象にする。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -25727,13 +25727,13 @@
   },
   "3100103": {
     "skillId": 3100103,
-    "skillName": "サーカス団長の手腕Ⅲ",
+    "skillName": "サーカス団长の手腕Ⅲ",
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "icon_yasuhiko_s01",
     "subResourceName": "",
     "timing": 13,
-    "description": "攻撃以外のスキル発動後、自身のViewの28%を獲得。オート行動時、自身が行う味方を対象にするスキルはがHPが最も低い味方を対象にする。",
+    "description": "攻撃以外のスキル発动后、自身のViewの28%を获得。オート行动时、自身が行う味方を対象にするスキルはがHPが最も低い味方を対象にする。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -25751,13 +25751,13 @@
   },
   "3100104": {
     "skillId": 3100104,
-    "skillName": "サーカス団長の手腕Ⅳ",
+    "skillName": "サーカス団长の手腕Ⅳ",
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "icon_yasuhiko_s01",
     "subResourceName": "",
     "timing": 13,
-    "description": "攻撃以外のスキル発動後、自身のViewの32%を獲得。オート行動時、自身が行う味方を対象にするスキルはがHPが最も低い味方を対象にする。",
+    "description": "攻撃以外のスキル発动后、自身のViewの32%を获得。オート行动时、自身が行う味方を対象にするスキルはがHPが最も低い味方を対象にする。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -25775,13 +25775,13 @@
   },
   "3100105": {
     "skillId": 3100105,
-    "skillName": "サーカス団長の手腕Ⅴ",
+    "skillName": "サーカス団长の手腕Ⅴ",
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "icon_yasuhiko_s01",
     "subResourceName": "",
     "timing": 13,
-    "description": "攻撃以外のスキル発動後、自身のViewの36%を獲得。オート行動時、自身が行う味方を対象にするスキルはがHPが最も低い味方を対象にする。",
+    "description": "攻撃以外のスキル発动后、自身のViewの36%を获得。オート行动时、自身が行う味方を対象にするスキルはがHPが最も低い味方を対象にする。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -25799,13 +25799,13 @@
   },
   "3100106": {
     "skillId": 3100106,
-    "skillName": "サーカス団長の手腕Ⅵ",
+    "skillName": "サーカス団长の手腕Ⅵ",
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "icon_yasuhiko_s01",
     "subResourceName": "",
     "timing": 13,
-    "description": "攻撃以外のスキル発動後、自身のViewの40%を獲得。オート行動時、自身が行う味方を対象にするスキルはがHPが最も低い味方を対象にする。",
+    "description": "攻撃以外のスキル発动后、自身のViewの40%を获得。オート行动时、自身が行う味方を対象にするスキルはがHPが最も低い味方を対象にする。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -34131,7 +34131,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体に70%ダメージ。Viewを1000獲得。（敵専用）",
+    "description": "敌単体に70%ダメージ。Viewを1000获得。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -34171,7 +34171,7 @@
     "resourceName": "b_skill_buff",
     "subResourceName": "",
     "timing": 0,
-    "description": "自身に2回の行動の間ATKアップを付与。（敵専用）",
+    "description": "自身に2回の行动の间ATKアップを付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -34202,7 +34202,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_buffOwn",
     "timing": 0,
-    "description": "敵単体に120%ダメージ。自身に1回分のDEFアップを付与。（敵専用）",
+    "description": "敌単体に120%ダメージ。自身に1回分のDEFアップを付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -38956,7 +38956,7 @@
     "resourceName": "b_skill_buff",
     "subResourceName": "",
     "timing": 1,
-    "description": "自身に3ターンの間挑発を付与。【ダメージ時】敵とのSpd差に応じて「軽減」が発動。「軽減」が発動した場合、ダメージを30%減少する。自身に挑発が付与されている間、この効果の発動率が２倍になる。",
+    "description": "自身に3ターンの间挑発を付与。【ダメージ时】敌とのSpd差に応じて「軽减」が発动。「軽减」が発动した场合、ダメージを30%减少する。自身に挑発が付与されている间、この効果の発动率が２倍になる。",
     "cutin": [
       {
         "info": {
@@ -39110,7 +39110,7 @@
     "resourceName": "",
     "subResourceName": "",
     "timing": 1,
-    "description": "自身がダメージを受けていない間、自身に「隠蔽」と同様の効果を発動。",
+    "description": "自身がダメージを受けていない间、自身に「隠蔽」と同様の効果を発动。",
     "cutin": [],
     "isEquip": false,
     "isHeroSkill": false,
@@ -39224,13 +39224,13 @@
   },
   "8100101": {
     "skillId": 8100101,
-    "skillName": "サーカス団長の手腕",
+    "skillName": "サーカス団长の手腕",
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "",
     "subResourceName": "",
     "timing": 1,
-    "description": "オート行動時、味方を対象にするスキルは味方の中で一番HPが低いキャラクターを対象にする。",
+    "description": "オート行动时、味方を対象にするスキルは味方の中で一番HPが低いキャラクターを対象にする。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
