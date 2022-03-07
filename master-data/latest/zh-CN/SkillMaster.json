@@ -450,13 +450,13 @@
   },
   "19": {
     "skillId": 19,
-    "skillName": "状態変化重複不可",
+    "skillName": "状态変化重复不可",
     "useView": 0,
     "targetFlag": 5,
     "resourceName": "",
     "subResourceName": "",
     "timing": 0,
-    "description": "バフデバフ重複不可",
+    "description": "バフデバフ重复不可",
     "cutin": [],
     "isEquip": false,
     "isHeroSkill": false,
@@ -27461,7 +27461,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "敵単体に120%ダメージ。2回の行動の間ATKダウンを付与。（敵専用）",
+    "description": "敌単体に120%ダメージ。2回の行动の间ATKダウンを付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -27501,7 +27501,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵全体からランダムに4回60%ダメージ。（敵専用）",
+    "description": "敌全体からランダムに4回60%ダメージ。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -27810,13 +27810,13 @@
   },
   "4022106": {
     "skillId": 4022106,
-    "skillName": "ホーミング投網",
+    "skillName": "ホーミング投网",
     "useView": 0,
     "targetFlag": 4,
     "resourceName": "b_skill_damageAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵全体に80%ダメージ。バフを１つ解除。（敵専用）",
+    "description": "敌全体に80%ダメージ。バフを１つ解除。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -27850,13 +27850,13 @@
   },
   "4022107": {
     "skillId": 4022107,
-    "skillName": "イサリビ式爆釣漁法",
+    "skillName": "イサリビ式爆钓渔法",
     "useView": 9000,
     "targetFlag": 2,
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体に150%ダメージ+対象と自分のSPDの差だけダメージ量が上昇。（敵専用）",
+    "description": "敌単体に150%ダメージ+対象と自分のSPDの差だけダメージ量が上升。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -27881,13 +27881,13 @@
   },
   "4022108": {
     "skillId": 4022108,
-    "skillName": "ホーミング投網",
+    "skillName": "ホーミング投网",
     "useView": 0,
     "targetFlag": 4,
     "resourceName": "b_skill_damageAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵全体に60%ダメージ。バフを１つ解除。（敵専用）",
+    "description": "敌全体に60%ダメージ。バフを１つ解除。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -35778,7 +35778,7 @@
     "resourceName": "b_skill_antiBuffAll",
     "subResourceName": "s_skill_view",
     "timing": 0,
-    "description": "敵全体のバフを１つ解除。Viewを9000獲得。",
+    "description": "敌全体のバフを１つ解除。Viewを9000获得。",
     "cutin": [
       {
         "info": {
@@ -37048,7 +37048,7 @@
     "resourceName": "b_skill_buff",
     "subResourceName": "",
     "timing": 4,
-    "description": "ターン開始時、ATK+4%。",
+    "description": "ターン开始时、ATK+4%。",
     "cutin": [],
     "isEquip": false,
     "isHeroSkill": false,
