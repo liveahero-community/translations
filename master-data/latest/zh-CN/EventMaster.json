@@ -2444,7 +2444,7 @@
     "baseResourceName": "2202Circus",
     "startAt": "2022-02-23 14:00:00",
     "endAt": "2022-03-28 14:00:00",
-    "canRemember": 1,
+    "canRemember": 0,
     "eventPortalJson": {
       "bg": "ui_bg_sprite_event_2202Circus",
       "bgm": "bgm_circus_adv",
@@ -2461,6 +2461,7 @@
         {
           "keys": [
             "UI_FREE_QUEST",
+            "UI_HIGH_DIFFICULTY_QUEST",
             "UI_SALES"
           ],
           "endAt": "2022-03-21 20:00:00"
@@ -2477,6 +2478,11 @@
         {
           "type": 6,
           "chapterId": 465,
+          "buttonType": 1
+        },
+        {
+          "type": 6,
+          "chapterId": 467,
           "buttonType": 1
         }
       ],
