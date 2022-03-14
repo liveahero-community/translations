@@ -27015,7 +27015,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "敵単体に90%ダメージ+Viewに応じてダメージ量が上昇。1回の行動の間ATKダウンを付与。（敵専用）",
+    "description": "敌単体に90%ダメージ+Viewに応じてダメージ量が上升。1回の行动の间ATKダウンを付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -27055,7 +27055,7 @@
     "resourceName": "b_skill_buff",
     "subResourceName": "s_skill_buffAll",
     "timing": 0,
-    "description": "自身に3ターンの間挑発を付与。味方全体に1回分のDEFアップを付与。（敵専用）",
+    "description": "自身に3ターンの间挑発を付与。味方全体に1回分のDEFアップを付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -27095,7 +27095,7 @@
     "resourceName": "b_skill_buff",
     "subResourceName": "",
     "timing": 0,
-    "description": "自身に2ターンの間挑発を付与。（敵専用）",
+    "description": "自身に2ターンの间挑発を付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -34830,7 +34830,7 @@
     "resourceName": "b_skill_heal",
     "subResourceName": "s_skill_cureTeam",
     "timing": 0,
-    "description": "一番HPが減っている味方のHPを基礎ATKの200%回復する。ランダムな味方のデバフを１つ解除。（敵専用）",
+    "description": "一番HPが减っている味方のHPを基础ATKの200%回复する。ランダムな味方のデバフを１つ解除。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -34870,7 +34870,7 @@
     "resourceName": "b_skill_healAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "味方全体のHPを基礎ATKの200%回復する。（敵専用）",
+    "description": "味方全体のHPを基础ATKの200%回复する。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -34901,7 +34901,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_heal",
     "timing": 0,
-    "description": "敵単体に90%ダメージ。2ターンの間弱体抵抗+100を付与。（敵専用）",
+    "description": "敌単体に90%ダメージ。2ターンの间弱体抵抗+100を付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -34972,7 +34972,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体に150%ダメージ。（敵専用）",
+    "description": "敌単体に150%ダメージ。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -35003,7 +35003,7 @@
     "resourceName": "b_skill_buffAll",
     "subResourceName": "s_skill_view",
     "timing": 0,
-    "description": "味方全体に1回の行動の間ATKアップを付与。Viewを12000獲得。（敵専用）",
+    "description": "味方全体に1回の行动の间ATKアップを付与。Viewを12000获得。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -35043,7 +35043,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体に70%ダメージ。（敵専用）",
+    "description": "敌単体に70%ダメージ。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -35074,7 +35074,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵全体に80%ダメージ。（敵専用）",
+    "description": "敌全体に80%ダメージ。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -37727,13 +37727,13 @@
   },
   "6008201": {
     "skillId": 6008201,
-    "skillName": "華麗なステップ",
+    "skillName": "华丽なステップ",
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "b_skill_buff",
     "subResourceName": "",
     "timing": 8,
-    "description": "ダメージを受けた時、Viewを3000獲得。",
+    "description": "ダメージを受けた时、Viewを3000获得。",
     "cutin": [],
     "isEquip": false,
     "isHeroSkill": false,
