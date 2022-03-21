@@ -2441,7 +2441,7 @@
     "eventId": 28,
     "chapterId": 464,
     "lookBackChapterId": 0,
-    "baseResourceName": "2202Circus",
+    "baseResourceName": "2202Circus_epilogue",
     "startAt": "2022-02-23 14:00:00",
     "endAt": "2022-03-28 14:00:00",
     "canRemember": 0,
@@ -2465,6 +2465,12 @@
             "UI_SALES"
           ],
           "endAt": "2022-03-21 20:00:00"
+        },
+        {
+          "keys": [
+            "UI_EPILOGUE_QUEST"
+          ],
+          "endAt": "2022-03-28 14:00:00"
         }
       ],
       "gachaId": 26,
@@ -2484,6 +2490,11 @@
           "type": 6,
           "chapterId": 467,
           "buttonType": 1
+        },
+        {
+          "type": 7,
+          "chapterId": 466,
+          "buttonType": 0
         }
       ],
       "tutorialKey": "Circus2202",
