@@ -157,7 +157,7 @@
     "baseResourceName": "Valentine2102",
     "startAt": "2021-02-01 20:00:00",
     "endAt": "2021-03-22 14:00:00",
-    "canRemember": 0,
+    "canRemember": 1,
     "eventPortalJson": {
       "bg": "ui_bg_sprite_event_Valentine2102",
       "bgm": "bgm_cyberwars_adv",
@@ -530,7 +530,7 @@
     "baseResourceName": "Ruins2104",
     "startAt": "2021-04-23 00:00:00",
     "endAt": "2021-05-21 14:00:00",
-    "canRemember": 1,
+    "canRemember": 0,
     "eventPortalJson": {
       "bg": "ui_bg_sprite_event_Ruins2104_01",
       "bgm": "bgm_ruins_adv",
@@ -2440,11 +2440,11 @@
   "28": {
     "eventId": 28,
     "chapterId": 464,
-    "lookBackChapterId": 0,
-    "baseResourceName": "2202Circus_epilogue",
+    "lookBackChapterId": 514,
+    "baseResourceName": "2202Circus",
     "startAt": "2022-02-23 14:00:00",
     "endAt": "2022-03-28 14:00:00",
-    "canRemember": 0,
+    "canRemember": 1,
     "eventPortalJson": {
       "bg": "ui_bg_sprite_event_2202Circus",
       "bgm": "bgm_circus_adv",
@@ -2646,6 +2646,193 @@
         "objectId": 76,
         "bonusValue": 10,
         "targetStockId": 10081
+      }
+    ]
+  },
+  "29": {
+    "eventId": 29,
+    "chapterId": 468,
+    "lookBackChapterId": 0,
+    "baseResourceName": "2203RuinsRevival",
+    "startAt": null,
+    "endAt": "2022-04-18 14:00:00",
+    "canRemember": 0,
+    "eventPortalJson": {
+      "bg": "ui_bg_sprite_event_Ruins2104_01",
+      "bgm": "bgm_ruins_adv",
+      "logo": "2203RuinsRevival_title",
+      "terms": [
+        {
+          "keys": [
+            "UI_MAIN_QUEST",
+            "UI_MISSION",
+            "UI_EXCHANGE",
+            "UI_EPILOGUE_QUEST"
+          ],
+          "endAt": "2022-04-18 14:00:00"
+        },
+        {
+          "keys": [
+            "UI_FREE_QUEST",
+            "UI_SALES"
+          ],
+          "endAt": "2022-04-11 20:00:00"
+        }
+      ],
+      "gachaId": 27,
+      "storeId": 22,
+      "questInfos": [
+        {
+          "type": 5,
+          "chapterId": 468,
+          "buttonType": 0
+        },
+        {
+          "type": 6,
+          "chapterId": 469,
+          "buttonType": 1
+        },
+        {
+          "type": 7,
+          "chapterId": 470,
+          "buttonType": 0
+        }
+      ],
+      "tutorialKey": "2203RuinsRevival",
+      "eventItemIds": [
+        64
+      ],
+      "portalWindow": "WideTermEventPortalWindow",
+      "characterViews": [
+        {
+          "skinId": 0,
+          "stockId": 10142,
+          "cardType": 1,
+          "serifKinds": [
+            27,
+            28
+          ],
+          "visualType": 1,
+          "resourceName": "marfikRuins2104",
+          "characterName": "マルフィク"
+        },
+        {
+          "skinId": 0,
+          "stockId": 10621,
+          "cardType": 2,
+          "serifKinds": [
+            27,
+            28
+          ],
+          "visualType": 1,
+          "resourceName": "alphecca",
+          "characterName": "アルフェッカ"
+        },
+        {
+          "skinId": 0,
+          "stockId": 10611,
+          "cardType": 2,
+          "serifKinds": [
+            27,
+            28
+          ],
+          "visualType": 1,
+          "resourceName": "rutilix",
+          "characterName": "ルティリクス"
+        }
+      ],
+      "salesRegionIds": [
+        214
+      ],
+      "missionGroupIds": [
+        468
+      ],
+      "missionCategoryButtonLabels": null
+    },
+    "questBonusJsons": [
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 64,
+        "bonusValue": 40,
+        "targetStockId": 10142
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 64,
+        "bonusValue": 40,
+        "targetStockId": 10611
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 64,
+        "bonusValue": 30,
+        "targetStockId": 10621
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 64,
+        "bonusValue": 10,
+        "targetStockId": 10141
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 64,
+        "bonusValue": 10,
+        "targetStockId": 10611
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 64,
+        "bonusValue": 10,
+        "targetStockId": 10621
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 64,
+        "bonusValue": 10,
+        "targetStockId": 19991
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 64,
+        "bonusValue": 20,
+        "targetStockId": 10651
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 64,
+        "bonusValue": 10,
+        "targetStockId": 11001
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 64,
+        "bonusValue": 20,
+        "targetStockId": 10082
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 64,
+        "bonusValue": 10,
+        "targetStockId": 10651
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 64,
+        "bonusValue": 20,
+        "targetStockId": 11001
       }
     ]
   }
