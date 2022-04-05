@@ -2841,5 +2841,16 @@
         "targetStockId": 11001
       }
     ]
+  },
+  "30": {
+    "eventId": 30,
+    "chapterId": 472,
+    "lookBackChapterId": 0,
+    "baseResourceName": "2204Excavation",
+    "startAt": "2022-04-05 18:00:00",
+    "endAt": "2022-04-21 14:00:00",
+    "canRemember": 0,
+    "eventPortalJson": null,
+    "questBonusJsons": []
   }
 }
