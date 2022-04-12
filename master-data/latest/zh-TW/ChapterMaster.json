@@ -1430,6 +1430,23 @@
     "endAt": "2022-04-21 14:00:00",
     "executeLimit": null
   },
+  "473": {
+    "chapterId": 473,
+    "groupType": 2,
+    "chapterType": 1,
+    "chapterName": "育成キャンペーン",
+    "subName": "ヒーロー登竜門",
+    "peepingName": "ヒーロー登竜門",
+    "sortWeight": 1000,
+    "bannerResourceName": "ui_banner_questchoice_traning",
+    "bgResourceName": "bg_sprite_traning_01",
+    "selectBannerAddress": "",
+    "helpPrefabAddress": "",
+    "missionGroupId": 0,
+    "startAt": null,
+    "endAt": "2022-04-21 14:00:00",
+    "executeLimit": null
+  },
   "501": {
     "chapterId": 501,
     "groupType": 5,
