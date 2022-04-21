@@ -41710,14 +41710,7 @@
     "subResourceName": "",
     "timing": 1,
     "description": "賦予自己嘲諷 3 層。受到傷害時，會依自己與敵方的速度差減輕傷害 30％。若自身有嘲諷狀態，則傷害減輕的發動機率為兩倍。",
-    "cutin": [
-      {
-        "info": {
-          "class": "NormalAttack"
-        },
-        "name": "skill_furlong_h01_02"
-      }
-    ],
+    "cutin": [],
     "isEquip": false,
     "isHeroSkill": false,
     "effects": [
@@ -42113,14 +42106,7 @@
     "subResourceName": "",
     "timing": 4,
     "description": "コンボ数に応じてダメージが上昇（最大10コンボ+20%）",
-    "cutin": [
-      {
-        "info": {
-          "class": "NormalAttack"
-        },
-        "name": "skill_akashi_h01_02"
-      }
-    ],
+    "cutin": [],
     "isEquip": false,
     "isHeroSkill": false,
     "effects": [
@@ -42144,14 +42130,7 @@
     "subResourceName": "",
     "timing": 19,
     "description": "コンボ数増加スキル発動時、更に+1する。",
-    "cutin": [
-      {
-        "info": {
-          "class": "NormalAttack"
-        },
-        "name": ""
-      }
-    ],
+    "cutin": [],
     "isEquip": false,
     "isHeroSkill": false,
     "effects": [
@@ -42175,14 +42154,7 @@
     "subResourceName": "",
     "timing": 14,
     "description": "システム効果除去",
-    "cutin": [
-      {
-        "info": {
-          "class": "NormalAttack"
-        },
-        "name": "skill_akashi_h01_02"
-      }
-    ],
+    "cutin": [],
     "isEquip": false,
     "isHeroSkill": false,
     "effects": [
