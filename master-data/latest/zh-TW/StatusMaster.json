@@ -185,14 +185,14 @@
     "statusId": 27,
     "statusName": "永久效果",
     "isGoodStatus": 1,
-    "statusType": 1,
+    "statusType": 2,
     "description": "在戰鬥中會永遠發動的效果。"
   },
   "28": {
     "statusId": 28,
     "statusName": "事件加成",
     "isGoodStatus": 1,
-    "statusType": 1,
+    "statusType": 2,
     "description": "從 event 發動的效果。"
   },
   "29": {
@@ -206,28 +206,28 @@
     "statusId": 30,
     "statusName": "物品效果",
     "isGoodStatus": 1,
-    "statusType": 1,
+    "statusType": 2,
     "description": "藉由物品發動的效果。"
   },
   "31": {
     "statusId": 31,
     "statusName": "物品效果：生命提升",
     "isGoodStatus": 1,
-    "statusType": 1,
+    "statusType": 2,
     "description": "藉由物品使生命提升。"
   },
   "32": {
     "statusId": 32,
     "statusName": "物品效果：攻擊力提升",
     "isGoodStatus": 1,
-    "statusType": 1,
+    "statusType": 2,
     "description": "藉由物品使攻擊力提升。"
   },
   "33": {
     "statusId": 33,
     "statusName": "物品效果：承受傷害減少",
     "isGoodStatus": 1,
-    "statusType": 1,
+    "statusType": 2,
     "description": "藉由物品使被動傷害減少。"
   },
   "34": {
@@ -255,7 +255,7 @@
     "statusId": 37,
     "statusName": "ボーナス：ATKアップ",
     "isGoodStatus": 1,
-    "statusType": 1,
+    "statusType": 2,
     "description": "透過任務加成使攻擊力上升。"
   },
   "38": {
@@ -628,5 +628,61 @@
     "isGoodStatus": 1,
     "statusType": 1,
     "description": "Viewの消費を-8000する。ターン経過で解除される。スキルによる解除不可。"
+  },
+  "94": {
+    "statusId": 94,
+    "statusName": "",
+    "isGoodStatus": 2,
+    "statusType": 2,
+    "description": ""
+  },
+  "95": {
+    "statusId": 95,
+    "statusName": "",
+    "isGoodStatus": 2,
+    "statusType": 2,
+    "description": ""
+  },
+  "96": {
+    "statusId": 96,
+    "statusName": "",
+    "isGoodStatus": 2,
+    "statusType": 2,
+    "description": ""
+  },
+  "97": {
+    "statusId": 97,
+    "statusName": "",
+    "isGoodStatus": 2,
+    "statusType": 2,
+    "description": ""
+  },
+  "98": {
+    "statusId": 98,
+    "statusName": "",
+    "isGoodStatus": 2,
+    "statusType": 2,
+    "description": ""
+  },
+  "99": {
+    "statusId": 99,
+    "statusName": "",
+    "isGoodStatus": 2,
+    "statusType": 2,
+    "description": ""
+  },
+  "100": {
+    "statusId": 100,
+    "statusName": "",
+    "isGoodStatus": 2,
+    "statusType": 2,
+    "description": ""
+  },
+  "101": {
+    "statusId": 101,
+    "statusName": "",
+    "isGoodStatus": 2,
+    "statusType": 2,
+    "description": ""
   }
 }

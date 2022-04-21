@@ -1025,6 +1025,58 @@
       "isInHome": true
     }
   ],
+  "10112": [
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 4,
+      "faceType": "b",
+      "serifKey": "SERIF_FLAMIERGHOSTWOODS2204_PLAYER",
+      "voiceFilename": "",
+      "resourceName": "flamierGhostWoods2204",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 5,
+      "faceType": "",
+      "serifKey": "SERIF_FLAMIERGHOSTWOODS2204_HERO",
+      "voiceFilename": "",
+      "resourceName": "flamierGhostWoods2204",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 12,
+      "faceType": "f",
+      "serifKey": "SERIF_FLAMIERGHOSTWOODS2204_TOUCH",
+      "voiceFilename": "",
+      "resourceName": "flamierGhostWoods2204",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 27,
+      "faceType": "c",
+      "serifKey": "SERIF_FLAMIERGHOSTWOODS2204_EVENTA",
+      "voiceFilename": "",
+      "resourceName": "flamierGhostWoods2204",
+      "isInHome": false
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 28,
+      "faceType": "b",
+      "serifKey": "SERIF_FLAMIERGHOSTWOODS2204_EVENTB",
+      "voiceFilename": "",
+      "resourceName": "flamierGhostWoods2204",
+      "isInHome": false
+    }
+  ],
   "10121": [
     {
       "cardType": 2,
@@ -1831,6 +1883,58 @@
       "voiceFilename": "",
       "resourceName": "goro",
       "isInHome": true
+    }
+  ],
+  "10232": [
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 4,
+      "faceType": "b",
+      "serifKey": "SERIF_GOROGHOSTWOODS2204_PLAYER",
+      "voiceFilename": "",
+      "resourceName": "goroGhostWoods2204",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 5,
+      "faceType": "",
+      "serifKey": "SERIF_GOROGHOSTWOODS2204_HERO",
+      "voiceFilename": "",
+      "resourceName": "goroGhostWoods2204",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 12,
+      "faceType": "c",
+      "serifKey": "SERIF_GOROGHOSTWOODS2204_TOUCH",
+      "voiceFilename": "",
+      "resourceName": "goroGhostWoods2204",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 27,
+      "faceType": "c",
+      "serifKey": "SERIF_GOROGHOSTWOODS2204_EVENTA",
+      "voiceFilename": "",
+      "resourceName": "goroGhostWoods2204",
+      "isInHome": false
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 28,
+      "faceType": "f",
+      "serifKey": "SERIF_GOROGHOSTWOODS2204_EVENTB",
+      "voiceFilename": "",
+      "resourceName": "goroGhostWoods2204",
+      "isInHome": false
     }
   ],
   "10241": [
@@ -4292,6 +4396,88 @@
       "serifKey": "SERIF_YASUHIKO_EVENTB",
       "voiceFilename": null,
       "resourceName": "yasuhiko",
+      "isInHome": false
+    }
+  ],
+  "11011": [
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 4,
+      "faceType": "c",
+      "serifKey": "SERIF_LILAC_PLAYER",
+      "voiceFilename": "",
+      "resourceName": "lilac",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 5,
+      "faceType": "f",
+      "serifKey": "SERIF_LILAC_HERO",
+      "voiceFilename": "",
+      "resourceName": "lilac",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 12,
+      "faceType": "",
+      "serifKey": "SERIF_LILAC_TOUCH",
+      "voiceFilename": "",
+      "resourceName": "lilac",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 3,
+      "faceType": "b",
+      "serifKey": "SERIF_LILAC_DAILY",
+      "voiceFilename": "",
+      "resourceName": "lilac",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 6,
+      "faceType": "",
+      "serifKey": "SERIF_LILAC_RELATION",
+      "voiceFilename": "",
+      "resourceName": "lilac",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 11,
+      "faceType": "c",
+      "serifKey": "SERIF_LILAC_APPRECIATION",
+      "voiceFilename": "",
+      "resourceName": "lilac",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 27,
+      "faceType": "c",
+      "serifKey": "SERIF_LILAC_EVENTA",
+      "voiceFilename": "",
+      "resourceName": "lilac",
+      "isInHome": false
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 28,
+      "faceType": "",
+      "serifKey": "SERIF_LILAC_EVENTB",
+      "voiceFilename": "",
+      "resourceName": "lilac",
       "isInHome": false
     }
   ],
