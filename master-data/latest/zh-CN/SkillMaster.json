@@ -6001,7 +6001,7 @@
     "useView": 8000,
     "targetFlag": 1,
     "resourceName": "b_skill_buff",
-    "subResourceName": "",
+    "subResourceName": "s_skill_cureTeam",
     "timing": 0,
     "description": "味方単体に3回の行动の间ATKアップを付与。デバフを１つ解除。対象がランダムな敌にスキル１で追撃。",
     "cutin": [
