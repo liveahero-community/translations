@@ -613,21 +613,21 @@
     "statusName": "重複不可効果",
     "isGoodStatus": 2,
     "statusType": 2,
-    "description": "バフ・デバフの重複不可効果"
+    "description": "增益、減益效果不能重複。"
   },
   "92": {
     "statusId": 92,
     "statusName": "鉄壁",
     "isGoodStatus": 1,
     "statusType": 1,
-    "description": "相手からのダメージが1/10になる。ターン経過で解除される。スキルによる解除不可。"
+    "description": "來自對手的傷害變為十分之一。回合結束時解除此效果，但不會被技能消除。"
   },
   "93": {
     "statusId": 93,
     "statusName": "View消費-8000",
     "isGoodStatus": 1,
     "statusType": 1,
-    "description": "Viewの消費を-8000する。ターン経過で解除される。スキルによる解除不可。"
+    "description": "View 值消耗減少 8000。回合結束時解除此效果，但不會被技能消除。"
   },
   "94": {
     "statusId": 94,
