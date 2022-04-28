@@ -687,23 +687,23 @@
   },
   "104": {
     "statusId": 104,
-    "statusName": "昂揚状態",
+    "statusName": "昂扬状态",
     "isGoodStatus": 2,
     "statusType": 2,
-    "description": "攻撃力が1.5倍になる。(この状態変化はバフにカウントされない)"
+    "description": "攻撃力が1.5倍になる。(この状态変化はバフにカウントされない)"
   },
   "105": {
     "statusId": 105,
-    "statusName": "興奮状態",
+    "statusName": "兴奋状态",
     "isGoodStatus": 2,
     "statusType": 2,
-    "description": "一度だけ相手からのダメージが半分になる。(この状態変化はバフにカウントされない)"
+    "description": "一度だけ相手からのダメージが半分になる。(この状态変化はバフにカウントされない)"
   },
   "106": {
     "statusId": 106,
-    "statusName": "興奮疲れ",
+    "statusName": "兴奋疲れ",
     "isGoodStatus": 2,
     "statusType": 2,
-    "description": "一度だけ相手からのダメージが1.5倍になる。(この状態変化はデバフにカウントされない)"
+    "description": "一度だけ相手からのダメージが1.5倍になる。(この状态変化はデバフにカウントされない)"
   }
 }
