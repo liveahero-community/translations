@@ -2888,7 +2888,8 @@
         {
           "keys": [
             "UI_FREE_QUEST",
-            "UI_SALES"
+            "UI_SALES",
+            "UI_HIGH_DIFFICULTY_QUEST"
           ],
           "endAt": "2022-05-12 20:00:00"
         }
@@ -2904,6 +2905,11 @@
         {
           "type": 6,
           "chapterId": 475,
+          "buttonType": 1
+        },
+        {
+          "type": 6,
+          "chapterId": 477,
           "buttonType": 1
         }
       ],
