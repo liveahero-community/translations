@@ -29416,7 +29416,7 @@
     "resourceName": "b_skill_view",
     "subResourceName": "s_skill_buffOwn",
     "timing": 0,
-    "description": "自身に2回分のDEFアップを付与。Viewを9000獲得。（敵専用）",
+    "description": "自身に2回分のDEFアップを付与。Viewを9000获得。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -29456,7 +29456,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "s_skill_debuffAll",
     "timing": 0,
-    "description": "敵全体に70%ダメージ。40%の確率で1回の行動の間ATKダウンを付与。味方全体に1回分のDEFアップを付与。（敵専用）",
+    "description": "敌全体に70%ダメージ。40%の确率で1回の行动の间ATKダウンを付与。味方全体に1回分のDEFアップを付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -32151,7 +32151,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_view",
     "timing": 0,
-    "description": "敵単体に45%ダメージ。Viewを5000獲得。（敵専用）",
+    "description": "敌単体に45%ダメージ。Viewを5000获得。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -32191,7 +32191,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "敵単体に90%ダメージ。2回分のDEFダウンを付与。（敵専用）",
+    "description": "敌単体に90%ダメージ。2回分のDEFダウンを付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -32231,7 +32231,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "s_skill_buffOwn",
     "timing": 0,
-    "description": "敵全体に90%ダメージ。自身に2回の行動の間ATKアップを付与。（敵専用）",
+    "description": "敌全体に90%ダメージ。自身に2回の行动の间ATKアップを付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -39852,13 +39852,13 @@
   },
   "6023101": {
     "skillId": 6023101,
-    "skillName": "興奮疲れ",
+    "skillName": "兴奋疲れ",
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "b_skill_debuff",
     "subResourceName": "",
     "timing": 4,
-    "description": "ターン開始時、ViewPowerが20000以上ある場合、自身に1回分の興奮疲れを付与。",
+    "description": "ターン开始时、ViewPowerが20000以上ある场合、自身に1回分の兴奋疲れを付与。",
     "cutin": [],
     "isEquip": false,
     "isHeroSkill": false,
