@@ -568,7 +568,7 @@
     "resourceName": "b_skill_buff",
     "subResourceName": "",
     "timing": 4,
-    "description": "ターン開始時のViewが20000以上の時に、自身に興奮状態を付与。",
+    "description": "ターン开始时のViewが20000以上の时に、自身に兴奋状态を付与。",
     "cutin": [],
     "isEquip": false,
     "isHeroSkill": false,
@@ -37466,13 +37466,13 @@
   },
   "4076108": {
     "skillId": 4076108,
-    "skillName": "必殺攻撃",
+    "skillName": "必杀攻撃",
     "useView": 8000,
     "targetFlag": 4,
     "resourceName": "b_skill_damageAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵全体に90%ダメージ。（敵専用）",
+    "description": "敌全体に90%ダメージ。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -37497,13 +37497,13 @@
   },
   "4076109": {
     "skillId": 4076109,
-    "skillName": "必殺攻撃",
+    "skillName": "必杀攻撃",
     "useView": 8000,
     "targetFlag": 4,
     "resourceName": "b_skill_damageAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵全体に90%ダメージ（ピンチ状態の時、敵全体に110%ダメージに変化）。（敵専用）",
+    "description": "敌全体に90%ダメージ（ピンチ状态の时、敌全体に110%ダメージに変化）。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -37582,13 +37582,13 @@
   },
   "4077103": {
     "skillId": 4077103,
-    "skillName": "牽制の一発",
+    "skillName": "牵制の一発",
     "useView": 0,
     "targetFlag": 2,
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_buffOwn",
     "timing": 0,
-    "description": "敵単体に60%ダメージ。自身に1回分のDEFアップを付与。（敵専用）",
+    "description": "敌単体に60%ダメージ。自身に1回分のDEFアップを付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -37628,7 +37628,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "敵単体に110%ダメージ。1回分のDEFダウンを付与。（敵専用）",
+    "description": "敌単体に110%ダメージ。1回分のDEFダウンを付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -37668,7 +37668,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_view",
     "timing": 0,
-    "description": "敵単体に60%ダメージ。Viewを3000獲得。（敵専用）",
+    "description": "敌単体に60%ダメージ。Viewを3000获得。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -37702,13 +37702,13 @@
   },
   "4079102": {
     "skillId": 4079102,
-    "skillName": "決めポーズ",
+    "skillName": "决めポーズ",
     "useView": 5000,
     "targetFlag": 1,
     "resourceName": "b_skill_view",
     "subResourceName": "s_skill_spdUpTeam",
     "timing": 0,
-    "description": "Viewを7000獲得。ATKが最も高い味方単体に2回の行動の間SPDアップを付与。（敵専用）",
+    "description": "Viewを7000获得。ATKが最も高い味方単体に2回の行动の间SPDアップを付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -37748,7 +37748,7 @@
     "resourceName": "b_skill_buffAll",
     "subResourceName": "s_skill_heal",
     "timing": 0,
-    "description": "味方全体に1回の行動の間ATKアップを付与。ATKが最も高い味方単体のデバフを１つ解除＋HPを自身の基礎ATKの100%回復する。（敵専用）",
+    "description": "味方全体に1回の行动の间ATKアップを付与。ATKが最も高い味方単体のデバフを１つ解除＋HPを自身の基础ATKの100%回复する。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -38639,7 +38639,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体に60%ダメージ（ピンチ状態の時、敵全体に65%ダメージに変化）。Viewを6000獲得。（敵専用）",
+    "description": "敌単体に60%ダメージ（ピンチ状态の时、敌全体に65%ダメージに変化）。Viewを6000获得。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -38702,7 +38702,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "敵単体に100%ダメージ。1回分のDEFダウンを付与。ATKが最も高い味方単体に2ターンの間隠蔽を付与。（敵専用）",
+    "description": "敌単体に100%ダメージ。1回分のDEFダウンを付与。ATKが最も高い味方単体に2ターンの间隠蔽を付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -38751,7 +38751,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵全体に90%ダメージ+HPが減るほどダメージ量が上昇する。（敵専用）",
+    "description": "敌全体に90%ダメージ+HPが减るほどダメージ量が上升する。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -42125,7 +42125,7 @@
     "resourceName": "b_skill_buff",
     "subResourceName": "",
     "timing": 1,
-    "description": "自身がダメージを受けていない間、自身に「隠蔽」と同様の効果を発動。",
+    "description": "自身がダメージを受けていない间、自身に「隠蔽」と同様の効果を発动。",
     "cutin": [],
     "isEquip": false,
     "isHeroSkill": false,
