@@ -3452,7 +3452,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "對敵方全體造成攻擊 50% 傷害。70% 機率賦予隨機減益效果 1 層（由攻擊力下降、防禦力下降、速度下降、中毒抽選）。",
+    "description": "對一個敵人造成攻擊 50% 傷害。70% 機率賦予隨機減益效果 1 層（由攻擊力下降、防禦力下降、速度下降、中毒抽選）。",
     "cutin": [
       {
         "info": {
