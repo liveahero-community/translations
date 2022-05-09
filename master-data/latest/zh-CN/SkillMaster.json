@@ -38964,7 +38964,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_spdDownTeam",
     "timing": 0,
-    "description": "敵単体に60%ダメージ。2回の行動の間超SPDダウンを付与。（敵専用）",
+    "description": "敌単体に60%ダメージ。2回の行动の间超SPDダウンを付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -38998,13 +38998,13 @@
   },
   "4108102": {
     "skillId": 4108102,
-    "skillName": "迷霧",
+    "skillName": "迷雾",
     "useView": 4000,
     "targetFlag": 3,
     "resourceName": "b_skill_buffAll",
     "subResourceName": "s_skill_buffOwn",
     "timing": 0,
-    "description": "味方全体に2回の行動の間ATKアップを付与。自身に2ターンの間隠蔽を付与。（敵専用）",
+    "description": "味方全体に2回の行动の间ATKアップを付与。自身に2ターンの间隠蔽を付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -39038,13 +39038,13 @@
   },
   "4108103": {
     "skillId": 4108103,
-    "skillName": "死神の鎌",
+    "skillName": "死神の镰",
     "useView": 9000,
     "targetFlag": 4,
     "resourceName": "b_skill_damageAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵全体に70%ダメージ+対象と自分のSPDの差だけダメージ量が上昇。（敵専用）",
+    "description": "敌全体に70%ダメージ+対象と自分のSPDの差だけダメージ量が上升。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -42624,13 +42624,13 @@
   },
   "6108101": {
     "skillId": 6108101,
-    "skillName": "霧より出でし者",
+    "skillName": "雾より出でし者",
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "b_skill_healAll",
     "subResourceName": "",
     "timing": 4,
-    "description": "ターン開始時、味方全体を戦闘不能の場合、100%のHPで復活。",
+    "description": "ターン开始时、味方全体を戦闘不能の场合、100%のHPで复活。",
     "cutin": [],
     "isEquip": false,
     "isHeroSkill": false,
