@@ -2868,7 +2868,7 @@
     "eventId": 32,
     "chapterId": 474,
     "lookBackChapterId": 0,
-    "baseResourceName": "2204GhostWoods",
+    "baseResourceName": "2204GhostWoods_epilogue",
     "startAt": null,
     "endAt": "2022-05-19 14:00:00",
     "canRemember": 0,
@@ -2881,7 +2881,8 @@
           "keys": [
             "UI_MAIN_QUEST",
             "UI_MISSION",
-            "UI_EXCHANGE"
+            "UI_EXCHANGE",
+            "UI_EPILOGUE_QUEST"
           ],
           "endAt": "2022-05-19 14:00:00"
         },
@@ -2911,6 +2912,11 @@
           "type": 6,
           "chapterId": 477,
           "buttonType": 1
+        },
+        {
+          "type": 7,
+          "chapterId": 476,
+          "buttonType": 0
         }
       ],
       "tutorialKey": "GhostWoods2204",
