@@ -2867,11 +2867,11 @@
   "32": {
     "eventId": 32,
     "chapterId": 474,
-    "lookBackChapterId": 0,
-    "baseResourceName": "2204GhostWoods_epilogue",
+    "lookBackChapterId": 515,
+    "baseResourceName": "2204GhostWoods",
     "startAt": null,
     "endAt": "2022-05-19 14:00:00",
-    "canRemember": 0,
+    "canRemember": 1,
     "eventPortalJson": {
       "bg": "ui_bg_sprite_event_GhostWoods2204",
       "bgm": "bgm_ghostwoods_adv1",
@@ -3119,11 +3119,6 @@
         {
           "type": 6,
           "chapterId": 479,
-          "buttonType": 1
-        },
-        {
-          "type": 8,
-          "chapterId": 480,
           "buttonType": 1
         },
         {
