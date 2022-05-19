@@ -3077,5 +3077,204 @@
         "targetStockId": 19991
       }
     ]
+  },
+  "33": {
+    "eventId": 33,
+    "chapterId": 478,
+    "lookBackChapterId": 0,
+    "baseResourceName": "2205SummerdiveRevival",
+    "startAt": null,
+    "endAt": "2022-06-16 14:00:00",
+    "canRemember": 0,
+    "eventPortalJson": {
+      "bg": "ui_bg_sprite_event_Summerdive2108",
+      "bgm": "bgm_summerdive_adv1",
+      "logo": "2205SummerdiveRevival_title",
+      "terms": [
+        {
+          "keys": [
+            "UI_MAIN_QUEST",
+            "UI_MISSION",
+            "UI_EXCHANGE",
+            "UI_EPILOGUE_QUEST"
+          ],
+          "endAt": "2022-06-16 14:00:00"
+        },
+        {
+          "keys": [
+            "UI_FREE_QUEST",
+            "UI_SALES"
+          ],
+          "endAt": "2022-06-09 20:00:00"
+        }
+      ],
+      "gachaId": 34,
+      "storeId": 24,
+      "questInfos": [
+        {
+          "type": 5,
+          "chapterId": 478,
+          "buttonType": 0
+        },
+        {
+          "type": 6,
+          "chapterId": 479,
+          "buttonType": 1
+        },
+        {
+          "type": 8,
+          "chapterId": 480,
+          "buttonType": 1
+        },
+        {
+          "type": 7,
+          "chapterId": 481,
+          "buttonType": 0
+        }
+      ],
+      "tutorialKey": "SummerdiveRevival2205",
+      "eventItemIds": [
+        69
+      ],
+      "portalWindow": "WideTermEventPortalWindow",
+      "characterViews": [
+        {
+          "skinId": 0,
+          "stockId": 10012,
+          "cardType": 1,
+          "serifKinds": [
+            27,
+            28
+          ],
+          "visualType": 1,
+          "resourceName": "akashiSummerdive2108",
+          "characterName": "アカシ"
+        },
+        {
+          "skinId": 0,
+          "stockId": 10192,
+          "cardType": 1,
+          "serifKinds": [
+            27,
+            28
+          ],
+          "visualType": 1,
+          "resourceName": "hitomiSummerdive2108",
+          "characterName": "ヒトミ"
+        },
+        {
+          "skinId": 0,
+          "stockId": 10731,
+          "cardType": 2,
+          "serifKinds": [
+            27,
+            28
+          ],
+          "visualType": 1,
+          "resourceName": "pubraseer",
+          "characterName": "パブラシア"
+        }
+      ],
+      "salesRegionIds": [
+        216
+      ],
+      "missionGroupIds": [
+        478
+      ],
+      "missionCategoryButtonLabels": null
+    },
+    "questBonusJsons": [
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 69,
+        "bonusValue": 40,
+        "targetStockId": 10012
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 69,
+        "bonusValue": 30,
+        "targetStockId": 10192
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 69,
+        "bonusValue": 30,
+        "targetStockId": 10171
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 69,
+        "bonusValue": 20,
+        "targetStockId": 10731
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 69,
+        "bonusValue": 10,
+        "targetStockId": 10171
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 69,
+        "bonusValue": 10,
+        "targetStockId": 10731
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 69,
+        "bonusValue": 10,
+        "targetStockId": 19991
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 69,
+        "bonusValue": 20,
+        "targetStockId": 11011
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 69,
+        "bonusValue": 20,
+        "targetStockId": 10232
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 69,
+        "bonusValue": 10,
+        "targetStockId": 10112
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 69,
+        "bonusValue": 10,
+        "targetStockId": 11011
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 69,
+        "bonusValue": 10,
+        "targetStockId": 10011
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 69,
+        "bonusValue": 10,
+        "targetStockId": 10191
+      }
+    ]
   }
 }
