@@ -1549,6 +1549,23 @@
     "endAt": "2022-06-09 20:00:00",
     "executeLimit": null
   },
+  "480": {
+    "chapterId": 480,
+    "groupType": 7,
+    "chapterType": 8,
+    "chapterName": "スコアアタッククエスト",
+    "subName": "サマーダイブ・アミューズメント！",
+    "peepingName": "スコアアタック",
+    "sortWeight": 1000,
+    "bannerResourceName": "ui_banner_questchoice_event_Summerdive2108",
+    "bgResourceName": "ui_bg_sprite_quest_Summerdive2108",
+    "selectBannerAddress": "banner_chapter_select_score_attack",
+    "helpPrefabAddress": "SummerdiveRevival2205ScoreAttackHelpWindow",
+    "missionGroupId": 480,
+    "startAt": "2022-05-26 18:00:00",
+    "endAt": "2022-06-09 20:00:00",
+    "executeLimit": null
+  },
   "481": {
     "chapterId": 481,
     "groupType": 2,
