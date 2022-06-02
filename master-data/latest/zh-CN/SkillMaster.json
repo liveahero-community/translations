@@ -29079,7 +29079,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "熱狂が2つ以下の時、敵単体に80%ダメージ。味方全体に熱狂を付与。熱狂が3つ以上の時、敵全体に45％ダメージ。自身の熱狂を3つ解除。もう一度行動する。（敵専用）",
+    "description": "热狂が2つ以下の时、敌単体に80%ダメージ。味方全体に热狂を付与。热狂が3つ以上の时、敌全体に45％ダメージ。自身の热狂を3つ解除。もう一度行动する。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -29181,7 +29181,7 @@
     "resourceName": "b_skill_buff",
     "subResourceName": "s_skill_heal",
     "timing": 0,
-    "description": "自身に3回の行動の間ATKアップを付与。味方全体に熱狂を2つ付与。味方が戦闘不能の場合、100%のHPで復活。（敵専用）",
+    "description": "自身に3回の行动の间ATKアップを付与。味方全体に热狂を2つ付与。味方が戦闘不能の场合、100%のHPで复活。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -29239,7 +29239,7 @@
     "resourceName": "b_skill_special",
     "subResourceName": "s_skill_antiBuffAll",
     "timing": 0,
-    "description": "味方全体に熱狂を3つ付与。敵全体のバフを1つ解除。スキル1を追加発動。（敵専用）",
+    "description": "味方全体に热狂を3つ付与。敌全体のバフを1つ解除。スキル1を追加発动。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -38024,7 +38024,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体に80%ダメージ。（敵専用）",
+    "description": "敌単体に80%ダメージ。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -38049,13 +38049,13 @@
   },
   "4079105": {
     "skillId": 4079105,
-    "skillName": "決めポーズ",
+    "skillName": "决めポーズ",
     "useView": 3000,
     "targetFlag": 1,
     "resourceName": "b_skill_special",
     "subResourceName": "s_skill_cureTeam",
     "timing": 0,
-    "description": "味方単体に熱狂を付与。デバフを１つ解除。（敵専用）",
+    "description": "味方単体に热狂を付与。デバフを１つ解除。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -38095,7 +38095,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体に110%ダメージ。1回分のDEFダウンを付与。自身に2ターンの間挑発を付与。（敵専用）",
+    "description": "敌単体に110%ダメージ。1回分のDEFダウンを付与。自身に2ターンの间挑発を付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -40784,7 +40784,7 @@
     "resourceName": "b_skill_debuff",
     "subResourceName": "",
     "timing": 8,
-    "description": "ダメージを受けた時、1ターンの間ヒーロースーツ損傷状態を付与。",
+    "description": "ダメージを受けた时、1ターンの间ヒーロースーツ损伤状态を付与。",
     "cutin": [],
     "isEquip": false,
     "isHeroSkill": false,
@@ -40808,7 +40808,7 @@
     "resourceName": "b_skill_special",
     "subResourceName": "",
     "timing": 4,
-    "description": "ピンチ状態の時、ターン開始時に自身に熱狂を付与。",
+    "description": "ピンチ状态の时、ターン开始时に自身に热狂を付与。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -40839,7 +40839,7 @@
     "resourceName": "b_skill_debuff",
     "subResourceName": "",
     "timing": 1,
-    "description": "ダメージを受けた時、1ターンの間ヒーロースーツ損傷状態を付与。",
+    "description": "ダメージを受けた时、1ターンの间ヒーロースーツ损伤状态を付与。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -42695,7 +42695,7 @@
     "resourceName": "b_skill_buff",
     "subResourceName": "",
     "timing": 2,
-    "description": "熱狂が5つ以上付与されている時、行動開始時に自身に2回の行動の間ATKアップと覚醒を付与。熱狂を3つ解除。",
+    "description": "热狂が5つ以上付与されている时、行动开始时に自身に2回の行动の间ATKアップと覚醒を付与。热狂を3つ解除。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
