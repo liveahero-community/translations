@@ -3288,5 +3288,111 @@
     "canRemember": 0,
     "eventPortalJson": null,
     "questBonusJsons": []
+  },
+  "35": {
+    "eventId": 35,
+    "chapterId": 483,
+    "lookBackChapterId": 0,
+    "baseResourceName": "2206ContractTrainee",
+    "startAt": null,
+    "endAt": "2022-07-07 14:00:00",
+    "canRemember": 0,
+    "eventPortalJson": {
+      "bg": "ui_bg_sprite_event_ContractWolfmanEarth2101",
+      "bgm": "bgm_main",
+      "logo": "2206ContractTrainee_title",
+      "terms": [
+        {
+          "keys": [
+            "UI_FREE_QUEST"
+          ],
+          "endAt": "2022-06-30 14:00:00"
+        },
+        {
+          "keys": [
+            "UI_MISSION",
+            "UI_EXCHANGE"
+          ],
+          "endAt": "2022-07-07 14:00:00"
+        }
+      ],
+      "gachaId": null,
+      "storeId": 25,
+      "questInfos": [
+        {
+          "type": 6,
+          "chapterId": 483,
+          "buttonType": 1
+        }
+      ],
+      "tutorialKey": "2206ContractTrainee",
+      "eventItemIds": [
+        52
+      ],
+      "portalWindow": "WideTermEventPortalWindow",
+      "characterViews": [
+        {
+          "skinId": 0,
+          "stockId": 10761,
+          "cardType": 2,
+          "serifKinds": [
+            27
+          ],
+          "visualType": 1,
+          "resourceName": "traineeFire",
+          "characterName": "火のトレイニー"
+        },
+        {
+          "skinId": 0,
+          "stockId": 10771,
+          "cardType": 2,
+          "serifKinds": [
+            27
+          ],
+          "visualType": 1,
+          "resourceName": "traineeWater",
+          "characterName": "水のトレイニー"
+        },
+        {
+          "skinId": 0,
+          "stockId": 10781,
+          "cardType": 2,
+          "serifKinds": [
+            27
+          ],
+          "visualType": 1,
+          "resourceName": "traineeEarth",
+          "characterName": "木のトレイニー"
+        },
+        {
+          "skinId": 0,
+          "stockId": 10791,
+          "cardType": 2,
+          "serifKinds": [
+            27
+          ],
+          "visualType": 1,
+          "resourceName": "traineeLight",
+          "characterName": "光のトレイニー"
+        },
+        {
+          "skinId": 0,
+          "stockId": 10801,
+          "cardType": 2,
+          "serifKinds": [
+            27
+          ],
+          "visualType": 1,
+          "resourceName": "traineeShadow",
+          "characterName": "影のトレイニー"
+        }
+      ],
+      "salesRegionIds": [],
+      "missionGroupIds": [
+        483
+      ],
+      "missionCategoryButtonLabels": null
+    },
+    "questBonusJsons": []
   }
 }

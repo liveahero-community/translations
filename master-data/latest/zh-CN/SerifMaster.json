@@ -4173,6 +4173,366 @@
       "isInHome": false
     }
   ],
+  "10761": [
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 4,
+      "faceType": "",
+      "serifKey": "SERIF_TRAINEEFIRE_PLAYER",
+      "voiceFilename": "",
+      "resourceName": "traineeFire",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 5,
+      "faceType": "",
+      "serifKey": "SERIF_TRAINEEFIRE_HERO",
+      "voiceFilename": "",
+      "resourceName": "traineeFire",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 12,
+      "faceType": "b",
+      "serifKey": "SERIF_TRAINEEFIRE_TOUCH",
+      "voiceFilename": "",
+      "resourceName": "traineeFire",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 3,
+      "faceType": "",
+      "serifKey": "SERIF_TRAINEEFIRE_DAILY",
+      "voiceFilename": "",
+      "resourceName": "traineeFire",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 6,
+      "faceType": "",
+      "serifKey": "SERIF_TRAINEEFIRE_RELATION",
+      "voiceFilename": "",
+      "resourceName": "traineeFire",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 11,
+      "faceType": "",
+      "serifKey": "SERIF_TRAINEEFIRE_APPRECIATION",
+      "voiceFilename": "",
+      "resourceName": "traineeFire",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 27,
+      "faceType": "",
+      "serifKey": "SERIF_TRAINEEFIRE_EVENTA",
+      "voiceFilename": "",
+      "resourceName": "traineeFire",
+      "isInHome": false
+    }
+  ],
+  "10771": [
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 4,
+      "faceType": "",
+      "serifKey": "SERIF_TRAINEEWATER_PLAYER",
+      "voiceFilename": "",
+      "resourceName": "traineeWater",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 5,
+      "faceType": "",
+      "serifKey": "SERIF_TRAINEEWATER_HERO",
+      "voiceFilename": "",
+      "resourceName": "traineeWater",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 12,
+      "faceType": "b",
+      "serifKey": "SERIF_TRAINEEWATER_TOUCH",
+      "voiceFilename": "",
+      "resourceName": "traineeWater",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 3,
+      "faceType": "",
+      "serifKey": "SERIF_TRAINEEWATER_DAILY",
+      "voiceFilename": "",
+      "resourceName": "traineeWater",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 6,
+      "faceType": "",
+      "serifKey": "SERIF_TRAINEEWATER_RELATION",
+      "voiceFilename": "",
+      "resourceName": "traineeWater",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 11,
+      "faceType": "",
+      "serifKey": "SERIF_TRAINEEWATER_APPRECIATION",
+      "voiceFilename": "",
+      "resourceName": "traineeWater",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 27,
+      "faceType": "",
+      "serifKey": "SERIF_TRAINEEWATER_EVENTA",
+      "voiceFilename": "",
+      "resourceName": "traineeWater",
+      "isInHome": false
+    }
+  ],
+  "10781": [
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 4,
+      "faceType": "",
+      "serifKey": "SERIF_TRAINEEEARTH_PLAYER",
+      "voiceFilename": "",
+      "resourceName": "traineeEarth",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 5,
+      "faceType": "",
+      "serifKey": "SERIF_TRAINEEEARTH_HERO",
+      "voiceFilename": "",
+      "resourceName": "traineeEarth",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 12,
+      "faceType": "b",
+      "serifKey": "SERIF_TRAINEEEARTH_TOUCH",
+      "voiceFilename": "",
+      "resourceName": "traineeEarth",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 3,
+      "faceType": "",
+      "serifKey": "SERIF_TRAINEEEARTH_DAILY",
+      "voiceFilename": "",
+      "resourceName": "traineeEarth",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 6,
+      "faceType": "",
+      "serifKey": "SERIF_TRAINEEEARTH_RELATION",
+      "voiceFilename": "",
+      "resourceName": "traineeEarth",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 11,
+      "faceType": "",
+      "serifKey": "SERIF_TRAINEEEARTH_APPRECIATION",
+      "voiceFilename": "",
+      "resourceName": "traineeEarth",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 27,
+      "faceType": "",
+      "serifKey": "SERIF_TRAINEEEARTH_EVENTA",
+      "voiceFilename": "",
+      "resourceName": "traineeEarth",
+      "isInHome": false
+    }
+  ],
+  "10791": [
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 4,
+      "faceType": "",
+      "serifKey": "SERIF_TRAINEELIGHT_PLAYER",
+      "voiceFilename": "",
+      "resourceName": "traineeLight",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 5,
+      "faceType": "",
+      "serifKey": "SERIF_TRAINEELIGHT_HERO",
+      "voiceFilename": "",
+      "resourceName": "traineeLight",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 12,
+      "faceType": "b",
+      "serifKey": "SERIF_TRAINEELIGHT_TOUCH",
+      "voiceFilename": "",
+      "resourceName": "traineeLight",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 3,
+      "faceType": "",
+      "serifKey": "SERIF_TRAINEELIGHT_DAILY",
+      "voiceFilename": "",
+      "resourceName": "traineeLight",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 6,
+      "faceType": "",
+      "serifKey": "SERIF_TRAINEELIGHT_RELATION",
+      "voiceFilename": "",
+      "resourceName": "traineeLight",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 11,
+      "faceType": "",
+      "serifKey": "SERIF_TRAINEELIGHT_APPRECIATION",
+      "voiceFilename": "",
+      "resourceName": "traineeLight",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 27,
+      "faceType": "",
+      "serifKey": "SERIF_TRAINEELIGHT_EVENTA",
+      "voiceFilename": "",
+      "resourceName": "traineeLight",
+      "isInHome": false
+    }
+  ],
+  "10801": [
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 4,
+      "faceType": "",
+      "serifKey": "SERIF_TRAINEESHADOW_PLAYER",
+      "voiceFilename": "",
+      "resourceName": "traineeShadow",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 5,
+      "faceType": "",
+      "serifKey": "SERIF_TRAINEESHADOW_HERO",
+      "voiceFilename": "",
+      "resourceName": "traineeShadow",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 12,
+      "faceType": "b",
+      "serifKey": "SERIF_TRAINEESHADOW_TOUCH",
+      "voiceFilename": "",
+      "resourceName": "traineeShadow",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 3,
+      "faceType": "",
+      "serifKey": "SERIF_TRAINEESHADOW_DAILY",
+      "voiceFilename": "",
+      "resourceName": "traineeShadow",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 6,
+      "faceType": "",
+      "serifKey": "SERIF_TRAINEESHADOW_RELATION",
+      "voiceFilename": "",
+      "resourceName": "traineeShadow",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 11,
+      "faceType": "",
+      "serifKey": "SERIF_TRAINEESHADOW_APPRECIATION",
+      "voiceFilename": "",
+      "resourceName": "traineeShadow",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 27,
+      "faceType": "",
+      "serifKey": "SERIF_TRAINEESHADOW_EVENTA",
+      "voiceFilename": "",
+      "resourceName": "traineeShadow",
+      "isInHome": false
+    }
+  ],
   "10811": [
     {
       "cardType": 1,

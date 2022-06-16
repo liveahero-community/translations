@@ -13259,6 +13259,108 @@
       }
     ]
   },
+  "20766": {
+    "missionId": 20766,
+    "missionCategory": 2,
+    "missionGroupId": 483,
+    "missionTextKey": "MISSION_20766_LABEL",
+    "count": 10,
+    "sortWeight": 1000,
+    "rewards": [
+      {
+        "rewardType": 3,
+        "objectId": 52,
+        "objectValue": 500,
+        "bonus": 100,
+        "fixAddValue": 0
+      }
+    ]
+  },
+  "20767": {
+    "missionId": 20767,
+    "missionCategory": 2,
+    "missionGroupId": 483,
+    "missionTextKey": "MISSION_20767_LABEL",
+    "count": 20,
+    "sortWeight": 1000,
+    "rewards": [
+      {
+        "rewardType": 3,
+        "objectId": 52,
+        "objectValue": 750,
+        "bonus": 100,
+        "fixAddValue": 0
+      }
+    ]
+  },
+  "20768": {
+    "missionId": 20768,
+    "missionCategory": 2,
+    "missionGroupId": 483,
+    "missionTextKey": "MISSION_20768_LABEL",
+    "count": 30,
+    "sortWeight": 1000,
+    "rewards": [
+      {
+        "rewardType": 3,
+        "objectId": 52,
+        "objectValue": 1000,
+        "bonus": 100,
+        "fixAddValue": 0
+      }
+    ]
+  },
+  "20769": {
+    "missionId": 20769,
+    "missionCategory": 2,
+    "missionGroupId": 483,
+    "missionTextKey": "MISSION_20769_LABEL",
+    "count": 50,
+    "sortWeight": 1000,
+    "rewards": [
+      {
+        "rewardType": 3,
+        "objectId": 52,
+        "objectValue": 1250,
+        "bonus": 100,
+        "fixAddValue": 0
+      }
+    ]
+  },
+  "20770": {
+    "missionId": 20770,
+    "missionCategory": 2,
+    "missionGroupId": 483,
+    "missionTextKey": "MISSION_20770_LABEL",
+    "count": 75,
+    "sortWeight": 1000,
+    "rewards": [
+      {
+        "rewardType": 3,
+        "objectId": 52,
+        "objectValue": 1500,
+        "bonus": 100,
+        "fixAddValue": 0
+      }
+    ]
+  },
+  "20771": {
+    "missionId": 20771,
+    "missionCategory": 2,
+    "missionGroupId": 483,
+    "missionTextKey": "MISSION_20771_LABEL",
+    "count": 100,
+    "sortWeight": 1000,
+    "rewards": [
+      {
+        "rewardType": 3,
+        "objectId": 52,
+        "objectValue": 2000,
+        "bonus": 100,
+        "fixAddValue": 0
+      }
+    ]
+  },
   "30001": {
     "missionId": 30001,
     "missionCategory": 3,
