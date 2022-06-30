@@ -3394,5 +3394,27 @@
       "missionCategoryButtonLabels": null
     },
     "questBonusJsons": []
+  },
+  "36": {
+    "eventId": 36,
+    "chapterId": 106,
+    "lookBackChapterId": 0,
+    "baseResourceName": "2206main21",
+    "startAt": null,
+    "endAt": "2022-07-20 14:00:00",
+    "canRemember": 0,
+    "eventPortalJson": null,
+    "questBonusJsons": []
+  },
+  "37": {
+    "eventId": 37,
+    "chapterId": 484,
+    "lookBackChapterId": 0,
+    "baseResourceName": "2206NewHeroes",
+    "startAt": null,
+    "endAt": "2022-07-14 14:00:00",
+    "canRemember": 0,
+    "eventPortalJson": null,
+    "questBonusJsons": []
   }
 }
