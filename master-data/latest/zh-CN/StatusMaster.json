@@ -690,56 +690,56 @@
     "statusName": "昂扬状态",
     "isGoodStatus": 2,
     "statusType": 2,
-    "description": "攻撃力が1.5倍になる。(この状态変化はバフにカウントされない)"
+    "description": "攻击力 1.5 倍。（此状态不算是增益效果）"
   },
   "105": {
     "statusId": 105,
     "statusName": "兴奋状态",
     "isGoodStatus": 2,
     "statusType": 2,
-    "description": "一度だけ相手からのダメージが半分になる。(この状态変化はバフにカウントされない)"
+    "description": "减半一次来自对手的伤害。（此状态不算是增益效果）"
   },
   "106": {
     "statusId": 106,
     "statusName": "兴奋疲れ",
     "isGoodStatus": 2,
     "statusType": 2,
-    "description": "一度だけ相手からのダメージが1.5倍になる。(この状态変化はデバフにカウントされない)"
+    "description": "仅下一次来自对手的伤害变成 1.5 倍。（此状态不算是减益效果）"
   },
   "107": {
     "statusId": 107,
-    "statusName": "ヒーロースーツ损伤",
+    "statusName": "英雄装束破损",
     "isGoodStatus": 2,
     "statusType": 2,
-    "description": "相手からのダメージ1.2倍。攻撃力0.9倍。ターン経过で解除される。"
+    "description": "来自对手的伤害变为 1.2 倍。自身攻击力变为 0.9 倍。回合结束时解除此状态。"
   },
   "108": {
     "statusId": 108,
     "statusName": "攻めの极意",
     "isGoodStatus": 2,
     "statusType": 2,
-    "description": "攻撃力3倍。スキルによる解除不可。"
+    "description": "攻击力 3 倍。不会被技能消除。"
   },
   "109": {
     "statusId": 109,
     "statusName": "映えの极意",
     "isGoodStatus": 2,
     "statusType": 2,
-    "description": "Viewの消费を-6000する。スキルによる解除不可。"
+    "description": "View 值消耗减少 6000。不会被技能消除。"
   },
   "110": {
     "statusId": 110,
     "statusName": "速さの极意",
     "isGoodStatus": 2,
     "statusType": 2,
-    "description": "SPDが+20される。スキルによる解除不可。"
+    "description": "速度值增加 20。不会被技能消除。"
   },
   "111": {
     "statusId": 111,
     "statusName": "护りの极意",
     "isGoodStatus": 2,
     "statusType": 2,
-    "description": "相手からのダメージが半分になる。スキルによる解除不可。"
+    "description": "减半来自对手的伤害。不会被技能消除。"
   },
   "112": {
     "statusId": 112,
