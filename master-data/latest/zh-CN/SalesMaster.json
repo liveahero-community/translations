@@ -8,6 +8,7 @@
     "endAt": null,
     "requiredTime": 7200,
     "memberLimitNumber": 8,
+    "sortWeight": 900,
     "rewards": [
       {
         "salesId": 10101,
@@ -182,12 +183,13 @@
   "10102": {
     "salesId": 10102,
     "regionId": 101,
-    "salesName": "成長！EXP営業！（中期）",
+    "salesName": "成長！EXP営業！（短中期）",
     "iconFilename": "item_exp",
     "startAt": null,
     "endAt": null,
     "requiredTime": 14400,
     "memberLimitNumber": 8,
+    "sortWeight": 900,
     "rewards": [
       {
         "salesId": 10102,
@@ -362,12 +364,13 @@
   "10103": {
     "salesId": 10103,
     "regionId": 101,
-    "salesName": "成長！EXP営業！（中長期）",
+    "salesName": "成長！EXP営業！（中期）",
     "iconFilename": "item_exp",
     "startAt": null,
     "endAt": null,
     "requiredTime": 28800,
     "memberLimitNumber": 8,
+    "sortWeight": 900,
     "rewards": [
       {
         "salesId": 10103,
@@ -548,6 +551,7 @@
     "endAt": null,
     "requiredTime": 57600,
     "memberLimitNumber": 8,
+    "sortWeight": 1000,
     "rewards": [
       {
         "salesId": 10104,
@@ -719,6 +723,372 @@
       }
     ]
   },
+  "10105": {
+    "salesId": 10105,
+    "regionId": 101,
+    "salesName": "成長！EXP営業！（中長期）",
+    "iconFilename": "item_exp",
+    "startAt": null,
+    "endAt": null,
+    "requiredTime": 43200,
+    "memberLimitNumber": 8,
+    "sortWeight": 950,
+    "rewards": [
+      {
+        "salesId": 10105,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 2400
+      },
+      {
+        "salesId": 10105,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 2400
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 10105
+      },
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 10105
+      },
+      {
+        "textKey": "SALES_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 10105
+      },
+      {
+        "textKey": "SALES_REPORT_4",
+        "condition": null,
+        "laravelThroughKey": 10105
+      },
+      {
+        "textKey": "SALES_REPORT_5",
+        "condition": null,
+        "laravelThroughKey": 10105
+      },
+      {
+        "textKey": "SALES_REPORT_6",
+        "condition": null,
+        "laravelThroughKey": 10105
+      },
+      {
+        "textKey": "SALES_REPORT_7",
+        "condition": null,
+        "laravelThroughKey": 10105
+      },
+      {
+        "textKey": "SALES_REPORT_8",
+        "condition": null,
+        "laravelThroughKey": 10105
+      },
+      {
+        "textKey": "SALES_REPORT_9",
+        "condition": null,
+        "laravelThroughKey": 10105
+      },
+      {
+        "textKey": "SALES_REPORT_10",
+        "condition": null,
+        "laravelThroughKey": 10105
+      },
+      {
+        "textKey": "SALES_REPORT_11",
+        "condition": null,
+        "laravelThroughKey": 10105
+      },
+      {
+        "textKey": "SALES_REPORT_12",
+        "condition": null,
+        "laravelThroughKey": 10105
+      },
+      {
+        "textKey": "SALES_REPORT_13",
+        "condition": null,
+        "laravelThroughKey": 10105
+      },
+      {
+        "textKey": "SALES_REPORT_14",
+        "condition": null,
+        "laravelThroughKey": 10105
+      },
+      {
+        "textKey": "SALES_REPORT_15",
+        "condition": null,
+        "laravelThroughKey": 10105
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": false
+      },
+      {
+        "rank": 5,
+        "class": "RankCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": false,
+        "operation": "<="
+      }
+    ]
+  },
+  "10106": {
+    "salesId": 10106,
+    "regionId": 101,
+    "salesName": "成長！EXP営業！（超長期）",
+    "iconFilename": "item_exp",
+    "startAt": null,
+    "endAt": null,
+    "requiredTime": 86400,
+    "memberLimitNumber": 8,
+    "sortWeight": 1100,
+    "rewards": [
+      {
+        "salesId": 10106,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 4800
+      },
+      {
+        "salesId": 10106,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 4800
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 10106
+      },
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 10106
+      },
+      {
+        "textKey": "SALES_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 10106
+      },
+      {
+        "textKey": "SALES_REPORT_4",
+        "condition": null,
+        "laravelThroughKey": 10106
+      },
+      {
+        "textKey": "SALES_REPORT_5",
+        "condition": null,
+        "laravelThroughKey": 10106
+      },
+      {
+        "textKey": "SALES_REPORT_6",
+        "condition": null,
+        "laravelThroughKey": 10106
+      },
+      {
+        "textKey": "SALES_REPORT_7",
+        "condition": null,
+        "laravelThroughKey": 10106
+      },
+      {
+        "textKey": "SALES_REPORT_8",
+        "condition": null,
+        "laravelThroughKey": 10106
+      },
+      {
+        "textKey": "SALES_REPORT_9",
+        "condition": null,
+        "laravelThroughKey": 10106
+      },
+      {
+        "textKey": "SALES_REPORT_10",
+        "condition": null,
+        "laravelThroughKey": 10106
+      },
+      {
+        "textKey": "SALES_REPORT_11",
+        "condition": null,
+        "laravelThroughKey": 10106
+      },
+      {
+        "textKey": "SALES_REPORT_12",
+        "condition": null,
+        "laravelThroughKey": 10106
+      },
+      {
+        "textKey": "SALES_REPORT_13",
+        "condition": null,
+        "laravelThroughKey": 10106
+      },
+      {
+        "textKey": "SALES_REPORT_14",
+        "condition": null,
+        "laravelThroughKey": 10106
+      },
+      {
+        "textKey": "SALES_REPORT_15",
+        "condition": null,
+        "laravelThroughKey": 10106
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": false
+      },
+      {
+        "rank": 5,
+        "class": "RankCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": false,
+        "operation": "<="
+      }
+    ]
+  },
   "10301": {
     "salesId": 10301,
     "regionId": 103,
@@ -728,6 +1098,7 @@
     "endAt": null,
     "requiredTime": 7200,
     "memberLimitNumber": 8,
+    "sortWeight": 900,
     "rewards": [
       {
         "salesId": 10301,
@@ -902,12 +1273,13 @@
   "10302": {
     "salesId": 10302,
     "regionId": 103,
-    "salesName": "遠征！ラフ稼ぎ！（中期）",
+    "salesName": "遠征！ラフ稼ぎ！（短中期）",
     "iconFilename": "item_lah",
     "startAt": null,
     "endAt": null,
     "requiredTime": 14400,
     "memberLimitNumber": 8,
+    "sortWeight": 900,
     "rewards": [
       {
         "salesId": 10302,
@@ -1082,12 +1454,13 @@
   "10303": {
     "salesId": 10303,
     "regionId": 103,
-    "salesName": "遠征！ラフ稼ぎ！（中長期）",
+    "salesName": "遠征！ラフ稼ぎ！（中期）",
     "iconFilename": "item_lah",
     "startAt": null,
     "endAt": null,
     "requiredTime": 28800,
     "memberLimitNumber": 8,
+    "sortWeight": 900,
     "rewards": [
       {
         "salesId": 10303,
@@ -1268,6 +1641,7 @@
     "endAt": null,
     "requiredTime": 57600,
     "memberLimitNumber": 8,
+    "sortWeight": 1000,
     "rewards": [
       {
         "salesId": 10304,
@@ -1439,6 +1813,372 @@
       }
     ]
   },
+  "10305": {
+    "salesId": 10305,
+    "regionId": 103,
+    "salesName": "遠征！ラフ稼ぎ！（中長期）",
+    "iconFilename": "item_lah",
+    "startAt": null,
+    "endAt": null,
+    "requiredTime": 43200,
+    "memberLimitNumber": 8,
+    "sortWeight": 950,
+    "rewards": [
+      {
+        "salesId": 10305,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 5760
+      },
+      {
+        "salesId": 10305,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 960
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 10305
+      },
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 10305
+      },
+      {
+        "textKey": "SALES_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 10305
+      },
+      {
+        "textKey": "SALES_REPORT_4",
+        "condition": null,
+        "laravelThroughKey": 10305
+      },
+      {
+        "textKey": "SALES_REPORT_5",
+        "condition": null,
+        "laravelThroughKey": 10305
+      },
+      {
+        "textKey": "SALES_REPORT_6",
+        "condition": null,
+        "laravelThroughKey": 10305
+      },
+      {
+        "textKey": "SALES_REPORT_7",
+        "condition": null,
+        "laravelThroughKey": 10305
+      },
+      {
+        "textKey": "SALES_REPORT_8",
+        "condition": null,
+        "laravelThroughKey": 10305
+      },
+      {
+        "textKey": "SALES_REPORT_9",
+        "condition": null,
+        "laravelThroughKey": 10305
+      },
+      {
+        "textKey": "SALES_REPORT_10",
+        "condition": null,
+        "laravelThroughKey": 10305
+      },
+      {
+        "textKey": "SALES_REPORT_11",
+        "condition": null,
+        "laravelThroughKey": 10305
+      },
+      {
+        "textKey": "SALES_REPORT_12",
+        "condition": null,
+        "laravelThroughKey": 10305
+      },
+      {
+        "textKey": "SALES_REPORT_13",
+        "condition": null,
+        "laravelThroughKey": 10305
+      },
+      {
+        "textKey": "SALES_REPORT_14",
+        "condition": null,
+        "laravelThroughKey": 10305
+      },
+      {
+        "textKey": "SALES_REPORT_15",
+        "condition": null,
+        "laravelThroughKey": 10305
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": false
+      },
+      {
+        "rank": 5,
+        "class": "RankCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": false,
+        "operation": "<="
+      }
+    ]
+  },
+  "10306": {
+    "salesId": 10306,
+    "regionId": 103,
+    "salesName": "遠征！ラフ稼ぎ！（超長期）",
+    "iconFilename": "item_lah",
+    "startAt": null,
+    "endAt": null,
+    "requiredTime": 86400,
+    "memberLimitNumber": 8,
+    "sortWeight": 1100,
+    "rewards": [
+      {
+        "salesId": 10306,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 11520
+      },
+      {
+        "salesId": 10306,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 1920
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 10306
+      },
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 10306
+      },
+      {
+        "textKey": "SALES_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 10306
+      },
+      {
+        "textKey": "SALES_REPORT_4",
+        "condition": null,
+        "laravelThroughKey": 10306
+      },
+      {
+        "textKey": "SALES_REPORT_5",
+        "condition": null,
+        "laravelThroughKey": 10306
+      },
+      {
+        "textKey": "SALES_REPORT_6",
+        "condition": null,
+        "laravelThroughKey": 10306
+      },
+      {
+        "textKey": "SALES_REPORT_7",
+        "condition": null,
+        "laravelThroughKey": 10306
+      },
+      {
+        "textKey": "SALES_REPORT_8",
+        "condition": null,
+        "laravelThroughKey": 10306
+      },
+      {
+        "textKey": "SALES_REPORT_9",
+        "condition": null,
+        "laravelThroughKey": 10306
+      },
+      {
+        "textKey": "SALES_REPORT_10",
+        "condition": null,
+        "laravelThroughKey": 10306
+      },
+      {
+        "textKey": "SALES_REPORT_11",
+        "condition": null,
+        "laravelThroughKey": 10306
+      },
+      {
+        "textKey": "SALES_REPORT_12",
+        "condition": null,
+        "laravelThroughKey": 10306
+      },
+      {
+        "textKey": "SALES_REPORT_13",
+        "condition": null,
+        "laravelThroughKey": 10306
+      },
+      {
+        "textKey": "SALES_REPORT_14",
+        "condition": null,
+        "laravelThroughKey": 10306
+      },
+      {
+        "textKey": "SALES_REPORT_15",
+        "condition": null,
+        "laravelThroughKey": 10306
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": false
+      },
+      {
+        "rank": 5,
+        "class": "RankCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": false,
+        "operation": "<="
+      }
+    ]
+  },
   "10401": {
     "salesId": 10401,
     "regionId": 104,
@@ -1448,6 +2188,7 @@
     "endAt": null,
     "requiredTime": 7200,
     "memberLimitNumber": 8,
+    "sortWeight": 900,
     "rewards": [
       {
         "salesId": 10401,
@@ -1622,12 +2363,13 @@
   "10402": {
     "salesId": 10402,
     "regionId": 104,
-    "salesName": "結べ絆！リレーション営業（中期）",
+    "salesName": "結べ絆！リレーション営業（短中期）",
     "iconFilename": "item_trainingband",
     "startAt": null,
     "endAt": null,
     "requiredTime": 14400,
     "memberLimitNumber": 8,
+    "sortWeight": 900,
     "rewards": [
       {
         "salesId": 10402,
@@ -1802,12 +2544,13 @@
   "10403": {
     "salesId": 10403,
     "regionId": 104,
-    "salesName": "結べ絆！リレーション営業（中長期）",
+    "salesName": "結べ絆！リレーション営業（中期）",
     "iconFilename": "item_trainingband",
     "startAt": null,
     "endAt": null,
     "requiredTime": 28800,
     "memberLimitNumber": 8,
+    "sortWeight": 900,
     "rewards": [
       {
         "salesId": 10403,
@@ -1988,6 +2731,7 @@
     "endAt": null,
     "requiredTime": 57600,
     "memberLimitNumber": 8,
+    "sortWeight": 1000,
     "rewards": [
       {
         "salesId": 10404,
@@ -2159,6 +2903,372 @@
       }
     ]
   },
+  "10405": {
+    "salesId": 10405,
+    "regionId": 104,
+    "salesName": "結べ絆！リレーション営業（中長期）",
+    "iconFilename": "item_trainingband",
+    "startAt": null,
+    "endAt": null,
+    "requiredTime": 43200,
+    "memberLimitNumber": 8,
+    "sortWeight": 950,
+    "rewards": [
+      {
+        "salesId": 10405,
+        "rewardType": 3,
+        "objectId": 30,
+        "objectValue": 3840
+      },
+      {
+        "salesId": 10405,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 960
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 10405
+      },
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 10405
+      },
+      {
+        "textKey": "SALES_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 10405
+      },
+      {
+        "textKey": "SALES_REPORT_4",
+        "condition": null,
+        "laravelThroughKey": 10405
+      },
+      {
+        "textKey": "SALES_REPORT_5",
+        "condition": null,
+        "laravelThroughKey": 10405
+      },
+      {
+        "textKey": "SALES_REPORT_6",
+        "condition": null,
+        "laravelThroughKey": 10405
+      },
+      {
+        "textKey": "SALES_REPORT_7",
+        "condition": null,
+        "laravelThroughKey": 10405
+      },
+      {
+        "textKey": "SALES_REPORT_8",
+        "condition": null,
+        "laravelThroughKey": 10405
+      },
+      {
+        "textKey": "SALES_REPORT_9",
+        "condition": null,
+        "laravelThroughKey": 10405
+      },
+      {
+        "textKey": "SALES_REPORT_10",
+        "condition": null,
+        "laravelThroughKey": 10405
+      },
+      {
+        "textKey": "SALES_REPORT_11",
+        "condition": null,
+        "laravelThroughKey": 10405
+      },
+      {
+        "textKey": "SALES_REPORT_12",
+        "condition": null,
+        "laravelThroughKey": 10405
+      },
+      {
+        "textKey": "SALES_REPORT_13",
+        "condition": null,
+        "laravelThroughKey": 10405
+      },
+      {
+        "textKey": "SALES_REPORT_14",
+        "condition": null,
+        "laravelThroughKey": 10405
+      },
+      {
+        "textKey": "SALES_REPORT_15",
+        "condition": null,
+        "laravelThroughKey": 10405
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": false
+      },
+      {
+        "rank": 5,
+        "class": "RankCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": false,
+        "operation": "<="
+      }
+    ]
+  },
+  "10406": {
+    "salesId": 10406,
+    "regionId": 104,
+    "salesName": "結べ絆！リレーション営業（超長期）",
+    "iconFilename": "item_trainingband",
+    "startAt": null,
+    "endAt": null,
+    "requiredTime": 86400,
+    "memberLimitNumber": 8,
+    "sortWeight": 1100,
+    "rewards": [
+      {
+        "salesId": 10406,
+        "rewardType": 3,
+        "objectId": 30,
+        "objectValue": 7680
+      },
+      {
+        "salesId": 10406,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 1920
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 10406
+      },
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 10406
+      },
+      {
+        "textKey": "SALES_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 10406
+      },
+      {
+        "textKey": "SALES_REPORT_4",
+        "condition": null,
+        "laravelThroughKey": 10406
+      },
+      {
+        "textKey": "SALES_REPORT_5",
+        "condition": null,
+        "laravelThroughKey": 10406
+      },
+      {
+        "textKey": "SALES_REPORT_6",
+        "condition": null,
+        "laravelThroughKey": 10406
+      },
+      {
+        "textKey": "SALES_REPORT_7",
+        "condition": null,
+        "laravelThroughKey": 10406
+      },
+      {
+        "textKey": "SALES_REPORT_8",
+        "condition": null,
+        "laravelThroughKey": 10406
+      },
+      {
+        "textKey": "SALES_REPORT_9",
+        "condition": null,
+        "laravelThroughKey": 10406
+      },
+      {
+        "textKey": "SALES_REPORT_10",
+        "condition": null,
+        "laravelThroughKey": 10406
+      },
+      {
+        "textKey": "SALES_REPORT_11",
+        "condition": null,
+        "laravelThroughKey": 10406
+      },
+      {
+        "textKey": "SALES_REPORT_12",
+        "condition": null,
+        "laravelThroughKey": 10406
+      },
+      {
+        "textKey": "SALES_REPORT_13",
+        "condition": null,
+        "laravelThroughKey": 10406
+      },
+      {
+        "textKey": "SALES_REPORT_14",
+        "condition": null,
+        "laravelThroughKey": 10406
+      },
+      {
+        "textKey": "SALES_REPORT_15",
+        "condition": null,
+        "laravelThroughKey": 10406
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": false
+      },
+      {
+        "rank": 5,
+        "class": "RankCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": false,
+        "operation": "<="
+      }
+    ]
+  },
   "20101": {
     "salesId": 20101,
     "regionId": 201,
@@ -2168,6 +3278,7 @@
     "endAt": "2020-11-06 20:00:00",
     "requiredTime": 7200,
     "memberLimitNumber": 8,
+    "sortWeight": 1000,
     "rewards": [
       {
         "salesId": 20101,
@@ -2304,6 +3415,7 @@
     "endAt": "2020-11-06 20:00:00",
     "requiredTime": 14400,
     "memberLimitNumber": 8,
+    "sortWeight": 1000,
     "rewards": [
       {
         "salesId": 20102,
@@ -2440,6 +3552,7 @@
     "endAt": "2020-11-06 20:00:00",
     "requiredTime": 28800,
     "memberLimitNumber": 8,
+    "sortWeight": 1000,
     "rewards": [
       {
         "salesId": 20103,
@@ -2576,6 +3689,7 @@
     "endAt": "2020-11-06 20:00:00",
     "requiredTime": 57600,
     "memberLimitNumber": 8,
+    "sortWeight": 1000,
     "rewards": [
       {
         "salesId": 20104,
@@ -2712,6 +3826,7 @@
     "endAt": "2020-11-06 20:00:00",
     "requiredTime": 7200,
     "memberLimitNumber": 8,
+    "sortWeight": 1000,
     "rewards": [
       {
         "salesId": 20201,
@@ -2848,6 +3963,7 @@
     "endAt": "2020-11-06 20:00:00",
     "requiredTime": 14400,
     "memberLimitNumber": 8,
+    "sortWeight": 1000,
     "rewards": [
       {
         "salesId": 20202,
@@ -2984,6 +4100,7 @@
     "endAt": "2020-11-06 20:00:00",
     "requiredTime": 28800,
     "memberLimitNumber": 8,
+    "sortWeight": 1000,
     "rewards": [
       {
         "salesId": 20203,
@@ -3120,6 +4237,7 @@
     "endAt": "2020-11-06 20:00:00",
     "requiredTime": 57600,
     "memberLimitNumber": 8,
+    "sortWeight": 1000,
     "rewards": [
       {
         "salesId": 20204,
@@ -3256,6 +4374,7 @@
     "endAt": "2021-01-06 20:00:00",
     "requiredTime": 7200,
     "memberLimitNumber": 8,
+    "sortWeight": 1000,
     "rewards": [
       {
         "salesId": 20301,
@@ -3404,6 +4523,7 @@
     "endAt": "2021-01-06 20:00:00",
     "requiredTime": 14400,
     "memberLimitNumber": 8,
+    "sortWeight": 1000,
     "rewards": [
       {
         "salesId": 20302,
@@ -3552,6 +4672,7 @@
     "endAt": "2021-01-06 20:00:00",
     "requiredTime": 28800,
     "memberLimitNumber": 8,
+    "sortWeight": 1000,
     "rewards": [
       {
         "salesId": 20303,
@@ -3700,6 +4821,7 @@
     "endAt": "2021-01-06 20:00:00",
     "requiredTime": 57600,
     "memberLimitNumber": 8,
+    "sortWeight": 1000,
     "rewards": [
       {
         "salesId": 20304,
@@ -3848,6 +4970,7 @@
     "endAt": "2021-03-15 20:00:00",
     "requiredTime": 7200,
     "memberLimitNumber": 8,
+    "sortWeight": 1000,
     "rewards": [
       {
         "salesId": 20401,
@@ -4001,6 +5124,7 @@
     "endAt": "2021-03-15 20:00:00",
     "requiredTime": 14400,
     "memberLimitNumber": 8,
+    "sortWeight": 1000,
     "rewards": [
       {
         "salesId": 20402,
@@ -4154,6 +5278,7 @@
     "endAt": "2021-03-15 20:00:00",
     "requiredTime": 28800,
     "memberLimitNumber": 8,
+    "sortWeight": 1000,
     "rewards": [
       {
         "salesId": 20403,
@@ -4307,6 +5432,7 @@
     "endAt": "2021-03-15 20:00:00",
     "requiredTime": 57600,
     "memberLimitNumber": 8,
+    "sortWeight": 1000,
     "rewards": [
       {
         "salesId": 20404,
@@ -4460,6 +5586,7 @@
     "endAt": "2021-03-15 20:00:00",
     "requiredTime": 7200,
     "memberLimitNumber": 8,
+    "sortWeight": 1000,
     "rewards": [
       {
         "salesId": 20501,
@@ -4613,6 +5740,7 @@
     "endAt": "2021-03-15 20:00:00",
     "requiredTime": 14400,
     "memberLimitNumber": 8,
+    "sortWeight": 1000,
     "rewards": [
       {
         "salesId": 20502,
@@ -4766,6 +5894,7 @@
     "endAt": "2021-03-15 20:00:00",
     "requiredTime": 28800,
     "memberLimitNumber": 8,
+    "sortWeight": 1000,
     "rewards": [
       {
         "salesId": 20503,
@@ -4919,6 +6048,7 @@
     "endAt": "2021-03-15 20:00:00",
     "requiredTime": 57600,
     "memberLimitNumber": 8,
+    "sortWeight": 1000,
     "rewards": [
       {
         "salesId": 20504,
@@ -5072,6 +6202,7 @@
     "endAt": "2021-05-14 20:00:00",
     "requiredTime": 7200,
     "memberLimitNumber": 8,
+    "sortWeight": 1000,
     "rewards": [
       {
         "salesId": 20601,
@@ -5200,6 +6331,7 @@
     "endAt": "2021-05-14 20:00:00",
     "requiredTime": 14400,
     "memberLimitNumber": 8,
+    "sortWeight": 1000,
     "rewards": [
       {
         "salesId": 20602,
@@ -5328,6 +6460,7 @@
     "endAt": "2021-05-14 20:00:00",
     "requiredTime": 28800,
     "memberLimitNumber": 8,
+    "sortWeight": 1000,
     "rewards": [
       {
         "salesId": 20603,
@@ -5456,6 +6589,7 @@
     "endAt": "2021-05-14 20:00:00",
     "requiredTime": 57600,
     "memberLimitNumber": 8,
+    "sortWeight": 1000,
     "rewards": [
       {
         "salesId": 20604,
@@ -5584,6 +6718,7 @@
     "endAt": "2021-06-18 20:00:00",
     "requiredTime": 7200,
     "memberLimitNumber": 8,
+    "sortWeight": 1000,
     "rewards": [
       {
         "salesId": 20701,
@@ -5707,6 +6842,7 @@
     "endAt": "2021-06-18 20:00:00",
     "requiredTime": 14400,
     "memberLimitNumber": 8,
+    "sortWeight": 1000,
     "rewards": [
       {
         "salesId": 20702,
@@ -5830,6 +6966,7 @@
     "endAt": "2021-06-18 20:00:00",
     "requiredTime": 28800,
     "memberLimitNumber": 8,
+    "sortWeight": 1000,
     "rewards": [
       {
         "salesId": 20703,
@@ -5953,6 +7090,7 @@
     "endAt": "2021-06-18 20:00:00",
     "requiredTime": 57600,
     "memberLimitNumber": 8,
+    "sortWeight": 1000,
     "rewards": [
       {
         "salesId": 20704,
@@ -6076,6 +7214,7 @@
     "endAt": "2021-09-13 20:00:00",
     "requiredTime": 7200,
     "memberLimitNumber": 8,
+    "sortWeight": 1000,
     "rewards": [
       {
         "salesId": 20801,
@@ -6199,6 +7338,7 @@
     "endAt": "2021-09-13 20:00:00",
     "requiredTime": 14400,
     "memberLimitNumber": 8,
+    "sortWeight": 1000,
     "rewards": [
       {
         "salesId": 20802,
@@ -6322,6 +7462,7 @@
     "endAt": "2021-09-13 20:00:00",
     "requiredTime": 28800,
     "memberLimitNumber": 8,
+    "sortWeight": 1000,
     "rewards": [
       {
         "salesId": 20803,
@@ -6445,6 +7586,7 @@
     "endAt": "2021-09-13 20:00:00",
     "requiredTime": 57600,
     "memberLimitNumber": 8,
+    "sortWeight": 1000,
     "rewards": [
       {
         "salesId": 20804,
@@ -6568,6 +7710,7 @@
     "endAt": "2021-10-21 20:00:00",
     "requiredTime": 7200,
     "memberLimitNumber": 8,
+    "sortWeight": 1000,
     "rewards": [
       {
         "salesId": 20901,
@@ -6686,6 +7829,7 @@
     "endAt": "2021-10-21 20:00:00",
     "requiredTime": 14400,
     "memberLimitNumber": 8,
+    "sortWeight": 1000,
     "rewards": [
       {
         "salesId": 20902,
@@ -6804,6 +7948,7 @@
     "endAt": "2021-10-21 20:00:00",
     "requiredTime": 28800,
     "memberLimitNumber": 8,
+    "sortWeight": 1000,
     "rewards": [
       {
         "salesId": 20903,
@@ -6922,6 +8067,7 @@
     "endAt": "2021-10-21 20:00:00",
     "requiredTime": 57600,
     "memberLimitNumber": 8,
+    "sortWeight": 1000,
     "rewards": [
       {
         "salesId": 20904,
@@ -7040,6 +8186,7 @@
     "endAt": "2021-11-15 20:00:00",
     "requiredTime": 7200,
     "memberLimitNumber": 8,
+    "sortWeight": 1000,
     "rewards": [
       {
         "salesId": 21001,
@@ -7188,6 +8335,7 @@
     "endAt": "2021-11-15 20:00:00",
     "requiredTime": 14400,
     "memberLimitNumber": 8,
+    "sortWeight": 1000,
     "rewards": [
       {
         "salesId": 21002,
@@ -7336,6 +8484,7 @@
     "endAt": "2021-11-15 20:00:00",
     "requiredTime": 28800,
     "memberLimitNumber": 8,
+    "sortWeight": 1000,
     "rewards": [
       {
         "salesId": 21003,
@@ -7484,6 +8633,7 @@
     "endAt": "2021-11-15 20:00:00",
     "requiredTime": 57600,
     "memberLimitNumber": 8,
+    "sortWeight": 1000,
     "rewards": [
       {
         "salesId": 21004,
@@ -7632,6 +8782,7 @@
     "endAt": "2022-01-19 20:00:00",
     "requiredTime": 7200,
     "memberLimitNumber": 8,
+    "sortWeight": 1000,
     "rewards": [
       {
         "salesId": 21101,
@@ -7750,6 +8901,7 @@
     "endAt": "2022-01-19 20:00:00",
     "requiredTime": 14400,
     "memberLimitNumber": 8,
+    "sortWeight": 1000,
     "rewards": [
       {
         "salesId": 21102,
@@ -7868,6 +9020,7 @@
     "endAt": "2022-01-19 20:00:00",
     "requiredTime": 28800,
     "memberLimitNumber": 8,
+    "sortWeight": 1000,
     "rewards": [
       {
         "salesId": 21103,
@@ -7986,6 +9139,7 @@
     "endAt": "2022-01-19 20:00:00",
     "requiredTime": 57600,
     "memberLimitNumber": 8,
+    "sortWeight": 1000,
     "rewards": [
       {
         "salesId": 21104,
@@ -8104,6 +9258,7 @@
     "endAt": "2022-02-16 20:00:00",
     "requiredTime": 7200,
     "memberLimitNumber": 8,
+    "sortWeight": 1000,
     "rewards": [
       {
         "salesId": 21201,
@@ -8237,6 +9392,7 @@
     "endAt": "2022-02-16 20:00:00",
     "requiredTime": 14400,
     "memberLimitNumber": 8,
+    "sortWeight": 1000,
     "rewards": [
       {
         "salesId": 21202,
@@ -8370,6 +9526,7 @@
     "endAt": "2022-02-16 20:00:00",
     "requiredTime": 28800,
     "memberLimitNumber": 8,
+    "sortWeight": 1000,
     "rewards": [
       {
         "salesId": 21203,
@@ -8503,6 +9660,7 @@
     "endAt": "2022-02-16 20:00:00",
     "requiredTime": 57600,
     "memberLimitNumber": 8,
+    "sortWeight": 1000,
     "rewards": [
       {
         "salesId": 21204,
@@ -8636,6 +9794,7 @@
     "endAt": "2022-03-21 20:00:00",
     "requiredTime": 7200,
     "memberLimitNumber": 8,
+    "sortWeight": 1000,
     "rewards": [
       {
         "salesId": 21301,
@@ -8754,6 +9913,7 @@
     "endAt": "2022-03-21 20:00:00",
     "requiredTime": 14400,
     "memberLimitNumber": 8,
+    "sortWeight": 1000,
     "rewards": [
       {
         "salesId": 21302,
@@ -8872,6 +10032,7 @@
     "endAt": "2022-03-21 20:00:00",
     "requiredTime": 28800,
     "memberLimitNumber": 8,
+    "sortWeight": 1000,
     "rewards": [
       {
         "salesId": 21303,
@@ -8990,6 +10151,7 @@
     "endAt": "2022-03-21 20:00:00",
     "requiredTime": 57600,
     "memberLimitNumber": 8,
+    "sortWeight": 1000,
     "rewards": [
       {
         "salesId": 21304,
@@ -9108,6 +10270,7 @@
     "endAt": "2022-04-11 20:00:00",
     "requiredTime": 7200,
     "memberLimitNumber": 8,
+    "sortWeight": 1000,
     "rewards": [
       {
         "salesId": 21401,
@@ -9236,6 +10399,7 @@
     "endAt": "2022-04-11 20:00:00",
     "requiredTime": 14400,
     "memberLimitNumber": 8,
+    "sortWeight": 1000,
     "rewards": [
       {
         "salesId": 21402,
@@ -9364,6 +10528,7 @@
     "endAt": "2022-04-11 20:00:00",
     "requiredTime": 28800,
     "memberLimitNumber": 8,
+    "sortWeight": 1000,
     "rewards": [
       {
         "salesId": 21403,
@@ -9492,6 +10657,7 @@
     "endAt": "2022-04-11 20:00:00",
     "requiredTime": 57600,
     "memberLimitNumber": 8,
+    "sortWeight": 1000,
     "rewards": [
       {
         "salesId": 21404,
@@ -9620,6 +10786,7 @@
     "endAt": "2022-05-12 20:00:00",
     "requiredTime": 7200,
     "memberLimitNumber": 8,
+    "sortWeight": 1000,
     "rewards": [
       {
         "salesId": 21501,
@@ -9738,6 +10905,7 @@
     "endAt": "2022-05-12 20:00:00",
     "requiredTime": 14400,
     "memberLimitNumber": 8,
+    "sortWeight": 1000,
     "rewards": [
       {
         "salesId": 21502,
@@ -9856,6 +11024,7 @@
     "endAt": "2022-05-12 20:00:00",
     "requiredTime": 28800,
     "memberLimitNumber": 8,
+    "sortWeight": 1000,
     "rewards": [
       {
         "salesId": 21503,
@@ -9974,6 +11143,7 @@
     "endAt": "2022-05-12 20:00:00",
     "requiredTime": 57600,
     "memberLimitNumber": 8,
+    "sortWeight": 1000,
     "rewards": [
       {
         "salesId": 21504,
@@ -10092,6 +11262,7 @@
     "endAt": "2022-06-09 20:00:00",
     "requiredTime": 7200,
     "memberLimitNumber": 8,
+    "sortWeight": 1000,
     "rewards": [
       {
         "salesId": 21601,
@@ -10215,6 +11386,7 @@
     "endAt": "2022-06-09 20:00:00",
     "requiredTime": 14400,
     "memberLimitNumber": 8,
+    "sortWeight": 1000,
     "rewards": [
       {
         "salesId": 21602,
@@ -10338,6 +11510,7 @@
     "endAt": "2022-06-09 20:00:00",
     "requiredTime": 28800,
     "memberLimitNumber": 8,
+    "sortWeight": 1000,
     "rewards": [
       {
         "salesId": 21603,
@@ -10461,6 +11634,7 @@
     "endAt": "2022-06-09 20:00:00",
     "requiredTime": 57600,
     "memberLimitNumber": 8,
+    "sortWeight": 1000,
     "rewards": [
       {
         "salesId": 21604,
