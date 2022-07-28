@@ -30842,6 +30842,37 @@
       }
     ]
   },
+  "4001111": {
+    "skillId": 4001111,
+    "skillName": "パス強制封鎖",
+    "useView": 10000,
+    "targetFlag": 2,
+    "resourceName": "b_skill_special",
+    "subResourceName": "",
+    "timing": 0,
+    "description": "敵単体に3回分の強制干渉を付与。",
+    "cutin": [
+      {
+        "info": {
+          "class": "SidekickSkill"
+        },
+        "name": "skill_player_s02_01"
+      }
+    ],
+    "isEquip": false,
+    "isHeroSkill": true,
+    "effects": [
+      {
+        "skillEffectId": 809,
+        "prob": 100,
+        "effectTarget": 2,
+        "sequenceGroupId": 1,
+        "probGroupId": 0,
+        "randomGroupId": 0,
+        "triggerJson": []
+      }
+    ]
+  },
   "4002101": {
     "skillId": 4002101,
     "skillName": "ハーキュリアン・パンチ",
