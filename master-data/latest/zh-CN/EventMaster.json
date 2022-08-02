@@ -530,7 +530,7 @@
     "baseResourceName": "Ruins2104",
     "startAt": "2021-04-23 00:00:00",
     "endAt": "2021-05-21 14:00:00",
-    "canRemember": 0,
+    "canRemember": 1,
     "eventPortalJson": {
       "bg": "ui_bg_sprite_event_Ruins2104_01",
       "bgm": "bgm_ruins_adv",
@@ -790,7 +790,7 @@
     "baseResourceName": "Chasers2105",
     "startAt": null,
     "endAt": "2021-06-28 14:00:00",
-    "canRemember": 1,
+    "canRemember": 0,
     "eventPortalJson": {
       "bg": "ui_bg_sprite_event_Chasers2105",
       "bgm": "bgm_chasers_adv",
