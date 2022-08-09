@@ -1702,6 +1702,23 @@
     "endAt": "2022-08-16 20:00:00",
     "executeLimit": null
   },
+  "487": {
+    "chapterId": 487,
+    "groupType": 7,
+    "chapterType": 8,
+    "chapterName": "スコアアタッククエスト",
+    "subName": "スペース・タクシー・チェイサーズ",
+    "peepingName": "スコアアタック",
+    "sortWeight": 1000,
+    "bannerResourceName": "ui_banner_questchoice_event_Chasers2105",
+    "bgResourceName": "ui_bg_sprite_event_Chasers2105",
+    "selectBannerAddress": "banner_chapter_select_score_attack",
+    "helpPrefabAddress": "ChasersRevival2208ScoreAttackHelpWindow",
+    "missionGroupId": 487,
+    "startAt": "2022-08-09 18:00:00",
+    "endAt": "2022-08-16 20:00:00",
+    "executeLimit": null
+  },
   "488": {
     "chapterId": 488,
     "groupType": 2,
