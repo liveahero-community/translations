@@ -820,16 +820,16 @@
   },
   "123": {
     "statusId": 123,
-    "statusName": "照準",
+    "statusName": "照准",
     "isGoodStatus": 0,
     "statusType": 0,
-    "description": "相手からのダメージが1.3倍になる。ターン経過で解除される。オート行動時、相手から狙われやすくなる。"
+    "description": "相手からのダメージが1.3倍になる。ターン経过で解除される。オート行动时、相手から狙われやすくなる。"
   },
   "124": {
     "statusId": 124,
     "statusName": "シールド",
     "isGoodStatus": 1,
     "statusType": 1,
-    "description": "一度だけ相手からのダメージを無効化する。ターン終了時に解除される。"
+    "description": "一度だけ相手からのダメージを无効化する。ターン终了时に解除される。"
   }
 }
