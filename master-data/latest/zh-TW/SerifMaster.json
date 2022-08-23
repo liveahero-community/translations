@@ -2061,6 +2061,58 @@
       "isInHome": true
     }
   ],
+  "10252": [
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 4,
+      "faceType": "a",
+      "serifKey": "SERIF_ANDREWLOSTANCIENTS2208_PLAYER",
+      "voiceFilename": "",
+      "resourceName": "andrewLostAncients2208",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 5,
+      "faceType": "a",
+      "serifKey": "SERIF_ANDREWLOSTANCIENTS2208_HERO",
+      "voiceFilename": "",
+      "resourceName": "andrewLostAncients2208",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 12,
+      "faceType": "c",
+      "serifKey": "SERIF_ANDREWLOSTANCIENTS2208_TOUCH",
+      "voiceFilename": "",
+      "resourceName": "andrewLostAncients2208",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 27,
+      "faceType": "a",
+      "serifKey": "SERIF_ANDREWLOSTANCIENTS2208_EVENTA",
+      "voiceFilename": "",
+      "resourceName": "andrewLostAncients2208",
+      "isInHome": false
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 28,
+      "faceType": "c",
+      "serifKey": "SERIF_ANDREWLOSTANCIENTS2208_EVENTB",
+      "voiceFilename": "",
+      "resourceName": "andrewLostAncients2208",
+      "isInHome": false
+    }
+  ],
   "10261": [
     {
       "cardType": 2,
@@ -3060,6 +3112,58 @@
       "serifKey": "SERIF_HISAKI_EVENTB",
       "voiceFilename": "",
       "resourceName": "hisaki",
+      "isInHome": false
+    }
+  ],
+  "10532": [
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 4,
+      "faceType": "c",
+      "serifKey": "SERIF_HISAKILOSTANCIENTS2208_PLAYER",
+      "voiceFilename": "",
+      "resourceName": "hisakiLostAncients2208",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 5,
+      "faceType": "e",
+      "serifKey": "SERIF_HISAKILOSTANCIENTS2208_HERO",
+      "voiceFilename": "",
+      "resourceName": "hisakiLostAncients2208",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 12,
+      "faceType": "b",
+      "serifKey": "SERIF_HISAKILOSTANCIENTS2208_TOUCH",
+      "voiceFilename": "",
+      "resourceName": "hisakiLostAncients2208",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 27,
+      "faceType": "c",
+      "serifKey": "SERIF_HISAKILOSTANCIENTS2208_EVENTA",
+      "voiceFilename": "",
+      "resourceName": "hisakiLostAncients2208",
+      "isInHome": false
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 28,
+      "faceType": "a",
+      "serifKey": "SERIF_HISAKILOSTANCIENTS2208_EVENTB",
+      "voiceFilename": "",
+      "resourceName": "hisakiLostAncients2208",
       "isInHome": false
     }
   ],
@@ -4995,6 +5099,88 @@
       "voiceFilename": "",
       "resourceName": "seiichiro",
       "isInHome": true
+    }
+  ],
+  "11151": [
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 4,
+      "faceType": "e",
+      "serifKey": "SERIF_GAIUS_PLAYER",
+      "voiceFilename": "",
+      "resourceName": "gaius",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 5,
+      "faceType": "a",
+      "serifKey": "SERIF_GAIUS_HERO",
+      "voiceFilename": "",
+      "resourceName": "gaius",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 12,
+      "faceType": "b",
+      "serifKey": "SERIF_GAIUS_TOUCH",
+      "voiceFilename": "",
+      "resourceName": "gaius",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 3,
+      "faceType": "a",
+      "serifKey": "SERIF_GAIUS_DAILY",
+      "voiceFilename": "",
+      "resourceName": "gaius",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 6,
+      "faceType": "f",
+      "serifKey": "SERIF_GAIUS_RELATION",
+      "voiceFilename": "",
+      "resourceName": "gaius",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 11,
+      "faceType": "e",
+      "serifKey": "SERIF_GAIUS_APPRECIATION",
+      "voiceFilename": "",
+      "resourceName": "gaius",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 27,
+      "faceType": "d",
+      "serifKey": "SERIF_GAIUS_EVENTA",
+      "voiceFilename": "",
+      "resourceName": "gaius",
+      "isInHome": false
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 28,
+      "faceType": "",
+      "serifKey": "SERIF_GAIUS_EVENTB",
+      "voiceFilename": "",
+      "resourceName": "gaius",
+      "isInHome": false
     }
   ],
   "99041": [

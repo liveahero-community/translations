@@ -12492,5 +12492,719 @@
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
     ]
+  },
+  "21801": {
+    "salesId": 21801,
+    "regionId": 218,
+    "salesName": "湖畔でヒーローミート＆グリート！（短期）",
+    "iconFilename": "item_LostAncients2208_exchange01",
+    "startAt": null,
+    "endAt": "2022-09-13 20:00:00",
+    "requiredTime": 7200,
+    "memberLimitNumber": 8,
+    "sortWeight": 1000,
+    "rewards": [
+      {
+        "salesId": 21801,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 280
+      },
+      {
+        "salesId": 21801,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 240
+      },
+      {
+        "salesId": 21801,
+        "rewardType": 3,
+        "objectId": 120,
+        "objectValue": 14
+      },
+      {
+        "salesId": 21801,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 160
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_LOSTANCIENTS_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 21801
+      },
+      {
+        "textKey": "SALES_EVENT_LOSTANCIENTS_REPORT_2",
+        "condition": null,
+        "laravelThroughKey": 21801
+      },
+      {
+        "textKey": "SALES_EVENT_LOSTANCIENTS_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 21801
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": false
+      },
+      {
+        "class": "StockCountBonus",
+        "stocks": [
+          10532,
+          11151,
+          10252
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 10
+          },
+          {
+            "count": 2,
+            "upwardRate": 30
+          },
+          {
+            "count": 3,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
+      }
+    ]
+  },
+  "21802": {
+    "salesId": 21802,
+    "regionId": 218,
+    "salesName": "湖畔でヒーローミート＆グリート！（短中期）",
+    "iconFilename": "item_LostAncients2208_exchange01",
+    "startAt": null,
+    "endAt": "2022-09-13 20:00:00",
+    "requiredTime": 14400,
+    "memberLimitNumber": 8,
+    "sortWeight": 1000,
+    "rewards": [
+      {
+        "salesId": 21802,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 560
+      },
+      {
+        "salesId": 21802,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 480
+      },
+      {
+        "salesId": 21802,
+        "rewardType": 3,
+        "objectId": 120,
+        "objectValue": 28
+      },
+      {
+        "salesId": 21802,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 320
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_LOSTANCIENTS_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 21802
+      },
+      {
+        "textKey": "SALES_EVENT_LOSTANCIENTS_REPORT_2",
+        "condition": null,
+        "laravelThroughKey": 21802
+      },
+      {
+        "textKey": "SALES_EVENT_LOSTANCIENTS_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 21802
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": false
+      },
+      {
+        "class": "StockCountBonus",
+        "stocks": [
+          10532,
+          11151,
+          10252
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 10
+          },
+          {
+            "count": 2,
+            "upwardRate": 30
+          },
+          {
+            "count": 3,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
+      }
+    ]
+  },
+  "21803": {
+    "salesId": 21803,
+    "regionId": 218,
+    "salesName": "湖畔でヒーローミート＆グリート！（中期）",
+    "iconFilename": "item_LostAncients2208_exchange01",
+    "startAt": null,
+    "endAt": "2022-09-13 20:00:00",
+    "requiredTime": 28800,
+    "memberLimitNumber": 8,
+    "sortWeight": 1000,
+    "rewards": [
+      {
+        "salesId": 21803,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 1120
+      },
+      {
+        "salesId": 21803,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 960
+      },
+      {
+        "salesId": 21803,
+        "rewardType": 3,
+        "objectId": 120,
+        "objectValue": 56
+      },
+      {
+        "salesId": 21803,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 640
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_LOSTANCIENTS_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 21803
+      },
+      {
+        "textKey": "SALES_EVENT_LOSTANCIENTS_REPORT_2",
+        "condition": null,
+        "laravelThroughKey": 21803
+      },
+      {
+        "textKey": "SALES_EVENT_LOSTANCIENTS_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 21803
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": false
+      },
+      {
+        "class": "StockCountBonus",
+        "stocks": [
+          10532,
+          11151,
+          10252
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 10
+          },
+          {
+            "count": 2,
+            "upwardRate": 30
+          },
+          {
+            "count": 3,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
+      }
+    ]
+  },
+  "21804": {
+    "salesId": 21804,
+    "regionId": 218,
+    "salesName": "湖畔でヒーローミート＆グリート！（中長期）",
+    "iconFilename": "item_LostAncients2208_exchange01",
+    "startAt": null,
+    "endAt": "2022-09-13 20:00:00",
+    "requiredTime": 43200,
+    "memberLimitNumber": 8,
+    "sortWeight": 1000,
+    "rewards": [
+      {
+        "salesId": 21804,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 1680
+      },
+      {
+        "salesId": 21804,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 1440
+      },
+      {
+        "salesId": 21804,
+        "rewardType": 3,
+        "objectId": 120,
+        "objectValue": 84
+      },
+      {
+        "salesId": 21804,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 960
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_LOSTANCIENTS_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 21804
+      },
+      {
+        "textKey": "SALES_EVENT_LOSTANCIENTS_REPORT_2",
+        "condition": null,
+        "laravelThroughKey": 21804
+      },
+      {
+        "textKey": "SALES_EVENT_LOSTANCIENTS_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 21804
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": false
+      },
+      {
+        "class": "StockCountBonus",
+        "stocks": [
+          10532,
+          11151,
+          10252
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 10
+          },
+          {
+            "count": 2,
+            "upwardRate": 30
+          },
+          {
+            "count": 3,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
+      }
+    ]
+  },
+  "21805": {
+    "salesId": 21805,
+    "regionId": 218,
+    "salesName": "湖畔でヒーローミート＆グリート！（長期）",
+    "iconFilename": "item_LostAncients2208_exchange01",
+    "startAt": null,
+    "endAt": "2022-09-13 20:00:00",
+    "requiredTime": 57600,
+    "memberLimitNumber": 8,
+    "sortWeight": 1000,
+    "rewards": [
+      {
+        "salesId": 21805,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 2240
+      },
+      {
+        "salesId": 21805,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 1920
+      },
+      {
+        "salesId": 21805,
+        "rewardType": 3,
+        "objectId": 120,
+        "objectValue": 112
+      },
+      {
+        "salesId": 21805,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 1280
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_LOSTANCIENTS_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 21805
+      },
+      {
+        "textKey": "SALES_EVENT_LOSTANCIENTS_REPORT_2",
+        "condition": null,
+        "laravelThroughKey": 21805
+      },
+      {
+        "textKey": "SALES_EVENT_LOSTANCIENTS_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 21805
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": false
+      },
+      {
+        "class": "StockCountBonus",
+        "stocks": [
+          10532,
+          11151,
+          10252
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 10
+          },
+          {
+            "count": 2,
+            "upwardRate": 30
+          },
+          {
+            "count": 3,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
+      }
+    ]
+  },
+  "21806": {
+    "salesId": 21806,
+    "regionId": 218,
+    "salesName": "湖畔でヒーローミート＆グリート！（超長期）",
+    "iconFilename": "item_LostAncients2208_exchange01",
+    "startAt": null,
+    "endAt": "2022-09-13 20:00:00",
+    "requiredTime": 86400,
+    "memberLimitNumber": 8,
+    "sortWeight": 1000,
+    "rewards": [
+      {
+        "salesId": 21806,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 3360
+      },
+      {
+        "salesId": 21806,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 2880
+      },
+      {
+        "salesId": 21806,
+        "rewardType": 3,
+        "objectId": 120,
+        "objectValue": 168
+      },
+      {
+        "salesId": 21806,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 1920
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_LOSTANCIENTS_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 21806
+      },
+      {
+        "textKey": "SALES_EVENT_LOSTANCIENTS_REPORT_2",
+        "condition": null,
+        "laravelThroughKey": 21806
+      },
+      {
+        "textKey": "SALES_EVENT_LOSTANCIENTS_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 21806
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": false
+      },
+      {
+        "class": "StockCountBonus",
+        "stocks": [
+          10532,
+          11151,
+          10252
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 10
+          },
+          {
+            "count": 2,
+            "upwardRate": 30
+          },
+          {
+            "count": 3,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
+      }
+    ]
   }
 }
