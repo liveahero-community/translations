@@ -480,7 +480,7 @@
     "statusName": "",
     "isGoodStatus": 2,
     "statusType": 2,
-    "description": "豪爽的維多姆專用系統效果「綜合View攻擊」的實體（任務附加）。"
+    "description": "豪爽的維多姆專用系統效果「綜合 View 攻擊」的實體（任務附加）。"
   },
   "70": {
     "statusId": 70,
@@ -781,55 +781,55 @@
     "statusName": "",
     "isGoodStatus": 2,
     "statusType": 2,
-    "description": "相手よりSpdが高い場合に、Spd差に応じて攻撃時にクリティカルが発動。発動時、ダメージが1.3倍になる。"
+    "description": "比對手速度高時，會依照雙方速度差發動暴擊。發動此效果，傷害為 1.3 倍。"
   },
   "118": {
     "statusId": 118,
     "statusName": "クリティカル",
     "isGoodStatus": 2,
     "statusType": 2,
-    "description": "相手よりSpdが高い場合に、Spd差に応じて攻撃時にクリティカルが発動。発動時、ダメージが1.3倍になる。"
+    "description": "比對手速度高時，會依照雙方速度差發動暴擊。發動此效果，傷害為 1.3 倍。"
   },
   "119": {
     "statusId": 119,
-    "statusName": "粘質武装",
+    "statusName": "黏質武裝",
     "isGoodStatus": 2,
     "statusType": 2,
-    "description": "相手から受けるダメージの上限を3000にする。スキルによる解除不可。(この状態変化はバフにカウントされない)"
+    "description": "來自對手的傷害上限為 3000 。此技能不能被消除。（此狀態不被視為增益效果進行其他技能的計算）"
   },
   "120": {
     "statusId": 120,
-    "statusName": "武装解除状態",
+    "statusName": "武裝解除",
     "isGoodStatus": 0,
     "statusType": 0,
-    "description": "相手からのダメージが1.5倍になる。ターン経過で解除される。"
+    "description": "來自對手的傷害變成 1.5 倍，回合結束時自動消除。"
   },
   "121": {
     "statusId": 121,
     "statusName": "",
     "isGoodStatus": 2,
     "statusType": 2,
-    "description": "相手からのダメージを無効化する。"
+    "description": "來自對手的傷害無效。"
   },
   "122": {
     "statusId": 122,
-    "statusName": "強制干渉",
+    "statusName": "強制干涉",
     "isGoodStatus": 2,
     "statusType": 2,
-    "description": "「干渉不能」状態を無効化する。ダメージで消費される。この状態変化は重複しない。"
+    "description": "使「干涉不能」狀態無效。受傷時解除。此狀態無法疊加。"
   },
   "123": {
     "statusId": 123,
-    "statusName": "照準",
+    "statusName": "瞄準",
     "isGoodStatus": 0,
     "statusType": 0,
-    "description": "相手からのダメージが1.3倍になる。ターン経過で解除される。オート行動時、相手から狙われやすくなる。"
+    "description": "來自對手的傷害變成 1.3 倍。回合經過自動消除。自動行動時，更容易成為對手的目標。"
   },
   "124": {
     "statusId": 124,
-    "statusName": "シールド",
+    "statusName": "護盾",
     "isGoodStatus": 1,
     "statusType": 1,
-    "description": "一度だけ相手からのダメージを無効化する。ターン終了時に解除される。"
+    "description": "僅一次使敵方傷害無效，回合結束時自動消除。"
   }
 }

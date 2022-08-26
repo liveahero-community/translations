@@ -6516,7 +6516,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_buffOwn",
     "timing": 0,
-    "description": "敌単体に70%ダメージ。自身に40%の确率で1回分のDEFアップを付与。",
+    "description": "对一个敌人造成攻击 70% 伤害。40% 机率赋予自己防御力上升 1 层。",
     "cutin": [
       {
         "info": {
@@ -6556,7 +6556,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "敌全体からランダムに2回60%ダメージ。1HIT毎に20%の确率で1回分のDEFダウンを付与。",
+    "description": "从所有敌方角色中随机对单体造成攻击 60% 伤害 2 次。每一次有 20% 机率赋予防御力下降 1 层。",
     "cutin": [
       {
         "info": {
@@ -6614,7 +6614,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "敌単体に1～4回50%ダメージ（自身に付与されているDEFアップの数だけ攻撃回数増加）＋100％ダメージ。自身のDEFアップを全て解除。",
+    "description": "对一个敌人造成攻击 50% 伤害一到四次（依据自身的拥有的「防御力上升」效果增加攻击次数）+100％ 伤害。自身的防御力上升效果全部消除。",
     "cutin": [
       {
         "info": {
@@ -6738,7 +6738,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "敌全体からランダムに2回60%ダメージ。1HIT毎に30%の确率で1回分のDEFダウンを付与。",
+    "description": "从所有敌方角色中随机对单体造成攻击 60% 伤害 2 次。每一次有 30% 机率赋予防御力下降 1 层。",
     "cutin": [
       {
         "info": {
@@ -9222,7 +9222,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "敌単体に40%ダメージ。1ターンの间照准を付与。",
+    "description": "对一个敌人造成攻击 40% 伤害。赋予瞄准 1 层。",
     "cutin": [
       {
         "info": {
@@ -9262,7 +9262,7 @@
     "resourceName": "b_skill_buff",
     "subResourceName": "s_skill_combo",
     "timing": 0,
-    "description": "味方単体に2回の行动の间ATKアップを付与。対象が火属性の场合、ATKアップの代わりに2回のATKアップ+を付与。コンボ数+2。",
+    "description": "赋予自己或一个友军攻击力上升 2 层。如果施放对象是火属性，则改为赋予「攻击力上升＋ 」2 层。 Combo数 +2。",
     "cutin": [
       {
         "info": {
@@ -9325,7 +9325,7 @@
     "resourceName": "b_skill_heal",
     "subResourceName": "s_skill_buffTeam",
     "timing": 0,
-    "description": "味方単体のHPを基础ATKの170%回复する。1ターンの间シールドを付与。",
+    "description": "恢复自己或一个友军攻击力 170% 的血量。赋予护盾 1 层。",
     "cutin": [
       {
         "info": {
@@ -9365,7 +9365,7 @@
     "resourceName": "b_skill_heal",
     "subResourceName": "s_skill_buffTeam",
     "timing": 0,
-    "description": "味方単体のHPを基础ATKの170%回复する。1ターンの间シールドを付与。",
+    "description": "恢复自己或一个友军攻击力 170% 的血量。赋予护盾 1 层。",
     "cutin": [
       {
         "info": {
@@ -13489,7 +13489,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "敌単体に80%ダメージ。",
+    "description": "对一个敌人造成攻击 80% 伤害。",
     "cutin": [
       {
         "info": {
@@ -13520,7 +13520,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_cureAll",
     "timing": 0,
-    "description": "敌単体に120%ダメージ。自身にデバフが付与されている场合、自身のデバフを1つ解除＋自身を除く味方全体のデバフを50%の确率で1つ解除。",
+    "description": "对一个敌人造成攻击 120% 伤害。若自身有减益效果，则解除一个减益效果，另有 50％ 机率解除其他全体队友 1 层减益效果。",
     "cutin": [
       {
         "info": {
@@ -13583,7 +13583,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "s_skill_debuffOwn",
     "timing": 0,
-    "description": "敌全体に120％ダメージ。自身にデバフが付与されている场合、敌に与えるダメージが半减。自身に2回の行动の间SPDダウンを付与。",
+    "description": "对所有敌人造成攻击 120% 伤害。若自身有减益效果，则减半对手伤害，赋予自己速度下降 2 层。",
     "cutin": [
       {
         "info": {
@@ -13646,7 +13646,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_cureAll",
     "timing": 0,
-    "description": "敌単体に120%ダメージ。自身にデバフが付与されている场合、自身のデバフを1つ解除＋自身を除く味方全体のデバフを50%の确率で1つ解除。",
+    "description": "对一个敌人造成攻击 120% 伤害。若自身有减益效果，则解除一个减益效果，另有 50％ 机率解除其他全体队友 1 层减益效果。",
     "cutin": [
       {
         "info": {
@@ -20891,7 +20891,7 @@
     "resourceName": "b_skill_buff",
     "subResourceName": "",
     "timing": 0,
-    "description": "味方単体に1ターンの间弱体抵抗+50を付与。",
+    "description": "赋予自己或一个友军 1 层衰弱抵抗 +50。",
     "cutin": [
       {
         "info": {
@@ -20922,7 +20922,7 @@
     "resourceName": "b_skill_buff",
     "subResourceName": "",
     "timing": 0,
-    "description": "味方単体に1ターンの间弱体抵抗+50を付与。",
+    "description": "赋予自己或一个友军 1 层衰弱抵抗 +50。",
     "cutin": [
       {
         "info": {
@@ -20953,7 +20953,7 @@
     "resourceName": "b_skill_buff",
     "subResourceName": "",
     "timing": 0,
-    "description": "味方単体に1ターンの间弱体抵抗+100を付与。",
+    "description": "赋予自己或一个友军 1 层衰弱抵抗 +100。",
     "cutin": [
       {
         "info": {
@@ -31022,7 +31022,7 @@
     "resourceName": "icon_gaius_s01",
     "subResourceName": "",
     "timing": 13,
-    "description": "ダメージを与えないスキルを使用した后、30%の确率で自身のデバフを１つ解除。",
+    "description": "使用非直接给予伤害的技能后，有 30％ 纪律解除自身减益效果 1 层。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -31046,7 +31046,7 @@
     "resourceName": "icon_gaius_s01",
     "subResourceName": "",
     "timing": 13,
-    "description": "ダメージを与えないスキルを使用した后、36%の确率で自身のデバフを１つ解除。",
+    "description": "使用非直接给予伤害的技能后，有 36％ 纪律解除自身减益效果 1 层。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -31070,7 +31070,7 @@
     "resourceName": "icon_gaius_s01",
     "subResourceName": "",
     "timing": 13,
-    "description": "ダメージを与えないスキルを使用した后、42%の确率で自身のデバフを１つ解除。",
+    "description": "使用非直接给予伤害的技能后，有 42％ 纪律解除自身减益效果 1 层。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -31094,7 +31094,7 @@
     "resourceName": "icon_gaius_s01",
     "subResourceName": "",
     "timing": 13,
-    "description": "ダメージを与えないスキルを使用した后、48%の确率で自身のデバフを１つ解除。",
+    "description": "使用非直接给予伤害的技能后，有 48％ 纪律解除自身减益效果 1 层。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -31118,7 +31118,7 @@
     "resourceName": "icon_gaius_s01",
     "subResourceName": "",
     "timing": 13,
-    "description": "ダメージを与えないスキルを使用した后、54%の确率で自身のデバフを１つ解除。",
+    "description": "使用非直接给予伤害的技能后，有 54％ 纪律解除自身减益效果 1 层。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -31142,7 +31142,7 @@
     "resourceName": "icon_gaius_s01",
     "subResourceName": "",
     "timing": 13,
-    "description": "ダメージを与えないスキルを使用した后、60%の确率で自身のデバフを１つ解除。",
+    "description": "使用非直接给予伤害的技能后，有 60％ 纪律解除自身减益效果 1 层。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -31611,7 +31611,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_antiBuffTeam",
     "timing": 0,
-    "description": "敌単体に50%ダメージ。バフを１つ解除。（敌専用）",
+    "description": "（敌人专属）对一名玩家角色造成攻击 50% 伤害。解除 1 个增益效果。",
     "cutin": [
       {
         "info": {
@@ -31651,7 +31651,7 @@
     "resourceName": "b_skill_buff",
     "subResourceName": "",
     "timing": 0,
-    "description": "自身に1回の行动の间ATKアップを付与。自身に粘质武装を最大で3つになるまで付与。（敌専用）",
+    "description": "（敌人专属）赋予自己攻击力上升 1 层。自身「黏质武装」最大值转变为 3。",
     "cutin": [
       {
         "info": {
@@ -31730,7 +31730,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "敌単体に150%ダメージ。3回分のDEFダウンを付与。（敌専用）",
+    "description": "（敌人专属）对一名玩家角色造成攻击 150% 伤害。赋予防御力下降 3 层。",
     "cutin": [
       {
         "info": {
@@ -31770,7 +31770,7 @@
     "resourceName": "b_skill_special",
     "subResourceName": "",
     "timing": 0,
-    "description": "敌単体に3回分の强制干渉を付与。",
+    "description": "赋予一名玩家角色强制干涉 3 层。",
     "cutin": [
       {
         "info": {
@@ -36659,7 +36659,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "敌単体に80%ダメージ。80%の确率で1回分のDEFダウンを付与。（敌専用）",
+    "description": "（敌人专属）对一名玩家角色造成攻击 80% 伤害。80% 机率赋予防御力下降 1 层。",
     "cutin": [
       {
         "info": {
@@ -38230,7 +38230,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "s_skill_debuffAll",
     "timing": 0,
-    "description": "敌全体に90%ダメージ。80%の确率で1ターンの间DEFダウンを付与。（敌専用）",
+    "description": "（敌人专属）对所有玩家角色造成攻击 90% 伤害。80% 机率赋予防御力下降 1 层。",
     "cutin": [
       {
         "info": {
@@ -42097,7 +42097,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "敌全体に70%ダメージ。（敌専用）",
+    "description": "（敌人专属）对所有玩家角色造成攻击 70% 伤害。",
     "cutin": [
       {
         "info": {
@@ -42128,7 +42128,7 @@
     "resourceName": "b_skill_debuff",
     "subResourceName": "",
     "timing": 0,
-    "description": "敌単体に2回分のDEFダウンを付与。（敌専用）",
+    "description": "（敌人专属）赋予一名玩家角色防御力下降 2 层。",
     "cutin": [
       {
         "info": {
@@ -42159,7 +42159,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "敌単体に70%ダメージ。（敌専用）",
+    "description": "（敌人专属）对一名玩家角色造成攻击 70% 伤害。",
     "cutin": [
       {
         "info": {
@@ -42519,7 +42519,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "敌単体に70%ダメージ。1ターンの间毒を付与。（敌専用）",
+    "description": "敵単体に70%ダメージ。1ターンの間毒を付与。（敵専用）",
     "cutin": [
       {
         "info": {
@@ -43621,7 +43621,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "敌単体に90%ダメージ。（敌専用）",
+    "description": "（敌人专属）对一名玩家角色造成攻击 90% 伤害。",
     "cutin": [
       {
         "info": {
@@ -43652,7 +43652,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "敌単体に160%ダメージ。",
+    "description": "对一名玩家角色造成攻击 160% 伤害。",
     "cutin": [
       {
         "info": {
@@ -43683,7 +43683,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "生存している味方全体がスキル１で攻撃。（敌専用）",
+    "description": "（敌人专属）存活的 CPU 方角色全部以技能一攻击。",
     "cutin": [
       {
         "info": {
@@ -44185,7 +44185,7 @@
     "resourceName": "b_skill_healAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "味方全体に2回の行动の间View消费量-1000を付与。（敌専用）",
+    "description": "（敌人专属）赋予CPU方所有角色 2层 View 值消耗 -1000。",
     "cutin": [
       {
         "info": {
@@ -44216,7 +44216,7 @@
     "resourceName": "b_skill_healAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "味方全体を100%のHPで复活。（敌専用）",
+    "description": "（敌人专属）我方全体以 100% 血量复活。",
     "cutin": [
       {
         "info": {
@@ -44247,7 +44247,7 @@
     "resourceName": "b_skill_debuff",
     "subResourceName": "",
     "timing": 0,
-    "description": "敌全体に1回の行动の间モザイク & SPDダウンを付与。（敌専用）",
+    "description": "（敌人专属）赋予所有玩家角色马赛克 1 层、速度下降 1 层。",
     "cutin": [
       {
         "info": {
@@ -45032,7 +45032,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "敌単体に80%ダメージ。（敌専用）",
+    "description": "（敌人专属）对一名玩家角色造成攻击 80% 伤害。",
     "cutin": [
       {
         "info": {
@@ -45063,7 +45063,7 @@
     "resourceName": "b_skill_buffAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "味方全体に1回の行动の间View消费量-2000を付与。（敌専用）",
+    "description": "（敌人专属）赋予 CPU 方所有角色 View 值消耗 -2000。",
     "cutin": [
       {
         "info": {
@@ -45094,7 +45094,7 @@
     "resourceName": "b_skill_buffAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "味方全体に1回の行动の间View消费量-2000を付与。（敌専用）",
+    "description": "（敌人专属）赋予 CPU 方所有角色 View 值消耗 -2000。",
     "cutin": [
       {
         "info": {
@@ -45125,7 +45125,7 @@
     "resourceName": "b_skill_buff",
     "subResourceName": "",
     "timing": 0,
-    "description": "自身に1回の行动の间ATKアップを付与。1回分のDEFアップを付与。（敌専用）",
+    "description": "（敌人专属）赋予自己攻击力上升 1 层、防御力上升 1 层。",
     "cutin": [
       {
         "info": {
@@ -45165,7 +45165,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "敌単体に150%ダメージ。1回分のDEFダウンを付与。（敌専用）",
+    "description": "（敌人专属）对一名玩家角色造成攻击 150% 伤害。赋予防御力下降 1 层。",
     "cutin": [
       {
         "info": {
@@ -46447,7 +46447,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 8,
-    "description": "ダメージを受けた时スキル1で反撃。デバフが付与されている时、この効果は発动しない。",
+    "description": "受到伤害时，以技能一进行反击。若自身没有减益效果则不会发动反击。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -46478,7 +46478,7 @@
     "resourceName": "b_skill_buff",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 1,
-    "description": "登场时、自身に粘质武装を5つ付与。ダメージを受けた时、粘质武装を1つ解除。粘质武装が全て解除された时、自身に1ターンの间武装解除状态を付与。",
+    "description": "登场时，赋予自己 5 层黏质武装。受到伤害时，减少 1 层黏质武装。当所有黏质武装都被解除时，赋予自身 1 层「武装解除」。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -46989,7 +46989,7 @@
     "resourceName": "b_skill_debuff",
     "subResourceName": "",
     "timing": 4,
-    "description": "回合开始时，若View 值为 20000以上，赋予自身疲劳 1 层 。",
+    "description": "回合开始时，若 View 值为 20000 以上，赋予自身疲劳 1 层 。",
     "cutin": [],
     "isEquip": false,
     "isHeroSkill": false,
@@ -47452,7 +47452,7 @@
     "resourceName": "",
     "subResourceName": "",
     "timing": 4,
-    "description": "ターン开始时にシステム効果57番を付与",
+    "description": "回合开始时赋予系统效果 57 号",
     "cutin": [],
     "isEquip": false,
     "isHeroSkill": false,
@@ -47476,7 +47476,7 @@
     "resourceName": "b_skill_special",
     "subResourceName": "",
     "timing": 8,
-    "description": "ダメージを受けた时、2回分のDEFアップを付与し、スキル1で反撃。1ターンに1度のみ発动。",
+    "description": "受到伤害时，赋予防御力上升 2 层，并以技能一进行反击。一回合只会发动一次。",
     "cutin": [],
     "isEquip": false,
     "isHeroSkill": false,
@@ -48868,7 +48868,7 @@
     "resourceName": "b_skill_special",
     "subResourceName": "",
     "timing": 3,
-    "description": "スキル1発动后、自身に1回の行动の间SPDダウンを付与し、もう１度行动する。1ターンに1回だけ発动する。",
+    "description": "スキル1発動後、自身に1回の行動の間SPDダウンを付与し、もう１度行動する。1ターンに1回だけ発動する。",
     "cutin": [],
     "isEquip": false,
     "isHeroSkill": false,
@@ -48969,7 +48969,7 @@
     "resourceName": "b_skill_heal",
     "subResourceName": "",
     "timing": 14,
-    "description": "戦闘不能时、1度だけ100%のHPで复活。复活したターンは行动しない。",
+    "description": "被击败时，仅一次以 100%血量复活，复活当回合无法行动。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -49032,7 +49032,7 @@
     "resourceName": "b_skill_heal",
     "subResourceName": "",
     "timing": 1,
-    "description": "戦闘不能时、ターン开始时に100%のHPで复活。",
+    "description": "被击败后，回合开始时，以 100% 血量复活。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -49046,7 +49046,7 @@
     "resourceName": "b_skill_buff",
     "subResourceName": "",
     "timing": 1,
-    "description": "登场时、3ターンの间隠蔽を付与。",
+    "description": "登场时，赋予自身「潜行」3 层。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -49300,7 +49300,7 @@
     "resourceName": "b_skill_special",
     "subResourceName": "",
     "timing": 1,
-    "description": "相手から受けるダメージの上限を1000にする。强制干渉の状态変化が付与されている时、相手から受けるダメージの上限が10000に缓和される。",
+    "description": "来自对手的伤害最高为 1000。若被赋予强制干涉的状态，来自对手的伤害上限则转变为 10000。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -49665,7 +49665,7 @@
     "resourceName": "b_skill_exp",
     "subResourceName": "",
     "timing": 1,
-    "description": "「EXPアイテムクエスト」での获得EXP+3%。ヒーローに同种効果の装备スキルが装备されている场合、一番高い効果のみ适用される。",
+    "description": "经验值掉落任务中所获得的经验值增加 3%。若英雄有装备相同效果的技能，则仅计最高效者。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -49689,7 +49689,7 @@
     "resourceName": "b_skill_relation",
     "subResourceName": "",
     "timing": 1,
-    "description": "「トレーニングバンド获得クエスト」での获得リレーション+3%。ヒーローに同种効果の装备スキルが装备されている场合、一番高い効果のみ适用される。",
+    "description": "羁绊任务中所获得的羁绊增加 3%。若英雄有装备相同效果的技能，则仅计最高效者。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -49713,7 +49713,7 @@
     "resourceName": "b_skill_lah",
     "subResourceName": "",
     "timing": 1,
-    "description": "戦闘时获得ラフ+3%。ヒーローに同种効果の装备スキルが装备されている场合、一番高い効果のみ适用される。",
+    "description": "任务中所获得的金币增加 3%。若英雄有装备相同效果的技能，则仅计最高效者。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -49737,7 +49737,7 @@
     "resourceName": "b_skill_silver_medal",
     "subResourceName": "",
     "timing": 1,
-    "description": "「メダル获得クエスト」でシルバーメダルを消费スタミナ×1%の确率で追加ドロップ。",
+    "description": "勋章任务中，获得的银色勋章掉落率增加，其概率为「1% × 任务消耗的活力」。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -49761,7 +49761,7 @@
     "resourceName": "b_skill_gold_medal",
     "subResourceName": "",
     "timing": 1,
-    "description": "「メダル获得クエスト」でゴールドメダルを消费スタミナ×0.2%の确率で追加ドロップする。",
+    "description": "勋章任务中，获得的金色勋章掉落率增加，其概率为「0.2% × 任务消耗的活力」。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -49785,7 +49785,7 @@
     "resourceName": "b_skill_quartz",
     "subResourceName": "",
     "timing": 1,
-    "description": "「パラレル・クオーツ获得クエスト」でパラレル・クオーツを消费スタミナ×0.5%の确率で追加ドロップする。",
+    "description": "平行石英（平行改造用消耗道具，虹色水晶）任务中，获得对应的平行石英掉落增加，其数量为 「0.5% × 任务消耗的活力」。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -49809,7 +49809,7 @@
     "resourceName": "b_skill_small_stone",
     "subResourceName": "",
     "timing": 1,
-    "description": "「ランクアップアイテムクエスト」でその属性の小覚醒石を消费スタミナ×2%の确率で追加ドロップする。",
+    "description": "升星任务中，获得对应的属性小觉醒石掉落增加，其数量为 「2% × 任务消耗的活力」。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -49869,7 +49869,7 @@
     "resourceName": "b_skill_middle_stone",
     "subResourceName": "",
     "timing": 1,
-    "description": "「ランクアップアイテムクエスト」でクエストの属性の中覚醒石を消费スタミナ×1%の确率で追加ドロップする。",
+    "description": "升星任务中，获得对应的属性中觉醒石掉落增加，其数量为 「1% × 任务消耗的活力」。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -49929,7 +49929,7 @@
     "resourceName": "b_skill_large_stone",
     "subResourceName": "",
     "timing": 1,
-    "description": "「ランクアップアイテムクエスト」でクエストの属性の大覚醒石を消费スタミナ×0.5%の确率で追加ドロップする。",
+    "description": "升星任务中，获得对应的属性大觉醒石掉落增加，其数量为 「0.5% × 任务消耗的活力」。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -50013,7 +50013,7 @@
     "resourceName": "",
     "subResourceName": "",
     "timing": 1,
-    "description": "粘质武装が付与されている场合、相手から受けるダメージの上限を3000にする。",
+    "description": "若被赋予黏质武装，则来自对手的伤害上限为 3000。",
     "cutin": [],
     "isEquip": false,
     "isHeroSkill": false,
@@ -50037,7 +50037,7 @@
     "resourceName": "",
     "subResourceName": "",
     "timing": 4,
-    "description": "ターン开始时、戦闘不能の味方全体を100%のHPで复活。",
+    "description": "回合开始时，我方无法战斗的全体以 100% 血量复活。",
     "cutin": [],
     "isEquip": false,
     "isHeroSkill": false,
@@ -50061,7 +50061,7 @@
     "resourceName": "",
     "subResourceName": "",
     "timing": 8,
-    "description": "ダメージを受けた时粘质武装を1つ解除。粘质武装が全て解除された时、1ターンの间相手から受けるダメージ1.5倍。",
+    "description": "受到伤害时减少黏质武装 1 层，若黏质武装全数解除，则下词次受到的伤害增为 1.5 倍。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -50503,7 +50503,7 @@
     "resourceName": "",
     "subResourceName": "",
     "timing": 4,
-    "description": "随 combo 数增幅伤害（最大 10 combo 增加20%）。",
+    "description": "随 combo 数增幅伤害（最大 10 combo 增加 20%）。",
     "cutin": [],
     "isEquip": false,
     "isHeroSkill": false,
@@ -50575,7 +50575,7 @@
     "resourceName": "",
     "subResourceName": "",
     "timing": 5,
-    "description": "消除101",
+    "description": "消除 101",
     "cutin": [],
     "isEquip": false,
     "isHeroSkill": false,
@@ -50599,7 +50599,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_spdDownTeam",
     "timing": 4,
-    "description": "赋予系统效果115",
+    "description": "赋予系统效果 115",
     "cutin": [],
     "isEquip": false,
     "isHeroSkill": false,
@@ -50623,7 +50623,7 @@
     "resourceName": "b_skill_spdUp",
     "subResourceName": "s_skill_buffTeam",
     "timing": 4,
-    "description": "赋予系统效果116",
+    "description": "赋予系统效果 116",
     "cutin": [
       {
         "info": {
