@@ -831,5 +831,12 @@
     "isGoodStatus": 1,
     "statusType": 1,
     "description": "僅一次使敵方傷害無效，回合結束時自動消除。"
+  },
+  "125": {
+    "statusId": 125,
+    "statusName": "汎用エネミー用デバフ",
+    "isGoodStatus": 0,
+    "statusType": 0,
+    "description": "汎用エネミー用デバフ"
   }
 }
