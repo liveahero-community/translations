@@ -36693,13 +36693,13 @@
   },
   "4036114": {
     "skillId": 4036114,
-    "skillName": "連鎖噛みつき",
+    "skillName": "连锁噛みつき",
     "useView": 0,
     "targetFlag": 2,
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体に90%ダメージ。バフを所持している自身以外の味方全体がランダムな敵にスキル１で追撃。（敵専用）",
+    "description": "敌単体に90%ダメージ。バフを所持している自身以外の味方全体がランダムな敌にスキル１で追撃。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -36739,7 +36739,7 @@
     "resourceName": "b_skill_buff",
     "subResourceName": "",
     "timing": 0,
-    "description": "味方単体に2回の行動の間ATKアップを付与。（敵専用）",
+    "description": "味方単体に2回の行动の间ATKアップを付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -42590,7 +42590,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "敵単体に70%ダメージ。このスキルの対象になったヒーローはSpdが永続的に-5される。（敵専用）",
+    "description": "敌単体に70%ダメージ。このスキルの対象になったヒーローはSpdが永続的に-5される。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -42630,7 +42630,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "敵単体に80%ダメージ+ダメージの100%自身のHPを回復。2回の行動の間ATKダウンを付与。このスキルの対象になったヒーローはSpdが永続的に-5される。（敵専用）",
+    "description": "敌単体に80%ダメージ+ダメージの100%自身のHPを回复。2回の行动の间ATKダウンを付与。このスキルの対象になったヒーローはSpdが永続的に-5される。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -42679,7 +42679,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "敵単体に90%ダメージ+対象と自分のSPDの差だけダメージ量が上昇。1回の行動の間ATKダウンを付与。（敵専用）",
+    "description": "敌単体に90%ダメージ+対象と自分のSPDの差だけダメージ量が上升。1回の行动の间ATKダウンを付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -45325,7 +45325,7 @@
     "resourceName": "b_skill_buff",
     "subResourceName": "s_skill_heal",
     "timing": 0,
-    "description": "自身に1回の行動の間ATKアップを付与。1回分のDEFアップを付与。味方全体のHPを基礎ATKの50%回復する。（敵専用）",
+    "description": "自身に1回の行动の间ATKアップを付与。1回分のDEFアップを付与。味方全体のHPを基础ATKの50%回复する。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -45448,13 +45448,13 @@
   },
   "4119103": {
     "skillId": 4119103,
-    "skillName": "爆弾設置",
+    "skillName": "爆弾设置",
     "useView": 0,
     "targetFlag": 2,
     "resourceName": "b_skill_debuff",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体に、2ターン後に爆発する、最大HPの90%のダメージを与えるメカ爆弾を付与。",
+    "description": "敌単体に、2ターン后に爆発する、最大HPの90%のダメージを与えるメカ爆弾を付与。",
     "cutin": [
       {
         "info": {
@@ -45479,13 +45479,13 @@
   },
   "4119104": {
     "skillId": 4119104,
-    "skillName": "爆弾設置+",
+    "skillName": "爆弾设置+",
     "useView": 0,
     "targetFlag": 7,
     "resourceName": "b_skill_debuff",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵全体からランダムな対象に2つの、1ターン後に爆発するメカ爆弾を付与。",
+    "description": "敌全体からランダムな対象に2つの、1ターン后に爆発するメカ爆弾を付与。",
     "cutin": [
       {
         "info": {
@@ -48480,7 +48480,7 @@
     "resourceName": "b_skill_buffAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "【NPCゲストボーナス】編成すると、味方全体に弱体抵抗+50(解除不可)を付与。",
+    "description": "【NPCゲストボーナス】编成すると、味方全体に弱体抵抗+50(解除不可)を付与。",
     "cutin": [],
     "isEquip": false,
     "isHeroSkill": false,
@@ -48498,13 +48498,13 @@
   },
   "6053103": {
     "skillId": 6053103,
-    "skillName": "癒しのおまじない",
+    "skillName": "愈しのおまじない",
     "useView": 0,
     "targetFlag": 3,
     "resourceName": "b_skill_heal",
     "subResourceName": "",
     "timing": 3,
-    "description": "行動開始時、50%の確率で自身に1回の行動の間覚醒を付与。行動終了時、チームで一番HPが減っているヒーローのHPを基礎ATKの100%回復する。",
+    "description": "行动开始时、50%の确率で自身に1回の行动の间覚醒を付与。行动终了时、チームで一番HPが减っているヒーローのHPを基础ATKの100%回复する。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -48522,13 +48522,13 @@
   },
   "6053104": {
     "skillId": 6053104,
-    "skillName": "癒しのおまじない",
+    "skillName": "愈しのおまじない",
     "useView": 0,
     "targetFlag": 3,
     "resourceName": "b_skill_heal",
     "subResourceName": "",
     "timing": 2,
-    "description": "行動開始時、50%の確率で1回の行動の間覚醒を付与。",
+    "description": "行动开始时、50%の确率で1回の行动の间覚醒を付与。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -49274,7 +49274,7 @@
     "resourceName": "b_skill_special",
     "subResourceName": "",
     "timing": 3,
-    "description": "行動後、自身に1回の行動の間SPDダウンを付与し、もう１度行動する。1ターンに1回だけ発動する。",
+    "description": "行动后、自身に1回の行动の间SPDダウンを付与し、もう１度行动する。1ターンに1回だけ発动する。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -49959,7 +49959,7 @@
     "resourceName": "b_skill_cureAll",
     "subResourceName": "",
     "timing": 6,
-    "description": "ピンチ状態になった時、敵全体のメカ爆弾を全解除。",
+    "description": "ピンチ状态になった时、敌全体のメカ爆弾を全解除。",
     "cutin": [],
     "isEquip": false,
     "isHeroSkill": false,
