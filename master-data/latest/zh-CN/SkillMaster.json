@@ -45749,7 +45749,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_buffOwn",
     "timing": 0,
-    "description": "敵単体に80%ダメージ。自身に1ターンの間挑発を付与。味方全体に1回分のDEFアップを付与。（敵専用）",
+    "description": "敌単体に80%ダメージ。自身に1ターンの间挑発を付与。味方全体に1回分のDEFアップを付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -45789,7 +45789,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "敵単体に120%ダメージ。80%の確率で3回の行動の間ATKダウンを付与。（敵専用）",
+    "description": "敌単体に120%ダメージ。80%の确率で3回の行动の间ATKダウンを付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -45829,7 +45829,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_buffOwn",
     "timing": 0,
-    "description": "敵単体に60%ダメージ。自身に50%の確率で1回分のDEFアップを付与。（敵専用）",
+    "description": "敌単体に60%ダメージ。自身に50%の确率で1回分のDEFアップを付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -45869,7 +45869,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_spdDownTeam",
     "timing": 0,
-    "description": "敵単体に70%ダメージ。2回の行動の間SPDダウンを付与。（敵専用）",
+    "description": "敌単体に70%ダメージ。2回の行动の间SPDダウンを付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -45903,13 +45903,13 @@
   },
   "4118102": {
     "skillId": 4118102,
-    "skillName": "連携攻撃",
+    "skillName": "连携攻撃",
     "useView": 4000,
     "targetFlag": 2,
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体に80%ダメージ。攻撃後、攻撃した敵が生存している場合、自身以外のランダムな味方がスキル1で追撃。（敵専用）",
+    "description": "敌単体に80%ダメージ。攻撃后、攻撃した敌が生存している场合、自身以外のランダムな味方がスキル1で追撃。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -46114,7 +46114,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_view",
     "timing": 0,
-    "description": "敵単体に80%ダメージ。Viewを3000獲得。（敵専用）",
+    "description": "敌単体に80%ダメージ。Viewを3000获得。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -46154,7 +46154,7 @@
     "resourceName": "b_skill_view",
     "subResourceName": "s_skill_buffAll",
     "timing": 0,
-    "description": "Viewを9000獲得。味方全体に1回の行動の間ATKアップを付与。（敵専用）",
+    "description": "Viewを9000获得。味方全体に1回の行动の间ATKアップを付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -50728,13 +50728,13 @@
   },
   "6118101": {
     "skillId": 6118101,
-    "skillName": "強敵狙い",
+    "skillName": "强敌狙い",
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "b_skill_special",
     "subResourceName": "",
     "timing": 2,
-    "description": "敵を対象にするスキルは敵の中で一番Atkが高いキャラクターを対象にする。",
+    "description": "敌を対象にするスキルは敌の中で一番Atkが高いキャラクターを対象にする。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -50783,13 +50783,13 @@
   },
   "6120101": {
     "skillId": 6120101,
-    "skillName": "最後の指示",
+    "skillName": "最后の指示",
     "useView": 0,
     "targetFlag": 3,
     "resourceName": "b_skill_buffAll",
     "subResourceName": "",
     "timing": 14,
-    "description": "戦闘不能時味方全体のATK+25% & 被ダメージ-25%。",
+    "description": "戦闘不能时味方全体のATK+25% & 被ダメージ-25%。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
