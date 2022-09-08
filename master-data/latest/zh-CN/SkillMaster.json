@@ -46194,7 +46194,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体に80%ダメージ。50%の確率で2回分のDEFダウンを付与。（敵専用）",
+    "description": "敌単体に80%ダメージ。50%の确率で2回分のDEFダウンを付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -46234,7 +46234,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "s_skill_debuffAll",
     "timing": 0,
-    "description": "敵全体に85%ダメージ。50%の確率で2回の行動の間過消費を付与。（敵専用）",
+    "description": "敌全体に85%ダメージ。50%の确率で2回の行动の间过消费を付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -46274,7 +46274,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "s_skill_debuffAll",
     "timing": 0,
-    "description": "敵全体に75%ダメージ。2回の行動の間ATKダウンを付与。（敵専用）",
+    "description": "敌全体に75%ダメージ。2回の行动の间ATKダウンを付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -46314,7 +46314,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体に80%ダメージ。50%の確率で2回分のDEFダウンを付与。【ピンチ状態時追加効果】もう１度行動をする。（敵専用）",
+    "description": "敌単体に80%ダメージ。50%の确率で2回分のDEFダウンを付与。【ピンチ状态时追加効果】もう１度行动をする。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -46385,7 +46385,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "s_skill_debuffAll",
     "timing": 0,
-    "description": "敵全体に85%ダメージ。50%の確率で2回の行動の間過消費を付与。【ピンチ状態時追加効果】2ターンの間火傷を付与。（敵専用）",
+    "description": "敌全体に85%ダメージ。50%の确率で2回の行动の间过消费を付与。【ピンチ状态时追加効果】2ターンの间火伤を付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -46441,7 +46441,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "s_skill_debuffAll",
     "timing": 0,
-    "description": "敵全体に75%ダメージ。2回の行動の間ATKダウンを付与。バフを１つ解除。（敵専用）",
+    "description": "敌全体に75%ダメージ。2回の行动の间ATKダウンを付与。バフを１つ解除。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -49623,7 +49623,7 @@
     "resourceName": "b_skill_debuff",
     "subResourceName": "",
     "timing": 0,
-    "description": "【NPCゲストボーナス】編成すると、ケートスの凶暴化の効果を無効化する。ケートスの被ダメージ+30%。",
+    "description": "【NPCゲストボーナス】编成すると、ケートスの凶暴化の効果を无効化する。ケートスの被ダメージ+30%。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -49647,7 +49647,7 @@
     "resourceName": "b_skill_cure",
     "subResourceName": "s_skill_heal",
     "timing": 3,
-    "description": "行動終了時、ランダムな味方のデバフを１つ解除。チームで一番HPが減っているヒーローのHPを自身の基礎ATKの100%回復する。",
+    "description": "行动终了时、ランダムな味方のデバフを１つ解除。チームで一番HPが减っているヒーローのHPを自身の基础ATKの100%回复する。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -51199,7 +51199,7 @@
     "resourceName": "b_skill_buff",
     "subResourceName": "",
     "timing": 1,
-    "description": "登場時、自身に凶暴化を付与。",
+    "description": "登场时、自身に凶暴化を付与。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -51217,13 +51217,13 @@
   },
   "6121103": {
     "skillId": 6121103,
-    "skillName": "最後の抵抗",
+    "skillName": "最后の抵抗",
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "b_skill_cure",
     "subResourceName": "",
     "timing": 6,
-    "description": "ピンチ状態の時、弱体抵抗+50。",
+    "description": "ピンチ状态の时、弱体抵抗+50。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -51271,7 +51271,7 @@
     "resourceName": "b_skill_antiBuff",
     "subResourceName": "",
     "timing": 1,
-    "description": "ピンチ状態の時、弱体抵抗+50。",
+    "description": "ピンチ状态の时、弱体抵抗+50。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
