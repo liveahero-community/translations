@@ -3668,7 +3668,7 @@
     "eventId": 39,
     "chapterId": 489,
     "lookBackChapterId": 0,
-    "baseResourceName": "LostAncients2208",
+    "baseResourceName": "LostAncients2208_epilogue",
     "startAt": null,
     "endAt": "2022-09-20 14:00:00",
     "canRemember": 0,
@@ -3680,6 +3680,7 @@
         {
           "keys": [
             "UI_MAIN_QUEST",
+            "UI_EPILOGUE_QUEST",
             "UI_MISSION",
             "UI_EXCHANGE",
             "UI_HIGH_DIFFICULTY_QUEST"
@@ -3711,6 +3712,11 @@
           "type": 6,
           "chapterId": 491,
           "buttonType": 1
+        },
+        {
+          "type": 7,
+          "chapterId": 492,
+          "buttonType": 0
         }
       ],
       "tutorialKey": "LostAncients2208",
