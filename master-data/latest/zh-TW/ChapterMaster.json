@@ -1787,6 +1787,23 @@
     "endAt": "2022-09-20 14:00:00",
     "executeLimit": null
   },
+  "492": {
+    "chapterId": 492,
+    "groupType": 2,
+    "chapterType": 1,
+    "chapterName": "エピローグクエスト",
+    "subName": "蒼碧のロスト・エンシェンツ",
+    "peepingName": "エピローグクエスト",
+    "sortWeight": 1000,
+    "bannerResourceName": "ui_banner_questchoice_event_LostAncients2208_epilogue",
+    "bgResourceName": "ui_bg_sprite_quest_epilogue_LostAncients2208",
+    "selectBannerAddress": "banner_chapter_select_epilogue",
+    "helpPrefabAddress": "",
+    "missionGroupId": 0,
+    "startAt": "2022-09-13 18:00:00",
+    "endAt": "2022-09-20 14:00:00",
+    "executeLimit": null
+  },
   "501": {
     "chapterId": 501,
     "groupType": 5,
