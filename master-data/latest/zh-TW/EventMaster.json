@@ -3898,7 +3898,8 @@
         {
           "keys": [
             "UI_FREE_QUEST",
-            "UI_SALES"
+            "UI_SALES",
+            "UI_SCORE_ATTACK"
           ],
           "endAt": "2022-09-29 20:00:00"
         }
@@ -3920,6 +3921,11 @@
           "type": 7,
           "chapterId": 496,
           "buttonType": 0
+        },
+        {
+          "type": 8,
+          "chapterId": 495,
+          "buttonType": 1
         }
       ],
       "tutorialKey": "HerofestaRevival2209",
