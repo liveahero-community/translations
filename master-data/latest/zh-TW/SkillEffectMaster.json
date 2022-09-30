@@ -14317,11 +14317,11 @@
       "isImmediate": false,
       "persistence": true,
       "canDuplicate": false,
-      "overrideStatusName": "",
-      "isOverrideStatusName": false,
-      "overrideStatusDescription": "",
+      "overrideStatusName": "View消費量減少",
+      "isOverrideStatusName": true,
+      "overrideStatusDescription": "Viewの消費量が50%減少する。スキルによる解除不可。",
       "isDisplayPersistenceStatus": false,
-      "isOverrideStatusDescription": false
+      "isOverrideStatusDescription": true
     }
   },
   "469": {
@@ -14377,11 +14377,11 @@
       "isImmediate": false,
       "persistence": true,
       "canDuplicate": true,
-      "overrideStatusName": "",
-      "isOverrideStatusName": false,
-      "overrideStatusDescription": "",
+      "overrideStatusName": "View消費量増加",
+      "isOverrideStatusName": true,
+      "overrideStatusDescription": "Viewの消費量が50%増加する。スキルによる解除不可。",
       "isDisplayPersistenceStatus": true,
-      "isOverrideStatusDescription": false
+      "isOverrideStatusDescription": true
     }
   },
   "471": {
