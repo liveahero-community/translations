@@ -14318,10 +14318,10 @@
       "persistence": true,
       "canDuplicate": false,
       "overrideStatusName": "View消費量減少",
-      "isOverrideStatusName": true,
+      "isOverrideStatusName": false,
       "overrideStatusDescription": "Viewの消費量が50%減少する。スキルによる解除不可。",
-      "isDisplayPersistenceStatus": true,
-      "isOverrideStatusDescription": true
+      "isDisplayPersistenceStatus": false,
+      "isOverrideStatusDescription": false
     }
   },
   "469": {
