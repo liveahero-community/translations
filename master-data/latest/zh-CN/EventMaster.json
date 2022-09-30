@@ -4093,5 +4093,182 @@
         "targetStockId": 19991
       }
     ]
+  },
+  "41": {
+    "eventId": 41,
+    "chapterId": 493,
+    "lookBackChapterId": 0,
+    "baseResourceName": "2ndAnniversary",
+    "startAt": "2022-09-28 00:00:00",
+    "endAt": "2022-10-31 23:59:59",
+    "canRemember": 0,
+    "eventPortalJson": {
+      "bg": "ui_bg_sprite_event_ContractWolfmanEarth2101",
+      "bgm": "bgm_main",
+      "logo": "2ndAnniversary_title",
+      "terms": [
+        {
+          "keys": [
+            "UI_ATTACK_OF_POWERFUL_ENEMY_QUEST",
+            "UI_BREEDING_QUEST",
+            "UI_MISSION",
+            "UI_HIGH_DIFFICULT_STORE"
+          ],
+          "endAt": "2022-10-11 14:00:00"
+        },
+        {
+          "keys": [
+            "UI_TICKET_STORE"
+          ],
+          "endAt": "2022-10-31 23:59:59"
+        },
+        {
+          "keys": [
+            "UI_SPECIAL_LOGIN_BONUS"
+          ],
+          "endAt": "2022-10-25 23:59:59"
+        }
+      ],
+      "gachaId": 40,
+      "storeId": 30,
+      "questInfos": [
+        {
+          "type": 6,
+          "chapterId": 497,
+          "buttonType": 1
+        },
+        {
+          "type": 6,
+          "chapterId": 1008,
+          "buttonType": 0
+        },
+        {
+          "type": 6,
+          "chapterId": 1007,
+          "buttonType": 0
+        },
+        {
+          "type": 6,
+          "chapterId": 1006,
+          "buttonType": 0
+        },
+        {
+          "type": 6,
+          "chapterId": 1005,
+          "buttonType": 0
+        },
+        {
+          "type": 6,
+          "chapterId": 1004,
+          "buttonType": 0
+        },
+        {
+          "type": 6,
+          "chapterId": 1003,
+          "buttonType": 0
+        },
+        {
+          "type": 6,
+          "chapterId": 1002,
+          "buttonType": 0
+        },
+        {
+          "type": 6,
+          "chapterId": 1001,
+          "buttonType": 0
+        },
+        {
+          "type": 6,
+          "chapterId": 499,
+          "buttonType": 0
+        },
+        {
+          "type": 6,
+          "chapterId": 498,
+          "buttonType": 0
+        }
+      ],
+      "tutorialKey": "2ndAnniversary",
+      "eventItemIds": [],
+      "portalWindow": "2ndAnniversaryPortalWindow",
+      "characterViews": [
+        {
+          "skinId": 0,
+          "stockId": 10011,
+          "cardType": 2,
+          "serifKinds": [
+            27
+          ],
+          "visualType": 1,
+          "resourceName": "akashi",
+          "characterName": "アカシ"
+        },
+        {
+          "skinId": 0,
+          "stockId": 10021,
+          "cardType": 2,
+          "serifKinds": [
+            27
+          ],
+          "visualType": 1,
+          "resourceName": "mokdai",
+          "characterName": "モクダイ"
+        },
+        {
+          "skinId": 0,
+          "stockId": 10031,
+          "cardType": 2,
+          "serifKinds": [
+            27
+          ],
+          "visualType": 1,
+          "resourceName": "sui",
+          "characterName": "スイ"
+        },
+        {
+          "skinId": 0,
+          "stockId": 10041,
+          "cardType": 2,
+          "serifKinds": [
+            27
+          ],
+          "visualType": 1,
+          "resourceName": "ryekie",
+          "characterName": "ライキ"
+        },
+        {
+          "skinId": 0,
+          "stockId": 10051,
+          "cardType": 2,
+          "serifKinds": [
+            27
+          ],
+          "visualType": 1,
+          "resourceName": "crowne",
+          "characterName": "クローネ"
+        },
+        {
+          "skinId": 0,
+          "stockId": 10341,
+          "cardType": 2,
+          "serifKinds": [
+            27
+          ],
+          "visualType": 1,
+          "resourceName": "huckle",
+          "characterName": "ハックル"
+        }
+      ],
+      "salesRegionIds": [],
+      "missionGroupIds": [
+        1,
+        2
+      ],
+      "missionCategoryButtonLabels": {
+        "daily": "UI_DAILY",
+        "event": "UI_LIMITED_TIME"
+      }
+    },
+    "questBonusJsons": []
   }
 }
