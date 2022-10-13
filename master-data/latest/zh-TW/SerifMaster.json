@@ -1283,6 +1283,58 @@
       "isInHome": true
     }
   ],
+  "10132": [
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 4,
+      "faceType": "f",
+      "serifKey": "SERIF_TOSHUVIRTUALFESTA2210_PLAYER",
+      "voiceFilename": "",
+      "resourceName": "toshuVirtualFesta2210",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 5,
+      "faceType": "",
+      "serifKey": "SERIF_TOSHUVIRTUALFESTA2210_HERO",
+      "voiceFilename": "",
+      "resourceName": "toshuVirtualFesta2210",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 12,
+      "faceType": "g",
+      "serifKey": "SERIF_TOSHUVIRTUALFESTA2210_TOUCH",
+      "voiceFilename": "",
+      "resourceName": "toshuVirtualFesta2210",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 27,
+      "faceType": "h",
+      "serifKey": "SERIF_TOSHUVIRTUALFESTA2210_EVENTA",
+      "voiceFilename": "",
+      "resourceName": "toshuVirtualFesta2210",
+      "isInHome": false
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 28,
+      "faceType": "",
+      "serifKey": "SERIF_TOSHUVIRTUALFESTA2210_EVENTB",
+      "voiceFilename": "",
+      "resourceName": "toshuVirtualFesta2210",
+      "isInHome": false
+    }
+  ],
   "10141": [
     {
       "cardType": 2,
@@ -3535,6 +3587,58 @@
       "isInHome": false
     }
   ],
+  "10632": [
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 4,
+      "faceType": "c",
+      "serifKey": "SERIF_SHAFTVIRTUALFESTA2210_PLAYER",
+      "voiceFilename": "",
+      "resourceName": "shaftVirtualFesta2210",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 5,
+      "faceType": "",
+      "serifKey": "SERIF_SHAFTVIRTUALFESTA2210_HERO",
+      "voiceFilename": "",
+      "resourceName": "shaftVirtualFesta2210",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 12,
+      "faceType": "f",
+      "serifKey": "SERIF_SHAFTVIRTUALFESTA2210_TOUCH",
+      "voiceFilename": "",
+      "resourceName": "shaftVirtualFesta2210",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 27,
+      "faceType": "",
+      "serifKey": "SERIF_SHAFTVIRTUALFESTA2210_EVENTA",
+      "voiceFilename": "",
+      "resourceName": "shaftVirtualFesta2210",
+      "isInHome": false
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 28,
+      "faceType": "d",
+      "serifKey": "SERIF_SHAFTVIRTUALFESTA2210_EVENTB",
+      "voiceFilename": "",
+      "resourceName": "shaftVirtualFesta2210",
+      "isInHome": false
+    }
+  ],
   "10641": [
     {
       "cardType": 1,
@@ -5240,6 +5344,170 @@
       "serifKey": "SERIF_GAIUS_EVENTB",
       "voiceFilename": "",
       "resourceName": "gaius",
+      "isInHome": false
+    }
+  ],
+  "11221": [
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 4,
+      "faceType": "",
+      "serifKey": "SERIF_REXER_PLAYER",
+      "voiceFilename": "",
+      "resourceName": "rexer",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 5,
+      "faceType": "",
+      "serifKey": "SERIF_REXER_HERO",
+      "voiceFilename": "",
+      "resourceName": "rexer",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 12,
+      "faceType": "c",
+      "serifKey": "SERIF_REXER_TOUCH",
+      "voiceFilename": "",
+      "resourceName": "rexer",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 3,
+      "faceType": "b",
+      "serifKey": "SERIF_REXER_DAILY",
+      "voiceFilename": "",
+      "resourceName": "rexer",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 6,
+      "faceType": "f",
+      "serifKey": "SERIF_REXER_RELATION",
+      "voiceFilename": "",
+      "resourceName": "rexer",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 11,
+      "faceType": "c",
+      "serifKey": "SERIF_REXER_APPRECIATION",
+      "voiceFilename": "",
+      "resourceName": "rexer",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 27,
+      "faceType": "c",
+      "serifKey": "SERIF_REXER_EVENTA",
+      "voiceFilename": "",
+      "resourceName": "rexer",
+      "isInHome": false
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 28,
+      "faceType": "",
+      "serifKey": "SERIF_REXER_EVENTB",
+      "voiceFilename": "",
+      "resourceName": "rexer",
+      "isInHome": false
+    }
+  ],
+  "11231": [
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 4,
+      "faceType": "c",
+      "serifKey": "SERIF_CERASTIUM_PLAYER",
+      "voiceFilename": "",
+      "resourceName": "cerastium",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 5,
+      "faceType": "f",
+      "serifKey": "SERIF_CERASTIUM_HERO",
+      "voiceFilename": "",
+      "resourceName": "cerastium",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 12,
+      "faceType": "f",
+      "serifKey": "SERIF_CERASTIUM_TOUCH",
+      "voiceFilename": "",
+      "resourceName": "cerastium",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 3,
+      "faceType": "",
+      "serifKey": "SERIF_CERASTIUM_DAILY",
+      "voiceFilename": "",
+      "resourceName": "cerastium",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 6,
+      "faceType": "",
+      "serifKey": "SERIF_CERASTIUM_RELATION",
+      "voiceFilename": "",
+      "resourceName": "cerastium",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 11,
+      "faceType": "c",
+      "serifKey": "SERIF_CERASTIUM_APPRECIATION",
+      "voiceFilename": "",
+      "resourceName": "cerastium",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 27,
+      "faceType": "g",
+      "serifKey": "SERIF_CERASTIUM_EVENTA",
+      "voiceFilename": "",
+      "resourceName": "cerastium",
+      "isInHome": false
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 28,
+      "faceType": "",
+      "serifKey": "SERIF_CERASTIUM_EVENTB",
+      "voiceFilename": "",
+      "resourceName": "cerastium",
       "isInHome": false
     }
   ],
