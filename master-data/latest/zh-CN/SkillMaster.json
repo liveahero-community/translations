@@ -749,7 +749,7 @@
     "resourceName": "status_defup",
     "subResourceName": "",
     "timing": 21,
-    "description": "敵全員の被ダメージ-30%",
+    "description": "敌全员の被ダメージ-30%",
     "cutin": [],
     "isEquip": false,
     "isHeroSkill": false,
@@ -780,7 +780,7 @@
     "resourceName": "status_awakening",
     "subResourceName": "",
     "timing": 4,
-    "description": "ターン開始時、敵全体に1回の行動の間覚醒付与",
+    "description": "ターン开始时、敌全体に1回の行动の间覚醒付与",
     "cutin": [],
     "isEquip": false,
     "isHeroSkill": false,
@@ -33241,7 +33241,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体に70%ダメージ。（敵専用）",
+    "description": "敌単体に70%ダメージ。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -33272,7 +33272,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_buffOwn",
     "timing": 0,
-    "description": "敵単体に100%ダメージ。自身に2ターンの間挑発を付与。（敵専用）",
+    "description": "敌単体に100%ダメージ。自身に2ターンの间挑発を付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -33312,7 +33312,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵全体に90%ダメージ+HPが減るほどダメージ量が上昇する。（敵専用）",
+    "description": "敌全体に90%ダメージ+HPが减るほどダメージ量が上升する。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -35235,13 +35235,13 @@
   },
   "4010101": {
     "skillId": 4010101,
-    "skillName": "教師の鉄拳",
+    "skillName": "教师の鉄拳",
     "useView": 0,
     "targetFlag": 2,
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体に80%ダメージ。（敵専用）",
+    "description": "敌単体に80%ダメージ。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -35272,7 +35272,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体に180%ダメージ。（敵専用）",
+    "description": "敌単体に180%ダメージ。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -51899,7 +51899,7 @@
     "resourceName": "b_skill_special",
     "subResourceName": "",
     "timing": 8,
-    "description": "自身にバフが付与された状態でダメージを受けた時、スキル1で反撃。",
+    "description": "自身にバフが付与された状态でダメージを受けた时、スキル1で反撃。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -52254,13 +52254,13 @@
   },
   "6010101": {
     "skillId": 6010101,
-    "skillName": "積極的アプローチ",
+    "skillName": "积极的アプローチ",
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "b_skill_special",
     "subResourceName": "",
     "timing": 12,
-    "description": "敵を対象にするスキルは敵の中で一番Atkが高いキャラクターを対象にする。",
+    "description": "敌を対象にするスキルは敌の中で一番Atkが高いキャラクターを対象にする。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -52284,7 +52284,7 @@
     "resourceName": "b_skill_special",
     "subResourceName": "",
     "timing": 20,
-    "description": "自身の攻撃で敵がダメージを受けた時、敵に2ターンの間二撃必殺を付与。二撃必殺が付与されているキャラクターに自身が攻撃した時、与えるダメージが3倍になる。",
+    "description": "自身の攻撃で敌がダメージを受けた时、敌に2ターンの间二撃必杀を付与。二撃必杀が付与されているキャラクターに自身が攻撃した时、与えるダメージが3倍になる。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -52302,13 +52302,13 @@
   },
   "6010103": {
     "skillId": 6010103,
-    "skillName": "二撃必殺",
+    "skillName": "二撃必杀",
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "b_skill_special",
     "subResourceName": "",
     "timing": 0,
-    "description": "自身の攻撃で敵がダメージを受けた時、敵に2ターンの間二撃必殺を付与。二撃必殺が付与されているキャラクターに自身が攻撃した時、与えるダメージが3倍になる。",
+    "description": "自身の攻撃で敌がダメージを受けた时、敌に2ターンの间二撃必杀を付与。二撃必杀が付与されているキャラクターに自身が攻撃した时、与えるダメージが3倍になる。",
     "cutin": [],
     "isEquip": false,
     "isHeroSkill": false,
