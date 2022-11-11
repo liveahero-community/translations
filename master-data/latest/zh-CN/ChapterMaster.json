@@ -2551,5 +2551,22 @@
     "startAt": "2022-10-20 18:00:00",
     "endAt": "2022-11-17 14:00:00",
     "executeLimit": null
+  },
+  "1013": {
+    "chapterId": 1013,
+    "groupType": 2,
+    "chapterType": 1,
+    "chapterName": "エピローグクエスト",
+    "subName": "バーチャルフェスタ・ロワイアル",
+    "peepingName": "エピローグクエスト",
+    "sortWeight": 1000,
+    "bannerResourceName": "ui_banner_questchoice_event_VirtualFesta2210_epilogue",
+    "bgResourceName": "ui_bg_sprite_quest_epilogue_VirtualFesta2210",
+    "selectBannerAddress": "banner_chapter_select_epilogue",
+    "helpPrefabAddress": "",
+    "missionGroupId": 0,
+    "startAt": null,
+    "endAt": "2022-11-17 14:00:00",
+    "executeLimit": null
   }
 }

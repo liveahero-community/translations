@@ -17441,6 +17441,60 @@
       }
     ]
   },
+  "20955": {
+    "missionId": 20955,
+    "missionCategory": 2,
+    "missionGroupId": 1010,
+    "missionTextKey": "MISSION_20955_LABEL",
+    "count": 1,
+    "sortWeight": 900,
+    "rewards": [
+      {
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 4000,
+        "bonus": 100,
+        "fixAddValue": 0,
+        "isAddDrop": false
+      }
+    ]
+  },
+  "20956": {
+    "missionId": 20956,
+    "missionCategory": 2,
+    "missionGroupId": 1010,
+    "missionTextKey": "MISSION_20956_LABEL",
+    "count": 1,
+    "sortWeight": 900,
+    "rewards": [
+      {
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 4000,
+        "bonus": 100,
+        "fixAddValue": 0,
+        "isAddDrop": false
+      }
+    ]
+  },
+  "20957": {
+    "missionId": 20957,
+    "missionCategory": 2,
+    "missionGroupId": 1010,
+    "missionTextKey": "MISSION_20957_LABEL",
+    "count": 1,
+    "sortWeight": 900,
+    "rewards": [
+      {
+        "rewardType": 3,
+        "objectId": 30,
+        "objectValue": 4000,
+        "bonus": 100,
+        "fixAddValue": 0,
+        "isAddDrop": false
+      }
+    ]
+  },
   "20958": {
     "missionId": 20958,
     "missionCategory": 2,
