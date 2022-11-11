@@ -4275,7 +4275,7 @@
     "eventId": 42,
     "chapterId": 1010,
     "lookBackChapterId": 1010,
-    "baseResourceName": "VirtualFesta2210",
+    "baseResourceName": "VirtualFesta2210_epilogue",
     "startAt": "2022-10-13 14:00:00",
     "endAt": "2022-11-17 14:00:00",
     "canRemember": 0,
@@ -4287,6 +4287,7 @@
         {
           "keys": [
             "UI_MAIN_QUEST",
+            "UI_EPILOGUE_QUEST",
             "UI_MISSION",
             "UI_EXCHANGE",
             "UI_HIGH_DIFFICULTY_QUEST"
@@ -4318,6 +4319,11 @@
           "type": 6,
           "chapterId": 1012,
           "buttonType": 1
+        },
+        {
+          "type": 7,
+          "chapterId": 1013,
+          "buttonType": 0
         }
       ],
       "tutorialKey": "VirtualFesta2210",
