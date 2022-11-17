@@ -1858,11 +1858,11 @@
   "25": {
     "eventId": 25,
     "chapterId": 445,
-    "lookBackChapterId": 513,
+    "lookBackChapterId": 0,
     "baseResourceName": "Meteorite2112",
     "startAt": null,
     "endAt": "2022-01-26 14:00:00",
-    "canRemember": 1,
+    "canRemember": 0,
     "eventPortalJson": {
       "bg": "ui_bg_sprite_event_Meteorite2112",
       "bgm": "bgm_meteorite_adv1",
