@@ -4601,5 +4601,227 @@
         "targetStockId": 10131
       }
     ]
+  },
+  "43": {
+    "eventId": 43,
+    "chapterId": 1014,
+    "lookBackChapterId": 0,
+    "baseResourceName": "MeteoriteRevival2211",
+    "startAt": null,
+    "endAt": "2022-12-08 14:00:00",
+    "canRemember": 0,
+    "eventPortalJson": {
+      "bg": "ui_bg_sprite_event_Meteorite2112",
+      "bgm": "bgm_meteorite_adv1",
+      "logo": "MeteoriteRevival2211_title",
+      "terms": [
+        {
+          "keys": [
+            "UI_MAIN_QUEST",
+            "UI_MISSION",
+            "UI_EXCHANGE",
+            "UI_EPILOGUE_QUEST"
+          ],
+          "endAt": "2022-12-08 14:00:00"
+        },
+        {
+          "keys": [
+            "UI_FREE_QUEST",
+            "UI_SALES"
+          ],
+          "endAt": "2022-12-01 20:00:00"
+        }
+      ],
+      "gachaId": 53,
+      "storeId": 32,
+      "questInfos": [
+        {
+          "type": 5,
+          "chapterId": 1014,
+          "buttonType": 0
+        },
+        {
+          "type": 6,
+          "chapterId": 1015,
+          "buttonType": 1
+        },
+        {
+          "type": 7,
+          "chapterId": 1017,
+          "buttonType": 0
+        }
+      ],
+      "tutorialKey": "MeteoriteRevival2211",
+      "eventItemIds": [
+        72
+      ],
+      "portalWindow": "WideTermEventPortalWindow",
+      "characterViews": [
+        {
+          "skinId": 0,
+          "stockId": 10022,
+          "cardType": 1,
+          "serifKinds": [
+            27,
+            28
+          ],
+          "visualType": 1,
+          "resourceName": "mokdaiMeteorite2112",
+          "characterName": "モクダイ"
+        },
+        {
+          "skinId": 0,
+          "stockId": 10292,
+          "cardType": 1,
+          "serifKinds": [
+            27,
+            28
+          ],
+          "visualType": 1,
+          "resourceName": "narihitoMeteorite2112",
+          "characterName": "ナリヒト"
+        },
+        {
+          "skinId": 0,
+          "stockId": 10821,
+          "cardType": 2,
+          "serifKinds": [
+            27,
+            28
+          ],
+          "visualType": 1,
+          "resourceName": "borealis",
+          "characterName": "ボレアリス"
+        }
+      ],
+      "salesRegionIds": [
+        221
+      ],
+      "missionGroupIds": [
+        1014
+      ],
+      "missionCategoryButtonLabels": null
+    },
+    "questBonusJsons": [
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 72,
+        "bonusValue": 10,
+        "targetStockId": 10821
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 72,
+        "bonusValue": 10,
+        "targetStockId": 10021
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 72,
+        "bonusValue": 10,
+        "targetStockId": 10291
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 72,
+        "bonusValue": 10,
+        "targetStockId": 19991
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 72,
+        "bonusValue": 40,
+        "targetStockId": 10022
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 72,
+        "bonusValue": 40,
+        "targetStockId": 10292
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 72,
+        "bonusValue": 30,
+        "targetStockId": 10821
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 72,
+        "bonusValue": 10,
+        "targetStockId": 10021
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 72,
+        "bonusValue": 10,
+        "targetStockId": 10291
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 72,
+        "bonusValue": 20,
+        "targetStockId": 10132
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 72,
+        "bonusValue": 20,
+        "targetStockId": 10632
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 72,
+        "bonusValue": 10,
+        "targetStockId": 11231
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 72,
+        "bonusValue": 10,
+        "targetStockId": 11221
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 72,
+        "bonusValue": 10,
+        "targetStockId": 10131
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 72,
+        "bonusValue": 10,
+        "targetStockId": 10631
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 72,
+        "bonusValue": 10,
+        "targetStockId": 11231
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 72,
+        "bonusValue": 10,
+        "targetStockId": 11221
+      }
+    ]
   }
 }
