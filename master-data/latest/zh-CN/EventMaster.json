@@ -4097,11 +4097,11 @@
   "41": {
     "eventId": 41,
     "chapterId": 493,
-    "lookBackChapterId": 0,
+    "lookBackChapterId": 517,
     "baseResourceName": "2ndAnniversary",
     "startAt": "2022-09-28 00:00:00",
     "endAt": "2022-10-31 23:59:59",
-    "canRemember": 0,
+    "canRemember": 1,
     "eventPortalJson": {
       "bg": "ui_bg_sprite_event_ContractWolfmanEarth2101",
       "bgm": "bgm_main",
@@ -4274,11 +4274,11 @@
   "42": {
     "eventId": 42,
     "chapterId": 1010,
-    "lookBackChapterId": 1010,
-    "baseResourceName": "VirtualFesta2210_epilogue",
+    "lookBackChapterId": 518,
+    "baseResourceName": "VirtualFesta2210",
     "startAt": "2022-10-13 14:00:00",
     "endAt": "2022-11-17 14:00:00",
-    "canRemember": 0,
+    "canRemember": 1,
     "eventPortalJson": {
       "bg": "ui_bg_sprite_event_VirtualFesta2210",
       "bgm": "bgm_virtualfesta_adv",
