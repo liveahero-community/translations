@@ -4835,7 +4835,7 @@
     "chapterId": 1021,
     "lookBackChapterId": 0,
     "baseResourceName": "ContractGuardman2212",
-    "startAt": null,
+    "startAt": "2022-12-08 20:00:00",
     "endAt": "2022-12-29 14:00:00",
     "canRemember": 0,
     "eventPortalJson": {
@@ -4941,7 +4941,18 @@
     "chapterId": 1019,
     "lookBackChapterId": 0,
     "baseResourceName": "campaignMeteor",
-    "startAt": null,
+    "startAt": "2020-10-10 20:00:00",
+    "endAt": "2022-12-22 14:00:00",
+    "canRemember": 0,
+    "eventPortalJson": null,
+    "questBonusJsons": []
+  },
+  "47": {
+    "eventId": 47,
+    "chapterId": 1020,
+    "lookBackChapterId": 0,
+    "baseResourceName": "campaignGhost",
+    "startAt": "2022-12-13 18:00:00",
     "endAt": "2022-12-22 14:00:00",
     "canRemember": 0,
     "eventPortalJson": null,

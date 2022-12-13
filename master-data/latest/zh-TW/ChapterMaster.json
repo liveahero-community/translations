@@ -3016,7 +3016,7 @@
     "chapterName": "キャンペーン<br>スコアアタック",
     "subName": "隕石型カイブツ",
     "peepingName": "スコアアタック<br>隕石型カイブツ",
-    "sortWeight": 1000,
+    "sortWeight": 1003,
     "bannerResourceName": "ui_banner_questchoice_strongenemy",
     "bgResourceName": "ui_bg_sprite_strongenemy",
     "selectBannerAddress": "ui_banner_event_questbanner_campaignMeteor",
@@ -3027,6 +3027,27 @@
       137
     ],
     "startAt": null,
+    "endAt": "2022-12-22 14:00:00",
+    "executeLimit": null
+  },
+  "1020": {
+    "chapterId": 1020,
+    "groupType": 7,
+    "chapterType": 1,
+    "chapterName": "キャンペーン<br>スコアアタック",
+    "subName": "幽霊型カイブツ",
+    "peepingName": "スコアアタック<br>幽霊型カイブツ",
+    "sortWeight": 1002,
+    "bannerResourceName": "ui_banner_questchoice_strongenemy",
+    "bgResourceName": "ui_bg_sprite_strongenemy",
+    "selectBannerAddress": "ui_banner_event_questbanner_campaignGhost",
+    "helpPrefabAddress": "WinterCampaign2212ScoreAttackHelpWindow",
+    "missionGroupId": 1020,
+    "scoreAttackStoreId": 34,
+    "scoreAttackItemIds": [
+      137
+    ],
+    "startAt": "2022-12-13 18:00:00",
     "endAt": "2022-12-22 14:00:00",
     "executeLimit": null
   },
