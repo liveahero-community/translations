@@ -3009,6 +3009,27 @@
     "endAt": "2022-12-08 14:00:00",
     "executeLimit": null
   },
+  "1018": {
+    "chapterId": 1018,
+    "groupType": 7,
+    "chapterType": 1,
+    "chapterName": "キャンペーン<br>スコアアタック",
+    "subName": "首長竜型カイブツ",
+    "peepingName": "スコアアタック<br>首長竜型カイブツ",
+    "sortWeight": 1001,
+    "bannerResourceName": "ui_banner_questchoice_strongenemy",
+    "bgResourceName": "ui_bg_sprite_strongenemy",
+    "selectBannerAddress": "ui_banner_event_questbanner_campaignCetus",
+    "helpPrefabAddress": "WinterCampaign2212ScoreAttackHelpWindow",
+    "missionGroupId": 1018,
+    "scoreAttackStoreId": 34,
+    "scoreAttackItemIds": [
+      137
+    ],
+    "startAt": "2022-12-15 18:00:00",
+    "endAt": "2022-12-22 14:00:00",
+    "executeLimit": null
+  },
   "1019": {
     "chapterId": 1019,
     "groupType": 7,
