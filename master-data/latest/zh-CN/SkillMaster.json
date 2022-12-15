@@ -54168,7 +54168,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "s_skill_debuffAll",
     "timing": 0,
-    "description": "敵全体に70%ダメージ。75%の確率で2ターンの間火傷を付与。40%の確率で2ターンの間回復無効を付与。（敵専用）",
+    "description": "敌全体に70%ダメージ。75%の确率で2ターンの间火伤を付与。40%の确率で2ターンの间回复无効を付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -54217,7 +54217,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "s_skill_debuffAll",
     "timing": 0,
-    "description": "敵全体に100%ダメージ。自身にシールドが付与されている場合、威力増加。自身に付与されているデバフが2個以下の場合、敵全体に2ターンの間沈黙を付与。（敵専用）",
+    "description": "敌全体に100%ダメージ。自身にシールドが付与されている场合、威力増加。自身に付与されているデバフが2个以下の场合、敌全体に2ターンの间沈黙を付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -54264,7 +54264,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_spdDownTeam",
     "timing": 0,
-    "description": "敵単体に60%ダメージ。2回の行動の間SPDダウンを付与。自身にデバフが付与されていない場合、ダメージ増加。発動後、ランダムな敵にスキル１を追加発動。【ピンチ状態時追加効果】敵単体のバフを１つ解除。（敵専用）",
+    "description": "敌単体に60%ダメージ。2回の行动の间SPDダウンを付与。自身にデバフが付与されていない场合、ダメージ増加。発动后、ランダムな敌にスキル１を追加発动。【ピンチ状态时追加効果】敌単体のバフを１つ解除。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -55631,7 +55631,7 @@
     "resourceName": "b_skill_cure",
     "subResourceName": "",
     "timing": 1,
-    "description": "毒・火傷が付与される確率が50%減少＆沈黙無効。相手から受けるダメージの上限を25000にする。",
+    "description": "毒・火伤が付与される确率が50%减少＆沈黙无効。相手から受けるダメージの上限を25000にする。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -60726,13 +60726,13 @@
   },
   "6121111": {
     "skillId": 6121111,
-    "skillName": "発動準備",
+    "skillName": "発动准备",
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "b_skill_buff",
     "subResourceName": "s_skill_cureOwn",
     "timing": 4,
-    "description": "「オブセッシオ」を発動するターンの開始時、自身に3回のシールドを付与し、ウェイトする。<br>\r【ピンチ状態時追加効果】自身のデバフを2つ解除し、自身に1回の行動の間覚醒を付与。",
+    "description": "「オブセッシオ」を発动するターンの开始时、自身に3回のシールドを付与し、ウェイトする。<br>\r【ピンチ状态时追加効果】自身のデバフを2つ解除し、自身に1回の行动の间覚醒を付与。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
