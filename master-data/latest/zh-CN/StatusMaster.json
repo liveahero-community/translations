@@ -1016,58 +1016,58 @@
   },
   "151": {
     "statusId": 151,
-    "statusName": "観測集中",
+    "statusName": "観测集中",
     "isGoodStatus": 1,
     "statusType": 1,
-    "description": "スキルを発動するViewが不足している場合、数値だけViewを獲得できる"
+    "description": "スキルを発动するViewが不足している场合、数値だけViewを获得できる"
   },
   "152": {
     "statusId": 152,
     "statusName": "発明品:ATKアップ",
     "isGoodStatus": 1,
     "statusType": 1,
-    "description": "0ターン目になる瞬間、永続的に発動するATKが10%増加する効果を付与する。ターン数延長の効果を受けない。"
+    "description": "0ターン目になる瞬间、永続的に発动するATKが10%増加する効果を付与する。ターン数延长の効果を受けない。"
   },
   "153": {
     "statusId": 153,
     "statusName": "発明品:DEFアップ",
     "isGoodStatus": 1,
     "statusType": 1,
-    "description": "0ターン目になる瞬間、永続的に発動する被ダメージが10%減少する効果を付与する。ターン数延長の効果を受けない。"
+    "description": "0ターン目になる瞬间、永続的に発动する被ダメージが10%减少する効果を付与する。ターン数延长の効果を受けない。"
   },
   "154": {
     "statusId": 154,
-    "statusName": "発明品:回復",
+    "statusName": "発明品:回复",
     "isGoodStatus": 1,
     "statusType": 1,
-    "description": "0ターン目になる瞬間、HP最大値の20％を回復する。ターン数延長の効果を受けない。"
+    "description": "0ターン目になる瞬间、HP最大値の20％を回复する。ターン数延长の効果を受けない。"
   },
   "155": {
     "statusId": 155,
     "statusName": "追撃",
     "isGoodStatus": 2,
     "statusType": 2,
-    "description": "<size=17>自身以外のランダムな味方が、同じ攻撃対象にスキル1を使用する。そのスキルが味方を対象とする場合は、ランダムな味方を対象とする。追撃の対象が戦闘不能の場合は発動しない。</size>"
+    "description": "<size=17>自身以外のランダムな味方が、同じ攻撃対象にスキル1を使用する。そのスキルが味方を対象とする场合は、ランダムな味方を対象とする。追撃の対象が戦闘不能の场合は発动しない。</size>"
   },
   "156": {
     "statusId": 156,
-    "statusName": "回復スキル",
+    "statusName": "回复スキル",
     "isGoodStatus": 2,
     "statusType": 2,
-    "description": "自身の基礎Atkに応じて回復量が変化する、味方のHPを回復するスキル"
+    "description": "自身の基础Atkに応じて回复量が変化する、味方のHPを回复するスキル"
   },
   "157": {
     "statusId": 157,
     "statusName": "氷壁",
     "isGoodStatus": 1,
     "statusType": 2,
-    "description": "相手からのダメージを無効化する。ダメージ時に消費され、ターン終了時に解除される。スキルによる解除不可。"
+    "description": "相手からのダメージを无効化する。ダメージ时に消费され、ターン终了时に解除される。スキルによる解除不可。"
   },
   "158": {
     "statusId": 158,
-    "statusName": "誘発",
+    "statusName": "诱発",
     "isGoodStatus": 2,
     "statusType": 2,
-    "description": "指定した味方が、ランダムな敵にスキル1を使用する。スキル1が味方を対象とする場合は、ランダムな味方にスキル1を使用する。"
+    "description": "指定した味方が、ランダムな敌にスキル1を使用する。スキル1が味方を対象とする场合は、ランダムな味方にスキル1を使用する。"
   }
 }

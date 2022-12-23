@@ -9002,7 +9002,7 @@
     "resourceName": "b_skill_buff",
     "subResourceName": "s_skill_spdUpTeam",
     "timing": 0,
-    "description": "味方単体に1回の行動の間幸運を付与。Viewが5000以上ある場合、対象に1回の行動の間SPDアップを付与。",
+    "description": "味方単体に1回の行动の间幸运を付与。Viewが5000以上ある场合、対象に1回の行动の间SPDアップを付与。",
     "cutin": [
       {
         "info": {
@@ -9049,7 +9049,7 @@
     "resourceName": "b_skill_buff",
     "subResourceName": "s_skill_buffOwn",
     "timing": 0,
-    "description": "自身に2ターンの間挑発を付与。2回分のDEFアップを付与。【ダメージ時】自身に鼓舞を1つ付与。【行動開始時】自身に付与されている鼓舞の数×2000のViewを獲得し、鼓舞を全て解除。",
+    "description": "自身に2ターンの间挑発を付与。2回分のDEFアップを付与。【ダメージ时】自身に鼓舞を1つ付与。【行动开始时】自身に付与されている鼓舞の数×2000のViewを获得し、鼓舞を全て解除。",
     "cutin": [
       {
         "info": {
@@ -9098,7 +9098,7 @@
     "resourceName": "b_skill_buff",
     "subResourceName": "s_skill_buffAll",
     "timing": 0,
-    "description": "自身に1ターンの間弱体抵抗+100を付与。自身以外の味方全体に1ターンの間シールドを付与。このスキルは発動後、3ターンの間使用できなくなる。",
+    "description": "自身に1ターンの间弱体抵抗+100を付与。自身以外の味方全体に1ターンの间シールドを付与。このスキルは発动后、3ターンの间使用できなくなる。",
     "cutin": [
       {
         "info": {
@@ -9147,7 +9147,7 @@
     "resourceName": "b_skill_buff",
     "subResourceName": "s_skill_buffOwn",
     "timing": 0,
-    "description": "自身に2ターンの間挑発を付与。2回分のDEFアップを付与。【ダメージ時】自身に鼓舞を1つ付与。【行動開始時】自身に付与されている鼓舞の数×2000のViewを獲得し、鼓舞を全て解除。",
+    "description": "自身に2ターンの间挑発を付与。2回分のDEFアップを付与。【ダメージ时】自身に鼓舞を1つ付与。【行动开始时】自身に付与されている鼓舞の数×2000のViewを获得し、鼓舞を全て解除。",
     "cutin": [
       {
         "info": {
@@ -15417,7 +15417,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_combo",
     "timing": 0,
-    "description": "敵単体に2～4回、20%のダメージ。2回目以降はコンボ数+1の追加効果。自身のスキル発動確率上昇効果が高いほど、回数が多くなりやすくなる。",
+    "description": "敌単体に2～4回、20%のダメージ。2回目以降はコンボ数+1の追加効果。自身のスキル発动确率上升効果が高いほど、回数が多くなりやすくなる。",
     "cutin": [
       {
         "info": {
@@ -15502,7 +15502,7 @@
     "resourceName": "b_skill_view",
     "subResourceName": "s_skill_buffTeam",
     "timing": 0,
-    "description": "Viewを2000獲得。味方単体に3回の行動後に発動するランダムな発明品を1つ付与。同種の発明品は5個までしか付与できない。",
+    "description": "Viewを2000获得。味方単体に3回の行动后に発动するランダムな発明品を1つ付与。同种の発明品は5个までしか付与できない。",
     "cutin": [
       {
         "info": {
@@ -15581,7 +15581,7 @@
     "resourceName": "b_skill_buff",
     "subResourceName": "",
     "timing": 0,
-    "description": "味方単体に3回の行動の間ATKアップを付与。【常時発動】自身の使用するダメージを与えないスキルのView消費量-500。",
+    "description": "味方単体に3回の行动の间ATKアップを付与。【常时発动】自身の使用するダメージを与えないスキルのView消费量-500。",
     "cutin": [
       {
         "info": {
@@ -15612,7 +15612,7 @@
     "resourceName": "b_skill_buff",
     "subResourceName": "s_skill_cureTeam",
     "timing": 0,
-    "description": "味方単体に3回の行動の間ATKアップを付与。デバフを２つ解除。【常時発動】自身の使用するダメージを与えないスキルのView消費量-500。",
+    "description": "味方単体に3回の行动の间ATKアップを付与。デバフを２つ解除。【常时発动】自身の使用するダメージを与えないスキルのView消费量-500。",
     "cutin": [
       {
         "info": {
@@ -15652,7 +15652,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_combo",
     "timing": 0,
-    "description": "敵単体に60%ダメージ。コンボ数+1。",
+    "description": "敌単体に60%ダメージ。コンボ数+1。",
     "cutin": [
       {
         "info": {
@@ -15692,7 +15692,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "敵単体に130%ダメージ。70%の確率で2回分のDEFダウンを付与。",
+    "description": "敌単体に130%ダメージ。70%の确率で2回分のDEFダウンを付与。",
     "cutin": [
       {
         "info": {
@@ -15732,7 +15732,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "s_skill_heal",
     "timing": 0,
-    "description": "敵全体からランダムに3回50%ダメージ。ダメージの度にチームで一番HPが減っているヒーローのHPを敵に与えたダメージの50％回復。",
+    "description": "敌全体からランダムに3回50%ダメージ。ダメージの度にチームで一番HPが减っているヒーローのHPを敌に与えたダメージの50％回复。",
     "cutin": [
       {
         "info": {
@@ -15781,7 +15781,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "s_skill_heal",
     "timing": 0,
-    "description": "敵全体からランダムに3回50%ダメージ。ダメージの度にチームで一番HPが減っているヒーローのHPを敵に与えたダメージの50％回復。",
+    "description": "敌全体からランダムに3回50%ダメージ。ダメージの度にチームで一番HPが减っているヒーローのHPを敌に与えたダメージの50％回复。",
     "cutin": [
       {
         "info": {
@@ -23966,13 +23966,13 @@
   },
   "2125101": {
     "skillId": 2125101,
-    "skillName": "先進的大発明",
+    "skillName": "先进的大発明",
     "useView": 3500,
     "targetFlag": 1,
     "resourceName": "b_skill_spdUp",
     "subResourceName": "s_skill_combo",
     "timing": 0,
-    "description": "味方単体に1回の行動の間SPDアップを付与。コンボ数+2。",
+    "description": "味方単体に1回の行动の间SPDアップを付与。コンボ数+2。",
     "cutin": [
       {
         "info": {
@@ -24006,13 +24006,13 @@
   },
   "2125102": {
     "skillId": 2125102,
-    "skillName": "先進的大発明+",
+    "skillName": "先进的大発明+",
     "useView": 3000,
     "targetFlag": 1,
     "resourceName": "b_skill_spdUp",
     "subResourceName": "s_skill_combo",
     "timing": 0,
-    "description": "味方単体に1回の行動の間SPDアップを付与。コンボ数+2。",
+    "description": "味方単体に1回の行动の间SPDアップを付与。コンボ数+2。",
     "cutin": [
       {
         "info": {
@@ -24046,13 +24046,13 @@
   },
   "2125103": {
     "skillId": 2125103,
-    "skillName": "先進的大発明++",
+    "skillName": "先进的大発明++",
     "useView": 2500,
     "targetFlag": 1,
     "resourceName": "b_skill_spdUp",
     "subResourceName": "s_skill_combo",
     "timing": 0,
-    "description": "味方単体に1回の行動の間SPDアップを付与。コンボ数+2。",
+    "description": "味方単体に1回の行动の间SPDアップを付与。コンボ数+2。",
     "cutin": [
       {
         "info": {
@@ -24092,7 +24092,7 @@
     "resourceName": "b_skill_heal",
     "subResourceName": "s_skill_buffTeam",
     "timing": 0,
-    "description": "味方単体のHPを基礎ATKの90%回復する。対象がピンチ状態の時、1回分のDEFアップを付与。",
+    "description": "味方単体のHPを基础ATKの90%回复する。対象がピンチ状态の时、1回分のDEFアップを付与。",
     "cutin": [
       {
         "info": {
@@ -24139,7 +24139,7 @@
     "resourceName": "b_skill_heal",
     "subResourceName": "s_skill_buffTeam",
     "timing": 0,
-    "description": "味方単体のHPを基礎ATKの90%回復する。対象がピンチ状態の時、1回分のDEFアップを付与。",
+    "description": "味方単体のHPを基础ATKの90%回复する。対象がピンチ状态の时、1回分のDEFアップを付与。",
     "cutin": [
       {
         "info": {
@@ -24186,7 +24186,7 @@
     "resourceName": "b_skill_heal",
     "subResourceName": "s_skill_buffTeam",
     "timing": 0,
-    "description": "味方単体のHPを基礎ATKの90%回復する。対象がピンチ状態の時、1回分のDEFアップを付与。",
+    "description": "味方単体のHPを基础ATKの90%回复する。対象がピンチ状态の时、1回分のDEFアップを付与。",
     "cutin": [
       {
         "info": {
@@ -35477,7 +35477,7 @@
     "resourceName": "icon_viscunam_s01",
     "subResourceName": "",
     "timing": 15,
-    "description": "自身にバフが付与された時、15%の確率でコンボ数+1。",
+    "description": "自身にバフが付与された时、15%の确率でコンボ数+1。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -35501,7 +35501,7 @@
     "resourceName": "icon_viscunam_s01",
     "subResourceName": "",
     "timing": 15,
-    "description": "自身にバフが付与された時、18%の確率でコンボ数+1。",
+    "description": "自身にバフが付与された时、18%の确率でコンボ数+1。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -35525,7 +35525,7 @@
     "resourceName": "icon_viscunam_s01",
     "subResourceName": "",
     "timing": 15,
-    "description": "自身にバフが付与された時、21%の確率でコンボ数+1。",
+    "description": "自身にバフが付与された时、21%の确率でコンボ数+1。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -35549,7 +35549,7 @@
     "resourceName": "icon_viscunam_s01",
     "subResourceName": "",
     "timing": 15,
-    "description": "自身にバフが付与された時、24%の確率でコンボ数+1。",
+    "description": "自身にバフが付与された时、24%の确率でコンボ数+1。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -35573,7 +35573,7 @@
     "resourceName": "icon_viscunam_s01",
     "subResourceName": "",
     "timing": 15,
-    "description": "自身にバフが付与された時、27%の確率でコンボ数+1。",
+    "description": "自身にバフが付与された时、27%の确率でコンボ数+1。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -35597,7 +35597,7 @@
     "resourceName": "icon_viscunam_s01",
     "subResourceName": "",
     "timing": 15,
-    "description": "自身にバフが付与された時、30%の確率でコンボ数+1。",
+    "description": "自身にバフが付与された时、30%の确率でコンボ数+1。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -35615,13 +35615,13 @@
   },
   "3126101": {
     "skillId": 3126101,
-    "skillName": "癒しのリズムⅠ",
+    "skillName": "愈しのリズムⅠ",
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "icon_sensettia_s01",
     "subResourceName": "",
     "timing": 1,
-    "description": "自身が使用する回復スキルのHP回復量+5%。オート行動時、味方を対象にするスキルは味方の中で一番ダメージを受けているキャラクターを対象にする",
+    "description": "自身が使用する回复スキルのHP回复量+5%。オート行动时、味方を対象にするスキルは味方の中で一番ダメージを受けているキャラクターを対象にする",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -35639,13 +35639,13 @@
   },
   "3126102": {
     "skillId": 3126102,
-    "skillName": "癒しのリズムⅡ",
+    "skillName": "愈しのリズムⅡ",
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "icon_sensettia_s01",
     "subResourceName": "",
     "timing": 1,
-    "description": "自身が使用する回復スキルのHP回復量+6%。オート行動時、味方を対象にするスキルは味方の中で一番ダメージを受けているキャラクターを対象にする",
+    "description": "自身が使用する回复スキルのHP回复量+6%。オート行动时、味方を対象にするスキルは味方の中で一番ダメージを受けているキャラクターを対象にする",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -35663,13 +35663,13 @@
   },
   "3126103": {
     "skillId": 3126103,
-    "skillName": "癒しのリズムⅢ",
+    "skillName": "愈しのリズムⅢ",
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "icon_sensettia_s01",
     "subResourceName": "",
     "timing": 1,
-    "description": "自身が使用する回復スキルのHP回復量+7%。オート行動時、味方を対象にするスキルは味方の中で一番ダメージを受けているキャラクターを対象にする",
+    "description": "自身が使用する回复スキルのHP回复量+7%。オート行动时、味方を対象にするスキルは味方の中で一番ダメージを受けているキャラクターを対象にする",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -35687,13 +35687,13 @@
   },
   "3126104": {
     "skillId": 3126104,
-    "skillName": "癒しのリズムⅣ",
+    "skillName": "愈しのリズムⅣ",
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "icon_sensettia_s01",
     "subResourceName": "",
     "timing": 1,
-    "description": "自身が使用する回復スキルのHP回復量+8%。オート行動時、味方を対象にするスキルは味方の中で一番ダメージを受けているキャラクターを対象にする",
+    "description": "自身が使用する回复スキルのHP回复量+8%。オート行动时、味方を対象にするスキルは味方の中で一番ダメージを受けているキャラクターを対象にする",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -35711,13 +35711,13 @@
   },
   "3126105": {
     "skillId": 3126105,
-    "skillName": "癒しのリズムⅤ",
+    "skillName": "愈しのリズムⅤ",
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "icon_sensettia_s01",
     "subResourceName": "",
     "timing": 1,
-    "description": "自身が使用するスキルのHP回復量+9%。オート行動時、味方を対象にするスキルは味方の中で一番ダメージを受けているキャラクターを対象にする",
+    "description": "自身が使用するスキルのHP回复量+9%。オート行动时、味方を対象にするスキルは味方の中で一番ダメージを受けているキャラクターを対象にする",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -35741,7 +35741,7 @@
     "resourceName": "icon_sensettia_s01",
     "subResourceName": "",
     "timing": 1,
-    "description": "自身が使用するスキルのHP回復量+10%。オート行動時、味方を対象にするスキルは味方の中で一番ダメージを受けているキャラクターを対象にする",
+    "description": "自身が使用するスキルのHP回复量+10%。オート行动时、味方を対象にするスキルは味方の中で一番ダメージを受けているキャラクターを対象にする",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -43511,7 +43511,7 @@
     "resourceName": "b_skill_buff",
     "subResourceName": "",
     "timing": 0,
-    "description": "自身に2回の行動の間ATKアップを付与。1回分のDEFアップを付与。（敵専用）",
+    "description": "自身に2回の行动の间ATKアップを付与。1回分のDEFアップを付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -43545,13 +43545,13 @@
   },
   "4036122": {
     "skillId": 4036122,
-    "skillName": "成長促進",
+    "skillName": "成长促进",
     "useView": 4000,
     "targetFlag": 1,
     "resourceName": "b_skill_buff",
     "subResourceName": "",
     "timing": 0,
-    "description": "味方単体に2回の行動の間ATKアップを付与。（敵専用）",
+    "description": "味方単体に2回の行动の间ATKアップを付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -43634,13 +43634,13 @@
   },
   "4038101": {
     "skillId": 4038101,
-    "skillName": "連続噛み付き",
+    "skillName": "连続噛み付き",
     "useView": 5000,
     "targetFlag": 2,
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体に100%ダメージ。スキル１を追加発動。（敵専用）",
+    "description": "敌単体に100%ダメージ。スキル１を追加発动。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -52554,7 +52554,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体に70%ダメージ。（敵専用）",
+    "description": "敌単体に70%ダメージ。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -52585,7 +52585,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_spdDownTeam",
     "timing": 0,
-    "description": "敵単体に130%ダメージ。2回の行動の間SPDダウンを付与。（敵専用）",
+    "description": "敌単体に130%ダメージ。2回の行动の间SPDダウンを付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -58771,13 +58771,13 @@
   },
   "6036107": {
     "skillId": 6036107,
-    "skillName": "支援行動",
+    "skillName": "支援行动",
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "b_skill_special",
     "subResourceName": "",
     "timing": 12,
-    "description": "オート行動時、味方を対象にするスキルは味方の中で一番Atkが高いキャラクターを対象にする。",
+    "description": "オート行动时、味方を対象にするスキルは味方の中で一番Atkが高いキャラクターを対象にする。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -63852,7 +63852,7 @@
     "resourceName": "",
     "subResourceName": "",
     "timing": 12,
-    "description": "オート行動時、味方を対象にするスキルは味方の中で一番Spdが低いキャラクターを対象にする。",
+    "description": "オート行动时、味方を対象にするスキルは味方の中で一番Spdが低いキャラクターを対象にする。",
     "cutin": [],
     "isEquip": false,
     "isHeroSkill": false,
