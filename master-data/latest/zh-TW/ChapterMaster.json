@@ -3090,5 +3090,43 @@
     "startAt": null,
     "endAt": "2022-12-22 14:00:00",
     "executeLimit": null
+  },
+  "1022": {
+    "chapterId": 1022,
+    "groupType": 2,
+    "chapterType": 1,
+    "chapterName": "イベントメインクエスト",
+    "subName": "クリスマスメルト・カウントダウン",
+    "peepingName": "メインクエスト",
+    "sortWeight": 1000,
+    "bannerResourceName": "ui_banner_questchoice_event_XmasMelt2212",
+    "bgResourceName": "ui_bg_sprite_quest_XmasMelt2212",
+    "selectBannerAddress": "banner_chapter_select_main",
+    "helpPrefabAddress": "",
+    "missionGroupId": 0,
+    "scoreAttackStoreId": 0,
+    "scoreAttackItemIds": null,
+    "startAt": null,
+    "endAt": "2023-01-20 14:00:00",
+    "executeLimit": null
+  },
+  "1023": {
+    "chapterId": 1023,
+    "groupType": 2,
+    "chapterType": 1,
+    "chapterName": "イベントフリークエスト",
+    "subName": "クリスマスメルト・カウントダウン",
+    "peepingName": "フリークエスト",
+    "sortWeight": 1000,
+    "bannerResourceName": "ui_banner_questchoice_event_XmasMelt2212_free",
+    "bgResourceName": "ui_bg_sprite_quest_free_XmasMelt2212",
+    "selectBannerAddress": "banner_chapter_select_free",
+    "helpPrefabAddress": "",
+    "missionGroupId": 0,
+    "scoreAttackStoreId": 0,
+    "scoreAttackItemIds": null,
+    "startAt": null,
+    "endAt": "2023-01-13 20:00:00",
+    "executeLimit": null
   }
 }

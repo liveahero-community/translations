@@ -2815,6 +2815,58 @@
       "isInHome": true
     }
   ],
+  "10332": [
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 4,
+      "faceType": "c",
+      "serifKey": "SERIF_GOMEISAXMASMELT2212_PLAYER",
+      "voiceFilename": "",
+      "resourceName": "gomeisaXmasMelt2212",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 5,
+      "faceType": "f",
+      "serifKey": "SERIF_GOMEISAXMASMELT2212_HERO",
+      "voiceFilename": "",
+      "resourceName": "gomeisaXmasMelt2212",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 12,
+      "faceType": "b",
+      "serifKey": "SERIF_GOMEISAXMASMELT2212_TOUCH",
+      "voiceFilename": "",
+      "resourceName": "gomeisaXmasMelt2212",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 27,
+      "faceType": "",
+      "serifKey": "SERIF_GOMEISAXMASMELT2212_EVENTA",
+      "voiceFilename": "",
+      "resourceName": "gomeisaXmasMelt2212",
+      "isInHome": false
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 28,
+      "faceType": "c",
+      "serifKey": "SERIF_GOMEISAXMASMELT2212_EVENTB",
+      "voiceFilename": "",
+      "resourceName": "gomeisaXmasMelt2212",
+      "isInHome": false
+    }
+  ],
   "10341": [
     {
       "cardType": 2,
@@ -5868,6 +5920,170 @@
       "serifKey": "SERIF_CERASTIUM_EVENTB",
       "voiceFilename": "",
       "resourceName": "cerastium",
+      "isInHome": false
+    }
+  ],
+  "11251": [
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 4,
+      "faceType": "f",
+      "serifKey": "SERIF_VISCUNAM_PLAYER",
+      "voiceFilename": "",
+      "resourceName": "viscunam",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 5,
+      "faceType": "c",
+      "serifKey": "SERIF_VISCUNAM_HERO",
+      "voiceFilename": "",
+      "resourceName": "viscunam",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 12,
+      "faceType": "g",
+      "serifKey": "SERIF_VISCUNAM_TOUCH",
+      "voiceFilename": "",
+      "resourceName": "viscunam",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 3,
+      "faceType": "",
+      "serifKey": "SERIF_VISCUNAM_DAILY",
+      "voiceFilename": "",
+      "resourceName": "viscunam",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 6,
+      "faceType": "d",
+      "serifKey": "SERIF_VISCUNAM_RELATION",
+      "voiceFilename": "",
+      "resourceName": "viscunam",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 11,
+      "faceType": "c",
+      "serifKey": "SERIF_VISCUNAM_APPRECIATION",
+      "voiceFilename": "",
+      "resourceName": "viscunam",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 27,
+      "faceType": "",
+      "serifKey": "SERIF_VISCUNAM_EVENTA",
+      "voiceFilename": "",
+      "resourceName": "viscunam",
+      "isInHome": false
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 28,
+      "faceType": "g",
+      "serifKey": "SERIF_VISCUNAM_EVENTB",
+      "voiceFilename": "",
+      "resourceName": "viscunam",
+      "isInHome": false
+    }
+  ],
+  "11261": [
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 4,
+      "faceType": "d",
+      "serifKey": "SERIF_SENSETTIA_PLAYER",
+      "voiceFilename": "",
+      "resourceName": "sensettia",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 5,
+      "faceType": "f",
+      "serifKey": "SERIF_SENSETTIA_HERO",
+      "voiceFilename": "",
+      "resourceName": "sensettia",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 12,
+      "faceType": "h",
+      "serifKey": "SERIF_SENSETTIA_TOUCH",
+      "voiceFilename": "",
+      "resourceName": "sensettia",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 3,
+      "faceType": "c",
+      "serifKey": "SERIF_SENSETTIA_DAILY",
+      "voiceFilename": "",
+      "resourceName": "sensettia",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 6,
+      "faceType": "b",
+      "serifKey": "SERIF_SENSETTIA_RELATION",
+      "voiceFilename": "",
+      "resourceName": "sensettia",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 11,
+      "faceType": "",
+      "serifKey": "SERIF_SENSETTIA_APPRECIATION",
+      "voiceFilename": "",
+      "resourceName": "sensettia",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 27,
+      "faceType": "c",
+      "serifKey": "SERIF_SENSETTIA_EVENTA",
+      "voiceFilename": "",
+      "resourceName": "sensettia",
+      "isInHome": false
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 28,
+      "faceType": "",
+      "serifKey": "SERIF_SENSETTIA_EVENTB",
+      "voiceFilename": "",
+      "resourceName": "sensettia",
       "isInHome": false
     }
   ],

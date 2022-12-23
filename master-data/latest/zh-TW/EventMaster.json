@@ -5080,5 +5080,200 @@
       "missionCategoryButtonLabels": null
     },
     "questBonusJsons": []
+  },
+  "49": {
+    "eventId": 49,
+    "chapterId": 1022,
+    "lookBackChapterId": 0,
+    "baseResourceName": "XmasMelt2212",
+    "startAt": "2022-12-22 14:00:00",
+    "endAt": "2023-01-20 14:00:00",
+    "canRemember": 0,
+    "eventPortalJson": {
+      "bg": "ui_bg_sprite_event_XmasMelt2212",
+      "bgm": "bgm_xmasmelt_adv",
+      "logo": "XmasMelt2212_title",
+      "terms": [
+        {
+          "keys": [
+            "UI_MAIN_QUEST",
+            "UI_MISSION",
+            "UI_EXCHANGE"
+          ],
+          "endAt": "2023-01-20 14:00:00"
+        },
+        {
+          "keys": [
+            "UI_FREE_QUEST",
+            "UI_SALES"
+          ],
+          "endAt": "2023-01-13 20:00:00"
+        }
+      ],
+      "gachaId": 55,
+      "storeId": 35,
+      "questInfos": [
+        {
+          "type": 5,
+          "chapterId": 1022,
+          "buttonType": 0
+        },
+        {
+          "type": 6,
+          "chapterId": 1023,
+          "buttonType": 1
+        }
+      ],
+      "tutorialKey": "XmasMelt2212",
+      "eventItemIds": [
+        147
+      ],
+      "portalWindow": "WideTermEventPortalWindow",
+      "characterViews": [
+        {
+          "skinId": 0,
+          "stockId": 10332,
+          "cardType": 1,
+          "serifKinds": [
+            27,
+            28
+          ],
+          "visualType": 1,
+          "resourceName": "gomeisaXmasMelt2212",
+          "characterName": "ゴメイサ"
+        },
+        {
+          "skinId": 0,
+          "stockId": 11251,
+          "cardType": 2,
+          "serifKinds": [
+            27,
+            28
+          ],
+          "visualType": 1,
+          "resourceName": "viscunam",
+          "characterName": "ヴィスカナム"
+        },
+        {
+          "skinId": 0,
+          "stockId": 11261,
+          "cardType": 2,
+          "serifKinds": [
+            27,
+            28
+          ],
+          "visualType": 1,
+          "resourceName": "sensettia",
+          "characterName": "センセチア"
+        }
+      ],
+      "salesRegionIds": [
+        222
+      ],
+      "missionGroupIds": [
+        1022
+      ],
+      "missionCategoryButtonLabels": null
+    },
+    "questBonusJsons": [
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 147,
+        "bonusValue": 20,
+        "targetStockId": 11261
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 147,
+        "bonusValue": 10,
+        "targetStockId": 11251
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 147,
+        "bonusValue": 10,
+        "targetStockId": 10331
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 147,
+        "bonusValue": 10,
+        "targetStockId": 10021
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 147,
+        "bonusValue": 10,
+        "targetStockId": 10291
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 147,
+        "bonusValue": 10,
+        "targetStockId": 10821
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 147,
+        "bonusValue": 10,
+        "targetStockId": 19991
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 147,
+        "bonusValue": 40,
+        "targetStockId": 10332
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 147,
+        "bonusValue": 40,
+        "targetStockId": 11251
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 147,
+        "bonusValue": 30,
+        "targetStockId": 11261
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 147,
+        "bonusValue": 20,
+        "targetStockId": 10331
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 147,
+        "bonusValue": 20,
+        "targetStockId": 10022
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 147,
+        "bonusValue": 20,
+        "targetStockId": 10292
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 147,
+        "bonusValue": 10,
+        "targetStockId": 10821
+      }
+    ]
   }
 }
