@@ -942,7 +942,7 @@
     "statusName": "二撃必杀",
     "isGoodStatus": 2,
     "statusType": 2,
-    "description": "この状态変化を付与したキャラクターが、再び同じ相手を攻撃した时、与えるダメージが3倍になる。スキルによる解除不可。"
+    "description": "被赋予这项状态的角色，若遭到同一位对手攻击时，受到伤害增为 3 倍。此技能无法被消除。"
   },
   "141": {
     "statusId": 141,
@@ -984,21 +984,21 @@
     "statusName": "回复无効",
     "isGoodStatus": 0,
     "statusType": 0,
-    "description": "HPが回复できない。"
+    "description": "无法恢复生命值。"
   },
   "147": {
     "statusId": 147,
     "statusName": "彷徨う魂",
     "isGoodStatus": 2,
     "statusType": 2,
-    "description": "特殊なスキルで発动。バフでもデバフでも无い状态。スキルによる解除不可。"
+    "description": "以特殊技能形式发动，变成没有增益、减益效果的状态。此技能无法被消除。"
   },
   "148": {
     "statusId": 148,
     "statusName": "怨念",
     "isGoodStatus": 2,
     "statusType": 2,
-    "description": "死亡时に敌全体にHPの最大値の30%のダメージを与える。バフでもデバフでも无い状态。スキルによる解除不可。"
+    "description": "死亡时，对敌方全体造成最大生命值 30% 的伤害。变成没有增益、减益效果的状态。此技能无法被消除。"
   },
   "149": {
     "statusId": 149,
@@ -1019,55 +1019,55 @@
     "statusName": "観测集中",
     "isGoodStatus": 1,
     "statusType": 1,
-    "description": "スキルを発动するViewが不足している场合、数値だけViewを获得できる"
+    "description": "若发动技能而 View 值不足时，会获得不足的 View 值。"
   },
   "152": {
     "statusId": 152,
     "statusName": "発明品:ATKアップ",
     "isGoodStatus": 1,
     "statusType": 1,
-    "description": "0ターン目になる瞬间、永続的に発动するATKが10%増加する効果を付与する。ターン数延长の効果を受けない。"
+    "description": "第 0 回合瞬间发动，永久增加攻击力 10%。不会受到增益回合延长的效果。"
   },
   "153": {
     "statusId": 153,
     "statusName": "発明品:DEFアップ",
     "isGoodStatus": 1,
     "statusType": 1,
-    "description": "0ターン目になる瞬间、永続的に発动する被ダメージが10%减少する効果を付与する。ターン数延长の効果を受けない。"
+    "description": "第 0 回合瞬间发动，永久减少受到伤害 10%。不会受到增益回合延长的效果。"
   },
   "154": {
     "statusId": 154,
     "statusName": "発明品:回复",
     "isGoodStatus": 1,
     "statusType": 1,
-    "description": "0ターン目になる瞬间、HP最大値の20％を回复する。ターン数延长の効果を受けない。"
+    "description": "第 0 回合瞬间发动，恢复最大生命值 20%。不会受到增益回合延长的效果。"
   },
   "155": {
     "statusId": 155,
     "statusName": "追撃",
     "isGoodStatus": 2,
     "statusType": 2,
-    "description": "<size=17>自身以外のランダムな味方が、同じ攻撃対象にスキル1を使用する。そのスキルが味方を対象とする场合は、ランダムな味方を対象とする。追撃の対象が戦闘不能の场合は発动しない。</size>"
+    "description": "自己以外的随机我方角色，以技能一攻击相同的敌人。若技能一是以我方为施放目标时，则改为对相同的我方角色施放。若追击的目标死亡，则不会追击。"
   },
   "156": {
     "statusId": 156,
     "statusName": "回复スキル",
     "isGoodStatus": 2,
     "statusType": 2,
-    "description": "自身の基础Atkに応じて回复量が変化する、味方のHPを回复するスキル"
+    "description": "恢复我方血量的技能，变成以自身基础攻击数值计算。"
   },
   "157": {
     "statusId": 157,
     "statusName": "氷壁",
     "isGoodStatus": 1,
     "statusType": 2,
-    "description": "相手からのダメージを无効化する。ダメージ时に消费され、ターン终了时に解除される。スキルによる解除不可。"
+    "description": "无效来自对手的伤害，攻击对手、回合结束时都会解除此效果。此技能无法被消除。"
   },
   "158": {
     "statusId": 158,
     "statusName": "诱発",
     "isGoodStatus": 2,
     "statusType": 2,
-    "description": "指定した味方が、ランダムな敌にスキル1を使用する。スキル1が味方を対象とする场合は、ランダムな味方にスキル1を使用する。"
+    "description": "被指定的我方以技能一对随机敌人使用。若技能一是以我方为施放目标时，则改为对我方随机一名角色施放。"
   }
 }
