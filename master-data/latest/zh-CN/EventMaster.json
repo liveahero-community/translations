@@ -5098,7 +5098,8 @@
           "keys": [
             "UI_MAIN_QUEST",
             "UI_MISSION",
-            "UI_EXCHANGE"
+            "UI_EXCHANGE",
+            "UI_HIGH_DIFFICULTY_QUEST"
           ],
           "endAt": "2023-01-20 14:00:00"
         },
@@ -5121,6 +5122,11 @@
         {
           "type": 6,
           "chapterId": 1023,
+          "buttonType": 1
+        },
+        {
+          "type": 6,
+          "chapterId": 1024,
           "buttonType": 1
         }
       ],
