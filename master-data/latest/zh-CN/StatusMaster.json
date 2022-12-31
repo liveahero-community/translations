@@ -1069,5 +1069,26 @@
     "isGoodStatus": 2,
     "statusType": 2,
     "description": "被指定的我方以技能一对随机敌人使用。若技能一是以我方为施放目标时，则改为对我方随机一名角色施放。"
+  },
+  "159": {
+    "statusId": 159,
+    "statusName": "特別ガジェット",
+    "isGoodStatus": 2,
+    "statusType": 2,
+    "description": "攻撃力が1.5倍になり、相手から狙われやすくなる。スキルによる解除不可。"
+  },
+  "160": {
+    "statusId": 160,
+    "statusName": "",
+    "isGoodStatus": 2,
+    "statusType": 2,
+    "description": ""
+  },
+  "161": {
+    "statusId": 161,
+    "statusName": "",
+    "isGoodStatus": 2,
+    "statusType": 2,
+    "description": ""
   }
 }

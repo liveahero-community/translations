@@ -5281,5 +5281,73 @@
         "targetStockId": 10821
       }
     ]
+  },
+  "50": {
+    "eventId": 50,
+    "chapterId": 1026,
+    "lookBackChapterId": 0,
+    "baseResourceName": "NewYear2301",
+    "startAt": "2022-12-29 14:00:00",
+    "endAt": "2023-01-21 23:59:59",
+    "canRemember": 0,
+    "eventPortalJson": {
+      "bg": "ui_bg_sprite_event_Newyear2101",
+      "bgm": "bgm_main",
+      "logo": "NewYear2301_title",
+      "terms": [
+        {
+          "keys": [
+            "UI_MAIN_QUEST",
+            "UI_MISSION",
+            "UI_HIGH_DIFFICULTY_QUEST"
+          ],
+          "endAt": "2023-01-14 23:59:59"
+        },
+        {
+          "keys": [
+            "UI_EXCHANGE"
+          ],
+          "endAt": "2023-01-21 23:59:59"
+        }
+      ],
+      "gachaId": 56,
+      "storeId": 36,
+      "questInfos": [
+        {
+          "type": 5,
+          "chapterId": 1026,
+          "buttonType": 0
+        },
+        {
+          "type": 6,
+          "chapterId": 1027,
+          "buttonType": 1
+        }
+      ],
+      "tutorialKey": "Newyear2301",
+      "eventItemIds": [
+        153
+      ],
+      "portalWindow": "WideTermEventPortalWindow",
+      "characterViews": [
+        {
+          "skinId": 0,
+          "stockId": 90281,
+          "cardType": 2,
+          "serifKinds": [
+            27
+          ],
+          "visualType": 1,
+          "resourceName": "kirschNewyear2301",
+          "characterName": "キルシュ"
+        }
+      ],
+      "salesRegionIds": [],
+      "missionGroupIds": [
+        2
+      ],
+      "missionCategoryButtonLabels": null
+    },
+    "questBonusJsons": []
   }
 }

@@ -3147,5 +3147,43 @@
     "startAt": "2022-12-29 18:00:00",
     "endAt": "2023-01-20 14:00:00",
     "executeLimit": null
+  },
+  "1026": {
+    "chapterId": 1026,
+    "groupType": 2,
+    "chapterType": 1,
+    "chapterName": "イベントメインクエスト",
+    "subName": "謹賀新年2023！",
+    "peepingName": "謹賀新年<br>メインクエスト",
+    "sortWeight": 1000,
+    "bannerResourceName": "ui_banner_questchoice_event_Newyear2101",
+    "bgResourceName": "ui_bg_sprite_event_Newyear2101",
+    "selectBannerAddress": "banner_chapter_select_main",
+    "helpPrefabAddress": "",
+    "missionGroupId": 0,
+    "scoreAttackStoreId": 0,
+    "scoreAttackItemIds": null,
+    "startAt": null,
+    "endAt": "2023-01-14 23:59:59",
+    "executeLimit": null
+  },
+  "1027": {
+    "chapterId": 1027,
+    "groupType": 8,
+    "chapterType": 1,
+    "chapterName": "高難易度クエスト",
+    "subName": "謹賀新年2023！",
+    "peepingName": "謹賀新年<br>高難易度クエスト",
+    "sortWeight": 1000,
+    "bannerResourceName": "ui_banner_questchoice_event_Newyear2101",
+    "bgResourceName": "ui_bg_sprite_event_Newyear2101",
+    "selectBannerAddress": "banner_chapter_select_high",
+    "helpPrefabAddress": "Newyear2301HighDifficultyHelpWindow",
+    "missionGroupId": 0,
+    "scoreAttackStoreId": 0,
+    "scoreAttackItemIds": null,
+    "startAt": null,
+    "endAt": "2023-01-14 23:59:59",
+    "executeLimit": null
   }
 }
