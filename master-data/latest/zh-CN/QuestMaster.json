@@ -95849,7 +95849,7 @@
     "enemyLevel": 10,
     "canNotRetire": false,
     "canNotContinue": false,
-    "canNotGetFriendPoint": false,
+    "canNotGetFriendPoint": true,
     "canNotAuto": false,
     "canRestart": true,
     "rewards": [
@@ -95872,21 +95872,8 @@
         "isHidden": false
       }
     ],
-    "drops": [
-      {
-        "rewardType": 3,
-        "objectId": 11,
-        "objectValue": 160,
-        "prob": 100
-      }
-    ],
-    "conditions": [
-      {
-        "class": "Stamina",
-        "stamina": 7,
-        "isBannerDisplay": true
-      }
-    ],
+    "drops": [],
+    "conditions": [],
     "enemies": [
       {
         "battleInfoIcon": "icon_polaris_h01",
