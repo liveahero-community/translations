@@ -57520,7 +57520,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵全体のダメージ無効を解除。敵全体に2回150%ダメージ。",
+    "description": "敌全体のダメージ无効を解除。敌全体に2回150%ダメージ。",
     "cutin": [
       {
         "info": {
@@ -57569,7 +57569,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体に80%ダメージ。（敵専用）",
+    "description": "敌単体に80%ダメージ。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -57600,7 +57600,7 @@
     "resourceName": "b_skill_spdDownAll",
     "subResourceName": "s_skill_cureOwn",
     "timing": 0,
-    "description": "敵全体に50%の確率で2回の行動の間SPDダウンを付与。自身のデバフを全て解除。（敵専用）",
+    "description": "敌全体に50%の确率で2回の行动の间SPDダウンを付与。自身のデバフを全て解除。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -57640,7 +57640,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵全体に70%ダメージ。（敵専用）",
+    "description": "敌全体に70%ダメージ。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -64520,7 +64520,7 @@
     "resourceName": "",
     "subResourceName": "",
     "timing": 4,
-    "description": "Viewを10000獲得。",
+    "description": "Viewを10000获得。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -64544,7 +64544,7 @@
     "resourceName": "b_skill_view",
     "subResourceName": "",
     "timing": 1,
-    "description": "登場時、自身にビッグライブを付与。",
+    "description": "登场时、自身にビッグライブを付与。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -64562,13 +64562,13 @@
   },
   "6127101": {
     "skillId": 6127101,
-    "skillName": "ツタの護り",
+    "skillName": "ツタの护り",
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "b_skill_special",
     "subResourceName": "",
     "timing": 4,
-    "description": "1ターン目の開始時、自身にダメージ無効を付与。",
+    "description": "1ターン目の开始时、自身にダメージ无効を付与。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -64615,7 +64615,7 @@
     "resourceName": "b_skill_heal",
     "subResourceName": "",
     "timing": 4,
-    "description": "ターン開始時、HPを基礎ATKの500%回復する。",
+    "description": "ターン开始时、HPを基础ATKの500%回复する。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
