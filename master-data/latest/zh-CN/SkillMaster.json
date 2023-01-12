@@ -53713,7 +53713,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "敵単体に70%ダメージ。1回の行動の間ATKダウンを付与。（敵専用）",
+    "description": "敌単体に70%ダメージ。1回の行动の间ATKダウンを付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -53753,7 +53753,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "敵単体に110%ダメージ。1回分のDEFダウンを付与。（敵専用）",
+    "description": "敌単体に110%ダメージ。1回分のDEFダウンを付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -57751,7 +57751,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体に90%ダメージ。自身に回復量減少が10個以上付与されている場合、回復量減少を2個解除してもう一度行動する。（敵専用）",
+    "description": "敌単体に90%ダメージ。自身に回复量减少が10个以上付与されている场合、回复量减少を2个解除してもう一度行动する。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -57830,7 +57830,7 @@
     "resourceName": "b_skill_spdDownAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵全体に40%の確率で2回の行動の間SPDダウンを付与。自身を含む味方全体のスキル１を誘発。（敵専用）",
+    "description": "敌全体に40%の确率で2回の行动の间SPDダウンを付与。自身を含む味方全体のスキル１を诱発。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -57870,7 +57870,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵全体に100%ダメージ。自身に付与されているATKダウンと、相手に付与されているDEFアップを無視してダメージを与える。（敵専用）",
+    "description": "敌全体に100%ダメージ。自身に付与されているATKダウンと、相手に付与されているDEFアップを无视してダメージを与える。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -57924,7 +57924,7 @@
     "resourceName": "b_skill_spdDownAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵全体に40%の確率で3回の行動の間SPDダウンを付与。自身を含む味方全体のスキル１を誘発。（敵専用）",
+    "description": "敌全体に40%の确率で3回の行动の间SPDダウンを付与。自身を含む味方全体のスキル１を诱発。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -57973,7 +57973,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体に90%ダメージ。（敵専用）",
+    "description": "敌単体に90%ダメージ。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -63341,7 +63341,7 @@
     "resourceName": "b_skill_buff",
     "subResourceName": "",
     "timing": 4,
-    "description": "ターン開始時、1ターンの間ダメージ集約を付与。BOSSに回復量減少が8個以上付与されている場合、発動しない。",
+    "description": "ターン开始时、1ターンの间ダメージ集约を付与。BOSSに回复量减少が8个以上付与されている场合、発动しない。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -63372,7 +63372,7 @@
     "resourceName": "b_skill_buff",
     "subResourceName": "",
     "timing": 4,
-    "description": "ターン開始時、1ターンの間挑発を付与。BOSSに回復量減少が6個以上付与されている場合、発動しない。",
+    "description": "ターン开始时、1ターンの间挑発を付与。BOSSに回复量减少が6个以上付与されている场合、発动しない。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -63403,7 +63403,7 @@
     "resourceName": "b_skill_debuff",
     "subResourceName": "",
     "timing": 14,
-    "description": "戦闘不能時、BOSSに回復量減少10%を付与。（最大10個まで）",
+    "description": "戦闘不能时、BOSSに回复量减少10%を付与。（最大10个まで）",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -65059,13 +65059,13 @@
   },
   "6127103": {
     "skillId": 6127103,
-    "skillName": "無限再生",
+    "skillName": "无限再生",
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "b_skill_heal",
     "subResourceName": "",
     "timing": 1,
-    "description": "バトル開始時、自身に超再生を付与。ターン終了時、自身を除く味方全体を100%のHPで復活。",
+    "description": "バトル开始时、自身に超再生を付与。ターン终了时、自身を除く味方全体を100%のHPで复活。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -65083,7 +65083,7 @@
   },
   "6127104": {
     "skillId": 6127104,
-    "skillName": "無限再生",
+    "skillName": "无限再生",
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "",
@@ -65145,7 +65145,7 @@
     "resourceName": "b_skill_buff",
     "subResourceName": "",
     "timing": 1,
-    "description": "自身に付与されている回復量減少の数×5%ATKが増加する。",
+    "description": "自身に付与されている回复量减少の数×5%ATKが増加する。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
