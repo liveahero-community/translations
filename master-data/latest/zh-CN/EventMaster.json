@@ -5085,7 +5085,7 @@
     "eventId": 49,
     "chapterId": 1022,
     "lookBackChapterId": 0,
-    "baseResourceName": "XmasMelt2212",
+    "baseResourceName": "XmasMelt2212_epilogue",
     "startAt": "2022-12-22 14:00:00",
     "endAt": "2023-01-20 14:00:00",
     "canRemember": 0,
@@ -5097,6 +5097,7 @@
         {
           "keys": [
             "UI_MAIN_QUEST",
+            "UI_EPILOGUE_QUEST",
             "UI_MISSION",
             "UI_EXCHANGE",
             "UI_HIGH_DIFFICULTY_QUEST"
@@ -5128,6 +5129,11 @@
           "type": 6,
           "chapterId": 1024,
           "buttonType": 1
+        },
+        {
+          "type": 7,
+          "chapterId": 1025,
+          "buttonType": 0
         }
       ],
       "tutorialKey": "XmasMelt2212",
