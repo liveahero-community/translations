@@ -3148,6 +3148,25 @@
     "endAt": "2023-01-20 14:00:00",
     "executeLimit": null
   },
+  "1025": {
+    "chapterId": 1025,
+    "groupType": 2,
+    "chapterType": 1,
+    "chapterName": "エピローグクエスト",
+    "subName": "クリスマスメルト・カウントダウン",
+    "peepingName": "エピローグクエスト",
+    "sortWeight": 1000,
+    "bannerResourceName": "ui_banner_questchoice_event_XmasMelt2212_epilogue",
+    "bgResourceName": "ui_bg_sprite_quest_epilogue_XmasMelt2212",
+    "selectBannerAddress": "banner_chapter_select_epilogue",
+    "helpPrefabAddress": "",
+    "missionGroupId": 0,
+    "scoreAttackStoreId": 0,
+    "scoreAttackItemIds": null,
+    "startAt": "2023-01-13 18:00:00",
+    "endAt": "2023-01-20 14:00:00",
+    "executeLimit": null
+  },
   "1026": {
     "chapterId": 1026,
     "groupType": 2,
