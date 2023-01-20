@@ -5355,5 +5355,213 @@
       "missionCategoryButtonLabels": null
     },
     "questBonusJsons": []
+  },
+  "51": {
+    "eventId": 51,
+    "chapterId": 1028,
+    "lookBackChapterId": 515,
+    "baseResourceName": "GhostWoodsRevival2301",
+    "startAt": "2023-01-10 14:00:00",
+    "endAt": "2023-02-09 14:00:00",
+    "canRemember": 0,
+    "eventPortalJson": {
+      "bg": "ui_bg_sprite_event_GhostWoods2204",
+      "bgm": "bgm_ghostwoods_adv1",
+      "logo": "GhostWoodsRevival2301_title",
+      "terms": [
+        {
+          "keys": [
+            "UI_MAIN_QUEST",
+            "UI_EPILOGUE_QUEST",
+            "UI_MISSION",
+            "UI_EXCHANGE"
+          ],
+          "endAt": "2023-02-09 14:00:00"
+        },
+        {
+          "keys": [
+            "UI_FREE_QUEST",
+            "UI_SALES"
+          ],
+          "endAt": "2023-02-03 20:00:00"
+        }
+      ],
+      "gachaId": 58,
+      "storeId": 37,
+      "questInfos": [
+        {
+          "type": 5,
+          "chapterId": 1028,
+          "buttonType": 0
+        },
+        {
+          "type": 6,
+          "chapterId": 1029,
+          "buttonType": 1
+        },
+        {
+          "type": 7,
+          "chapterId": 1030,
+          "buttonType": 0
+        }
+      ],
+      "tutorialKey": "GhostWoodsRevival2301",
+      "eventItemIds": [
+        77
+      ],
+      "portalWindow": "WideTermEventPortalWindow",
+      "characterViews": [
+        {
+          "skinId": 0,
+          "stockId": 10232,
+          "cardType": 1,
+          "serifKinds": [
+            27,
+            28
+          ],
+          "visualType": 1,
+          "resourceName": "goroGhostWoods2204",
+          "characterName": "ゴロウ"
+        },
+        {
+          "skinId": 0,
+          "stockId": 11011,
+          "cardType": 2,
+          "serifKinds": [
+            27,
+            28
+          ],
+          "visualType": 1,
+          "resourceName": "lilac",
+          "characterName": "ライラック"
+        },
+        {
+          "skinId": 0,
+          "stockId": 10112,
+          "cardType": 1,
+          "serifKinds": [
+            27,
+            28
+          ],
+          "visualType": 1,
+          "resourceName": "flamierGhostWoods2204",
+          "characterName": "フラミー"
+        }
+      ],
+      "salesRegionIds": [
+        223
+      ],
+      "missionGroupIds": [
+        1028
+      ],
+      "missionCategoryButtonLabels": null
+    },
+    "questBonusJsons": [
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 77,
+        "bonusValue": 40,
+        "targetStockId": 11011
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 77,
+        "bonusValue": 40,
+        "targetStockId": 10232
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 77,
+        "bonusValue": 30,
+        "targetStockId": 10112
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 77,
+        "bonusValue": 10,
+        "targetStockId": 10111
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 77,
+        "bonusValue": 10,
+        "targetStockId": 10231
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 77,
+        "bonusValue": 10,
+        "targetStockId": 11011
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 77,
+        "bonusValue": 10,
+        "targetStockId": 10231
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 77,
+        "bonusValue": 10,
+        "targetStockId": 10111
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 77,
+        "bonusValue": 10,
+        "targetStockId": 19991
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 77,
+        "bonusValue": 10,
+        "targetStockId": 11261
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 77,
+        "bonusValue": 10,
+        "targetStockId": 11251
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 77,
+        "bonusValue": 10,
+        "targetStockId": 10331
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 77,
+        "bonusValue": 20,
+        "targetStockId": 10332
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 77,
+        "bonusValue": 20,
+        "targetStockId": 11251
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 77,
+        "bonusValue": 10,
+        "targetStockId": 11261
+      }
+    ]
   }
 }
