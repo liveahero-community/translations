@@ -5084,11 +5084,11 @@
   "49": {
     "eventId": 49,
     "chapterId": 1022,
-    "lookBackChapterId": 0,
-    "baseResourceName": "XmasMelt2212_epilogue",
+    "lookBackChapterId": 519,
+    "baseResourceName": "XmasMelt2212",
     "startAt": "2022-12-22 14:00:00",
     "endAt": "2023-01-20 14:00:00",
-    "canRemember": 0,
+    "canRemember": 1,
     "eventPortalJson": {
       "bg": "ui_bg_sprite_event_XmasMelt2212",
       "bgm": "bgm_xmasmelt_adv",
@@ -5291,11 +5291,11 @@
   "50": {
     "eventId": 50,
     "chapterId": 1026,
-    "lookBackChapterId": 0,
+    "lookBackChapterId": 520,
     "baseResourceName": "NewYear2301",
     "startAt": "2022-12-21 14:00:00",
     "endAt": "2023-01-21 23:59:59",
-    "canRemember": 0,
+    "canRemember": 1,
     "eventPortalJson": {
       "bg": "ui_bg_sprite_event_NewYear2301",
       "bgm": "bgm_main",
@@ -5359,7 +5359,7 @@
   "51": {
     "eventId": 51,
     "chapterId": 1028,
-    "lookBackChapterId": 515,
+    "lookBackChapterId": 0,
     "baseResourceName": "GhostWoodsRevival2301",
     "startAt": "2023-01-10 14:00:00",
     "endAt": "2023-02-09 14:00:00",
