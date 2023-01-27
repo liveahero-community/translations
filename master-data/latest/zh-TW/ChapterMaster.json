@@ -3299,5 +3299,24 @@
     "startAt": null,
     "endAt": "2023-02-09 14:00:00",
     "executeLimit": null
+  },
+  "1031": {
+    "chapterId": 1031,
+    "groupType": 8,
+    "chapterType": 1,
+    "chapterName": "高難易度クエスト",
+    "subName": "追憶のゴーストウッズ",
+    "peepingName": "高難易度クエスト",
+    "sortWeight": 1000,
+    "bannerResourceName": "ui_banner_questchoice_event_GhostWoods2204",
+    "bgResourceName": "ui_bg_sprite_quest_GhostWoods2204",
+    "selectBannerAddress": "banner_chapter_select_high",
+    "helpPrefabAddress": "",
+    "missionGroupId": 0,
+    "scoreAttackStoreId": 0,
+    "scoreAttackItemIds": null,
+    "startAt": "2023-01-27 18:00:00",
+    "endAt": "2023-02-09 14:00:00",
+    "executeLimit": null
   }
 }
