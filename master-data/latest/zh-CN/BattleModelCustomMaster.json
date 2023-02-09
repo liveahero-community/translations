@@ -825,5 +825,55 @@
       "targetStockId": 11011,
       "attachmentName": "sword necklace"
     }
+  },
+  "84": {
+    "itemId": 11008201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att1_eyemask",
+      "targetStockId": 10082,
+      "attachmentName": "att1_eyemask"
+    }
+  },
+  "85": {
+    "itemId": 11065101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att_Hat",
+      "targetStockId": 10651,
+      "attachmentName": "att_hat"
+    }
+  },
+  "86": {
+    "itemId": 11065101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att_mask_back",
+      "targetStockId": 10651,
+      "attachmentName": "att_mask_back"
+    }
+  },
+  "87": {
+    "itemId": 11065101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att_mask_front",
+      "targetStockId": 10651,
+      "attachmentName": "att_mask_front"
+    }
+  },
+  "88": {
+    "itemId": 11100101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att1_balloon",
+      "targetStockId": 11001,
+      "attachmentName": "att1_balloon"
+    }
   }
 }

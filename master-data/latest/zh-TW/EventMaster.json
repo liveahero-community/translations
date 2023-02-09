@@ -2871,7 +2871,7 @@
     "baseResourceName": "2204GhostWoods",
     "startAt": null,
     "endAt": "2022-05-19 14:00:00",
-    "canRemember": 0,
+    "canRemember": 1,
     "eventPortalJson": {
       "bg": "ui_bg_sprite_event_GhostWoods2204",
       "bgm": "bgm_ghostwoods_adv1",
@@ -5567,6 +5567,378 @@
         "objectId": 77,
         "bonusValue": 10,
         "targetStockId": 11261
+      }
+    ]
+  },
+  "52": {
+    "eventId": 52,
+    "chapterId": 1032,
+    "lookBackChapterId": 514,
+    "baseResourceName": "CircusRevival2302",
+    "startAt": null,
+    "endAt": "2023-03-30 14:00:00",
+    "canRemember": 0,
+    "eventPortalJson": {
+      "bg": "ui_bg_sprite_event_2202Circus",
+      "bgm": "bgm_circus_adv",
+      "logo": "CircusRevival2302_title",
+      "terms": [
+        {
+          "keys": [
+            "UI_MAIN_QUEST",
+            "UI_MISSION",
+            "UI_EXCHANGE"
+          ],
+          "endAt": "2023-03-02 14:00:00"
+        },
+        {
+          "keys": [
+            "UI_FREE_QUEST",
+            "UI_SALES"
+          ],
+          "endAt": "2023-02-23 20:00:00"
+        },
+        {
+          "keys": [
+            "UI_EPILOGUE_QUEST"
+          ],
+          "endAt": "2023-03-30 14:00:00"
+        }
+      ],
+      "gachaId": 59,
+      "storeId": 38,
+      "questInfos": [
+        {
+          "type": 5,
+          "chapterId": 1032,
+          "buttonType": 0
+        },
+        {
+          "type": 6,
+          "chapterId": 1033,
+          "buttonType": 1
+        },
+        {
+          "type": 7,
+          "chapterId": 1034,
+          "buttonType": 0
+        }
+      ],
+      "tutorialKey": "CircusRevival2302",
+      "eventItemIds": [
+        76
+      ],
+      "portalWindow": "WideTermEventPortalWindow",
+      "characterViews": [
+        {
+          "skinId": 0,
+          "stockId": 10082,
+          "cardType": 1,
+          "serifKinds": [
+            27,
+            28
+          ],
+          "visualType": 1,
+          "resourceName": "furlongCircus2202",
+          "characterName": "ハロン"
+        },
+        {
+          "skinId": 0,
+          "stockId": 10651,
+          "cardType": 2,
+          "serifKinds": [
+            29,
+            30
+          ],
+          "visualType": 1,
+          "resourceName": "vulpecula",
+          "characterName": "ウルペクラ"
+        },
+        {
+          "skinId": 0,
+          "stockId": 11001,
+          "cardType": 2,
+          "serifKinds": [
+            27,
+            28
+          ],
+          "visualType": 1,
+          "resourceName": "yasuhiko",
+          "characterName": "ヤスヒコ"
+        }
+      ],
+      "salesRegionIds": [
+        224
+      ],
+      "missionGroupIds": [
+        1032
+      ],
+      "missionCategoryButtonLabels": null
+    },
+    "questBonusJsons": [
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 76,
+        "bonusValue": 10,
+        "targetStockId": 10651
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 76,
+        "bonusValue": 20,
+        "targetStockId": 11001
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 76,
+        "bonusValue": 10,
+        "targetStockId": 10081
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 76,
+        "bonusValue": 10,
+        "targetStockId": 10111
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 76,
+        "bonusValue": 10,
+        "targetStockId": 11011
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 76,
+        "bonusValue": 10,
+        "targetStockId": 19991
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 76,
+        "bonusValue": 40,
+        "targetStockId": 10082
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 76,
+        "bonusValue": 40,
+        "targetStockId": 10651
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 76,
+        "bonusValue": 30,
+        "targetStockId": 11001
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 76,
+        "bonusValue": 10,
+        "targetStockId": 10231
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 76,
+        "bonusValue": 20,
+        "targetStockId": 11011
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 76,
+        "bonusValue": 20,
+        "targetStockId": 10232
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 76,
+        "bonusValue": 10,
+        "targetStockId": 10112
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 76,
+        "bonusValue": 10,
+        "targetStockId": 10081
+      }
+    ]
+  },
+  "53": {
+    "eventId": 53,
+    "chapterId": 1037,
+    "lookBackChapterId": 0,
+    "baseResourceName": "ValentineCampaign2302",
+    "startAt": null,
+    "endAt": "2023-03-30 14:00:00",
+    "canRemember": 0,
+    "eventPortalJson": {
+      "bg": "ui_bg_sprite_portal_ValentineCampaign2302",
+      "bgm": "bgm_main",
+      "logo": "ValentineCampaign2302_title",
+      "terms": [
+        {
+          "keys": [
+            "UI_MISSION",
+            "UI_HIGH_DIFFICULTY_QUEST"
+          ],
+          "endAt": "2023-03-02 14:00:00"
+        },
+        {
+          "keys": [
+            "UI_EPILOGUE_QUEST"
+          ],
+          "endAt": "2023-03-30 14:00:00"
+        }
+      ],
+      "gachaId": 60,
+      "storeId": 39,
+      "questInfos": [
+        {
+          "type": 6,
+          "chapterId": 1038,
+          "buttonType": 1
+        },
+        {
+          "type": 7,
+          "chapterId": 1037,
+          "buttonType": 3
+        }
+      ],
+      "tutorialKey": "ValentineCampaign2302",
+      "eventItemIds": [
+        137
+      ],
+      "portalWindow": "ValentineCampaign2023PortalWindow",
+      "characterViews": [
+        {
+          "skinId": 0,
+          "stockId": 10102,
+          "cardType": 1,
+          "serifKinds": [
+            27
+          ],
+          "visualType": 1,
+          "resourceName": "kyoichiValentine2102",
+          "characterName": "キョウイチ"
+        }
+      ],
+      "salesRegionIds": [],
+      "missionGroupIds": [
+        1038
+      ],
+      "missionCategoryButtonLabels": null
+    },
+    "questBonusJsons": [
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 76,
+        "bonusValue": 10,
+        "targetStockId": 10651
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 76,
+        "bonusValue": 20,
+        "targetStockId": 11001
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 76,
+        "bonusValue": 10,
+        "targetStockId": 10081
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 76,
+        "bonusValue": 10,
+        "targetStockId": 10111
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 76,
+        "bonusValue": 10,
+        "targetStockId": 11011
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 76,
+        "bonusValue": 10,
+        "targetStockId": 19991
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 76,
+        "bonusValue": 40,
+        "targetStockId": 10082
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 76,
+        "bonusValue": 40,
+        "targetStockId": 10651
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 76,
+        "bonusValue": 30,
+        "targetStockId": 11001
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 76,
+        "bonusValue": 10,
+        "targetStockId": 10231
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 76,
+        "bonusValue": 20,
+        "targetStockId": 11011
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 76,
+        "bonusValue": 20,
+        "targetStockId": 10232
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 76,
+        "bonusValue": 10,
+        "targetStockId": 10112
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 76,
+        "bonusValue": 10,
+        "targetStockId": 10081
       }
     ]
   }
