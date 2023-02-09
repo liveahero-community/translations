@@ -16668,9 +16668,9 @@
       "isImmediate": false,
       "persistence": true,
       "canDuplicate": false,
-      "overrideStatusName": "与ダメージ+1000",
+      "overrideStatusName": "ATK+1000",
       "isOverrideStatusName": true,
-      "overrideStatusDescription": "相手に与えるダメージ+1000。バフでもデバフでもない状態。スキルによる解除不可。",
+      "overrideStatusDescription": "ATK+1000。バフでもデバフでもない状態。スキルによる解除不可。",
       "isDisplayPersistenceStatus": true,
       "isOverrideStatusDescription": true
     }
@@ -24877,7 +24877,7 @@
       "canDuplicate": false,
       "overrideStatusName": "被ダメージ-30%",
       "isOverrideStatusName": true,
-      "overrideStatusDescription": "被ダメージを-30%する。バフでもデバフでもない状態。スキルによる解除不可。",
+      "overrideStatusDescription": "被ダメージ-30%。バフでもデバフでもない状態。スキルによる解除不可。",
       "isDisplayPersistenceStatus": true,
       "isOverrideStatusDescription": true
     }
@@ -28761,7 +28761,8 @@
         {
           "class": "ChangeHp",
           "parameter": {
-            "value": -20
+            "value": -20,
+            "avoidExtensionTurn": false
           }
         }
       ],
@@ -28778,7 +28779,7 @@
       "canDuplicate": false,
       "overrideStatusName": "HP回復＆ATK増加",
       "isOverrideStatusName": true,
-      "overrideStatusDescription": "ターン事にHP最大値の20%回復＆ATKが10%ずつ増加。バフでもデバフでもない状態。スキルによる解除不可。",
+      "overrideStatusDescription": "ターン終了時にHP最大値の20%の回復＆1ターン毎にATKが10%増加。バフでもデバフでもない状態。スキルによる解除不可。",
       "isDisplayPersistenceStatus": true,
       "isOverrideStatusDescription": true
     }
