@@ -28317,7 +28317,7 @@
       "canDuplicate": false,
       "overrideStatusName": "デバフ時弱体化",
       "isOverrideStatusName": true,
-      "overrideStatusDescription": "デバフが付与されている時、相手からのダメージが1.3倍になる。バフでもデバフでもない状態。スキルによる解除不可。",
+      "overrideStatusDescription": "デバフが付与されている時、被ダメージ+30%。バフでもデバフでもない状態。スキルによる解除不可。",
       "isDisplayPersistenceStatus": true,
       "isOverrideStatusDescription": true
     }
