@@ -28317,7 +28317,7 @@
       "canDuplicate": false,
       "overrideStatusName": "デバフ時弱体化",
       "isOverrideStatusName": true,
-      "overrideStatusDescription": "デバフが付与されている時、相手からのダメージが1.3倍になる。",
+      "overrideStatusDescription": "デバフが付与されている時、相手からのダメージが1.3倍になる。(この状態変化はデバフにカウントされない)",
       "isDisplayPersistenceStatus": true,
       "isOverrideStatusDescription": true
     }
@@ -28598,7 +28598,7 @@
       "canDuplicate": false,
       "overrideStatusName": "未行動時弱体",
       "isOverrideStatusName": true,
-      "overrideStatusDescription": "未行動時、相手からのダメージが1.3倍になる。",
+      "overrideStatusDescription": "未行動時、相手からのダメージが1.3倍になる。(この状態変化はデバフにカウントされない)",
       "isDisplayPersistenceStatus": true,
       "isOverrideStatusDescription": true
     }
