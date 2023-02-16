@@ -5587,7 +5587,8 @@
           "keys": [
             "UI_MAIN_QUEST",
             "UI_MISSION",
-            "UI_EXCHANGE"
+            "UI_EXCHANGE",
+            "UI_HIGH_DIFFICULTY_QUEST"
           ],
           "endAt": "2023-03-02 14:00:00"
         },
@@ -5622,6 +5623,11 @@
           "type": 7,
           "chapterId": 1034,
           "buttonType": 0
+        },
+        {
+          "type": 6,
+          "chapterId": 1035,
+          "buttonType": 1
         }
       ],
       "tutorialKey": "CircusRevival2302",
