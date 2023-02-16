@@ -3552,6 +3552,26 @@
     "endAt": "2023-03-30 14:00:00",
     "executeLimit": null
   },
+  "1035": {
+    "chapterId": 1035,
+    "groupType": 8,
+    "chapterType": 1,
+    "chapterName": "高難易度クエスト",
+    "subName": "チョコレイト・サーカス！",
+    "peepingName": "高難易度クエスト",
+    "sortWeight": 1000,
+    "bannerResourceName": "ui_banner_questchoice_event_2202Circus_epilogue",
+    "bgResourceName": "ui_bg_sprite_quest_epilogue_2202Circus",
+    "selectBannerAddress": "banner_chapter_select_high",
+    "helpPrefabAddress": "",
+    "missionGroupId": 0,
+    "scoreAttackStoreId": 0,
+    "scoreAttackItemIds": null,
+    "conditionChapterId": 0,
+    "startAt": "2023-02-16 18:00:00",
+    "endAt": "2023-03-02 14:00:00",
+    "executeLimit": null
+  },
   "1037": {
     "chapterId": 1037,
     "groupType": 2,
