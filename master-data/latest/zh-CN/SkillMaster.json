@@ -9278,7 +9278,7 @@
     "useView": 5000,
     "targetFlag": 1,
     "resourceName": "b_skill_buff",
-    "subResourceName": "",
+    "subResourceName": "s_skill_buffTeam",
     "timing": 0,
     "description": "味方単体に2回の行动の间ATKアップを付与。1回の行动の间View消费量-1000を付与。スキル発动后、Viewが10000以上ある场合、ATKアップの代わりに2回のATKアップ+を付与。",
     "cutin": [
@@ -9428,7 +9428,7 @@
     "useView": 5000,
     "targetFlag": 1,
     "resourceName": "b_skill_buff",
-    "subResourceName": "",
+    "subResourceName": "s_skill_buffTeam",
     "timing": 0,
     "description": "味方単体に2回の行动の间ATKアップを付与。1回の行动の间View消费量-3000を付与。スキル発动后、Viewが10000以上ある场合、ATKアップの代わりに2回のATKアップ+を付与。",
     "cutin": [
