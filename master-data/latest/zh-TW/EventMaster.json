@@ -5947,5 +5947,235 @@
         "targetStockId": 10081
       }
     ]
+  },
+  "54": {
+    "eventId": 54,
+    "chapterId": 1039,
+    "lookBackChapterId": 0,
+    "baseResourceName": "Chocolatefes2303",
+    "startAt": null,
+    "endAt": "2023-03-30 14:00:00",
+    "canRemember": 0,
+    "eventPortalJson": {
+      "bg": "ui_bg_sprite_event_Chocolatefes2303",
+      "bgm": "bgm_chocolatefes_adv",
+      "logo": "Chocolatefes2303_title",
+      "terms": [
+        {
+          "keys": [
+            "UI_MAIN_QUEST",
+            "UI_EPILOGUE_QUEST",
+            "UI_MISSION",
+            "UI_EXCHANGE",
+            "UI_HIGH_DIFFICULTY_QUEST"
+          ],
+          "endAt": "2023-03-30 14:00:00"
+        },
+        {
+          "keys": [
+            "UI_FREE_QUEST",
+            "UI_SALES"
+          ],
+          "endAt": "2023-03-23 20:00:00"
+        }
+      ],
+      "gachaId": 66,
+      "storeId": 40,
+      "questInfos": [
+        {
+          "type": 5,
+          "chapterId": 1039,
+          "buttonType": 0
+        },
+        {
+          "type": 6,
+          "chapterId": 1040,
+          "buttonType": 1
+        }
+      ],
+      "tutorialKey": "Chocolatefes2303",
+      "eventItemIds": [
+        162
+      ],
+      "portalWindow": "WideTermEventPortalWindow",
+      "characterViews": [
+        {
+          "skinId": 0,
+          "stockId": 10302,
+          "cardType": 1,
+          "serifKinds": [
+            27,
+            28
+          ],
+          "visualType": 1,
+          "resourceName": "suhailChocolatefes2303",
+          "characterName": "スハイル"
+        },
+        {
+          "skinId": 0,
+          "stockId": 10322,
+          "cardType": 1,
+          "serifKinds": [
+            27,
+            28
+          ],
+          "visualType": 1,
+          "resourceName": "procyChocolatefes2303",
+          "characterName": "プロキー"
+        },
+        {
+          "skinId": 0,
+          "stockId": 11281,
+          "cardType": 2,
+          "serifKinds": [
+            27,
+            28
+          ],
+          "visualType": 1,
+          "resourceName": "phein",
+          "characterName": "フェイン"
+        },
+        {
+          "skinId": 0,
+          "stockId": 11291,
+          "cardType": 2,
+          "serifKinds": [
+            27,
+            28
+          ],
+          "visualType": 1,
+          "resourceName": "anna",
+          "characterName": "アンナ"
+        }
+      ],
+      "salesRegionIds": [
+        225
+      ],
+      "missionGroupIds": [
+        1039
+      ],
+      "missionCategoryButtonLabels": null
+    },
+    "questBonusJsons": [
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 162,
+        "bonusValue": 40,
+        "targetStockId": 10322
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 162,
+        "bonusValue": 40,
+        "targetStockId": 10302
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 162,
+        "bonusValue": 30,
+        "targetStockId": 11281
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 162,
+        "bonusValue": 30,
+        "targetStockId": 11291
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 162,
+        "bonusValue": 20,
+        "targetStockId": 10301
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 162,
+        "bonusValue": 10,
+        "targetStockId": 10321
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 162,
+        "bonusValue": 20,
+        "targetStockId": 10651
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 162,
+        "bonusValue": 20,
+        "targetStockId": 10082
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 162,
+        "bonusValue": 10,
+        "targetStockId": 11001
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 162,
+        "bonusValue": 30,
+        "targetStockId": 11281
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 162,
+        "bonusValue": 20,
+        "targetStockId": 11291
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 162,
+        "bonusValue": 10,
+        "targetStockId": 10321
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 162,
+        "bonusValue": 10,
+        "targetStockId": 10301
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 162,
+        "bonusValue": 10,
+        "targetStockId": 10651
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 162,
+        "bonusValue": 10,
+        "targetStockId": 10081
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 162,
+        "bonusValue": 10,
+        "targetStockId": 11001
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 162,
+        "bonusValue": 10,
+        "targetStockId": 19991
+      }
+    ]
   }
 }

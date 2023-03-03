@@ -1017,5 +1017,143 @@
     ],
     "extensions": [],
     "condition": []
+  },
+  "33": {
+    "officeProductId": 33,
+    "productName": "社内レクリエーションの実施Ⅰ",
+    "bannerDescription": "オフィスにいるヒーローから貰えるプレゼントが少し豪華になり、レアなアイテムを貰いやすくなる。<br>オフィスの改善度が<color=orange>3</color>上がる。",
+    "productDescription": "オフィスにいるヒーローから貰えるプレゼントが少し豪華になり、レアなアイテムを貰いやすくなる。<br>オフィスの改善度が<color=orange>3</color>上がる。",
+    "sortWeight": 1000,
+    "productType": 1,
+    "exchangeLimit": 1,
+    "startAt": null,
+    "endAt": null,
+    "resetType": 0,
+    "resetDetail": null,
+    "rewards": [],
+    "currencies": [
+      {
+        "currencyType": 3,
+        "objectId": 78,
+        "objectValue": 200
+      },
+      {
+        "currencyType": 3,
+        "objectId": 79,
+        "objectValue": 15
+      }
+    ],
+    "extensions": [
+      {
+        "officeExtensionId": 27
+      },
+      {
+        "officeExtensionId": 30
+      }
+    ],
+    "condition": [
+      {
+        "class": "OfficeExtensionCondition",
+        "itemId": 0,
+        "stockId": 0,
+        "cardType": 0,
+        "officeLv": 0,
+        "officeProductId": 25,
+        "isAscendingOrder": true,
+        "relationProductIds": []
+      }
+    ]
+  },
+  "34": {
+    "officeProductId": 34,
+    "productName": "社内レクリエーションの実施Ⅱ",
+    "bannerDescription": "オフィスにいるヒーローから貰えるプレゼントが少し豪華になる、レアなアイテムを貰いやすくなる。<br>オフィスの改善度が<color=orange>3</color>上がる。",
+    "productDescription": "オフィスにいるヒーローから貰えるプレゼントが少し豪華になり、レアなアイテムを貰いやすくなる。<br>オフィスの改善度が<color=orange>3</color>上がる。",
+    "sortWeight": 1000,
+    "productType": 1,
+    "exchangeLimit": 1,
+    "startAt": null,
+    "endAt": null,
+    "resetType": 0,
+    "resetDetail": null,
+    "rewards": [],
+    "currencies": [
+      {
+        "currencyType": 3,
+        "objectId": 78,
+        "objectValue": 225
+      },
+      {
+        "currencyType": 3,
+        "objectId": 79,
+        "objectValue": 15
+      }
+    ],
+    "extensions": [
+      {
+        "officeExtensionId": 28
+      },
+      {
+        "officeExtensionId": 31
+      }
+    ],
+    "condition": [
+      {
+        "class": "OfficeExtensionCondition",
+        "itemId": 0,
+        "stockId": 0,
+        "cardType": 0,
+        "officeLv": 0,
+        "officeProductId": 33,
+        "isAscendingOrder": true,
+        "relationProductIds": []
+      }
+    ]
+  },
+  "35": {
+    "officeProductId": 35,
+    "productName": "社内レクリエーションの実施Ⅲ",
+    "bannerDescription": "オフィスにいるヒーローから貰えるプレゼントが少し豪華になる、レアなアイテムを貰いやすくなる。<br>オフィスの改善度が<color=orange>3</color>上がる。",
+    "productDescription": "オフィスにいるヒーローから貰えるプレゼントが少し豪華になり、レアなアイテムを貰いやすくなる。<br>オフィスの改善度が<color=orange>3</color>上がる。",
+    "sortWeight": 1000,
+    "productType": 1,
+    "exchangeLimit": 1,
+    "startAt": null,
+    "endAt": null,
+    "resetType": 0,
+    "resetDetail": null,
+    "rewards": [],
+    "currencies": [
+      {
+        "currencyType": 3,
+        "objectId": 78,
+        "objectValue": 250
+      },
+      {
+        "currencyType": 3,
+        "objectId": 79,
+        "objectValue": 15
+      }
+    ],
+    "extensions": [
+      {
+        "officeExtensionId": 29
+      },
+      {
+        "officeExtensionId": 32
+      }
+    ],
+    "condition": [
+      {
+        "class": "OfficeExtensionCondition",
+        "itemId": 0,
+        "stockId": 0,
+        "cardType": 0,
+        "officeLv": 0,
+        "officeProductId": 34,
+        "isAscendingOrder": true,
+        "relationProductIds": []
+      }
+    ]
   }
 }
