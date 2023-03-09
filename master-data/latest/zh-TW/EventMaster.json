@@ -5767,7 +5767,8 @@
           "keys": [
             "UI_MAIN_QUEST",
             "UI_MISSION",
-            "UI_EXCHANGE"
+            "UI_EXCHANGE",
+            "UI_HIGH_DIFFICULTY_QUEST"
           ],
           "endAt": "2023-03-30 14:00:00"
         },
@@ -5791,13 +5792,18 @@
           "type": 6,
           "chapterId": 1040,
           "buttonType": 1
+        },
+        {
+          "type": 6,
+          "chapterId": 1042,
+          "buttonType": 1
         }
       ],
       "tutorialKey": "Chocolatefes2303",
       "eventItemIds": [
         162
       ],
-      "portalWindow": "WideTermEventPortalWindow",
+      "portalWindow": "Chocolatefes2303EventPortalWindow",
       "characterViews": [
         {
           "skinId": 0,
