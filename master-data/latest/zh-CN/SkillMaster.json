@@ -61975,7 +61975,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "敵単体に70%ダメージ。自身がピンチ状態の場合、対象に1回分のDEFダウンを付与。（敵専用）",
+    "description": "敌単体に70%ダメージ。自身がピンチ状态の场合、対象に1回分のDEFダウンを付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -62022,7 +62022,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_spdUpOwn",
     "timing": 0,
-    "description": "敵単体に120%ダメージ。自身に1回の行動の間超SPDアップを付与。（敵専用）",
+    "description": "敌単体に120%ダメージ。自身に1回の行动の间超SPDアップを付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -62056,13 +62056,13 @@
   },
   "4130103": {
     "skillId": 4130103,
-    "skillName": "風切り刃",
+    "skillName": "风切り刃",
     "useView": 3000,
     "targetFlag": 4,
     "resourceName": "b_skill_damageAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵全体に30%ダメージ。対象が行動済みの場合、与えるダメージが100％に増加。（敵専用）",
+    "description": "敌全体に30%ダメージ。対象が行动済みの场合、与えるダメージが100％に増加。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -62351,7 +62351,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "敵単体に70%ダメージ。自身がピンチ状態の場合、対象に1回の行動の間ATKダウンを付与。（敵専用）",
+    "description": "敌単体に70%ダメージ。自身がピンチ状态の场合、対象に1回の行动の间ATKダウンを付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -62398,7 +62398,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_spdUpOwn",
     "timing": 0,
-    "description": "敵単体に120%ダメージ。自身に1回の行動の間超SPDアップを付与。（敵専用）",
+    "description": "敌単体に120%ダメージ。自身に1回の行动の间超SPDアップを付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -62432,13 +62432,13 @@
   },
   "4131109": {
     "skillId": 4131109,
-    "skillName": "風切り刃",
+    "skillName": "风切り刃",
     "useView": 3000,
     "targetFlag": 4,
     "resourceName": "b_skill_damageAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵全体に30%ダメージ。対象が行動済みの場合、与えるダメージが100％に増加。（敵専用）",
+    "description": "敌全体に30%ダメージ。対象が行动済みの场合、与えるダメージが100％に増加。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -62469,7 +62469,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体に70%ダメージ。（敵専用）",
+    "description": "敌単体に70%ダメージ。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -62500,7 +62500,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "敵単体に90%ダメージ。1ターンの間照準を付与。（敵専用）",
+    "description": "敌単体に90%ダメージ。1ターンの间照准を付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -62534,13 +62534,13 @@
   },
   "4131112": {
     "skillId": 4131112,
-    "skillName": "風切り刃",
+    "skillName": "风切り刃",
     "useView": 8000,
     "targetFlag": 4,
     "resourceName": "b_skill_damageAll",
     "subResourceName": "s_skill_debuffAll",
     "timing": 0,
-    "description": "敵全体に85%ダメージ。30%の確率で1回分のDEFダウンを付与。（敵専用）",
+    "description": "敌全体に85%ダメージ。30%の确率で1回分のDEFダウンを付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -62580,7 +62580,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_spdDownTeam",
     "timing": 0,
-    "description": "敵単体に70%ダメージ。自身がピンチ状態の場合、対象に1回の行動の間SPDダウンを付与。（敵専用）",
+    "description": "敌単体に70%ダメージ。自身がピンチ状态の场合、対象に1回の行动の间SPDダウンを付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -70444,7 +70444,7 @@
     "resourceName": "b_skill_spdUp",
     "subResourceName": "",
     "timing": 8,
-    "description": "自身が未行動の状態でダメージを受けた時、1回の行動の間超SPDアップを付与。",
+    "description": "自身が未行动の状态でダメージを受けた时、1回の行动の间超SPDアップを付与。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -70497,13 +70497,13 @@
   },
   "6130103": {
     "skillId": 6130103,
-    "skillName": "今際の叫び",
+    "skillName": "今际の叫び",
     "useView": 0,
     "targetFlag": 3,
     "resourceName": "b_skill_buffAll",
     "subResourceName": "s_skill_spdUpAll",
     "timing": 14,
-    "description": "戦闘不能時、味方全体のATK+50%、SPD+10。",
+    "description": "戦闘不能时、味方全体のATK+50%、SPD+10。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -70536,7 +70536,7 @@
     "resourceName": "status_system_defup",
     "subResourceName": "",
     "timing": 3,
-    "description": "自身が行動済みの時、被ダメージ-75%。",
+    "description": "自身が行动済みの时、被ダメージ-75%。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
