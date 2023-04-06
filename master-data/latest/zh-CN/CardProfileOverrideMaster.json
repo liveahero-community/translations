@@ -50,5 +50,19 @@
         "isCheckClear": true
       }
     ]
+  },
+  "5": {
+    "stockId": 11401,
+    "cardType": 2,
+    "overrideItem": 1,
+    "priority": 1,
+    "textKey": "PROFILE_TUNEAKI_AFFILIATION_OFFICE",
+    "conditions": [
+      {
+        "class": "QuestClear",
+        "questId": 1043008,
+        "isCheckClear": false
+      }
+    ]
   }
 }
