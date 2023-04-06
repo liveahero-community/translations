@@ -557,6 +557,58 @@
       "isInHome": true
     }
   ],
+  "10062": [
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 4,
+      "faceType": "c",
+      "serifKey": "SERIF_GAMMEIRAKUSAI2304_PLAYER",
+      "voiceFilename": "",
+      "resourceName": "gammeiRakusai2304",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 5,
+      "faceType": "e",
+      "serifKey": "SERIF_GAMMEIRAKUSAI2304_HERO",
+      "voiceFilename": "",
+      "resourceName": "gammeiRakusai2304",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 12,
+      "faceType": "c",
+      "serifKey": "SERIF_GAMMEIRAKUSAI2304_TOUCH",
+      "voiceFilename": "",
+      "resourceName": "gammeiRakusai2304",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 27,
+      "faceType": "c",
+      "serifKey": "SERIF_GAMMEIRAKUSAI2304_EVENTA",
+      "voiceFilename": "",
+      "resourceName": "gammeiRakusai2304",
+      "isInHome": false
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 28,
+      "faceType": "b",
+      "serifKey": "SERIF_GAMMEIRAKUSAI2304_EVENTB",
+      "voiceFilename": "",
+      "resourceName": "gammeiRakusai2304",
+      "isInHome": false
+    }
+  ],
   "10071": [
     {
       "cardType": 1,
@@ -1633,6 +1685,58 @@
       "voiceFilename": "",
       "resourceName": "kouki",
       "isInHome": true
+    }
+  ],
+  "10182": [
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 4,
+      "faceType": "b",
+      "serifKey": "SERIF_KOUKIRAKUSAI2304_PLAYER",
+      "voiceFilename": "",
+      "resourceName": "koukiRakusai2304",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 5,
+      "faceType": "c",
+      "serifKey": "SERIF_KOUKIRAKUSAI2304_HERO",
+      "voiceFilename": "",
+      "resourceName": "koukiRakusai2304",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 12,
+      "faceType": "",
+      "serifKey": "SERIF_KOUKIRAKUSAI2304_TOUCH",
+      "voiceFilename": "",
+      "resourceName": "koukiRakusai2304",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 27,
+      "faceType": "c",
+      "serifKey": "SERIF_KOUKIRAKUSAI2304_EVENTA",
+      "voiceFilename": "",
+      "resourceName": "koukiRakusai2304",
+      "isInHome": false
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 28,
+      "faceType": "f",
+      "serifKey": "SERIF_KOUKIRAKUSAI2304_EVENTB",
+      "voiceFilename": "",
+      "resourceName": "koukiRakusai2304",
+      "isInHome": false
     }
   ],
   "10191": [
@@ -6362,6 +6466,88 @@
       "serifKey": "SERIF_ANNA_EVENTB",
       "voiceFilename": "",
       "resourceName": "anna",
+      "isInHome": false
+    }
+  ],
+  "11401": [
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 4,
+      "faceType": "c",
+      "serifKey": "SERIF_TSUNEAKI_PLAYER",
+      "voiceFilename": "",
+      "resourceName": "tsuneaki",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 5,
+      "faceType": "",
+      "serifKey": "SERIF_TSUNEAKI_HERO",
+      "voiceFilename": "",
+      "resourceName": "tsuneaki",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 12,
+      "faceType": "b",
+      "serifKey": "SERIF_TSUNEAKI_TOUCH",
+      "voiceFilename": "",
+      "resourceName": "tsuneaki",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 3,
+      "faceType": "f",
+      "serifKey": "SERIF_TSUNEAKI_DAILY",
+      "voiceFilename": "",
+      "resourceName": "tsuneaki",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 6,
+      "faceType": "g",
+      "serifKey": "SERIF_TSUNEAKI_RELATION",
+      "voiceFilename": "",
+      "resourceName": "tsuneaki",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 11,
+      "faceType": "b",
+      "serifKey": "SERIF_TSUNEAKI_APPRECIATION",
+      "voiceFilename": "",
+      "resourceName": "tsuneaki",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 27,
+      "faceType": "c",
+      "serifKey": "SERIF_TSUNEAKI_EVENTA",
+      "voiceFilename": "",
+      "resourceName": "tsuneaki",
+      "isInHome": false
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 28,
+      "faceType": "g",
+      "serifKey": "SERIF_TSUNEAKI_EVENTB",
+      "voiceFilename": "",
+      "resourceName": "tsuneaki",
       "isInHome": false
     }
   ],

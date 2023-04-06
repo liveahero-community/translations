@@ -5754,7 +5754,7 @@
     "eventId": 54,
     "chapterId": 1039,
     "lookBackChapterId": 0,
-    "baseResourceName": "Chocolatefes2303_epilogue",
+    "baseResourceName": "Chocolatefes2303",
     "startAt": "2023-03-03 14:00:00",
     "endAt": "2023-04-06 14:00:00",
     "canRemember": 0,
@@ -5987,6 +5987,222 @@
         "objectId": 162,
         "bonusValue": 10,
         "targetStockId": 19991
+      }
+    ]
+  },
+  "55": {
+    "eventId": 55,
+    "chapterId": 1043,
+    "lookBackChapterId": 0,
+    "baseResourceName": "Rakusai2304",
+    "startAt": null,
+    "endAt": "2023-05-04 14:00:00",
+    "canRemember": 0,
+    "eventPortalJson": {
+      "bg": "ui_bg_sprite_event_Rakusai2304",
+      "bgm": "bgm_rakusai_adv",
+      "logo": "Rakusai2304_title",
+      "terms": [
+        {
+          "keys": [
+            "UI_MAIN_QUEST",
+            "UI_MISSION",
+            "UI_EXCHANGE"
+          ],
+          "endAt": "2023-05-04 14:00:00"
+        },
+        {
+          "keys": [
+            "UI_FREE_QUEST",
+            "UI_SALES"
+          ],
+          "endAt": "2023-04-27 20:00:00"
+        }
+      ],
+      "gachaId": 67,
+      "storeId": 41,
+      "questInfos": [
+        {
+          "type": 5,
+          "chapterId": 1043,
+          "buttonType": 0
+        },
+        {
+          "type": 6,
+          "chapterId": 1044,
+          "buttonType": 1
+        }
+      ],
+      "tutorialKey": "Rakusai2304",
+      "eventItemIds": [
+        167
+      ],
+      "portalWindow": "WideTermEventPortalWindow",
+      "characterViews": [
+        {
+          "skinId": 0,
+          "stockId": 10062,
+          "cardType": 1,
+          "serifKinds": [
+            27,
+            28
+          ],
+          "visualType": 1,
+          "resourceName": "gammeiRakusai2304",
+          "characterName": "ガンメイ"
+        },
+        {
+          "skinId": 0,
+          "stockId": 10182,
+          "cardType": 1,
+          "serifKinds": [
+            27,
+            28
+          ],
+          "visualType": 1,
+          "resourceName": "koukiRakusai2304",
+          "characterName": "コウキ"
+        },
+        {
+          "skinId": 0,
+          "stockId": 11401,
+          "cardType": 2,
+          "serifKinds": [
+            27,
+            28
+          ],
+          "visualType": 1,
+          "resourceName": "tsuneaki",
+          "characterName": "ツネアキ"
+        }
+      ],
+      "salesRegionIds": [
+        226
+      ],
+      "missionGroupIds": [
+        1043
+      ],
+      "missionCategoryButtonLabels": null
+    },
+    "questBonusJsons": [
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 167,
+        "bonusValue": 30,
+        "targetStockId": 11401
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 167,
+        "bonusValue": 10,
+        "targetStockId": 10061
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 167,
+        "bonusValue": 10,
+        "targetStockId": 10181
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 167,
+        "bonusValue": 10,
+        "targetStockId": 10321
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 167,
+        "bonusValue": 10,
+        "targetStockId": 10301
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 167,
+        "bonusValue": 10,
+        "targetStockId": 11281
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 167,
+        "bonusValue": 10,
+        "targetStockId": 11291
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 167,
+        "bonusValue": 10,
+        "targetStockId": 19991
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 167,
+        "bonusValue": 40,
+        "targetStockId": 10062
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 167,
+        "bonusValue": 40,
+        "targetStockId": 10182
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 167,
+        "bonusValue": 30,
+        "targetStockId": 11401
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 167,
+        "bonusValue": 20,
+        "targetStockId": 10322
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 167,
+        "bonusValue": 20,
+        "targetStockId": 10302
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 167,
+        "bonusValue": 10,
+        "targetStockId": 11281
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 167,
+        "bonusValue": 10,
+        "targetStockId": 11291
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 167,
+        "bonusValue": 20,
+        "targetStockId": 10181
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 167,
+        "bonusValue": 10,
+        "targetStockId": 10061
       }
     ]
   }
