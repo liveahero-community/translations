@@ -6007,7 +6007,8 @@
           "keys": [
             "UI_MAIN_QUEST",
             "UI_MISSION",
-            "UI_EXCHANGE"
+            "UI_EXCHANGE",
+            "UI_HIGH_DIFFICULTY_QUEST"
           ],
           "endAt": "2023-05-04 14:00:00"
         },
@@ -6030,6 +6031,11 @@
         {
           "type": 6,
           "chapterId": 1044,
+          "buttonType": 1
+        },
+        {
+          "type": 6,
+          "chapterId": 1046,
           "buttonType": 1
         }
       ],
