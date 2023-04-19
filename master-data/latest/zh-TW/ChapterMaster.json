@@ -2908,6 +2908,28 @@
     "endAt": null,
     "executeLimit": null
   },
+  "615": {
+    "chapterId": 615,
+    "groupType": 6,
+    "chapterType": 8,
+    "chapterName": "強敵シミュレーター",
+    "subName": "シミュレート・隕石型カイブツ",
+    "peepingName": "隕石型カイブツ",
+    "sortWeight": 1000,
+    "bannerResourceName": "ui_banner_questchoice_strongenemy",
+    "bgResourceName": "ui_bg_sprite_strongenemy",
+    "selectBannerAddress": "",
+    "helpPrefabAddress": "",
+    "missionGroupId": 615,
+    "scoreAttackStoreId": 11,
+    "scoreAttackItemIds": [
+      68
+    ],
+    "conditionChapterId": 0,
+    "startAt": null,
+    "endAt": null,
+    "executeLimit": null
+  },
   "1001": {
     "chapterId": 1001,
     "groupType": 2,
