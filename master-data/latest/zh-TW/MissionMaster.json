@@ -21131,6 +21131,24 @@
       }
     ]
   },
+  "21160": {
+    "missionId": 21160,
+    "missionCategory": 2,
+    "missionGroupId": 1043,
+    "missionTextKey": "MISSION_21160_LABEL",
+    "count": 1,
+    "sortWeight": 800,
+    "rewards": [
+      {
+        "rewardType": 3,
+        "objectId": 59,
+        "objectValue": 10,
+        "bonus": 100,
+        "fixAddValue": 0,
+        "isAddDrop": false
+      }
+    ]
+  },
   "30001": {
     "missionId": 30001,
     "missionCategory": 3,
