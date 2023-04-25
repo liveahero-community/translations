@@ -2117,7 +2117,7 @@
     "resourceName": "",
     "subResourceName": "",
     "timing": 0,
-    "description": "洛祭紀行7話用",
+    "description": "洛祭纪行7话用",
     "cutin": [],
     "isEquip": false,
     "isHeroSkill": false,
@@ -2141,7 +2141,7 @@
     "resourceName": "",
     "subResourceName": "",
     "timing": 0,
-    "description": "洛祭紀行7話用",
+    "description": "洛祭纪行7话用",
     "cutin": [],
     "isEquip": false,
     "isHeroSkill": false,
@@ -2165,7 +2165,7 @@
     "resourceName": "",
     "subResourceName": "",
     "timing": 0,
-    "description": "洛祭紀行7話用",
+    "description": "洛祭纪行7话用",
     "cutin": [],
     "isEquip": false,
     "isHeroSkill": false,
@@ -65025,7 +65025,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_spdDownTeam",
     "timing": 0,
-    "description": "敵単体に100%ダメージ。1回の行動の間SPDダウンを付与。（敵専用）",
+    "description": "敌単体に100%ダメージ。1回の行动の间SPDダウンを付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -65065,7 +65065,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵全体に120%ダメージ。自身にデバフが付与されている時、与えるダメージが減少。（敵専用）",
+    "description": "敌全体に120%ダメージ。自身にデバフが付与されている时、与えるダメージが减少。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -65113,13 +65113,13 @@
   },
   "4147103": {
     "skillId": 4147103,
-    "skillName": "天衝ク大爆炎",
+    "skillName": "天冲ク大爆炎",
     "useView": 10000,
     "targetFlag": 2,
     "resourceName": "b_skill_damageAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵全体に40%ダメージ。スキルを発動できる場合、このスキルを追加発動(最大3回まで）。追加発動時、Viewを獲得できない。（敵専用）",
+    "description": "敌全体に40%ダメージ。スキルを発动できる场合、このスキルを追加発动(最大3回まで）。追加発动时、Viewを获得できない。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -65346,13 +65346,13 @@
   },
   "4149104": {
     "skillId": 4149104,
-    "skillName": "叩き潰し",
+    "skillName": "叩き溃し",
     "useView": 0,
     "targetFlag": 2,
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "敵単体に75%ダメージ。1ターンの間火傷を付与。自身にオーバーフローが付与されている場合、スキル１を再度発動。（1ターンに1回まで）",
+    "description": "敌単体に75%ダメージ。1ターンの间火伤を付与。自身にオーバーフローが付与されている场合、スキル１を再度発动。（1ターンに1回まで）",
     "cutin": [
       {
         "info": {
@@ -75021,13 +75021,13 @@
   },
   "6146102": {
     "skillId": 6146102,
-    "skillName": "発動準備",
+    "skillName": "発动准备",
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "b_skill_wait",
     "subResourceName": "s_skill_view",
     "timing": 4,
-    "description": "「天衝ク大爆炎」を発動するターンの開始時、Viewを50000獲得し、ウェイトする。",
+    "description": "「天冲ク大爆炎」を発动するターンの开始时、Viewを50000获得し、ウェイトする。",
     "cutin": [],
     "isEquip": false,
     "isHeroSkill": false,
@@ -75074,7 +75074,7 @@
     "resourceName": "status_awakening",
     "subResourceName": "",
     "timing": 4,
-    "description": "ターン開始時、現在のHPに応じて自身の使用するスキルのView消費量が減少する効果を付与。（HPが10%減少するごとにView消費量-500）",
+    "description": "ターン开始时、现在のHPに応じて自身の使用するスキルのView消费量が减少する効果を付与。（HPが10%减少するごとにView消费量-500）",
     "cutin": [],
     "isEquip": false,
     "isHeroSkill": false,
@@ -75368,13 +75368,13 @@
   },
   "6149102": {
     "skillId": 6149102,
-    "skillName": "龍脈+",
+    "skillName": "龙脉+",
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "b_skill_heal",
     "subResourceName": "s_skill_buffOwn",
     "timing": 4,
-    "description": "ターン開始時、自身がピンチ状態で無い場合、自身に1ターンのオーバーフローを付与。自身がピンチ状態の場合、最大HPの30%のHPを回復+毒・火傷を解除。",
+    "description": "ターン开始时、自身がピンチ状态で无い场合、自身に1ターンのオーバーフローを付与。自身がピンチ状态の场合、最大HPの30%のHPを回复+毒・火伤を解除。",
     "cutin": [],
     "isEquip": false,
     "isHeroSkill": false,
@@ -75447,13 +75447,13 @@
   },
   "6149103": {
     "skillId": 6149103,
-    "skillName": "危機回避",
+    "skillName": "危机回避",
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "b_skill_buff",
     "subResourceName": "",
     "timing": 1,
-    "description": "ピンチ状態の時、被ダメージ-75%。",
+    "description": "ピンチ状态の时、被ダメージ-75%。",
     "cutin": [],
     "isEquip": false,
     "isHeroSkill": false,
@@ -75477,7 +75477,7 @@
     "resourceName": "b_skill_view",
     "subResourceName": "s_skill_buffOwn",
     "timing": 4,
-    "description": "5ターン目以降、自身のスキルによる消費View-50%。更に、スキル発動後、ピンチ状態で無い時、再行動する。（1ターンに1回まで）",
+    "description": "5ターン目以降、自身のスキルによる消费View-50%。更に、スキル発动后、ピンチ状态で无い时、再行动する。（1ターンに1回まで）",
     "cutin": [],
     "isEquip": false,
     "isHeroSkill": false,
@@ -75576,7 +75576,7 @@
     "resourceName": "",
     "subResourceName": "",
     "timing": 5,
-    "description": "狂乱が付与されている時再行動の１ターンに１回ロジックを担保する部分。",
+    "description": "狂乱が付与されている时再行动の１ターンに１回ロジックを担保する部分。",
     "cutin": [],
     "isEquip": false,
     "isHeroSkill": false,
