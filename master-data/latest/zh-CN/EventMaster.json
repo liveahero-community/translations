@@ -5994,7 +5994,7 @@
     "eventId": 55,
     "chapterId": 1043,
     "lookBackChapterId": 0,
-    "baseResourceName": "Rakusai2304",
+    "baseResourceName": "Rakusai2304_epilogue",
     "startAt": null,
     "endAt": "2023-05-04 14:00:00",
     "canRemember": 0,
@@ -6006,6 +6006,7 @@
         {
           "keys": [
             "UI_MAIN_QUEST",
+            "UI_EPILOGUE_QUEST",
             "UI_MISSION",
             "UI_EXCHANGE",
             "UI_HIGH_DIFFICULTY_QUEST"
@@ -6037,6 +6038,11 @@
           "type": 6,
           "chapterId": 1046,
           "buttonType": 1
+        },
+        {
+          "type": 7,
+          "chapterId": 1045,
+          "buttonType": 0
         }
       ],
       "tutorialKey": "Rakusai2304",
