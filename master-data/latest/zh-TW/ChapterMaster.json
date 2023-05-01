@@ -279,6 +279,26 @@
     "endAt": null,
     "executeLimit": null
   },
+  "302": {
+    "chapterId": 302,
+    "groupType": 4,
+    "chapterType": 0,
+    "chapterName": "特殊クエスト",
+    "subName": "スキルツリー解放クエスト",
+    "peepingName": "スキルツリー<br>解放クエスト",
+    "sortWeight": 1000,
+    "bannerResourceName": "ui_banner_questchoice_special",
+    "bgResourceName": "bg_sprite_special_01",
+    "selectBannerAddress": "",
+    "helpPrefabAddress": "",
+    "missionGroupId": 0,
+    "scoreAttackStoreId": 0,
+    "scoreAttackItemIds": null,
+    "conditionChapterId": 0,
+    "startAt": null,
+    "endAt": null,
+    "executeLimit": null
+  },
   "401": {
     "chapterId": 401,
     "groupType": 2,
@@ -3834,6 +3854,26 @@
     "conditionChapterId": 0,
     "startAt": "2023-04-13 18:00:00",
     "endAt": "2023-05-04 14:00:00",
+    "executeLimit": null
+  },
+  "1047": {
+    "chapterId": 1047,
+    "groupType": 2,
+    "chapterType": 1,
+    "chapterName": "育成キャンペーン",
+    "subName": "ヒーロー登竜門",
+    "peepingName": "ヒーロー登竜門",
+    "sortWeight": 1000,
+    "bannerResourceName": "ui_banner_questchoice_traning",
+    "bgResourceName": "bg_sprite_traning_01",
+    "selectBannerAddress": "",
+    "helpPrefabAddress": "",
+    "missionGroupId": 0,
+    "scoreAttackStoreId": 0,
+    "scoreAttackItemIds": null,
+    "conditionChapterId": 0,
+    "startAt": null,
+    "endAt": "2023-05-15 14:00:00",
     "executeLimit": null
   }
 }

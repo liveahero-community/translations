@@ -5995,7 +5995,7 @@
     "chapterId": 1043,
     "lookBackChapterId": 0,
     "baseResourceName": "Rakusai2304_epilogue",
-    "startAt": null,
+    "startAt": "2023-04-06 14:00:00",
     "endAt": "2023-05-04 14:00:00",
     "canRemember": 0,
     "eventPortalJson": {
@@ -6217,5 +6217,63 @@
         "targetStockId": 10061
       }
     ]
+  },
+  "56": {
+    "eventId": 56,
+    "chapterId": 1047,
+    "lookBackChapterId": 0,
+    "baseResourceName": "GoldenWeek2305",
+    "startAt": "2023-05-01 14:00:00",
+    "endAt": "2023-05-15 14:00:00",
+    "canRemember": 0,
+    "eventPortalJson": {
+      "bg": "ui_bg_sprite_event_GoldenWeek2305",
+      "bgm": "bgm_main",
+      "logo": "GoldenWeek2305_title",
+      "terms": [
+        {
+          "keys": [
+            "UI_FREE_QUEST",
+            "UI_MISSION"
+          ],
+          "endAt": "2023-05-15 14:00:00"
+        }
+      ],
+      "gachaId": 68,
+      "storeId": 0,
+      "questInfos": [
+        {
+          "type": 2,
+          "chapterId": 1047,
+          "buttonType": 1
+        }
+      ],
+      "tutorialKey": "",
+      "eventItemIds": [],
+      "portalWindow": "GoldenWeekChampaign2023PortalWindow",
+      "characterViews": [
+        {
+          "skinId": 0,
+          "stockId": 10042,
+          "cardType": 1,
+          "serifKinds": [
+            27
+          ],
+          "visualType": 1,
+          "resourceName": "ryekieXmas2012",
+          "characterName": "ライキ"
+        }
+      ],
+      "salesRegionIds": [],
+      "missionGroupIds": [
+        1,
+        2
+      ],
+      "missionCategoryButtonLabels": {
+        "daily": null,
+        "event": null
+      }
+    },
+    "questBonusJsons": []
   }
 }
