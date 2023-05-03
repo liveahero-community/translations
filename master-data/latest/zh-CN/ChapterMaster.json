@@ -2906,6 +2906,28 @@
     "endAt": null,
     "executeLimit": null
   },
+  "613": {
+    "chapterId": 613,
+    "groupType": 6,
+    "chapterType": 8,
+    "chapterName": "強敵シミュレーター",
+    "subName": "シミュレート・首長竜型カイブツ",
+    "peepingName": "首長竜型カイブツ",
+    "sortWeight": 1000,
+    "bannerResourceName": "ui_banner_questchoice_strongenemy",
+    "bgResourceName": "ui_bg_sprite_strongenemy",
+    "selectBannerAddress": "",
+    "helpPrefabAddress": "",
+    "missionGroupId": 613,
+    "scoreAttackStoreId": 11,
+    "scoreAttackItemIds": [
+      68
+    ],
+    "conditionChapterId": 0,
+    "startAt": null,
+    "endAt": null,
+    "executeLimit": null
+  },
   "614": {
     "chapterId": 614,
     "groupType": 6,
