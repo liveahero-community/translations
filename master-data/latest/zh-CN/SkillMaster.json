@@ -79069,7 +79069,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_spdDownTeam",
     "timing": 0,
-    "description": "敵単体に60%ダメージ。自身にデバフが付与されていない時、ダメージ増加。2回の行動の間SPDダウン & バフを1つ解除。発動後、ランダムな敵にスキル１を追加発動。【ピンチ状態時追加効果】自身のデバフを1つ解除。",
+    "description": "敌単体に60%ダメージ。自身にデバフが付与されていない时、ダメージ増加。2回の行动の间SPDダウン & バフを1つ解除。発动后、ランダムな敌にスキル１を追加発动。【ピンチ状态时追加効果】自身のデバフを1つ解除。",
     "cutin": [
       {
         "info": {
@@ -93282,13 +93282,13 @@
   },
   "6121115": {
     "skillId": 6121115,
-    "skillName": "自己修復機構",
+    "skillName": "自己修复机构",
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "b_skill_debuff",
     "subResourceName": "s_skill_cureOwn",
     "timing": 8,
-    "description": "自身に付与されているデバフ1つにつき被ダメージが5％上昇(最大50%)。ターン終了時、自身のランダムなデバフを1ターン短縮。【ピンチ状態時追加効果】被ダメージ時、50%の確率で自身のデバフを１つ解除。",
+    "description": "自身に付与されているデバフ1つにつき被ダメージが5％上升(最大50%)。ターン终了时、自身のランダムなデバフを1ターン短缩。【ピンチ状态时追加効果】被ダメージ时、50%の确率で自身のデバフを１つ解除。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -93318,7 +93318,7 @@
   },
   "6121116": {
     "skillId": 6121116,
-    "skillName": "自己修復機構",
+    "skillName": "自己修复机构",
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "",
