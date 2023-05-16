@@ -20468,7 +20468,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_heal",
     "timing": 0,
-    "description": "敵単体に50%ダメージ。自身のHPを基礎ATKの35%回復する。【常時発動】ピンチ状態ではないかつ未行動の時、自身に「挑発」と同様の効果を発動。",
+    "description": "敌単体に50%ダメージ。自身のHPを基础ATKの35%回复する。【常时発动】ピンチ状态ではないかつ未行动の时、自身に「挑発」と同様の効果を発动。",
     "cutin": [
       {
         "info": {
@@ -20532,7 +20532,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵全体に60%ダメージ。自身に奮起が付与されている場合、与えるダメージが100%に増加する。【ダメージ時】自身に1ターンの間奮起を付与。",
+    "description": "敌全体に60%ダメージ。自身に奋起が付与されている场合、与えるダメージが100%に増加する。【ダメージ时】自身に1ターンの间奋起を付与。",
     "cutin": [
       {
         "info": {
@@ -20610,7 +20610,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_buffAll",
     "timing": 0,
-    "description": "敵単体に140%ダメージ。自身のHPを基礎ATKの80%回復する。味方全体に1回分のDEFアップを付与。",
+    "description": "敌単体に140%ダメージ。自身のHPを基础ATKの80%回复する。味方全体に1回分のDEFアップを付与。",
     "cutin": [
       {
         "info": {
@@ -20674,7 +20674,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_buffAll",
     "timing": 0,
-    "description": "敵単体に140%ダメージ。自身のHPを基礎ATKの80%回復する。味方全体に1回分のDEFアップを付与。",
+    "description": "敌単体に140%ダメージ。自身のHPを基础ATKの80%回复する。味方全体に1回分のDEFアップを付与。",
     "cutin": [
       {
         "info": {
@@ -25361,7 +25361,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_spdUpOwn",
     "timing": 0,
-    "description": "敵単体に65%ダメージ。自身に80%の確率で1回の行動の間SPDアップを付与。【常時発動】攻撃対象が未行動の時、自身が与えるダメージが20%増加。",
+    "description": "敌単体に65%ダメージ。自身に80%の确率で1回の行动の间SPDアップを付与。【常时発动】攻撃対象が未行动の时、自身が与えるダメージが20%増加。",
     "cutin": [
       {
         "info": {
@@ -25411,7 +25411,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_heal",
     "timing": 0,
-    "description": "敵単体に2回60%ダメージ。ダメージの度にチームで一番HPが減っているヒーローのHPを敵に与えたダメージの50％回復。",
+    "description": "敌単体に2回60%ダメージ。ダメージの度にチームで一番HPが减っているヒーローのHPを敌に与えたダメージの50％回复。",
     "cutin": [
       {
         "info": {
@@ -25461,7 +25461,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体に180%ダメージ。このスキルで敵を戦闘不能にした場合、もう1度行動をする。（1ターンに1回まで）",
+    "description": "敌単体に180%ダメージ。このスキルで敌を戦闘不能にした场合、もう1度行动をする。（1ターンに1回まで）",
     "cutin": [
       {
         "info": {
@@ -25538,7 +25538,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体に200%ダメージ。このスキルで敵を戦闘不能にした場合、もう1度行動をする。（1ターンに1回まで）",
+    "description": "敌単体に200%ダメージ。このスキルで敌を戦闘不能にした场合、もう1度行动をする。（1ターンに1回まで）",
     "cutin": [
       {
         "info": {
@@ -25615,7 +25615,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_antiBuffTeam",
     "timing": 0,
-    "description": "敵単体に50%ダメージ。バフを１つ解除。【常時発動】敵の挑発を無視。",
+    "description": "敌単体に50%ダメージ。バフを１つ解除。【常时発动】敌の挑発を无视。",
     "cutin": [
       {
         "info": {
@@ -25665,7 +25665,7 @@
     "resourceName": "b_skill_spdUp",
     "subResourceName": "s_skill_buffTeam",
     "timing": 0,
-    "description": "味方単体に1回の行動の間SPDアップ & View消費量-1000を付与。対象が未行動の場合、View消費量-1000の代わりに1回のView消費量-3000を付与。",
+    "description": "味方単体に1回の行动の间SPDアップ & View消费量-1000を付与。対象が未行动の场合、View消费量-1000の代わりに1回のView消费量-3000を付与。",
     "cutin": [
       {
         "info": {
@@ -25743,7 +25743,7 @@
     "resourceName": "b_skill_spdDown",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "敵単体に2回の行動の間SPDダウンを付与。1回の行動の間ATKダウンを付与。【常時発動】ターン開始時、自身のデバフを１つ解除。",
+    "description": "敌単体に2回の行动の间SPDダウンを付与。1回の行动の间ATKダウンを付与。【常时発动】ターン开始时、自身のデバフを１つ解除。",
     "cutin": [
       {
         "info": {
@@ -25793,7 +25793,7 @@
     "resourceName": "b_skill_spdDown",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "敵単体に2回の行動の間SPDダウンを付与。1回の行動の間ATKダウンを付与。コンボ数+1。【常時発動】ターン開始時、自身のデバフを１つ解除。",
+    "description": "敌単体に2回の行动の间SPDダウンを付与。1回の行动の间ATKダウンを付与。コンボ数+1。【常时発动】ターン开始时、自身のデバフを１つ解除。",
     "cutin": [
       {
         "info": {
@@ -36608,7 +36608,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_heal",
     "timing": 0,
-    "description": "敵単体に100%ダメージ。自身のHPを基礎ATKの50%回復する。",
+    "description": "敌単体に100%ダメージ。自身のHPを基础ATKの50%回复する。",
     "cutin": [
       {
         "info": {
@@ -36658,7 +36658,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_heal",
     "timing": 0,
-    "description": "敵単体に100%ダメージ。自身のHPを基礎ATKの60%回復する。",
+    "description": "敌単体に100%ダメージ。自身のHPを基础ATKの60%回复する。",
     "cutin": [
       {
         "info": {
@@ -36708,7 +36708,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_heal",
     "timing": 0,
-    "description": "敵単体に110%ダメージ。自身のHPを基礎ATKの60%回復する。",
+    "description": "敌単体に110%ダメージ。自身のHPを基础ATKの60%回复する。",
     "cutin": [
       {
         "info": {
@@ -36758,7 +36758,7 @@
     "resourceName": "b_skill_heal",
     "subResourceName": "s_skill_cureTeam",
     "timing": 0,
-    "description": "味方単体のHPを基礎ATKの80%回復する。対象にデバフが付与されている時、回復量が基礎ATKの120%に上昇。デバフを１つ解除。",
+    "description": "味方単体のHPを基础ATKの80%回复する。対象にデバフが付与されている时、回复量が基础ATKの120%に上升。デバフを１つ解除。",
     "cutin": [
       {
         "info": {
@@ -36836,7 +36836,7 @@
     "resourceName": "b_skill_heal",
     "subResourceName": "s_skill_cureTeam",
     "timing": 0,
-    "description": "味方単体のHPを基礎ATKの80%回復する。対象にデバフが付与されている時、回復量が基礎ATKの120%に上昇。デバフを１つ解除。",
+    "description": "味方単体のHPを基础ATKの80%回复する。対象にデバフが付与されている时、回复量が基础ATKの120%に上升。デバフを１つ解除。",
     "cutin": [
       {
         "info": {
@@ -36914,7 +36914,7 @@
     "resourceName": "b_skill_heal",
     "subResourceName": "s_skill_cureTeam",
     "timing": 0,
-    "description": "味方単体のHPを基礎ATKの80%回復する。対象にデバフが付与されている時、回復量が基礎ATKの120%に上昇。デバフを１つ解除。",
+    "description": "味方単体のHPを基础ATKの80%回复する。対象にデバフが付与されている时、回复量が基础ATKの120%に上升。デバフを１つ解除。",
     "cutin": [
       {
         "info": {
@@ -36992,7 +36992,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_buffOwn",
     "timing": 0,
-    "description": "敵単体に130%ダメージ。自身に１回のランダムなバフ効果を付与。",
+    "description": "敌単体に130%ダメージ。自身に１回のランダムなバフ効果を付与。",
     "cutin": [
       {
         "info": {
@@ -37084,7 +37084,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_buffOwn",
     "timing": 0,
-    "description": "敵単体に140%ダメージ。自身に１回のランダムなバフ効果を付与。",
+    "description": "敌単体に140%ダメージ。自身に１回のランダムなバフ効果を付与。",
     "cutin": [
       {
         "info": {
@@ -37176,7 +37176,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_buffOwn",
     "timing": 0,
-    "description": "敵単体に150%ダメージ。自身に１回のランダムなバフ効果を付与。",
+    "description": "敌単体に150%ダメージ。自身に１回のランダムなバフ効果を付与。",
     "cutin": [
       {
         "info": {
@@ -51872,7 +51872,7 @@
     "resourceName": "icon_tabit_s01",
     "subResourceName": "",
     "timing": 13,
-    "description": "ダメージを与えないスキルを使用した後、30%の確率でコンボ数+1。",
+    "description": "ダメージを与えないスキルを使用した后、30%の确率でコンボ数+1。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -51901,7 +51901,7 @@
     "resourceName": "icon_tabit_s01",
     "subResourceName": "",
     "timing": 13,
-    "description": "ダメージを与えないスキルを使用した後、36%の確率でコンボ数+1。",
+    "description": "ダメージを与えないスキルを使用した后、36%の确率でコンボ数+1。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -51930,7 +51930,7 @@
     "resourceName": "icon_tabit_s01",
     "subResourceName": "",
     "timing": 13,
-    "description": "ダメージを与えないスキルを使用した後、42%の確率でコンボ数+1。",
+    "description": "ダメージを与えないスキルを使用した后、42%の确率でコンボ数+1。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -51959,7 +51959,7 @@
     "resourceName": "icon_tabit_s01",
     "subResourceName": "",
     "timing": 13,
-    "description": "ダメージを与えないスキルを使用した後、48%の確率でコンボ数+1。",
+    "description": "ダメージを与えないスキルを使用した后、48%の确率でコンボ数+1。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -51988,7 +51988,7 @@
     "resourceName": "icon_tabit_s01",
     "subResourceName": "",
     "timing": 13,
-    "description": "ダメージを与えないスキルを使用した後、54%の確率でコンボ数+1。",
+    "description": "ダメージを与えないスキルを使用した后、54%の确率でコンボ数+1。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -52017,7 +52017,7 @@
     "resourceName": "icon_tabit_s01",
     "subResourceName": "",
     "timing": 13,
-    "description": "ダメージを与えないスキルを使用した後、60%の確率でコンボ数+1。",
+    "description": "ダメージを与えないスキルを使用した后、60%の确率でコンボ数+1。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -52046,7 +52046,7 @@
     "resourceName": "icon_esperdica_s01",
     "subResourceName": "",
     "timing": 6,
-    "description": "ピンチ状態になった時、50%の確率で1ターンの間リジェネを付与。オート行動時、2ターン毎に第2スキルを優先して使用する。",
+    "description": "ピンチ状态になった时、50%の确率で1ターンの间リジェネを付与。オート行动时、2ターン毎に第2スキルを优先して使用する。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -52075,7 +52075,7 @@
     "resourceName": "icon_esperdica_s01",
     "subResourceName": "",
     "timing": 6,
-    "description": "ピンチ状態になった時、60%の確率で1ターンの間リジェネを付与。オート行動時、2ターン毎に第2スキルを優先して使用する。",
+    "description": "ピンチ状态になった时、60%の确率で1ターンの间リジェネを付与。オート行动时、2ターン毎に第2スキルを优先して使用する。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -52104,7 +52104,7 @@
     "resourceName": "icon_esperdica_s01",
     "subResourceName": "",
     "timing": 6,
-    "description": "ピンチ状態になった時、70%の確率で1ターンの間リジェネを付与。オート行動時、2ターン毎に第2スキルを優先して使用する。",
+    "description": "ピンチ状态になった时、70%の确率で1ターンの间リジェネを付与。オート行动时、2ターン毎に第2スキルを优先して使用する。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -52133,7 +52133,7 @@
     "resourceName": "icon_esperdica_s01",
     "subResourceName": "",
     "timing": 6,
-    "description": "ピンチ状態になった時、80%の確率で1ターンの間リジェネを付与。オート行動時、2ターン毎に第2スキルを優先して使用する。",
+    "description": "ピンチ状态になった时、80%の确率で1ターンの间リジェネを付与。オート行动时、2ターン毎に第2スキルを优先して使用する。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -52162,7 +52162,7 @@
     "resourceName": "icon_esperdica_s01",
     "subResourceName": "",
     "timing": 6,
-    "description": "ピンチ状態になった時、90%の確率で1ターンの間リジェネを付与。オート行動時、2ターン毎に第2スキルを優先して使用する。",
+    "description": "ピンチ状态になった时、90%の确率で1ターンの间リジェネを付与。オート行动时、2ターン毎に第2スキルを优先して使用する。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -52191,7 +52191,7 @@
     "resourceName": "icon_esperdica_s01",
     "subResourceName": "",
     "timing": 6,
-    "description": "ピンチ状態になった時、1ターンの間リジェネを付与。オート行動時、2ターン毎に第2スキルを優先して使用する。",
+    "description": "ピンチ状态になった时、1ターンの间リジェネを付与。オート行动时、2ターン毎に第2スキルを优先して使用する。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -52220,7 +52220,7 @@
     "resourceName": "icon_raizi_s01",
     "subResourceName": "",
     "timing": 13,
-    "description": "ダメージを与えないスキルを使用した後、25%の確率でランダムな味方のデバフを１つ解除。オート行動時、味方を対象にするスキルは味方の中で一番バフが付与されているキャラクターを対象にする。",
+    "description": "ダメージを与えないスキルを使用した后、25%の确率でランダムな味方のデバフを１つ解除。オート行动时、味方を対象にするスキルは味方の中で一番バフが付与されているキャラクターを対象にする。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -52249,7 +52249,7 @@
     "resourceName": "icon_raizi_s01",
     "subResourceName": "",
     "timing": 13,
-    "description": "ダメージを与えないスキルを使用した後、30%の確率でランダムな味方のデバフを１つ解除。オート行動時、味方を対象にするスキルは味方の中で一番バフが付与されているキャラクターを対象にする。",
+    "description": "ダメージを与えないスキルを使用した后、30%の确率でランダムな味方のデバフを１つ解除。オート行动时、味方を対象にするスキルは味方の中で一番バフが付与されているキャラクターを対象にする。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -52278,7 +52278,7 @@
     "resourceName": "icon_raizi_s01",
     "subResourceName": "",
     "timing": 13,
-    "description": "ダメージを与えないスキルを使用した後、35%の確率でランダムな味方のデバフを１つ解除。オート行動時、味方を対象にするスキルは味方の中で一番バフが付与されているキャラクターを対象にする。",
+    "description": "ダメージを与えないスキルを使用した后、35%の确率でランダムな味方のデバフを１つ解除。オート行动时、味方を対象にするスキルは味方の中で一番バフが付与されているキャラクターを対象にする。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -52307,7 +52307,7 @@
     "resourceName": "icon_raizi_s01",
     "subResourceName": "",
     "timing": 13,
-    "description": "ダメージを与えないスキルを使用した後、40%の確率でランダムな味方のデバフを１つ解除。オート行動時、味方を対象にするスキルは味方の中で一番バフが付与されているキャラクターを対象にする。",
+    "description": "ダメージを与えないスキルを使用した后、40%の确率でランダムな味方のデバフを１つ解除。オート行动时、味方を対象にするスキルは味方の中で一番バフが付与されているキャラクターを対象にする。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -52336,7 +52336,7 @@
     "resourceName": "icon_raizi_s01",
     "subResourceName": "",
     "timing": 13,
-    "description": "ダメージを与えないスキルを使用した後、45%の確率でランダムな味方のデバフを１つ解除。オート行動時、味方を対象にするスキルは味方の中で一番バフが付与されているキャラクターを対象にする。",
+    "description": "ダメージを与えないスキルを使用した后、45%の确率でランダムな味方のデバフを１つ解除。オート行动时、味方を対象にするスキルは味方の中で一番バフが付与されているキャラクターを対象にする。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -52365,7 +52365,7 @@
     "resourceName": "icon_raizi_s01",
     "subResourceName": "",
     "timing": 13,
-    "description": "ダメージを与えないスキルを使用した後、50%の確率でランダムな味方のデバフを１つ解除。オート行動時、味方を対象にするスキルは味方の中で一番バフが付与されているキャラクターを対象にする。",
+    "description": "ダメージを与えないスキルを使用した后、50%の确率でランダムな味方のデバフを１つ解除。オート行动时、味方を対象にするスキルは味方の中で一番バフが付与されているキャラクターを対象にする。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -85493,7 +85493,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_buffOwn",
     "timing": 0,
-    "description": "敵単体に70%ダメージ。自身に1回の行動の間View消費量-1000を付与。（敵専用）",
+    "description": "敌単体に70%ダメージ。自身に1回の行动の间View消费量-1000を付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -85543,7 +85543,7 @@
     "resourceName": "b_skill_spdUpAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "味方全体に1回の行動の間SPDアップを付与。（敵専用）",
+    "description": "味方全体に1回の行动の间SPDアップを付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -85579,7 +85579,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵全体に60%ダメージ+HPが減るほどダメージ量が上昇する。（敵専用）",
+    "description": "敌全体に60%ダメージ+HPが减るほどダメージ量が上升する。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -101572,7 +101572,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_cureOwn",
     "timing": 1,
-    "description": "【常時発動】攻撃対象が未行動の時、自身が与えるダメージが20%増加。",
+    "description": "【常时発动】攻撃対象が未行动の时、自身が与えるダメージが20%増加。",
     "cutin": [
       {
         "info": {
@@ -101644,7 +101644,7 @@
     "resourceName": "",
     "subResourceName": "",
     "timing": 1,
-    "description": "登場時、敵の挑発を無視。",
+    "description": "登场时、敌の挑発を无视。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -101673,7 +101673,7 @@
     "resourceName": "",
     "subResourceName": "",
     "timing": 4,
-    "description": "登場時、敵の挑発を無視。",
+    "description": "登场时、敌の挑発を无视。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -101709,7 +101709,7 @@
     "resourceName": "",
     "subResourceName": "",
     "timing": 12,
-    "description": "オート行動時、2ターン毎に第2スキルを優先して使用する。",
+    "description": "オート行动时、2ターン毎に第2スキルを优先して使用する。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -101738,7 +101738,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 12,
-    "description": "オート行動時、味方を対象にするスキルは味方の中で一番バフが付与されているキャラクターを対象にする",
+    "description": "オート行动时、味方を対象にするスキルは味方の中で一番バフが付与されているキャラクターを対象にする",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
