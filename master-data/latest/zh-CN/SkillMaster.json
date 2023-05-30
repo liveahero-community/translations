@@ -85493,7 +85493,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "敵単体に60%ダメージ+HPが減るほどダメージ量が上昇する。1ターンの間解析を付与。（敵専用）",
+    "description": "敌単体に60%ダメージ+HPが减るほどダメージ量が上升する。1ターンの间解析を付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -85624,7 +85624,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_heal",
     "timing": 0,
-    "description": "敵単体に110%ダメージ。1ターンの間解析を付与。自身を除く味方全体のHPを基礎ATKの200%回復。（敵専用）",
+    "description": "敌単体に110%ダメージ。1ターンの间解析を付与。自身を除く味方全体のHPを基础ATKの200%回复。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -85769,7 +85769,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "敵単体に150%ダメージ+HPが減るほどダメージ量が上昇する。1ターンの間解析を付与。（敵専用）",
+    "description": "敌単体に150%ダメージ+HPが减るほどダメージ量が上升する。1ターンの间解析を付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -86592,7 +86592,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体に50%ダメージ。（敵専用）",
+    "description": "敌単体に50%ダメージ。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -86628,7 +86628,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵全体に60%ダメージ。（敵専用）",
+    "description": "敌全体に60%ダメージ。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -86664,7 +86664,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "敵単体に80%ダメージ。1回の行動の間ATKダウンを付与。（敵専用）",
+    "description": "敌単体に80%ダメージ。1回の行动の间ATKダウンを付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -86714,7 +86714,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "敵単体に100%ダメージ。1回分のDEFダウンを付与。（敵専用）",
+    "description": "敌単体に100%ダメージ。1回分のDEFダウンを付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -86764,7 +86764,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "敵単体に140%ダメージ。1回分のDEFダウンを付与。（敵専用）",
+    "description": "敌単体に140%ダメージ。1回分のDEFダウンを付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -93455,13 +93455,13 @@
   },
   "6072201": {
     "skillId": 6072201,
-    "skillName": "不可視の傭兵",
+    "skillName": "不可视の佣兵",
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "b_skill_special",
     "subResourceName": "",
     "timing": 2,
-    "description": "行動開始時、自身に付与されている解析を全て解除。Spd基礎値+5。",
+    "description": "行动开始时、自身に付与されている解析を全て解除。Spd基础値+5。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -99954,7 +99954,7 @@
     "resourceName": "b_skill_spdUp",
     "subResourceName": "",
     "timing": 4,
-    "description": "ピンチ状態の時、ターン開始時に1回の行動のSPDアップを付与。",
+    "description": "ピンチ状态の时、ターン开始时に1回の行动のSPDアップを付与。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -100004,7 +100004,7 @@
     "resourceName": "b_skill_special",
     "subResourceName": "",
     "timing": 12,
-    "description": "オート行動時、敵を対象にするスキルは敵の中で一番SPDが低いキャラクターを対象にする。",
+    "description": "オート行动时、敌を対象にするスキルは敌の中で一番SPDが低いキャラクターを対象にする。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
