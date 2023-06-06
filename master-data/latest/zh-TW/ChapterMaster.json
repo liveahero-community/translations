@@ -3958,6 +3958,26 @@
     "endAt": "2023-06-06 20:00:00",
     "executeLimit": null
   },
+  "1050": {
+    "chapterId": 1050,
+    "groupType": 2,
+    "chapterType": 1,
+    "chapterName": "エピローグクエスト",
+    "subName": "星海往くクルーズトレイン",
+    "peepingName": "エピローグクエスト",
+    "sortWeight": 1000,
+    "bannerResourceName": "ui_banner_questchoice_event_Train2305_epilogue",
+    "bgResourceName": "ui_bg_sprite_quest_epilogue_Train2305",
+    "selectBannerAddress": "banner_chapter_select_epilogue",
+    "helpPrefabAddress": "",
+    "missionGroupId": 0,
+    "scoreAttackStoreId": 0,
+    "scoreAttackItemIds": null,
+    "conditionChapterId": 0,
+    "startAt": "2023-06-06 18:00:00",
+    "endAt": "2023-06-13 14:00:00",
+    "executeLimit": null
+  },
   "1051": {
     "chapterId": 1051,
     "groupType": 8,
