@@ -22319,6 +22319,24 @@
       }
     ]
   },
+  "21223": {
+    "missionId": 21223,
+    "missionCategory": 2,
+    "missionGroupId": 1052,
+    "missionTextKey": "MISSION_21223_LABEL",
+    "count": 20,
+    "sortWeight": 1000,
+    "rewards": [
+      {
+        "rewardType": 3,
+        "objectId": 34,
+        "objectValue": 1,
+        "bonus": 100,
+        "fixAddValue": 0,
+        "isAddDrop": false
+      }
+    ]
+  },
   "21224": {
     "missionId": 21224,
     "missionCategory": 2,
