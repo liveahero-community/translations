@@ -1509,7 +1509,7 @@
     "statusName": "装甲",
     "isGoodStatus": 2,
     "statusType": 2,
-    "description": "相手からのダメージが5%減少する。バフでもデバフでもない状態。スキルによる解除不可。"
+    "description": "相手からのダメージが5%减少する。バフでもデバフでもない状态。スキルによる解除不可。"
   },
   "222": {
     "statusId": 222,
@@ -1523,14 +1523,14 @@
     "statusName": "弱体抵抗",
     "isGoodStatus": 2,
     "statusType": 2,
-    "description": "被デバフ付与率が数値だけ減少する。"
+    "description": "被デバフ付与率が数値だけ减少する。"
   },
   "224": {
     "statusId": 224,
     "statusName": "歓声",
     "isGoodStatus": 2,
     "statusType": 2,
-    "description": "複数付与された場合一番高い効果のみ適用される。バフでもデバフでもない状態。スキルによる解除不可。"
+    "description": "复数付与された场合一番高い効果のみ适用される。バフでもデバフでもない状态。スキルによる解除不可。"
   },
   "225": {
     "statusId": 225,
