@@ -3667,11 +3667,11 @@
   "39": {
     "eventId": 39,
     "chapterId": 489,
-    "lookBackChapterId": 516,
+    "lookBackChapterId": 0,
     "baseResourceName": "LostAncients2208",
     "startAt": "2022-08-23 14:00:00",
     "endAt": "2022-09-20 14:00:00",
-    "canRemember": 1,
+    "canRemember": 0,
     "eventPortalJson": {
       "bg": "ui_bg_sprite_event_LostAncients2208",
       "bgm": "bgm_lostancients_adv1",
@@ -6279,11 +6279,11 @@
   "57": {
     "eventId": 57,
     "chapterId": 1048,
-    "lookBackChapterId": 0,
-    "baseResourceName": "Train2305_epilogue",
+    "lookBackChapterId": 523,
+    "baseResourceName": "Train2305",
     "startAt": null,
     "endAt": "2023-06-13 14:00:00",
-    "canRemember": 0,
+    "canRemember": 1,
     "eventPortalJson": {
       "bg": "ui_bg_sprite_event_Train2305",
       "bgm": "bgm_cruisetrain_adv",
@@ -6513,6 +6513,235 @@
         "objectId": 172,
         "bonusValue": 10,
         "targetStockId": 19991
+      }
+    ]
+  },
+  "58": {
+    "eventId": 58,
+    "chapterId": 1052,
+    "lookBackChapterId": 0,
+    "baseResourceName": "LostAncientsRevival2306",
+    "startAt": null,
+    "endAt": "2023-07-11 14:00:00",
+    "canRemember": 0,
+    "eventPortalJson": {
+      "bg": "ui_bg_sprite_event_LostAncients2208",
+      "bgm": "bgm_lostancients_adv1",
+      "logo": "LostAncientsRevival2306_title",
+      "terms": [
+        {
+          "keys": [
+            "UI_MAIN_QUEST",
+            "UI_EPILOGUE_QUEST",
+            "UI_MISSION",
+            "UI_EXCHANGE"
+          ],
+          "endAt": "2023-07-11 14:00:00"
+        },
+        {
+          "keys": [
+            "UI_FREE_QUEST",
+            "UI_SALES"
+          ],
+          "endAt": "2023-07-04 20:00:00"
+        }
+      ],
+      "gachaId": 70,
+      "storeId": 43,
+      "questInfos": [
+        {
+          "type": 5,
+          "chapterId": 1052,
+          "buttonType": 0
+        },
+        {
+          "type": 6,
+          "chapterId": 1053,
+          "buttonType": 1
+        },
+        {
+          "type": 7,
+          "chapterId": 1054,
+          "buttonType": 0
+        }
+      ],
+      "tutorialKey": "LostAncientsRevival2306",
+      "eventItemIds": [
+        120
+      ],
+      "portalWindow": "WideTermEventPortalWindow",
+      "characterViews": [
+        {
+          "skinId": 0,
+          "stockId": 11151,
+          "cardType": 2,
+          "serifKinds": [
+            27,
+            28
+          ],
+          "visualType": 1,
+          "resourceName": "gaius",
+          "characterName": "ガイウス"
+        },
+        {
+          "skinId": 0,
+          "stockId": 10532,
+          "cardType": 1,
+          "serifKinds": [
+            27,
+            28
+          ],
+          "visualType": 1,
+          "resourceName": "hisakiLostAncients2208",
+          "characterName": "ヒサキ"
+        },
+        {
+          "skinId": 0,
+          "stockId": 10252,
+          "cardType": 1,
+          "serifKinds": [
+            27,
+            28
+          ],
+          "visualType": 1,
+          "resourceName": "andrewLostAncients2208",
+          "characterName": "アンドリュー"
+        }
+      ],
+      "salesRegionIds": [
+        228
+      ],
+      "missionGroupIds": [
+        1052
+      ],
+      "missionCategoryButtonLabels": null
+    },
+    "questBonusJsons": [
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 120,
+        "bonusValue": 40,
+        "targetStockId": 10532
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 120,
+        "bonusValue": 40,
+        "targetStockId": 11151
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 120,
+        "bonusValue": 30,
+        "targetStockId": 10252
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 120,
+        "bonusValue": 10,
+        "targetStockId": 10531
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 120,
+        "bonusValue": 10,
+        "targetStockId": 11151
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 120,
+        "bonusValue": 10,
+        "targetStockId": 10251
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 120,
+        "bonusValue": 10,
+        "targetStockId": 10711
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 120,
+        "bonusValue": 10,
+        "targetStockId": 19991
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 120,
+        "bonusValue": 10,
+        "targetStockId": 10531
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 120,
+        "bonusValue": 20,
+        "targetStockId": 10251
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 120,
+        "bonusValue": 20,
+        "targetStockId": 10722
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 120,
+        "bonusValue": 20,
+        "targetStockId": 11511
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 120,
+        "bonusValue": 10,
+        "targetStockId": 11521
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 120,
+        "bonusValue": 10,
+        "targetStockId": 11531
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 120,
+        "bonusValue": 10,
+        "targetStockId": 11521
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 120,
+        "bonusValue": 10,
+        "targetStockId": 11511
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 120,
+        "bonusValue": 10,
+        "targetStockId": 10721
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 120,
+        "bonusValue": 20,
+        "targetStockId": 11151
       }
     ]
   }

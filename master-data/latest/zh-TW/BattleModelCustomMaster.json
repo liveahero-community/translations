@@ -2523,5 +2523,325 @@
       "effectAddress": "TurnObject_Blooming",
       "targetStockId": 11521
     }
+  },
+  "295": {
+    "itemId": 11025201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att1_bino_body",
+      "targetStockId": 10252,
+      "attachmentName": "attach1/bino_body"
+    }
+  },
+  "296": {
+    "itemId": 11025201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att1_bino_lens",
+      "targetStockId": 10252,
+      "attachmentName": "attach1/bino_lens"
+    }
+  },
+  "297": {
+    "itemId": 11025201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att1_bino_strap1",
+      "targetStockId": 10252,
+      "attachmentName": "attach1/bino_strap1"
+    }
+  },
+  "298": {
+    "itemId": 11025201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att1_bino_strap2",
+      "targetStockId": 10252,
+      "attachmentName": "attach1/bino_strap2"
+    }
+  },
+  "299": {
+    "itemId": 11025201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att1_bino_strap3",
+      "targetStockId": 10252,
+      "attachmentName": "attach1/bino_strap3"
+    }
+  },
+  "300": {
+    "itemId": 11025201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att1_bino_ura",
+      "targetStockId": 10252,
+      "attachmentName": "attach1/bino_ura"
+    }
+  },
+  "301": {
+    "itemId": 11025201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att1_headgear",
+      "targetStockId": 10252,
+      "attachmentName": "attach1/headgear"
+    }
+  },
+  "302": {
+    "itemId": 11025201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att1_face_base_top",
+      "targetStockId": 10252,
+      "attachmentName": "attach1/face_base_top"
+    }
+  },
+  "303": {
+    "itemId": 11025201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att1_capdecal1",
+      "targetStockId": 10252,
+      "attachmentName": "attach1/capdecal1"
+    }
+  },
+  "304": {
+    "itemId": 11025201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att1_capdecal2",
+      "targetStockId": 10252,
+      "attachmentName": "attach1/capdecal2"
+    }
+  },
+  "305": {
+    "itemId": 11025201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att1_hair01",
+      "targetStockId": 10252,
+      "attachmentName": "attach1/hair01"
+    }
+  },
+  "306": {
+    "itemId": 11025201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": true,
+      "slotName": "hair01",
+      "targetStockId": 10252,
+      "attachmentName": "hair01"
+    }
+  },
+  "307": {
+    "itemId": 11025201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": true,
+      "slotName": "hair02",
+      "targetStockId": 10252,
+      "attachmentName": "hair02"
+    }
+  },
+  "308": {
+    "itemId": 11025201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": true,
+      "slotName": "ear",
+      "targetStockId": 10252,
+      "attachmentName": "ear"
+    }
+  },
+  "309": {
+    "itemId": 11025201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": true,
+      "slotName": "back_ear_L",
+      "targetStockId": 10252,
+      "attachmentName": "back_ear_L"
+    }
+  },
+  "310": {
+    "itemId": 11025201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": true,
+      "slotName": "back_head",
+      "targetStockId": 10252,
+      "attachmentName": "back_head"
+    }
+  },
+  "311": {
+    "itemId": 11053201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "attach1/drone_L_hana_f",
+      "targetStockId": 10532,
+      "attachmentName": "attach1/drone_L_hana_f"
+    }
+  },
+  "312": {
+    "itemId": 11053201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "attach1/drone_L_hana_b",
+      "targetStockId": 10532,
+      "attachmentName": "attach1/drone_L_hana_b"
+    }
+  },
+  "313": {
+    "itemId": 11053201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "attach1/hana_f",
+      "targetStockId": 10532,
+      "attachmentName": "attach1/hana_f"
+    }
+  },
+  "314": {
+    "itemId": 11053201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "attach1/drone_R_hana_f",
+      "targetStockId": 10532,
+      "attachmentName": "attach1/drone_R_hana_f"
+    }
+  },
+  "315": {
+    "itemId": 11053201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "attach1/drone_R_hana_b",
+      "targetStockId": 10532,
+      "attachmentName": "attach1/drone_R_hana_b"
+    }
+  },
+  "316": {
+    "itemId": 11115101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "attach1/core",
+      "targetStockId": 11151,
+      "attachmentName": "attach1/core"
+    }
+  },
+  "317": {
+    "itemId": 11115101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "attach1/L_dorsal_fin",
+      "targetStockId": 11151,
+      "attachmentName": "attach1/L_dorsal_fin"
+    }
+  },
+  "318": {
+    "itemId": 11115101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "attach1/L_forefoot",
+      "targetStockId": 11151,
+      "attachmentName": "attach1/L_forefoot"
+    }
+  },
+  "319": {
+    "itemId": 11115101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "attach1/L_hind_legs",
+      "targetStockId": 11151,
+      "attachmentName": "attach1/L_hind_legs"
+    }
+  },
+  "320": {
+    "itemId": 11115101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "attach1/head",
+      "targetStockId": 11151,
+      "attachmentName": "attach1/head"
+    }
+  },
+  "321": {
+    "itemId": 11115101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "attach1/neck",
+      "targetStockId": 11151,
+      "attachmentName": "attach1/neck"
+    }
+  },
+  "322": {
+    "itemId": 11115101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "attach1/body",
+      "targetStockId": 11151,
+      "attachmentName": "attach1/body"
+    }
+  },
+  "323": {
+    "itemId": 11115101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "attach1/tail",
+      "targetStockId": 11151,
+      "attachmentName": "attach1/tail"
+    }
+  },
+  "324": {
+    "itemId": 11115101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "attach1/R_dorsal_fin",
+      "targetStockId": 11151,
+      "attachmentName": "attach1/R_dorsal_fin"
+    }
+  },
+  "325": {
+    "itemId": 11115101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "attach1/R_forefoot",
+      "targetStockId": 11151,
+      "attachmentName": "attach1/R_forefoot"
+    }
+  },
+  "326": {
+    "itemId": 11115101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "attach1/R_hind_legs",
+      "targetStockId": 11151,
+      "attachmentName": "attach1/R_hind_legs"
+    }
   }
 }
