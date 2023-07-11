@@ -2539,7 +2539,7 @@
     "scoreAttackItemIds": null,
     "conditionChapterId": 0,
     "startAt": null,
-    "endAt": "2023-06-13 14:00:00",
+    "endAt": null,
     "executeLimit": null
   },
   "517": {
@@ -4096,6 +4096,26 @@
     "conditionChapterId": 0,
     "startAt": "2023-06-20 18:00:00",
     "endAt": "2023-07-11 14:00:00",
+    "executeLimit": null
+  },
+  "1056": {
+    "chapterId": 1056,
+    "groupType": 2,
+    "chapterType": 1,
+    "chapterName": "育成キャンペーン",
+    "subName": "ヒーロー登竜門",
+    "peepingName": "ヒーロー登竜門",
+    "sortWeight": 1000,
+    "bannerResourceName": "ui_banner_questchoice_traning",
+    "bgResourceName": "bg_sprite_traning_01",
+    "selectBannerAddress": "",
+    "helpPrefabAddress": "",
+    "missionGroupId": 0,
+    "scoreAttackStoreId": 0,
+    "scoreAttackItemIds": null,
+    "conditionChapterId": 0,
+    "startAt": null,
+    "endAt": "2023-07-25 14:00:00",
     "executeLimit": null
   }
 }
