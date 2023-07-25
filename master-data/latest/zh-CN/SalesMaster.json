@@ -19558,5 +19558,731 @@
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
     ]
+  },
+  "22901": {
+    "salesId": 22901,
+    "regionId": 229,
+    "salesName": "水の都でヒーローワーク！（短期）",
+    "iconFilename": "item_Thermae2307_exchange01",
+    "startAt": null,
+    "endAt": "2023-08-15 20:00:00",
+    "requiredTime": 7200,
+    "memberLimitNumber": 8,
+    "sortWeight": 1000,
+    "rewards": [
+      {
+        "salesId": 22901,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 280
+      },
+      {
+        "salesId": 22901,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 240
+      },
+      {
+        "salesId": 22901,
+        "rewardType": 3,
+        "objectId": 177,
+        "objectValue": 14
+      },
+      {
+        "salesId": 22901,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 160
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_THERMAE2307_REPORT_1",
+        "condition": null
+      },
+      {
+        "textKey": "SALES_EVENT_THERMAE2307_REPORT_2",
+        "condition": null
+      },
+      {
+        "textKey": "SALES_EVENT_THERMAE2307_REPORT_3",
+        "condition": null
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": false
+      },
+      {
+        "class": "StockCountBonus",
+        "stocks": [
+          10622,
+          10202,
+          11611,
+          11601
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 10
+          },
+          {
+            "count": 2,
+            "upwardRate": 30
+          },
+          {
+            "count": 3,
+            "upwardRate": 50
+          },
+          {
+            "count": 4,
+            "upwardRate": 70
+          }
+        ],
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
+      }
+    ]
+  },
+  "22902": {
+    "salesId": 22902,
+    "regionId": 229,
+    "salesName": "水の都でヒーローワーク！（短中期）",
+    "iconFilename": "item_Thermae2307_exchange01",
+    "startAt": null,
+    "endAt": "2023-08-15 20:00:00",
+    "requiredTime": 14400,
+    "memberLimitNumber": 8,
+    "sortWeight": 1000,
+    "rewards": [
+      {
+        "salesId": 22902,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 560
+      },
+      {
+        "salesId": 22902,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 480
+      },
+      {
+        "salesId": 22902,
+        "rewardType": 3,
+        "objectId": 177,
+        "objectValue": 28
+      },
+      {
+        "salesId": 22902,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 320
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_THERMAE2307_REPORT_1",
+        "condition": null
+      },
+      {
+        "textKey": "SALES_EVENT_THERMAE2307_REPORT_2",
+        "condition": null
+      },
+      {
+        "textKey": "SALES_EVENT_THERMAE2307_REPORT_3",
+        "condition": null
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": false
+      },
+      {
+        "class": "StockCountBonus",
+        "stocks": [
+          10622,
+          10202,
+          11611,
+          11601
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 10
+          },
+          {
+            "count": 2,
+            "upwardRate": 30
+          },
+          {
+            "count": 3,
+            "upwardRate": 50
+          },
+          {
+            "count": 4,
+            "upwardRate": 70
+          }
+        ],
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
+      }
+    ]
+  },
+  "22903": {
+    "salesId": 22903,
+    "regionId": 229,
+    "salesName": "水の都でヒーローワーク！（中期）",
+    "iconFilename": "item_Thermae2307_exchange01",
+    "startAt": null,
+    "endAt": "2023-08-15 20:00:00",
+    "requiredTime": 28800,
+    "memberLimitNumber": 8,
+    "sortWeight": 1000,
+    "rewards": [
+      {
+        "salesId": 22903,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 1120
+      },
+      {
+        "salesId": 22903,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 960
+      },
+      {
+        "salesId": 22903,
+        "rewardType": 3,
+        "objectId": 177,
+        "objectValue": 56
+      },
+      {
+        "salesId": 22903,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 640
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_THERMAE2307_REPORT_1",
+        "condition": null
+      },
+      {
+        "textKey": "SALES_EVENT_THERMAE2307_REPORT_2",
+        "condition": null
+      },
+      {
+        "textKey": "SALES_EVENT_THERMAE2307_REPORT_3",
+        "condition": null
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": false
+      },
+      {
+        "class": "StockCountBonus",
+        "stocks": [
+          10622,
+          10202,
+          11611,
+          11601
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 10
+          },
+          {
+            "count": 2,
+            "upwardRate": 30
+          },
+          {
+            "count": 3,
+            "upwardRate": 50
+          },
+          {
+            "count": 4,
+            "upwardRate": 70
+          }
+        ],
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
+      }
+    ]
+  },
+  "22904": {
+    "salesId": 22904,
+    "regionId": 229,
+    "salesName": "水の都でヒーローワーク！（中長期）",
+    "iconFilename": "item_Thermae2307_exchange01",
+    "startAt": null,
+    "endAt": "2023-08-15 20:00:00",
+    "requiredTime": 43200,
+    "memberLimitNumber": 8,
+    "sortWeight": 1000,
+    "rewards": [
+      {
+        "salesId": 22904,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 1680
+      },
+      {
+        "salesId": 22904,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 1440
+      },
+      {
+        "salesId": 22904,
+        "rewardType": 3,
+        "objectId": 177,
+        "objectValue": 84
+      },
+      {
+        "salesId": 22904,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 960
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_THERMAE2307_REPORT_1",
+        "condition": null
+      },
+      {
+        "textKey": "SALES_EVENT_THERMAE2307_REPORT_2",
+        "condition": null
+      },
+      {
+        "textKey": "SALES_EVENT_THERMAE2307_REPORT_3",
+        "condition": null
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": false
+      },
+      {
+        "class": "StockCountBonus",
+        "stocks": [
+          10622,
+          10202,
+          11611,
+          11601
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 10
+          },
+          {
+            "count": 2,
+            "upwardRate": 30
+          },
+          {
+            "count": 3,
+            "upwardRate": 50
+          },
+          {
+            "count": 4,
+            "upwardRate": 70
+          }
+        ],
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
+      }
+    ]
+  },
+  "22905": {
+    "salesId": 22905,
+    "regionId": 229,
+    "salesName": "水の都でヒーローワーク！（長期）",
+    "iconFilename": "item_Thermae2307_exchange01",
+    "startAt": null,
+    "endAt": "2023-08-15 20:00:00",
+    "requiredTime": 57600,
+    "memberLimitNumber": 8,
+    "sortWeight": 1000,
+    "rewards": [
+      {
+        "salesId": 22905,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 2240
+      },
+      {
+        "salesId": 22905,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 1920
+      },
+      {
+        "salesId": 22905,
+        "rewardType": 3,
+        "objectId": 177,
+        "objectValue": 112
+      },
+      {
+        "salesId": 22905,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 1280
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_THERMAE2307_REPORT_1",
+        "condition": null
+      },
+      {
+        "textKey": "SALES_EVENT_THERMAE2307_REPORT_2",
+        "condition": null
+      },
+      {
+        "textKey": "SALES_EVENT_THERMAE2307_REPORT_3",
+        "condition": null
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": false
+      },
+      {
+        "class": "StockCountBonus",
+        "stocks": [
+          10622,
+          10202,
+          11611,
+          11601
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 10
+          },
+          {
+            "count": 2,
+            "upwardRate": 30
+          },
+          {
+            "count": 3,
+            "upwardRate": 50
+          },
+          {
+            "count": 4,
+            "upwardRate": 70
+          }
+        ],
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
+      }
+    ]
+  },
+  "22906": {
+    "salesId": 22906,
+    "regionId": 229,
+    "salesName": "水の都でヒーローワーク！（超長期）",
+    "iconFilename": "item_Thermae2307_exchange01",
+    "startAt": null,
+    "endAt": "2023-08-15 20:00:00",
+    "requiredTime": 86400,
+    "memberLimitNumber": 8,
+    "sortWeight": 1000,
+    "rewards": [
+      {
+        "salesId": 22906,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 3360
+      },
+      {
+        "salesId": 22906,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 2880
+      },
+      {
+        "salesId": 22906,
+        "rewardType": 3,
+        "objectId": 177,
+        "objectValue": 168
+      },
+      {
+        "salesId": 22906,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 1920
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_THERMAE2307_REPORT_1",
+        "condition": null
+      },
+      {
+        "textKey": "SALES_EVENT_THERMAE2307_REPORT_2",
+        "condition": null
+      },
+      {
+        "textKey": "SALES_EVENT_THERMAE2307_REPORT_3",
+        "condition": null
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": false
+      },
+      {
+        "class": "StockCountBonus",
+        "stocks": [
+          10622,
+          10202,
+          11611,
+          11601
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 10
+          },
+          {
+            "count": 2,
+            "upwardRate": 30
+          },
+          {
+            "count": 3,
+            "upwardRate": 50
+          },
+          {
+            "count": 4,
+            "upwardRate": 70
+          }
+        ],
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
+      }
+    ]
   }
 }

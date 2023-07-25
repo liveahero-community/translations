@@ -1935,6 +1935,58 @@
       "isInHome": true
     }
   ],
+  "10202": [
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 4,
+      "faceType": "",
+      "serifKey": "SERIF_RAKTATHERMAE2307_PLAYER",
+      "voiceFilename": "",
+      "resourceName": "raktaThermae2307",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 5,
+      "faceType": "f",
+      "serifKey": "SERIF_RAKTATHERMAE2307_HERO",
+      "voiceFilename": "",
+      "resourceName": "raktaThermae2307",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 12,
+      "faceType": "c",
+      "serifKey": "SERIF_RAKTATHERMAE2307_TOUCH",
+      "voiceFilename": "",
+      "resourceName": "raktaThermae2307",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 27,
+      "faceType": "f",
+      "serifKey": "SERIF_RAKTATHERMAE2307_EVENTA",
+      "voiceFilename": "",
+      "resourceName": "raktaThermae2307",
+      "isInHome": false
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 28,
+      "faceType": "",
+      "serifKey": "SERIF_RAKTATHERMAE2307_EVENTB",
+      "voiceFilename": "",
+      "resourceName": "raktaThermae2307",
+      "isInHome": false
+    }
+  ],
   "10211": [
     {
       "cardType": 2,
@@ -4152,6 +4204,58 @@
       "serifKey": "SERIF_ALPHECCA_EVENTB",
       "voiceFilename": "",
       "resourceName": "alphecca",
+      "isInHome": false
+    }
+  ],
+  "10622": [
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 4,
+      "faceType": "c",
+      "serifKey": "SERIF_ALPHECCATHERMAE2307_PLAYER",
+      "voiceFilename": "",
+      "resourceName": "alpheccaThermae2307",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 5,
+      "faceType": "",
+      "serifKey": "SERIF_ALPHECCATHERMAE2307_HERO",
+      "voiceFilename": "",
+      "resourceName": "alpheccaThermae2307",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 12,
+      "faceType": "c",
+      "serifKey": "SERIF_ALPHECCATHERMAE2307_TOUCH",
+      "voiceFilename": "",
+      "resourceName": "alpheccaThermae2307",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 27,
+      "faceType": "c",
+      "serifKey": "SERIF_ALPHECCATHERMAE2307_EVENTA",
+      "voiceFilename": "",
+      "resourceName": "alpheccaThermae2307",
+      "isInHome": false
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 28,
+      "faceType": "e",
+      "serifKey": "SERIF_ALPHECCATHERMAE2307_EVENTB",
+      "voiceFilename": "",
+      "resourceName": "alpheccaThermae2307",
       "isInHome": false
     }
   ],
@@ -6836,6 +6940,170 @@
       "serifKey": "SERIF_RAIZI_EVENTB",
       "voiceFilename": "",
       "resourceName": "raizi",
+      "isInHome": false
+    }
+  ],
+  "11601": [
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 4,
+      "faceType": "",
+      "serifKey": "SERIF_OBSIDIUS_PLAYER",
+      "voiceFilename": "",
+      "resourceName": "obsidius",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 5,
+      "faceType": "c",
+      "serifKey": "SERIF_OBSIDIUS_HERO",
+      "voiceFilename": "",
+      "resourceName": "obsidius",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 12,
+      "faceType": "b",
+      "serifKey": "SERIF_OBSIDIUS_TOUCH",
+      "voiceFilename": "",
+      "resourceName": "obsidius",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 3,
+      "faceType": "e",
+      "serifKey": "SERIF_OBSIDIUS_DAILY",
+      "voiceFilename": "",
+      "resourceName": "obsidius",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 6,
+      "faceType": "",
+      "serifKey": "SERIF_OBSIDIUS_RELATION",
+      "voiceFilename": "",
+      "resourceName": "obsidius",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 11,
+      "faceType": "c",
+      "serifKey": "SERIF_OBSIDIUS_APPRECIATION",
+      "voiceFilename": "",
+      "resourceName": "obsidius",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 27,
+      "faceType": "",
+      "serifKey": "SERIF_OBSIDIUS_EVENTA",
+      "voiceFilename": "",
+      "resourceName": "obsidius",
+      "isInHome": false
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 28,
+      "faceType": "c",
+      "serifKey": "SERIF_OBSIDIUS_EVENTB",
+      "voiceFilename": "",
+      "resourceName": "obsidius",
+      "isInHome": false
+    }
+  ],
+  "11611": [
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 4,
+      "faceType": "d",
+      "serifKey": "SERIF_THEOREOL_PLAYER",
+      "voiceFilename": "",
+      "resourceName": "theoreol",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 5,
+      "faceType": "f",
+      "serifKey": "SERIF_THEOREOL_HERO",
+      "voiceFilename": "",
+      "resourceName": "theoreol",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 12,
+      "faceType": "c",
+      "serifKey": "SERIF_THEOREOL_TOUCH",
+      "voiceFilename": "",
+      "resourceName": "theoreol",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 3,
+      "faceType": "c",
+      "serifKey": "SERIF_THEOREOL_DAILY",
+      "voiceFilename": "",
+      "resourceName": "theoreol",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 6,
+      "faceType": "b",
+      "serifKey": "SERIF_THEOREOL_RELATION",
+      "voiceFilename": "",
+      "resourceName": "theoreol",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 11,
+      "faceType": "",
+      "serifKey": "SERIF_THEOREOL_APPRECIATION",
+      "voiceFilename": "",
+      "resourceName": "theoreol",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 27,
+      "faceType": "d",
+      "serifKey": "SERIF_THEOREOL_EVENTA",
+      "voiceFilename": "",
+      "resourceName": "theoreol",
+      "isInHome": false
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 28,
+      "faceType": "",
+      "serifKey": "SERIF_THEOREOL_EVENTB",
+      "voiceFilename": "",
+      "resourceName": "theoreol",
       "isInHome": false
     }
   ],

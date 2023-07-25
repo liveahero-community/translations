@@ -6864,5 +6864,234 @@
       }
     },
     "questBonusJsons": []
+  },
+  "61": {
+    "eventId": 61,
+    "chapterId": 1057,
+    "lookBackChapterId": 0,
+    "baseResourceName": "Thermae2307",
+    "startAt": null,
+    "endAt": "2023-08-22 14:00:00",
+    "canRemember": 0,
+    "eventPortalJson": {
+      "bg": "ui_bg_sprite_event_Thermae2307",
+      "bgm": "bgm_thermae_adv",
+      "logo": "Thermae2307_title",
+      "terms": [
+        {
+          "keys": [
+            "UI_MAIN_QUEST",
+            "UI_MISSION",
+            "UI_EXCHANGE"
+          ],
+          "endAt": "2023-08-22 14:00:00"
+        },
+        {
+          "keys": [
+            "UI_FREE_QUEST",
+            "UI_SALES"
+          ],
+          "endAt": "2023-08-15 20:00:00"
+        }
+      ],
+      "gachaId": 72,
+      "storeId": 44,
+      "questInfos": [
+        {
+          "type": 5,
+          "chapterId": 1057,
+          "buttonType": 0
+        },
+        {
+          "type": 6,
+          "chapterId": 1058,
+          "buttonType": 1
+        }
+      ],
+      "tutorialKey": "Thermae2307",
+      "eventItemIds": [
+        177
+      ],
+      "portalWindow": "WideTermEventPortalWindow",
+      "characterViews": [
+        {
+          "skinId": 0,
+          "stockId": 10202,
+          "cardType": 1,
+          "serifKinds": [
+            27,
+            28
+          ],
+          "visualType": 1,
+          "resourceName": "raktaThermae2307",
+          "characterName": "ラクタ"
+        },
+        {
+          "skinId": 0,
+          "stockId": 10622,
+          "cardType": 1,
+          "serifKinds": [
+            27,
+            28
+          ],
+          "visualType": 1,
+          "resourceName": "alpheccaThermae2307",
+          "characterName": "アルフェッカ"
+        },
+        {
+          "skinId": 0,
+          "stockId": 11601,
+          "cardType": 2,
+          "serifKinds": [
+            27,
+            28
+          ],
+          "visualType": 1,
+          "resourceName": "obsidius",
+          "characterName": "オブシディウス"
+        },
+        {
+          "skinId": 0,
+          "stockId": 11611,
+          "cardType": 2,
+          "serifKinds": [
+            27,
+            28
+          ],
+          "visualType": 1,
+          "resourceName": "theoreol",
+          "characterName": "テオレオール"
+        }
+      ],
+      "salesRegionIds": [
+        229
+      ],
+      "missionGroupIds": [
+        1057
+      ],
+      "missionCategoryButtonLabels": null
+    },
+    "roguePortalJson": null,
+    "questBonusJsons": [
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 177,
+        "bonusValue": 40,
+        "targetStockId": 10622
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 177,
+        "bonusValue": 40,
+        "targetStockId": 11601
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 177,
+        "bonusValue": 30,
+        "targetStockId": 10202
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 177,
+        "bonusValue": 30,
+        "targetStockId": 11611
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 177,
+        "bonusValue": 10,
+        "targetStockId": 10621
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 177,
+        "bonusValue": 10,
+        "targetStockId": 10201
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 177,
+        "bonusValue": 20,
+        "targetStockId": 10532
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 177,
+        "bonusValue": 20,
+        "targetStockId": 11151
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 177,
+        "bonusValue": 10,
+        "targetStockId": 10252
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 177,
+        "bonusValue": 30,
+        "targetStockId": 11611
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 177,
+        "bonusValue": 20,
+        "targetStockId": 11601
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 177,
+        "bonusValue": 10,
+        "targetStockId": 10621
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 177,
+        "bonusValue": 10,
+        "targetStockId": 10201
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 177,
+        "bonusValue": 10,
+        "targetStockId": 10531
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 177,
+        "bonusValue": 10,
+        "targetStockId": 11151
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 177,
+        "bonusValue": 10,
+        "targetStockId": 10251
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 177,
+        "bonusValue": 10,
+        "targetStockId": 19991
+      }
+    ]
   }
 }
