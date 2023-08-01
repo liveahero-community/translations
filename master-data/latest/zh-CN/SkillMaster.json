@@ -84759,7 +84759,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体に70%ダメージ。自身に烈水を1つ付与。【常時発動】自身に烈水が３つ付与された時、烈水を全解除し、敵全体に30%ダメージ。（敵専用）",
+    "description": "敌単体に70%ダメージ。自身に烈水を1つ付与。【常时発动】自身に烈水が３つ付与された时、烈水を全解除し、敌全体に30%ダメージ。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -84891,7 +84891,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "敵単体に120%ダメージ。50%の確率で1回の行動の間過消費を付与。自身に烈水を1つ付与。（敵専用）",
+    "description": "敌単体に120%ダメージ。50%の确率で1回の行动の间过消费を付与。自身に烈水を1つ付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -84960,7 +84960,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "敵単体に160%ダメージ。1回分のDEFダウンを付与。自身に烈水を2つ付与。（敵専用）",
+    "description": "敌単体に160%ダメージ。1回分のDEFダウンを付与。自身に烈水を2つ付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -87572,13 +87572,13 @@
   },
   "4067101": {
     "skillId": 4067101,
-    "skillName": "防衛射撃",
+    "skillName": "防卫射撃",
     "useView": 0,
     "targetFlag": 2,
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_buffOwn",
     "timing": 0,
-    "description": "敵単体に80%ダメージ。自身に1回分のDEFアップを付与。（敵専用）",
+    "description": "敌単体に80%ダメージ。自身に1回分のDEFアップを付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -87627,13 +87627,13 @@
   },
   "4067102": {
     "skillId": 4067102,
-    "skillName": "View要請",
+    "skillName": "View要请",
     "useView": 2000,
     "targetFlag": 0,
     "resourceName": "b_skill_view",
     "subResourceName": "",
     "timing": 0,
-    "description": "Viewを6000獲得。（敵専用）",
+    "description": "Viewを6000获得。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -87668,13 +87668,13 @@
   },
   "4068101": {
     "skillId": 4068101,
-    "skillName": "装備支援要請",
+    "skillName": "装备支援要请",
     "useView": 3000,
     "targetFlag": 1,
     "resourceName": "b_skill_buffAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "ATKが一番高い味方に1回の行動の間ATKアップ & SPDアップを付与。（敵専用）",
+    "description": "ATKが一番高い味方に1回の行动の间ATKアップ & SPDアップを付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -90636,7 +90636,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_buffTeam",
     "timing": 0,
-    "description": "敵単体に120%ダメージ。ランダムな味方に1回分のDEFアップを付与。BOSSに烈水を1つ付与。（敵専用）",
+    "description": "敌単体に120%ダメージ。ランダムな味方に1回分のDEFアップを付与。BOSSに烈水を1つ付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -90705,7 +90705,7 @@
     "resourceName": "b_skill_buffAll",
     "subResourceName": "s_skill_buffAll",
     "timing": 0,
-    "description": "味方全体に1回分のDEFアップを付与。1ターンの間弱体抵抗+50を付与。BOSSに烈水を1つ付与。（敵専用）",
+    "description": "味方全体に1回分のDEFアップを付与。1ターンの间弱体抵抗+50を付与。BOSSに烈水を1つ付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -91333,7 +91333,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_view",
     "timing": 0,
-    "description": "敵単体に80%ダメージ。Viewを3000獲得。（敵専用）",
+    "description": "敌単体に80%ダメージ。Viewを3000获得。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -91388,7 +91388,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "敵単体に120%ダメージ。1回の行動の間ATKダウンを付与。BOSSに烈水を1つ付与。（敵専用）",
+    "description": "敌単体に120%ダメージ。1回の行动の间ATKダウンを付与。BOSSに烈水を1つ付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -91457,7 +91457,7 @@
     "resourceName": "b_skill_debuff",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "敵単体に1回の行動の間スタンを付与。3回分のDEFダウンを付与。BOSSに烈水を1つ付与。（敵専用）",
+    "description": "敌単体に1回の行动の间スタンを付与。3回分のDEFダウンを付与。BOSSに烈水を1つ付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -105924,7 +105924,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体に50%ダメージ。自身に3ターンの間豪気を2つ付与。【常時発動】自身にバフが付与された時、3ターンの間豪気を1つ付与。",
+    "description": "敌単体に50%ダメージ。自身に3ターンの间豪気を2つ付与。【常时発动】自身にバフが付与された时、3ターンの间豪気を1つ付与。",
     "cutin": [
       {
         "info": {
@@ -105993,7 +105993,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "敵全体からランダムに2回50%ダメージ。1HIT毎に50%の確率で1回分のDEFダウンを付与。【豪気が3つ以上】豪気を3つ解除し、ランダム攻撃の回数が1回増加。",
+    "description": "敌全体からランダムに2回50%ダメージ。1HIT毎に50%の确率で1回分のDEFダウンを付与。【豪気が3つ以上】豪気を3つ解除し、ランダム攻撃の回数が1回増加。",
     "cutin": [
       {
         "info": {
@@ -106139,7 +106139,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "s_skill_antiBuffAll",
     "timing": 0,
-    "description": "敵全体のバフを1つ解除した後、90%ダメージ。敵の数が少ないほどダメージ量が上昇(最大で180%まで上昇)。【豪気が5つ以上】豪気を5つ解除し、もう1度行動をする。（1ターンに1回まで）",
+    "description": "敌全体のバフを1つ解除した后、90%ダメージ。敌の数が少ないほどダメージ量が上升(最大で180%まで上升)。【豪気が5つ以上】豪気を5つ解除し、もう1度行动をする。（1ターンに1回まで）",
     "cutin": [
       {
         "info": {
@@ -114295,7 +114295,7 @@
     "resourceName": "b_skill_special",
     "subResourceName": "",
     "timing": 1,
-    "description": "オート行動時、味方を対象にするスキルは味方の中で一番Atkが高いキャラクターを対象にする。（名前隠蔽版）",
+    "description": "オート行动时、味方を対象にするスキルは味方の中で一番Atkが高いキャラクターを対象にする。（名前隠蔽版）",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
