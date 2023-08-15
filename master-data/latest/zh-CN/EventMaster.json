@@ -6869,7 +6869,7 @@
     "eventId": 61,
     "chapterId": 1057,
     "lookBackChapterId": 0,
-    "baseResourceName": "Thermae2307",
+    "baseResourceName": "Thermae2307_epilogue",
     "startAt": "2023-07-25 14:00:00",
     "endAt": "2023-08-22 14:00:00",
     "canRemember": 0,
@@ -6881,6 +6881,7 @@
         {
           "keys": [
             "UI_MAIN_QUEST",
+            "UI_EPILOGUE_QUEST",
             "UI_MISSION",
             "UI_EXCHANGE",
             "UI_HIGH_DIFFICULTY_QUEST"
@@ -6912,6 +6913,11 @@
           "type": 6,
           "chapterId": 1060,
           "buttonType": 1
+        },
+        {
+          "type": 7,
+          "chapterId": 1059,
+          "buttonType": 0
         }
       ],
       "tutorialKey": "Thermae2307",
