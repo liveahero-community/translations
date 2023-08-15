@@ -107237,7 +107237,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_spdDownTeam",
     "timing": 0,
-    "description": "敵単体に80%ダメージ。1回の行動の間SPDダウンを付与。（敵専用）",
+    "description": "敌単体に80%ダメージ。1回の行动の间SPDダウンを付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -107898,7 +107898,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_spdDownTeam",
     "timing": 0,
-    "description": "敵単体に60%ダメージ+HPが減るほどダメージ量が上昇する。1回の行動の間SPDダウンを付与。【ピンチ時追加効果】敵単体に2ターンの間照準を付与。（敵専用）",
+    "description": "敌単体に60%ダメージ+HPが减るほどダメージ量が上升する。1回の行动の间SPDダウンを付与。【ピンチ时追加効果】敌単体に2ターンの间照准を付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -108009,7 +108009,7 @@
     "resourceName": "b_skill_buff",
     "subResourceName": "s_skill_spdDownAll",
     "timing": 0,
-    "description": "自身に分裂エネルギーを3つ付与&粘液の盾を付与。敵全体に1回の行動の間SPDダウンを付与。このスキルは発動するごとに、付与する分裂エネルギーの数が1つ増加する。（最大で5個まで）",
+    "description": "自身に分裂エネルギーを3つ付与&粘液の盾を付与。敌全体に1回の行动の间SPDダウンを付与。このスキルは発动するごとに、付与する分裂エネルギーの数が1つ増加する。（最大で5个まで）",
     "cutin": [
       {
         "info": {
@@ -108197,7 +108197,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "s_skill_debuffAll",
     "timing": 0,
-    "description": "敵全体に80%ダメージ+HPが減るほどダメージ量が上昇する。【分裂エネルギーが3個以上付与されている場合】敵全体に1回の行動の間過消費を付与。（敵専用）",
+    "description": "敌全体に80%ダメージ+HPが减るほどダメージ量が上升する。【分裂エネルギーが3个以上付与されている场合】敌全体に1回の行动の间过消费を付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -126914,13 +126914,13 @@
   },
   "6162104": {
     "skillId": 6162104,
-    "skillName": "危機感知",
+    "skillName": "危机感知",
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "status_spdup",
     "subResourceName": "",
     "timing": 21,
-    "description": "BOSSがピンチ状態の場合、SPD+10。",
+    "description": "BOSSがピンチ状态の场合、SPD+10。",
     "cutin": [],
     "isEquip": false,
     "isHeroSkill": false,
@@ -126960,7 +126960,7 @@
   },
   "6162105": {
     "skillId": 6162105,
-    "skillName": "危機感知",
+    "skillName": "危机感知",
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "",
@@ -127186,7 +127186,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "自身に分裂エネルギーが付与された状態でダメージを受けた時、ランダムな味方単体のスキル１を誘発。",
+    "description": "自身に分裂エネルギーが付与された状态でダメージを受けた时、ランダムな味方単体のスキル１を诱発。",
     "cutin": [],
     "isEquip": false,
     "isHeroSkill": false,
@@ -127213,13 +127213,13 @@
   },
   "6167105": {
     "skillId": 6167105,
-    "skillName": "無限分裂",
+    "skillName": "无限分裂",
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "b_skill_healAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "ダメージ後、または自身以外の味方がいない場合のターン終了時、自身に付与されている分裂エネルギーを1つ解除して味方全体を100%のHPで復活。（分裂エネルギーが付与されていない場合このスキルは発動しない）",
+    "description": "ダメージ后、または自身以外の味方がいない场合のターン终了时、自身に付与されている分裂エネルギーを1つ解除して味方全体を100%のHPで复活。（分裂エネルギーが付与されていない场合このスキルは発动しない）",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -127252,7 +127252,7 @@
     "resourceName": "b_skill_antiBuff",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 8,
-    "description": "分裂エネルギーが全て解除された後の初回ダメージ時、自身に付与されている粘液の盾を解除&1ターンの間形成不全を付与。",
+    "description": "分裂エネルギーが全て解除された后の初回ダメージ时、自身に付与されている粘液の盾を解除&1ターンの间形成不全を付与。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -127379,7 +127379,7 @@
     "resourceName": "b_skill_buff",
     "subResourceName": "",
     "timing": 1,
-    "description": "バトル開始時、自身に分裂エネルギーを2つ付与&粘液の盾を付与。粘液の盾が解除されている間2回行動となり、2回目の行動ではスキル2を使用する。",
+    "description": "バトル开始时、自身に分裂エネルギーを2つ付与&粘液の盾を付与。粘液の盾が解除されている间2回行动となり、2回目の行动ではスキル2を使用する。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -127496,7 +127496,7 @@
     "resourceName": "b_skill_special",
     "subResourceName": "",
     "timing": 22,
-    "description": "自身がダメージを受けた時、ランダムな味方単体のスキル１を誘発。",
+    "description": "自身がダメージを受けた时、ランダムな味方単体のスキル１を诱発。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -128773,7 +128773,7 @@
   },
   "6167119": {
     "skillId": 6167119,
-    "skillName": "無限分裂",
+    "skillName": "无限分裂",
     "useView": 0,
     "targetFlag": 3,
     "resourceName": "",
@@ -129005,7 +129005,7 @@
   },
   "6167120": {
     "skillId": 6167120,
-    "skillName": "無限分裂",
+    "skillName": "无限分裂",
     "useView": 0,
     "targetFlag": 3,
     "resourceName": "",
@@ -129237,7 +129237,7 @@
   },
   "6167121": {
     "skillId": 6167121,
-    "skillName": "無限分裂",
+    "skillName": "无限分裂",
     "useView": 0,
     "targetFlag": 3,
     "resourceName": "",
