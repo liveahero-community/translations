@@ -4314,11 +4314,11 @@
   "42": {
     "eventId": 42,
     "chapterId": 1010,
-    "lookBackChapterId": 518,
+    "lookBackChapterId": 0,
     "baseResourceName": "VirtualFesta2210",
     "startAt": "2022-10-13 14:00:00",
     "endAt": "2022-11-17 14:00:00",
-    "canRemember": 1,
+    "canRemember": 0,
     "eventPortalJson": {
       "bg": "ui_bg_sprite_event_VirtualFesta2210",
       "bgm": "bgm_virtualfesta_adv",
@@ -6869,10 +6869,10 @@
     "eventId": 61,
     "chapterId": 1057,
     "lookBackChapterId": 0,
-    "baseResourceName": "Thermae2307_epilogue",
+    "baseResourceName": "Thermae2307",
     "startAt": "2023-07-25 14:00:00",
     "endAt": "2023-08-22 14:00:00",
-    "canRemember": 0,
+    "canRemember": 1,
     "eventPortalJson": {
       "bg": "ui_bg_sprite_event_Thermae2307",
       "bgm": "bgm_thermae_adv",
@@ -7109,7 +7109,7 @@
   "62": {
     "eventId": 62,
     "chapterId": 1061,
-    "lookBackChapterId": 518,
+    "lookBackChapterId": 524,
     "baseResourceName": "VirtualFestaRevival2308",
     "startAt": null,
     "endAt": "2023-09-19 14:00:00",
