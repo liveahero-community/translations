@@ -4277,5 +4277,25 @@
     "startAt": null,
     "endAt": "2023-09-19 14:00:00",
     "executeLimit": null
+  },
+  "1064": {
+    "chapterId": 1064,
+    "groupType": 8,
+    "chapterType": 1,
+    "chapterName": "高難易度クエスト",
+    "subName": "バーチャルフェスタ・ロワイアル",
+    "peepingName": "高難易度クエスト",
+    "sortWeight": 1000,
+    "bannerResourceName": "ui_banner_questchoice_event_VirtualFesta2210_free",
+    "bgResourceName": "ui_bg_sprite_quest_free_VirtualFesta2210",
+    "selectBannerAddress": "banner_chapter_select_high",
+    "helpPrefabAddress": "VirtualFestaRevival2308HighDifficultyHelpWindow",
+    "missionGroupId": 0,
+    "scoreAttackStoreId": 0,
+    "scoreAttackItemIds": null,
+    "conditionChapterId": 0,
+    "startAt": "2023-08-29 18:00:00",
+    "endAt": "2023-09-19 14:00:00",
+    "executeLimit": null
   }
 }
