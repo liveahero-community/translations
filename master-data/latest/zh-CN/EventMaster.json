@@ -7451,5 +7451,17 @@
         "targetStockId": 11221
       }
     ]
+  },
+  "63": {
+    "eventId": 63,
+    "chapterId": 107,
+    "lookBackChapterId": 0,
+    "baseResourceName": "2309main22",
+    "startAt": "1980-01-01 00:00:00",
+    "endAt": "2023-09-28 14:00:00",
+    "canRemember": 0,
+    "eventPortalJson": null,
+    "roguePortalJson": null,
+    "questBonusJsons": []
   }
 }
