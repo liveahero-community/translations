@@ -4317,5 +4317,25 @@
     "startAt": "2023-08-29 18:00:00",
     "endAt": "2023-09-19 14:00:00",
     "executeLimit": null
+  },
+  "1065": {
+    "chapterId": 1065,
+    "groupType": 2,
+    "chapterType": 1,
+    "chapterName": "キャンペーンフリー",
+    "subName": "ヒーロー登竜門・特別戦！",
+    "peepingName": "ヒーロー登竜門・特別戦！",
+    "sortWeight": 1000,
+    "bannerResourceName": "ui_banner_questchoice_campaign_ContractWolfmanEarth2101",
+    "bgResourceName": "ui_bg_sprite_event_ContractWolfmanEarth2101",
+    "selectBannerAddress": "banner_chapter_select_free",
+    "helpPrefabAddress": "",
+    "missionGroupId": 1065,
+    "scoreAttackStoreId": 0,
+    "scoreAttackItemIds": null,
+    "conditionChapterId": 0,
+    "startAt": null,
+    "endAt": "2023-09-28 14:00:00",
+    "executeLimit": null
   }
 }

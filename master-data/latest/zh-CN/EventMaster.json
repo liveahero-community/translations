@@ -7463,5 +7463,112 @@
     "eventPortalJson": null,
     "roguePortalJson": null,
     "questBonusJsons": []
+  },
+  "64": {
+    "eventId": 64,
+    "chapterId": 1065,
+    "lookBackChapterId": 0,
+    "baseResourceName": "ContractAndroidSoldier2309",
+    "startAt": "1979-01-01 00:00:00",
+    "endAt": "2023-10-05 14:00:00",
+    "canRemember": 0,
+    "eventPortalJson": {
+      "bg": "ui_bg_sprite_event_ContractWolfmanEarth2101",
+      "bgm": "bgm_main",
+      "logo": "ContractAndroidSoldier2309_title",
+      "terms": [
+        {
+          "keys": [
+            "UI_FREE_QUEST"
+          ],
+          "endAt": "2023-09-28 14:00:00"
+        },
+        {
+          "keys": [
+            "UI_MISSION",
+            "UI_EXCHANGE"
+          ],
+          "endAt": "2023-10-05 14:00:00"
+        }
+      ],
+      "gachaId": null,
+      "storeId": 46,
+      "questInfos": [
+        {
+          "type": 6,
+          "chapterId": 1065,
+          "buttonType": 1
+        }
+      ],
+      "tutorialKey": "ContractAndroidSoldier2309",
+      "eventItemIds": [
+        52
+      ],
+      "portalWindow": "ContractAndroidSoldierPortalWindow",
+      "characterViews": [
+        {
+          "skinId": 0,
+          "stockId": 11541,
+          "cardType": 2,
+          "serifKinds": [
+            27
+          ],
+          "visualType": 1,
+          "resourceName": "androidSoldierFire",
+          "characterName": "火のアンドロイド兵"
+        },
+        {
+          "skinId": 0,
+          "stockId": 11551,
+          "cardType": 2,
+          "serifKinds": [
+            27
+          ],
+          "visualType": 1,
+          "resourceName": "androidSoldierWater",
+          "characterName": "水のアンドロイド兵"
+        },
+        {
+          "skinId": 0,
+          "stockId": 11561,
+          "cardType": 2,
+          "serifKinds": [
+            27
+          ],
+          "visualType": 1,
+          "resourceName": "androidSoldierEarth",
+          "characterName": "木のアンドロイド兵"
+        },
+        {
+          "skinId": 0,
+          "stockId": 11571,
+          "cardType": 2,
+          "serifKinds": [
+            27
+          ],
+          "visualType": 1,
+          "resourceName": "androidSoldierLight",
+          "characterName": "光のアンドロイド兵"
+        },
+        {
+          "skinId": 0,
+          "stockId": 11581,
+          "cardType": 2,
+          "serifKinds": [
+            27
+          ],
+          "visualType": 1,
+          "resourceName": "androidSoldierShadow",
+          "characterName": "影のアンドロイド兵"
+        }
+      ],
+      "salesRegionIds": [],
+      "missionGroupIds": [
+        1065
+      ],
+      "missionCategoryButtonLabels": null
+    },
+    "roguePortalJson": null,
+    "questBonusJsons": []
   }
 }
