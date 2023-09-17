@@ -30,6 +30,10 @@ const generate = async (tsvName: string, jsonName: string, keys: string[], baseM
   updatedList.forEach((row) => {
     const idKey = keys[0];
     const id = row[idKey];
+
+    // Partial official data is empty row, so skip it.
+    if (!id) { return; }
+
     Object.assign(_.get(baseMasterData, id), {
       ...row,
       [idKey]: Number(id),
