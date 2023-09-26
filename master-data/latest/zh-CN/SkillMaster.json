@@ -81159,7 +81159,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵全体に50%ダメージ。20%の確率で2ターンの間毒を付与。（敵専用）",
+    "description": "敌全体に50%ダメージ。20%の确率で2ターンの间毒を付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -81214,7 +81214,7 @@
     "resourceName": "b_skill_buff",
     "subResourceName": "",
     "timing": 0,
-    "description": "自身に3回の行動の間View消費量-5000を付与。2ターンの間View凍結4000を付与。",
+    "description": "自身に3回の行动の间View消费量-5000を付与。2ターンの间View冻结4000を付与。",
     "cutin": [
       {
         "info": {
@@ -81269,7 +81269,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_antiBuffTeam",
     "timing": 0,
-    "description": "敵単体のバフを全て解除した後、160%ダメージ。（敵専用）",
+    "description": "敌単体のバフを全て解除した后、160%ダメージ。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -119801,13 +119801,13 @@
   },
   "6035101": {
     "skillId": 6035101,
-    "skillName": "2回行動",
+    "skillName": "2回行动",
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "b_skill_special",
     "subResourceName": "",
     "timing": 3,
-    "description": "このキャラクターは毎ターン2回行動する。2回目の行動時はスキル1を発動する。",
+    "description": "このキャラクターは毎ターン2回行动する。2回目の行动时はスキル1を発动する。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -119963,7 +119963,7 @@
   },
   "6035102": {
     "skillId": 6035102,
-    "skillName": "View凍結4000",
+    "skillName": "View冻结4000",
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "",
@@ -120036,7 +120036,7 @@
   },
   "6035103": {
     "skillId": 6035103,
-    "skillName": "View凍結4000",
+    "skillName": "View冻结4000",
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "",
@@ -120109,7 +120109,7 @@
   },
   "6035104": {
     "skillId": 6035104,
-    "skillName": "View凍結4000",
+    "skillName": "View冻结4000",
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "",
@@ -120182,13 +120182,13 @@
   },
   "6035105": {
     "skillId": 6035105,
-    "skillName": "脅威排除",
+    "skillName": "胁威排除",
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "b_skill_special",
     "subResourceName": "",
     "timing": 1,
-    "description": "オート行動時、敵を対象にするスキルは敵の中で一番Atkが高いキャラクターを対象にする。",
+    "description": "オート行动时、敌を対象にするスキルは敌の中で一番Atkが高いキャラクターを対象にする。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
