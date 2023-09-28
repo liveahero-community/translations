@@ -2599,7 +2599,7 @@
     "scoreAttackItemIds": null,
     "conditionChapterId": 0,
     "startAt": null,
-    "endAt": "2023-08-22 14:00:00",
+    "endAt": null,
     "executeLimit": null
   },
   "519": {
@@ -4336,6 +4336,46 @@
     "conditionChapterId": 0,
     "startAt": null,
     "endAt": "2023-09-28 14:00:00",
+    "executeLimit": null
+  },
+  "1066": {
+    "chapterId": 1066,
+    "groupType": 0,
+    "chapterType": 0,
+    "chapterName": "3周年記念シナリオ",
+    "subName": "3周年記念シナリオ",
+    "peepingName": "3周年記念",
+    "sortWeight": 1000,
+    "bannerResourceName": "",
+    "bgResourceName": "",
+    "selectBannerAddress": "",
+    "helpPrefabAddress": "",
+    "missionGroupId": 0,
+    "scoreAttackStoreId": 0,
+    "scoreAttackItemIds": null,
+    "conditionChapterId": 0,
+    "startAt": null,
+    "endAt": "2023-10-26 23:59:59",
+    "executeLimit": null
+  },
+  "1068": {
+    "chapterId": 1068,
+    "groupType": 8,
+    "chapterType": 1,
+    "chapterName": "高難易度クエスト",
+    "subName": "対決！ヒロイック・エデュケーターズ",
+    "peepingName": "高難易度クエスト",
+    "sortWeight": 1000,
+    "bannerResourceName": "ui_banner_questchoice_event_ValentineCampaign2302_highdifficult",
+    "bgResourceName": "ui_bg_sprite_quest_highdifficult_ValentineCampaign2302",
+    "selectBannerAddress": "banner_chapter_select_high",
+    "helpPrefabAddress": "3rdAnniversary2309HighDifficultyHelpWindow",
+    "missionGroupId": 1068,
+    "scoreAttackStoreId": 0,
+    "scoreAttackItemIds": null,
+    "conditionChapterId": 0,
+    "startAt": null,
+    "endAt": "2023-10-12 14:00:00",
     "executeLimit": null
   }
 }

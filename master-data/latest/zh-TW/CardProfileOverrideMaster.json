@@ -104,5 +104,47 @@
         "isCheckClear": true
       }
     ]
+  },
+  "9": {
+    "stockId": 10731,
+    "cardType": 1,
+    "overrideItem": 5,
+    "priority": 1,
+    "textKey": "DETAIL_PUBRASEER_H03",
+    "conditions": [
+      {
+        "class": "QuestClear",
+        "questId": 431007,
+        "isCheckClear": true
+      }
+    ]
+  },
+  "10": {
+    "stockId": 10731,
+    "cardType": 1,
+    "overrideItem": 6,
+    "priority": 1,
+    "textKey": "DETAIL_PUBRASEER_H04",
+    "conditions": [
+      {
+        "class": "QuestClear",
+        "questId": 431007,
+        "isCheckClear": true
+      }
+    ]
+  },
+  "11": {
+    "stockId": 11221,
+    "cardType": 1,
+    "overrideItem": 6,
+    "priority": 1,
+    "textKey": "DETAIL_REXER_H03",
+    "conditions": [
+      {
+        "class": "QuestClear",
+        "questId": 1010009,
+        "isCheckClear": true
+      }
+    ]
   }
 }
