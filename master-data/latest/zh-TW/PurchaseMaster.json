@@ -1866,7 +1866,7 @@
       {
         "rewardType": 3,
         "objectId": 11,
-        "objectValue": 1300000,
+        "objectValue": 600000,
         "bonus": 100,
         "fixAddValue": 0,
         "isAddDrop": false
@@ -1874,7 +1874,7 @@
       {
         "rewardType": 3,
         "objectId": 35,
-        "objectValue": 290000,
+        "objectValue": 300000,
         "bonus": 100,
         "fixAddValue": 0,
         "isAddDrop": false
@@ -1960,6 +1960,22 @@
         "bonus": 100,
         "fixAddValue": 0,
         "isAddDrop": false
+      },
+      {
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 200000,
+        "bonus": 100,
+        "fixAddValue": 0,
+        "isAddDrop": false
+      },
+      {
+        "rewardType": 3,
+        "objectId": 29,
+        "objectValue": 2,
+        "bonus": 100,
+        "fixAddValue": 0,
+        "isAddDrop": false
       }
     ]
   },
@@ -2005,16 +2021,32 @@
       },
       {
         "rewardType": 3,
-        "objectId": 135,
-        "objectValue": 25,
+        "objectId": 29,
+        "objectValue": 4,
         "bonus": 100,
         "fixAddValue": 0,
         "isAddDrop": false
       },
       {
         "rewardType": 3,
-        "objectId": 166,
-        "objectValue": 5,
+        "objectId": 11,
+        "objectValue": 250000,
+        "bonus": 100,
+        "fixAddValue": 0,
+        "isAddDrop": false
+      },
+      {
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 600000,
+        "bonus": 100,
+        "fixAddValue": 0,
+        "isAddDrop": false
+      },
+      {
+        "rewardType": 3,
+        "objectId": 34,
+        "objectValue": 10,
         "bonus": 100,
         "fixAddValue": 0,
         "isAddDrop": false
