@@ -43658,6 +43658,7 @@
     "heroType": 0,
     "cardId": 118311,
     "skillIds": [
+      1183101,
       1183102,
       1183103
     ],
@@ -43732,6 +43733,11 @@
           "skillId": 1183103,
           "skillLearnNo": 3,
           "skillUpgrade": 0
+        },
+        {
+          "skillId": 1183101,
+          "skillLearnNo": 1,
+          "skillUpgrade": 0
         }
       ],
       "passiveSkills": []
@@ -43750,6 +43756,7 @@
     "heroType": 0,
     "cardId": 118312,
     "skillIds": [
+      1183101,
       1183104,
       1183103
     ],
@@ -43828,6 +43835,11 @@
           "skillId": 1183103,
           "skillLearnNo": 3,
           "skillUpgrade": 0
+        },
+        {
+          "skillId": 1183101,
+          "skillLearnNo": 1,
+          "skillUpgrade": 0
         }
       ],
       "passiveSkills": []
@@ -43846,6 +43858,7 @@
     "heroType": 0,
     "cardId": 118313,
     "skillIds": [
+      1183101,
       1183104,
       1183103
     ],
@@ -43932,6 +43945,11 @@
         {
           "skillId": 1183103,
           "skillLearnNo": 3,
+          "skillUpgrade": 0
+        },
+        {
+          "skillId": 1183101,
+          "skillLearnNo": 1,
           "skillUpgrade": 0
         }
       ],
