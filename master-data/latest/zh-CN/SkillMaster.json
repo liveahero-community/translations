@@ -107688,7 +107688,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "敵単体に60%ダメージ。60%の確率で1回分のDEFダウンを付与。【常時発動】Viewが5000以上ある場合、自身に「隠蔽」と同様の効果を発動。（敵専用）",
+    "description": "敌単体に60%ダメージ。60%の确率で1回分のDEFダウンを付与。【常时発动】Viewが5000以上ある场合、自身に「隠蔽」と同様の効果を発动。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -107743,7 +107743,7 @@
     "resourceName": "b_skill_debuff",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体に1ターンの間照準を付与。スキル１を追加発動。（敵専用）",
+    "description": "敌単体に1ターンの间照准を付与。スキル１を追加発动。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -127858,7 +127858,7 @@
     "resourceName": "b_skill_special",
     "subResourceName": "",
     "timing": 3,
-    "description": "自身がピンチ状態の場合、行動終了後にもう１度行動する。（1ターンに1度まで）",
+    "description": "自身がピンチ状态の场合、行动终了后にもう１度行动する。（1ターンに1度まで）",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -127931,7 +127931,7 @@
     "resourceName": "status_awakening",
     "subResourceName": "",
     "timing": 6,
-    "description": "ピンチ状態になった時、View消費量-50%。",
+    "description": "ピンチ状态になった时、View消费量-50%。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -132546,7 +132546,7 @@
     "resourceName": "b_skill_special",
     "subResourceName": "",
     "timing": 0,
-    "description": "味方が自分１人の時、2ターンに1度スキル2を使用する。",
+    "description": "味方が自分１人の时、2ターンに1度スキル2を使用する。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
