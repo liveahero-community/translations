@@ -74232,7 +74232,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_buffOwn",
     "timing": 0,
-    "description": "敵単体に70%ダメージ。自身に1回の行動の間幸運を付与。【常時発動】DEFダウンが付与されていない敵にダメージを与えた時、対象に50%の確率で1回分のDEFダウンを付与。",
+    "description": "敌単体に70%ダメージ。自身に1回の行动の间幸运を付与。【常时発动】DEFダウンが付与されていない敌にダメージを与えた时、対象に50%の确率で1回分のDEFダウンを付与。",
     "cutin": [
       {
         "info": {
@@ -74287,7 +74287,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵全体に80%ダメージ。対象にデバフが付与されている場合、120％ダメージ。",
+    "description": "敌全体に80%ダメージ。対象にデバフが付与されている场合、120％ダメージ。",
     "cutin": [
       {
         "info": {
@@ -75509,7 +75509,7 @@
     "resourceName": "b_skill_buff",
     "subResourceName": "s_skill_buffOwn",
     "timing": 0,
-    "description": "味方単体に2回の行動の間ATKアップ & 幸運を付与。自身に2回の行動の間SPDアップを付与。2回分のDEFアップを付与。（敵専用）",
+    "description": "味方単体に2回の行动の间ATKアップ & 幸运を付与。自身に2回の行动の间SPDアップを付与。2回分のDEFアップを付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -76895,7 +76895,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵全体に60%ダメージ+対象と自分のSPDの差だけダメージ量が上昇。（敵専用）",
+    "description": "敌全体に60%ダメージ+対象と自分のSPDの差だけダメージ量が上升。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -78354,7 +78354,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体に150%ダメージ+スキル発動後のViewに応じてダメージ量が上昇。 （最大300%まで上昇。スキル発動後のViewが100000の時最大ダメージに到達。）",
+    "description": "敌単体に150%ダメージ+スキル発动后のViewに応じてダメージ量が上升。 （最大300%まで上升。スキル発动后のViewが100000の时最大ダメージに到达。）",
     "cutin": [
       {
         "info": {
@@ -80664,7 +80664,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_heal",
     "timing": 0,
-    "description": "敵単体に60%ダメージ。チームで一番ATKが高いヒーローのHPを基礎ATKの30%回復する。",
+    "description": "敌単体に60%ダメージ。チームで一番ATKが高いヒーローのHPを基础ATKの30%回复する。",
     "cutin": [
       {
         "info": {
@@ -81017,7 +81017,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_buffOwn",
     "timing": 0,
-    "description": "敵単体に70%ダメージ。自身に40%の確率で1回分のDEFアップを付与。（敵専用）",
+    "description": "敌単体に70%ダメージ。自身に40%の确率で1回分のDEFアップを付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -81072,7 +81072,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "敵全体からランダムに2回60%ダメージ。1HIT毎に20%の確率で1回分のDEFダウンを付与。",
+    "description": "敌全体からランダムに2回60%ダメージ。1HIT毎に20%の确率で1回分のDEFダウンを付与。",
     "cutin": [
       {
         "info": {
@@ -81155,7 +81155,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体に1～4回50%ダメージの連続攻撃+100%ダメージ。自身に付与されているDEFアップの数だけ連続攻撃の回数増加。自身のDEFアップを全解除。",
+    "description": "敌単体に1～4回50%ダメージの连続攻撃+100%ダメージ。自身に付与されているDEFアップの数だけ连続攻撃の回数増加。自身のDEFアップを全解除。",
     "cutin": [
       {
         "info": {
@@ -88392,7 +88392,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "敵単体に70%ダメージ。40%の確率で1ターンの間毒を付与。（敵専用）",
+    "description": "敌単体に70%ダメージ。40%の确率で1ターンの间毒を付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -89173,7 +89173,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "敵単体に70%ダメージ。1ターンの間火傷を付与。（敵専用）",
+    "description": "敌単体に70%ダメージ。1ターンの间火伤を付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -89222,13 +89222,13 @@
   },
   "4043202": {
     "skillId": 4043202,
-    "skillName": "連続スラッシュ！",
+    "skillName": "连続スラッシュ！",
     "useView": 4000,
     "targetFlag": 2,
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体に2回60%ダメージ。（敵専用）",
+    "description": "敌単体に2回60%ダメージ。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -89283,7 +89283,7 @@
     "resourceName": "b_skill_healAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "味方全体のHPを基礎ATKの100%回復する。（敵専用）",
+    "description": "味方全体のHPを基础ATKの100%回复する。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -93385,7 +93385,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "敵単体に40%ダメージ。1回分のDEFダウンを付与。（敵専用）",
+    "description": "敌単体に40%ダメージ。1回分のDEFダウンを付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -97148,7 +97148,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_buffTeam",
     "timing": 0,
-    "description": "敵単体に50%ダメージ。ランダムな味方単体に1回の行動の間View消費量-1000を付与。（敵専用）",
+    "description": "敌単体に50%ダメージ。ランダムな味方単体に1回の行动の间View消费量-1000を付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -97203,7 +97203,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "s_skill_antiBuffAll",
     "timing": 0,
-    "description": "敵全体に60%ダメージ。60%の確率でバフを１つ解除。（敵専用）",
+    "description": "敌全体に60%ダメージ。60%の确率でバフを１つ解除。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -97500,7 +97500,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "敵単体に70%ダメージ。View消費量+1000を付与。（敵専用）",
+    "description": "敌単体に70%ダメージ。View消费量+1000を付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -97555,7 +97555,7 @@
     "resourceName": "b_skill_buffAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "味方全体に2ターンの間弱体抵抗+50を付与。（敵専用）",
+    "description": "味方全体に2ターンの间弱体抵抗+50を付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -97596,7 +97596,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "s_skill_debuffAll",
     "timing": 0,
-    "description": "敵全体に80%ダメージ。40%の確率で1ターンの間火傷を付与。（敵専用）",
+    "description": "敌全体に80%ダメージ。40%の确率で1ターンの间火伤を付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -100363,13 +100363,13 @@
   },
   "4076116": {
     "skillId": 4076116,
-    "skillName": "必殺攻撃",
+    "skillName": "必杀攻撃",
     "useView": 6000,
     "targetFlag": 2,
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体に80%ダメージ+Viewに応じてダメージ量が上昇。（敵専用）",
+    "description": "敌単体に80%ダメージ+Viewに応じてダメージ量が上升。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -102002,7 +102002,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_spdDownTeam",
     "timing": 0,
-    "description": "敵単体に60%ダメージ。1回の行動の間SPDダウンを付与。（敵専用）",
+    "description": "敌単体に60%ダメージ。1回の行动の间SPDダウンを付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -102057,7 +102057,7 @@
     "resourceName": "b_skill_buff",
     "subResourceName": "s_skill_spdUpOwn",
     "timing": 0,
-    "description": "自身に2ターンの間隠蔽を付与。1回の行動の間SPDアップを付与。（敵専用）",
+    "description": "自身に2ターンの间隠蔽を付与。1回の行动の间SPDアップを付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -102106,13 +102106,13 @@
   },
   "4080118": {
     "skillId": 4080118,
-    "skillName": "風月",
+    "skillName": "风月",
     "useView": 6000,
     "targetFlag": 2,
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体に90%ダメージ。自身に隠蔽が付与されているかつ攻撃した敵が生存している場合、スキル１を追加発動。（敵専用）",
+    "description": "敌単体に90%ダメージ。自身に隠蔽が付与されているかつ攻撃した敌が生存している场合、スキル１を追加発动。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -102168,13 +102168,13 @@
   },
   "4080119": {
     "skillId": 4080119,
-    "skillName": "決めポーズ",
+    "skillName": "决めポーズ",
     "useView": 12000,
     "targetFlag": 3,
     "resourceName": "b_skill_healAll",
     "subResourceName": "s_skill_cureAll",
     "timing": 0,
-    "description": "味方全体のHPを基礎ATKの150%回復する。デバフを１つ解除。（敵専用）",
+    "description": "味方全体のHPを基础ATKの150%回复する。デバフを１つ解除。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -106793,7 +106793,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_spdDownTeam",
     "timing": 0,
-    "description": "敵単体に60%ダメージ。1回の行動の間SPDダウンを付与。（敵専用）",
+    "description": "敌単体に60%ダメージ。1回の行动の间SPDダウンを付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -116615,7 +116615,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_antiBuffTeam",
     "timing": 0,
-    "description": "敵単体に60%ダメージ。バフを１つ解除。（敵専用）",
+    "description": "敌単体に60%ダメージ。バフを１つ解除。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -116670,7 +116670,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "敵単体に90%ダメージ。1回の行動の間ATKダウンを付与。（敵専用）",
+    "description": "敌単体に90%ダメージ。1回の行动の间ATKダウンを付与。（敌専用）",
     "cutin": [
       {
         "info": {
