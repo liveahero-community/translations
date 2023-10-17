@@ -7640,7 +7640,7 @@
     "lookBackChapterId": 0,
     "baseResourceName": "BattleArena2310",
     "questSelectPrefabAddress": "HeroTowerWindow",
-    "startAt": "2023-10-17 18:00:00",
+    "startAt": "1980-01-01 00:00:00",
     "endAt": "2023-11-02 14:00:00",
     "canRemember": 0,
     "eventPortalJson": null,
@@ -7810,6 +7810,11 @@
         {
           "type": 6,
           "chapterId": 1070,
+          "buttonType": 1
+        },
+        {
+          "type": 0,
+          "chapterId": 1067,
           "buttonType": 1
         }
       ],
