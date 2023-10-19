@@ -77536,13 +77536,13 @@
   },
   "4013204": {
     "skillId": 4013204,
-    "skillName": "月に叢雲",
+    "skillName": "月に丛云",
     "useView": 5000,
     "targetFlag": 2,
     "resourceName": "b_skill_spdDown",
     "subResourceName": "s_skill_view",
     "timing": 0,
-    "description": "敵単体に1回の行動の間SPDダウンを付与。Viewを12000獲得。（敵専用）",
+    "description": "敌単体に1回の行动の间SPDダウンを付与。Viewを12000获得。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -84353,7 +84353,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_heal",
     "timing": 0,
-    "description": "敵単体に70%ダメージ。自身のHPを基礎ATKの30%回復する。【常時発動】自身のスキルでダメージを与えた時、自身に1ターンの覇気を付与。",
+    "description": "敌単体に70%ダメージ。自身のHPを基础ATKの30%回复する。【常时発动】自身のスキルでダメージを与えた时、自身に1ターンの覇気を付与。",
     "cutin": [
       {
         "info": {
@@ -84422,7 +84422,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_combo",
     "timing": 0,
-    "description": "敵単体に3回、40%のダメージ。コンボ数+1。1HIT毎に50%の確率でバフを1つ解除。",
+    "description": "敌単体に3回、40%のダメージ。コンボ数+1。1HIT毎に50%の确率でバフを1つ解除。",
     "cutin": [
       {
         "info": {
@@ -84547,7 +84547,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_buffOwn",
     "timing": 0,
-    "description": "敵単体に130%ダメージ+コンボ数に応じてダメージ量が上昇。自身に1回の行動の間ATKアップを付与。",
+    "description": "敌単体に130%ダメージ+コンボ数に応じてダメージ量が上升。自身に1回の行动の间ATKアップを付与。",
     "cutin": [
       {
         "info": {
@@ -85308,7 +85308,7 @@
     "resourceName": "b_skill_buff",
     "subResourceName": "s_skill_buffAll",
     "timing": 0,
-    "description": "自身に1ターンの間弱体抵抗+100を付与。自身以外の味方全体に1ターンの間シールドを付与。このスキルは発動後、3ターンの間使用できなくなる。",
+    "description": "自身に1ターンの间弱体抵抗+100を付与。自身以外の味方全体に1ターンの间シールドを付与。このスキルは発动后、3ターンの间使用できなくなる。",
     "cutin": [
       {
         "info": {
@@ -95535,7 +95535,7 @@
     "resourceName": "b_skill_buff",
     "subResourceName": "s_skill_buffOwn",
     "timing": 0,
-    "description": "味方単体に2回の行動の間ATKアップ & SPDアップを付与。スキル1を追加発動。（敵専用）",
+    "description": "味方単体に2回の行动の间ATKアップ & SPDアップを付与。スキル1を追加発动。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -95604,7 +95604,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_spdDownTeam",
     "timing": 0,
-    "description": "敵単体に60%ダメージ。1回の行動の間SPDダウンを付与。",
+    "description": "敌単体に60%ダメージ。1回の行动の间SPDダウンを付与。",
     "cutin": [
       {
         "info": {
@@ -103810,7 +103810,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "敵単体に70%ダメージ。1回の行動の間SPDダウンを付与。（敵専用）",
+    "description": "敌単体に70%ダメージ。1回の行动の间SPDダウンを付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -103865,7 +103865,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "敵単体に100%ダメージ。1回分のDEFダウンを付与。（敵専用）",
+    "description": "敌単体に100%ダメージ。1回分のDEFダウンを付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -109479,7 +109479,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_antiBuffTeam",
     "timing": 0,
-    "description": "敵単体に60%ダメージ。50%の確率でバフを１つ解除。",
+    "description": "敌単体に60%ダメージ。50%の确率でバフを１つ解除。",
     "cutin": [
       {
         "info": {
@@ -109534,7 +109534,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵全体に70%ダメージ。【常時発動】自身の攻撃で敵を戦闘不能にした時、戦闘不能にした敵の数だけ自身に1回の行動の間View消費量-2000を付与。",
+    "description": "敌全体に70%ダメージ。【常时発动】自身の攻撃で敌を戦闘不能にした时、戦闘不能にした敌の数だけ自身に1回の行动の间View消费量-2000を付与。",
     "cutin": [
       {
         "info": {
@@ -109589,7 +109589,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体に170%ダメージ+HPが減るほどダメージ量が上昇する。",
+    "description": "敌単体に170%ダメージ+HPが减るほどダメージ量が上升する。",
     "cutin": [
       {
         "info": {
@@ -109726,7 +109726,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_heal",
     "timing": 0,
-    "description": "敵単体に110%ダメージ。自身のHPを基礎ATKの300%回復する。（敵専用）",
+    "description": "敌単体に110%ダメージ。自身のHPを基础ATKの300%回复する。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -109781,7 +109781,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "敵単体に50%ダメージ。1回の行動の間ATKダウンを付与。（敵専用）",
+    "description": "敌単体に50%ダメージ。1回の行动の间ATKダウンを付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -109836,7 +109836,7 @@
     "resourceName": "b_skill_buff",
     "subResourceName": "",
     "timing": 0,
-    "description": "自身に1ターンの間挑発を付与。発動したターン中、攻撃を受けた際に敵にスキル１で反撃。（最大1回まで）（敵専用）",
+    "description": "自身に1ターンの间挑発を付与。発动したターン中、攻撃を受けた际に敌にスキル１で反撃。（最大1回まで）（敌専用）",
     "cutin": [
       {
         "info": {
@@ -110638,7 +110638,7 @@
     "resourceName": "b_skill_buff",
     "subResourceName": "s_skill_cureTeam",
     "timing": 0,
-    "description": "味方単体に3回の行動の間ATKアップを付与。デバフを２つ解除。【常時発動】自身の使用するダメージを与えないスキルのView消費量-500。",
+    "description": "味方単体に3回の行动の间ATKアップを付与。デバフを２つ解除。【常时発动】自身の使用するダメージを与えないスキルのView消费量-500。",
     "cutin": [
       {
         "info": {
@@ -112042,7 +112042,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "敵単体に130%ダメージ。1ターンのATKダウンを付与。対象が水属性の場合、ATKダウンのターン数が2ターンになる。（敵専用）",
+    "description": "敌単体に130%ダメージ。1ターンのATKダウンを付与。対象が水属性の场合、ATKダウンのターン数が2ターンになる。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -135231,13 +135231,13 @@
   },
   "6122101": {
     "skillId": 6122101,
-    "skillName": "注目の最終戦",
+    "skillName": "注目の最终戦",
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "b_skill_buff",
     "subResourceName": "",
     "timing": 4,
-    "description": "ターン開始時、1回の行動の間注目を付与。",
+    "description": "ターン开始时、1回の行动の间注目を付与。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -135270,7 +135270,7 @@
     "resourceName": "b_skill_buff",
     "subResourceName": "",
     "timing": 6,
-    "description": "ピンチ状態になった時、自身にオーバーシンクロを3つ付与。",
+    "description": "ピンチ状态になった时、自身にオーバーシンクロを3つ付与。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -135412,13 +135412,13 @@
   },
   "6123101": {
     "skillId": 6123101,
-    "skillName": "戦場分析",
+    "skillName": "戦场分析",
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "b_skill_special",
     "subResourceName": "",
     "timing": 0,
-    "description": "自身がピンチ状態の時、スキル3を優先して使用する。",
+    "description": "自身がピンチ状态の时、スキル3を优先して使用する。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
