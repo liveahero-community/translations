@@ -7773,7 +7773,7 @@
     "eventId": 67,
     "chapterId": 1069,
     "lookBackChapterId": 0,
-    "baseResourceName": "Survival2309",
+    "baseResourceName": "Survival2309_epilogue",
     "questSelectPrefabAddress": "",
     "startAt": "1981-01-01 00:00:00",
     "endAt": "2023-11-02 14:00:00",
@@ -7786,8 +7786,10 @@
         {
           "keys": [
             "UI_MAIN_QUEST",
+            "UI_EPILOGUE_QUEST",
             "UI_MISSION",
-            "UI_EXCHANGE"
+            "UI_EXCHANGE",
+            "UI_HIGH_DIFFICULTY_QUEST"
           ],
           "endAt": "2023-11-02 14:00:00"
         },
@@ -7813,9 +7815,19 @@
           "buttonType": 1
         },
         {
+          "type": 6,
+          "chapterId": 1072,
+          "buttonType": 1
+        },
+        {
           "type": 0,
           "chapterId": 1067,
           "buttonType": 1
+        },
+        {
+          "type": 7,
+          "chapterId": 1071,
+          "buttonType": 0
         }
       ],
       "tutorialKey": "Survival2309",
