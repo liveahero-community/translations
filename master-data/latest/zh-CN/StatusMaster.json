@@ -1810,14 +1810,14 @@
     "statusName": "福音",
     "isGoodStatus": 1,
     "statusType": 1,
-    "description": "自身が使用するスキルのHP回復量+50%"
+    "description": "自身が使用するスキルのHP回复量+50%"
   },
   "265": {
     "statusId": 265,
     "statusName": "混乱",
     "isGoodStatus": 0,
     "statusType": 0,
-    "description": "行動がオート行動になる。行動終了時に解除される。"
+    "description": "行动がオート行动になる。行动终了时に解除される。"
   },
   "266": {
     "statusId": 266,
@@ -2087,10 +2087,10 @@
   },
   "1189102": {
     "statusId": 1189102,
-    "statusName": "誓約",
+    "statusName": "誓约",
     "isGoodStatus": 2,
     "statusType": 2,
-    "description": "ヒーロースキルに必要なViewPowerが5%減少。バフでもデバフでもない状態。スキルによる解除不可。"
+    "description": "ヒーロースキルに必要なViewPowerが5%减少。バフでもデバフでもない状态。スキルによる解除不可。"
   },
   "1189103": {
     "statusId": 1189103,
@@ -2108,7 +2108,7 @@
   },
   "1190101": {
     "statusId": 1190101,
-    "statusName": "施錠",
+    "statusName": "施锭",
     "isGoodStatus": 0,
     "statusType": 0,
     "description": "スキル3が使えなくなる。"

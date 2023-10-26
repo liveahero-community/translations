@@ -121433,7 +121433,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_antiBuffTeam",
     "timing": 0,
-    "description": "敵単体に70%ダメージ。バフを1つ解除。スキル発動後、もう一度行動する（1ターンに1度まで）。【ピンチ時追加効果】1回分の混乱を付与。",
+    "description": "敌単体に70%ダメージ。バフを1つ解除。スキル発动后、もう一度行动する（1ターンに1度まで）。【ピンチ时追加効果】1回分の混乱を付与。",
     "cutin": [
       {
         "info": {
@@ -121545,13 +121545,13 @@
   },
   "4184102": {
     "skillId": 4184102,
-    "skillName": "情報消化",
+    "skillName": "情报消化",
     "useView": 4000,
     "targetFlag": 0,
     "resourceName": "b_skill_buff",
     "subResourceName": "",
     "timing": 0,
-    "description": "自身にエーテルを2つ付与。3回の行動の間ATKアップを付与。発動時にエーテルが2つ以上付与されていた場合、Viewを消費せずにスキル3を追加発動し、エーテルを全て解除。",
+    "description": "自身にエーテルを2つ付与。3回の行动の间ATKアップを付与。発动时にエーテルが2つ以上付与されていた场合、Viewを消费せずにスキル3を追加発动し、エーテルを全て解除。",
     "cutin": [
       {
         "info": {
@@ -121676,7 +121676,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵全体からランダムに4回60%ダメージ。スキル発動後Viewが10000以上の時、Viewを5000消費して自身のATK+10%。【ピンチ時追加効果】1HIT毎に50%の確率で1回分のATKダウンを付与。",
+    "description": "敌全体からランダムに4回60%ダメージ。スキル発动后Viewが10000以上の时、Viewを5000消费して自身のATK+10%。【ピンチ时追加効果】1HIT毎に50%の确率で1回分のATKダウンを付与。",
     "cutin": [
       {
         "info": {
@@ -144992,7 +144992,7 @@
     "resourceName": "status_atkup",
     "subResourceName": "",
     "timing": 9,
-    "description": "自身にATKダウンが付与されている時、ATK+50%。",
+    "description": "自身にATKダウンが付与されている时、ATK+50%。",
     "cutin": [],
     "isEquip": false,
     "isHeroSkill": false,
@@ -145181,7 +145181,7 @@
     "resourceName": "b_skill_special",
     "subResourceName": "",
     "timing": 1,
-    "description": "【ピンチ状態ではない時】ターン開始時に自身にエーテルを1つ付与。【ピンチ状態の時】ダメージを受けた時、またはターン開始時に自身にエーテルが付与されていない時、自身にエーテルを1つ付与。",
+    "description": "【ピンチ状态ではない时】ターン开始时に自身にエーテルを1つ付与。【ピンチ状态の时】ダメージを受けた时、またはターン开始时に自身にエーテルが付与されていない时、自身にエーテルを1つ付与。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -145228,7 +145228,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "",
     "timing": 8,
-    "description": "エーテルが3個以上付与されている状態でダメージを受けた時、Viewを消費せずに自身のスキル3を発動し、エーテルを全て解除。",
+    "description": "エーテルが3个以上付与されている状态でダメージを受けた时、Viewを消费せずに自身のスキル3を発动し、エーテルを全て解除。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -145309,13 +145309,13 @@
   },
   "6184110": {
     "skillId": 6184110,
-    "skillName": "エーテル循環",
+    "skillName": "エーテル循环",
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "b_skill_cure",
     "subResourceName": "",
     "timing": 1,
-    "description": "エーテルが1つでも付与されている場合、毒・火傷・沈黙が付与されない。エーテルが付与されていない時この効果は無効になり、被ダメージ+100%。",
+    "description": "エーテルが1つでも付与されている场合、毒・火伤・沈黙が付与されない。エーテルが付与されていない时この効果は无効になり、被ダメージ+100%。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
