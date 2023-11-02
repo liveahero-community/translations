@@ -3487,6 +3487,58 @@
       "isInHome": true
     }
   ],
+  "10512": [
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 4,
+      "faceType": "c",
+      "serifKey": "SERIF_NESSENMASQUERADE2310_PLAYER",
+      "voiceFilename": null,
+      "resourceName": "nessenMasquerade2310",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 5,
+      "faceType": "b",
+      "serifKey": "SERIF_NESSENMASQUERADE2310_HERO",
+      "voiceFilename": null,
+      "resourceName": "nessenMasquerade2310",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 12,
+      "faceType": "",
+      "serifKey": "SERIF_NESSENMASQUERADE2310_TOUCH",
+      "voiceFilename": null,
+      "resourceName": "nessenMasquerade2310",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 27,
+      "faceType": "",
+      "serifKey": "SERIF_NESSENMASQUERADE2310_EVENTA",
+      "voiceFilename": null,
+      "resourceName": "nessenMasquerade2310",
+      "isInHome": false
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 28,
+      "faceType": "c",
+      "serifKey": "SERIF_NESSENMASQUERADE2310_EVENTB",
+      "voiceFilename": null,
+      "resourceName": "nessenMasquerade2310",
+      "isInHome": false
+    }
+  ],
   "10531": [
     {
       "cardType": 1,
@@ -7938,6 +7990,170 @@
       "serifKey": "SERIF_YUHANG_EVENTB",
       "voiceFilename": "",
       "resourceName": "yuhang",
+      "isInHome": false
+    }
+  ],
+  "11891": [
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 4,
+      "faceType": "",
+      "serifKey": "SERIF_ASTOSIS_PLAYER",
+      "voiceFilename": null,
+      "resourceName": "astosis",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 5,
+      "faceType": "e",
+      "serifKey": "SERIF_ASTOSIS_HERO",
+      "voiceFilename": null,
+      "resourceName": "astosis",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 12,
+      "faceType": "c",
+      "serifKey": "SERIF_ASTOSIS_TOUCH",
+      "voiceFilename": null,
+      "resourceName": "astosis",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 3,
+      "faceType": "g",
+      "serifKey": "SERIF_ASTOSIS_DAILY",
+      "voiceFilename": null,
+      "resourceName": "astosis",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 6,
+      "faceType": "c",
+      "serifKey": "SERIF_ASTOSIS_RELATION",
+      "voiceFilename": null,
+      "resourceName": "astosis",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 11,
+      "faceType": "",
+      "serifKey": "SERIF_ASTOSIS_APPRECIATION",
+      "voiceFilename": null,
+      "resourceName": "astosis",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 27,
+      "faceType": "",
+      "serifKey": "SERIF_ASTOSIS_EVENTA",
+      "voiceFilename": null,
+      "resourceName": "astosis",
+      "isInHome": false
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 28,
+      "faceType": "g",
+      "serifKey": "SERIF_ASTOSIS_EVENTB",
+      "voiceFilename": null,
+      "resourceName": "astosis",
+      "isInHome": false
+    }
+  ],
+  "11901": [
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 4,
+      "faceType": "c",
+      "serifKey": "SERIF_YOHACK_PLAYER",
+      "voiceFilename": null,
+      "resourceName": "yohack",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 5,
+      "faceType": "h",
+      "serifKey": "SERIF_YOHACK_HERO",
+      "voiceFilename": null,
+      "resourceName": "yohack",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 12,
+      "faceType": "b",
+      "serifKey": "SERIF_YOHACK_TOUCH",
+      "voiceFilename": null,
+      "resourceName": "yohack",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 3,
+      "faceType": "g",
+      "serifKey": "SERIF_YOHACK_DAILY",
+      "voiceFilename": null,
+      "resourceName": "yohack",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 6,
+      "faceType": "b",
+      "serifKey": "SERIF_YOHACK_RELATION",
+      "voiceFilename": null,
+      "resourceName": "yohack",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 11,
+      "faceType": "h",
+      "serifKey": "SERIF_YOHACK_APPRECIATION",
+      "voiceFilename": null,
+      "resourceName": "yohack",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 27,
+      "faceType": "b",
+      "serifKey": "SERIF_YOHACK_EVENTA",
+      "voiceFilename": null,
+      "resourceName": "yohack",
+      "isInHome": false
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 28,
+      "faceType": "c",
+      "serifKey": "SERIF_YOHACK_EVENTB",
+      "voiceFilename": null,
+      "resourceName": "yohack",
       "isInHome": false
     }
   ],

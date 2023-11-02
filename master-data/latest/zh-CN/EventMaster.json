@@ -7650,12 +7650,12 @@
   "66": {
     "eventId": 66,
     "chapterId": 1068,
-    "lookBackChapterId": 0,
+    "lookBackChapterId": 525,
     "baseResourceName": "3rdAnniversary2309",
     "questSelectPrefabAddress": "",
     "startAt": "1980-01-01 00:00:00",
     "endAt": "2023-10-12 14:00:00",
-    "canRemember": 0,
+    "canRemember": 1,
     "eventPortalJson": {
       "bg": "ui_bg_sprite_portal_3rdAnniversary",
       "bgm": "bgm_main",
@@ -7772,12 +7772,12 @@
   "67": {
     "eventId": 67,
     "chapterId": 1069,
-    "lookBackChapterId": 0,
-    "baseResourceName": "Survival2309_epilogue",
+    "lookBackChapterId": 526,
+    "baseResourceName": "Survival2309",
     "questSelectPrefabAddress": "",
     "startAt": "1981-01-01 00:00:00",
     "endAt": "2023-11-02 14:00:00",
-    "canRemember": 0,
+    "canRemember": 1,
     "eventPortalJson": {
       "bg": "ui_bg_sprite_event_Survival2309",
       "bgm": "bgm_survival_adv",
@@ -8104,6 +8104,315 @@
         "objectId": 186,
         "bonusValue": 20,
         "targetStockId": 10811
+      }
+    ]
+  },
+  "68": {
+    "eventId": 68,
+    "chapterId": 1073,
+    "lookBackChapterId": 0,
+    "baseResourceName": "Masquerade2310",
+    "questSelectPrefabAddress": "",
+    "startAt": "2023-10-26 14:00:00",
+    "endAt": "2023-11-30 14:00:00",
+    "canRemember": 0,
+    "eventPortalJson": {
+      "bg": "ui_bg_sprite_event_Masquerade2310",
+      "bgm": "bgm_masquerade_adv",
+      "logo": "Masquerade2310_title",
+      "terms": [
+        {
+          "keys": [
+            "UI_MAIN_QUEST",
+            "UI_MISSION",
+            "UI_EXCHANGE"
+          ],
+          "endAt": "2023-11-30 14:00:00"
+        },
+        {
+          "keys": [
+            "UI_FREE_QUEST",
+            "UI_SALES"
+          ],
+          "endAt": "2023-11-23 20:00:00"
+        }
+      ],
+      "gachaId": 86,
+      "storeId": 53,
+      "questInfos": [
+        {
+          "type": 5,
+          "chapterId": 1073,
+          "buttonType": 0
+        },
+        {
+          "type": 6,
+          "chapterId": 1074,
+          "buttonType": 1
+        }
+      ],
+      "tutorialKey": "Masquerade2310",
+      "eventItemIds": [
+        190
+      ],
+      "portalWindow": "WideTermEventPortalWindow",
+      "characterViews": [
+        {
+          "skinId": 0,
+          "stockId": 10512,
+          "cardType": 1,
+          "serifKinds": [
+            27,
+            28
+          ],
+          "visualType": 1,
+          "resourceName": "nessenMasquerade2310",
+          "characterName": "ネッセン"
+        },
+        {
+          "skinId": 0,
+          "stockId": 11891,
+          "cardType": 2,
+          "serifKinds": [
+            27,
+            28
+          ],
+          "visualType": 1,
+          "resourceName": "astosis",
+          "characterName": "アストシス"
+        },
+        {
+          "skinId": 0,
+          "stockId": 11901,
+          "cardType": 2,
+          "serifKinds": [
+            27,
+            28
+          ],
+          "visualType": 1,
+          "resourceName": "yohack",
+          "characterName": "ヨハック"
+        }
+      ],
+      "salesRegionIds": [
+        232
+      ],
+      "missionGroupIds": [
+        1073
+      ],
+      "missionCategoryButtonLabels": null
+    },
+    "roguePortalJson": null,
+    "questBonusJsons": [
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 190,
+        "bonusValue": 40,
+        "targetStockId": 10512
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 190,
+        "bonusValue": 40,
+        "targetStockId": 11891
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 190,
+        "bonusValue": 30,
+        "targetStockId": 11901
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 190,
+        "bonusValue": 20,
+        "targetStockId": 10812
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 190,
+        "bonusValue": 20,
+        "targetStockId": 11241
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 190,
+        "bonusValue": 10,
+        "targetStockId": 11821
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 190,
+        "bonusValue": 10,
+        "targetStockId": 11831
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 190,
+        "bonusValue": 20,
+        "targetStockId": 10351
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 190,
+        "bonusValue": 20,
+        "targetStockId": 11681
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 190,
+        "bonusValue": 10,
+        "targetStockId": 11691
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 190,
+        "bonusValue": 10,
+        "targetStockId": 11701
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 190,
+        "bonusValue": 20,
+        "targetStockId": 10511
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 190,
+        "bonusValue": 30,
+        "targetStockId": 11901
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 190,
+        "bonusValue": 20,
+        "targetStockId": 11891
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 190,
+        "bonusValue": 10,
+        "targetStockId": 10511
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 190,
+        "bonusValue": 10,
+        "targetStockId": 10811
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 190,
+        "bonusValue": 10,
+        "targetStockId": 11241
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 190,
+        "bonusValue": 10,
+        "targetStockId": 11821
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 190,
+        "bonusValue": 10,
+        "targetStockId": 11831
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 190,
+        "bonusValue": 10,
+        "targetStockId": 10351
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 190,
+        "bonusValue": 10,
+        "targetStockId": 11681
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 190,
+        "bonusValue": 10,
+        "targetStockId": 11691
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 190,
+        "bonusValue": 10,
+        "targetStockId": 11701
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 190,
+        "bonusValue": 10,
+        "targetStockId": 11521
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 190,
+        "bonusValue": 10,
+        "targetStockId": 10751
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 190,
+        "bonusValue": 10,
+        "targetStockId": 11141
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 190,
+        "bonusValue": 10,
+        "targetStockId": 11401
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 190,
+        "bonusValue": 10,
+        "targetStockId": 11531
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 190,
+        "bonusValue": 10,
+        "targetStockId": 10591
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 190,
+        "bonusValue": 10,
+        "targetStockId": 19991
       }
     ]
   }
