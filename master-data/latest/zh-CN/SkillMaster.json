@@ -3582,7 +3582,7 @@
     "resourceName": "b_skill_view",
     "subResourceName": "",
     "timing": 2,
-    "description": "行動開始時、Viewの上限を30000に制限する。（非表示）",
+    "description": "行动开始时、Viewの上限を30000に制限する。（非表示）",
     "cutin": [],
     "isEquip": false,
     "isHeroSkill": false,
@@ -24050,13 +24050,13 @@
   },
   "1051201": {
     "skillId": 1051201,
-    "skillName": "月鏡円舞",
+    "skillName": "月镜円舞",
     "useView": 0,
     "targetFlag": 1,
     "resourceName": "status_buff_special",
     "subResourceName": "s_skill_cureTeam",
     "timing": 0,
-    "description": "味方単体に2ターンの間円舞を付与（発動対象以外に円舞が付与されていた場合、解除する）。デバフを1つ解除。",
+    "description": "味方単体に2ターンの间円舞を付与（発动対象以外に円舞が付与されていた场合、解除する）。デバフを1つ解除。",
     "cutin": [
       {
         "info": {
@@ -24143,7 +24143,7 @@
     "resourceName": "b_skill_view",
     "subResourceName": "s_skill_buffTeam",
     "timing": 0,
-    "description": "味方単体に1回の行動の間ATKアップを付与。Viewを6000獲得。【常時発動】行動終了時、円舞が付与されている味方のスキル1を誘発。（1ターンに2回まで。サイドキックスキル使用時は発動しない）",
+    "description": "味方単体に1回の行动の间ATKアップを付与。Viewを6000获得。【常时発动】行动终了时、円舞が付与されている味方のスキル1を诱発。（1ターンに2回まで。サイドキックスキル使用时は発动しない）",
     "cutin": [
       {
         "info": {
@@ -24224,13 +24224,13 @@
   },
   "1051203": {
     "skillId": 1051203,
-    "skillName": "極楽艶舞閃",
+    "skillName": "极楽艶舞闪",
     "useView": 10000,
     "targetFlag": 3,
     "resourceName": "b_skill_healAll",
     "subResourceName": "s_skill_buffAll",
     "timing": 0,
-    "description": "味方全体のHPを基礎ATKの70%回復。ピンチ状態の味方全体に1回分のDEFアップを付与。スキル発動後、Viewが10000以上ある場合、もう一度行動をする。（1ターンに1度まで）",
+    "description": "味方全体のHPを基础ATKの70%回复。ピンチ状态の味方全体に1回分のDEFアップを付与。スキル発动后、Viewが10000以上ある场合、もう一度行动をする。（1ターンに1度まで）",
     "cutin": [
       {
         "info": {
@@ -24365,7 +24365,7 @@
     "resourceName": "b_skill_view",
     "subResourceName": "s_skill_buffTeam",
     "timing": 0,
-    "description": "味方単体に1回の行動の間ATKアップを付与。Viewを8000獲得。【常時発動】行動終了時、円舞が付与されている味方のスキル1を誘発。（1ターンに2回まで。サイドキックスキル使用時は発動しない）",
+    "description": "味方単体に1回の行动の间ATKアップを付与。Viewを8000获得。【常时発动】行动终了时、円舞が付与されている味方のスキル1を诱発。（1ターンに2回まで。サイドキックスキル使用时は発动しない）",
     "cutin": [
       {
         "info": {
@@ -39506,7 +39506,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "敵単体に70%ダメージ。40%の確率で2ターンの間火傷を付与。【常時発動】生存中、自身にデバフが付与されていない場合、味方全体のスキルによるデバフ付与率が1.5倍になる。この効果は重複しない。",
+    "description": "敌単体に70%ダメージ。40%の确率で2ターンの间火伤を付与。【常时発动】生存中、自身にデバフが付与されていない场合、味方全体のスキルによるデバフ付与率が1.5倍になる。この効果は重复しない。",
     "cutin": [
       {
         "info": {
@@ -39563,7 +39563,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "敵単体に2回70%ダメージ。1回目のHIT時、50%の確率で2回分のDEFダウンを付与。【常時発動】味方がデバフを付与された敵を攻撃する度に自身に1回の行動の間誓約を付与。",
+    "description": "敌単体に2回70%ダメージ。1回目のHIT时、50%の确率で2回分のDEFダウンを付与。【常时発动】味方がデバフを付与された敌を攻撃する度に自身に1回の行动の间誓约を付与。",
     "cutin": [
       {
         "info": {
@@ -39650,7 +39650,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "s_skill_debuffAll",
     "timing": 0,
-    "description": "敵全体に70%ダメージ+デバフの数に応じてダメージ量が上昇。（最大140%まで上昇。デバフが5つの時最大ダメージ。）70%の確率で1回のランダムなデバフ効果を付与。",
+    "description": "敌全体に70%ダメージ+デバフの数に応じてダメージ量が上升。（最大140%まで上升。デバフが5つの时最大ダメージ。）70%の确率で1回のランダムなデバフ効果を付与。",
     "cutin": [
       {
         "info": {
@@ -39737,7 +39737,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "s_skill_debuffAll",
     "timing": 0,
-    "description": "敵全体に80%ダメージ+デバフの数に応じてダメージ量が上昇。（最大160%まで上昇。デバフが5つの時最大ダメージ。）70%の確率で1回のランダムなデバフ効果を付与。",
+    "description": "敌全体に80%ダメージ+デバフの数に応じてダメージ量が上升。（最大160%まで上升。デバフが5つの时最大ダメージ。）70%の确率で1回のランダムなデバフ効果を付与。",
     "cutin": [
       {
         "info": {
@@ -39824,7 +39824,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_cureTeam",
     "timing": 0,
-    "description": "敵単体に60%ダメージ。60%の確率でバフを１つ解除。",
+    "description": "敌単体に60%ダメージ。60%の确率でバフを１つ解除。",
     "cutin": [
       {
         "info": {
@@ -39881,7 +39881,7 @@
     "resourceName": "b_skill_buff",
     "subResourceName": "s_skill_heal",
     "timing": 0,
-    "description": "【対象がピンチで無い時】3回の行動の間ATKアップを付与。【対象がピンチの時】味方単体に2回の行動の間ATKアップを付与。HPを基礎ATKの80%回復する。",
+    "description": "【対象がピンチで无い时】3回の行动の间ATKアップを付与。【対象がピンチの时】味方単体に2回の行动の间ATKアップを付与。HPを基础ATKの80%回复する。",
     "cutin": [
       {
         "info": {
@@ -39974,7 +39974,7 @@
     "resourceName": "b_skill_buff",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "味方単体に1回の行動の間ATKアップ+ & 福音 & 覚醒を付与。自身に3ターンの間施錠を付与。【バトル開始時】自身に2ターンの施錠を付与。",
+    "description": "味方単体に1回の行动の间ATKアップ+ & 福音 & 覚醒を付与。自身に3ターンの间施锭を付与。【バトル开始时】自身に2ターンの施锭を付与。",
     "cutin": [
       {
         "info": {
@@ -40061,7 +40061,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_cureTeam",
     "timing": 0,
-    "description": "敵単体に60%ダメージ。バフを１つ解除。",
+    "description": "敌単体に60%ダメージ。バフを１つ解除。",
     "cutin": [
       {
         "info": {
@@ -54518,7 +54518,7 @@
     "resourceName": "b_skill_antiBuff",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "敵単体のバフを１つ解除。1回分のDEFダウンを付与。",
+    "description": "敌単体のバフを１つ解除。1回分のDEFダウンを付与。",
     "cutin": [
       {
         "info": {
@@ -54575,7 +54575,7 @@
     "resourceName": "b_skill_antiBuff",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "敵単体のバフを１つ解除。1回分のDEFダウンを付与。",
+    "description": "敌単体のバフを１つ解除。1回分のDEFダウンを付与。",
     "cutin": [
       {
         "info": {
@@ -54632,7 +54632,7 @@
     "resourceName": "b_skill_antiBuff",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "敵単体のバフを１つ解除。1回分のDEFダウンを付与。",
+    "description": "敌単体のバフを１つ解除。1回分のDEFダウンを付与。",
     "cutin": [
       {
         "info": {
@@ -54689,7 +54689,7 @@
     "resourceName": "b_skill_cure",
     "subResourceName": "s_skill_buffTeam",
     "timing": 0,
-    "description": "味方単体のデバフを１つ解除。解除に成功した場合、対象に1回の行動の間覚醒を付与。",
+    "description": "味方単体のデバフを１つ解除。解除に成功した场合、対象に1回の行动の间覚醒を付与。",
     "cutin": [
       {
         "info": {
@@ -54753,7 +54753,7 @@
     "resourceName": "b_skill_cure",
     "subResourceName": "s_skill_buffTeam",
     "timing": 0,
-    "description": "味方単体のデバフを１つ解除。解除に成功した場合、対象に1回の行動の間覚醒を付与。",
+    "description": "味方単体のデバフを１つ解除。解除に成功した场合、対象に1回の行动の间覚醒を付与。",
     "cutin": [
       {
         "info": {
@@ -54817,7 +54817,7 @@
     "resourceName": "b_skill_cure",
     "subResourceName": "s_skill_buffTeam",
     "timing": 0,
-    "description": "味方単体のデバフを１つ解除。解除に成功した場合、対象に1回の行動の間覚醒を付与。",
+    "description": "味方単体のデバフを１つ解除。解除に成功した场合、対象に1回の行动の间覚醒を付与。",
     "cutin": [
       {
         "info": {
@@ -75533,13 +75533,13 @@
   },
   "3189101": {
     "skillId": 3189101,
-    "skillName": "堂々たる弁護Ⅰ",
+    "skillName": "堂々たる弁护Ⅰ",
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "icon_astosis_s01",
     "subResourceName": "",
     "timing": 20,
-    "description": "自身の攻撃でデバフが付与されている敵がダメージを受けた時、チームで一番HPが減っているヒーローのHPを自身の基礎ATKの5%回復する。",
+    "description": "自身の攻撃でデバフが付与されている敌がダメージを受けた时、チームで一番HPが减っているヒーローのHPを自身の基础ATKの5%回复する。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -75574,13 +75574,13 @@
   },
   "3189102": {
     "skillId": 3189102,
-    "skillName": "堂々たる弁護Ⅱ",
+    "skillName": "堂々たる弁护Ⅱ",
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "icon_astosis_s01",
     "subResourceName": "",
     "timing": 20,
-    "description": "自身の攻撃でデバフが付与されている敵がダメージを受けた時、チームで一番HPが減っているヒーローのHPを自身の基礎ATKの6%回復する。",
+    "description": "自身の攻撃でデバフが付与されている敌がダメージを受けた时、チームで一番HPが减っているヒーローのHPを自身の基础ATKの6%回复する。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -75615,13 +75615,13 @@
   },
   "3189103": {
     "skillId": 3189103,
-    "skillName": "堂々たる弁護Ⅲ",
+    "skillName": "堂々たる弁护Ⅲ",
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "icon_astosis_s01",
     "subResourceName": "",
     "timing": 20,
-    "description": "自身の攻撃でデバフが付与されている敵がダメージを受けた時、チームで一番HPが減っているヒーローのHPを自身の基礎ATKの7%回復する。",
+    "description": "自身の攻撃でデバフが付与されている敌がダメージを受けた时、チームで一番HPが减っているヒーローのHPを自身の基础ATKの7%回复する。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -75656,13 +75656,13 @@
   },
   "3189104": {
     "skillId": 3189104,
-    "skillName": "堂々たる弁護Ⅳ",
+    "skillName": "堂々たる弁护Ⅳ",
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "icon_astosis_s01",
     "subResourceName": "",
     "timing": 20,
-    "description": "自身の攻撃でデバフが付与されている敵がダメージを受けた時、チームで一番HPが減っているヒーローのHPを自身の基礎ATKの8%回復する。",
+    "description": "自身の攻撃でデバフが付与されている敌がダメージを受けた时、チームで一番HPが减っているヒーローのHPを自身の基础ATKの8%回复する。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -75697,13 +75697,13 @@
   },
   "3189105": {
     "skillId": 3189105,
-    "skillName": "堂々たる弁護Ⅴ",
+    "skillName": "堂々たる弁护Ⅴ",
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "icon_astosis_s01",
     "subResourceName": "",
     "timing": 20,
-    "description": "自身の攻撃でデバフが付与されている敵がダメージを受けた時、チームで一番HPが減っているヒーローのHPを自身の基礎ATKの9%回復する。",
+    "description": "自身の攻撃でデバフが付与されている敌がダメージを受けた时、チームで一番HPが减っているヒーローのHPを自身の基础ATKの9%回复する。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -75738,13 +75738,13 @@
   },
   "3189106": {
     "skillId": 3189106,
-    "skillName": "堂々たる弁護Ⅵ",
+    "skillName": "堂々たる弁护Ⅵ",
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "icon_astosis_s01",
     "subResourceName": "",
     "timing": 20,
-    "description": "自身の攻撃でデバフが付与されている敵がダメージを受けた時、チームで一番HPが減っているヒーローのHPを自身の基礎ATKの10%回復する。",
+    "description": "自身の攻撃でデバフが付与されている敌がダメージを受けた时、チームで一番HPが减っているヒーローのHPを自身の基础ATKの10%回复する。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -75779,13 +75779,13 @@
   },
   "3190101": {
     "skillId": 3190101,
-    "skillName": "頼られ体質Ⅰ",
+    "skillName": "頼られ体质Ⅰ",
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "icon_yohack_s01",
     "subResourceName": "",
     "timing": 3,
-    "description": "行動終了時、自身のViewの15%を獲得。オート行動時、ピンチ状態で無い時は第2スキルを、ピンチ状態の時は第3スキルを優先して使用する。",
+    "description": "行动终了时、自身のViewの15%を获得。オート行动时、ピンチ状态で无い时は第2スキルを、ピンチ状态の时は第3スキルを优先して使用する。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -75813,13 +75813,13 @@
   },
   "3190102": {
     "skillId": 3190102,
-    "skillName": "頼られ体質Ⅱ",
+    "skillName": "頼られ体质Ⅱ",
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "icon_yohack_s01",
     "subResourceName": "",
     "timing": 3,
-    "description": "行動終了時、自身のViewの18%を獲得。オート行動時、ピンチ状態で無い時は第2スキルを、ピンチ状態の時は第3スキルを優先して使用する。",
+    "description": "行动终了时、自身のViewの18%を获得。オート行动时、ピンチ状态で无い时は第2スキルを、ピンチ状态の时は第3スキルを优先して使用する。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -75847,13 +75847,13 @@
   },
   "3190103": {
     "skillId": 3190103,
-    "skillName": "頼られ体質Ⅲ",
+    "skillName": "頼られ体质Ⅲ",
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "icon_yohack_s01",
     "subResourceName": "",
     "timing": 3,
-    "description": "行動終了時、自身のViewの21%を獲得。オート行動時、ピンチ状態で無い時は第2スキルを、ピンチ状態の時は第3スキルを優先して使用する。",
+    "description": "行动终了时、自身のViewの21%を获得。オート行动时、ピンチ状态で无い时は第2スキルを、ピンチ状态の时は第3スキルを优先して使用する。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -75881,13 +75881,13 @@
   },
   "3190104": {
     "skillId": 3190104,
-    "skillName": "頼られ体質Ⅳ",
+    "skillName": "頼られ体质Ⅳ",
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "icon_yohack_s01",
     "subResourceName": "",
     "timing": 3,
-    "description": "行動終了時、自身のViewの24%を獲得。オート行動時、ピンチ状態で無い時は第2スキルを、ピンチ状態の時は第3スキルを優先して使用する。",
+    "description": "行动终了时、自身のViewの24%を获得。オート行动时、ピンチ状态で无い时は第2スキルを、ピンチ状态の时は第3スキルを优先して使用する。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -75915,13 +75915,13 @@
   },
   "3190105": {
     "skillId": 3190105,
-    "skillName": "頼られ体質Ⅴ",
+    "skillName": "頼られ体质Ⅴ",
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "icon_yohack_s01",
     "subResourceName": "",
     "timing": 3,
-    "description": "行動終了時、自身のViewの27%を獲得。オート行動時、ピンチ状態で無い時は第2スキルを、ピンチ状態の時は第3スキルを優先して使用する。",
+    "description": "行动终了时、自身のViewの27%を获得。オート行动时、ピンチ状态で无い时は第2スキルを、ピンチ状态の时は第3スキルを优先して使用する。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -75949,13 +75949,13 @@
   },
   "3190106": {
     "skillId": 3190106,
-    "skillName": "頼られ体質Ⅵ",
+    "skillName": "頼られ体质Ⅵ",
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "icon_yohack_s01",
     "subResourceName": "",
     "timing": 3,
-    "description": "行動終了時、自身のViewの30%を獲得。オート行動時、ピンチ状態で無い時は第2スキルを、ピンチ状態の時は第3スキルを優先して使用する。",
+    "description": "行动终了时、自身のViewの30%を获得。オート行动时、ピンチ状态で无い时は第2スキルを、ピンチ状态の时は第3スキルを优先して使用する。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -99032,13 +99032,13 @@
   },
   "4054124": {
     "skillId": 4054124,
-    "skillName": "閃光弾",
+    "skillName": "闪光弾",
     "useView": 0,
     "targetFlag": 2,
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_view",
     "timing": 0,
-    "description": "敵単体に70%ダメージ。Viewを3000獲得。（敵専用）",
+    "description": "敌単体に70%ダメージ。Viewを3000获得。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -99095,7 +99095,7 @@
     "resourceName": "b_skill_buff",
     "subResourceName": "",
     "timing": 0,
-    "description": "自身に2回の行動の間ATKアップを付与。（敵専用）",
+    "description": "自身に2回の行动の间ATKアップを付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -99137,7 +99137,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体に70%ダメージ。（敵専用）",
+    "description": "敌単体に70%ダメージ。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -99527,7 +99527,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵全体に90%ダメージ。（敵専用）",
+    "description": "敌全体に90%ダメージ。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -99569,7 +99569,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵全体に130%ダメージ。（敵専用）",
+    "description": "敌全体に130%ダメージ。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -135320,7 +135320,7 @@
     "resourceName": "b_skill_view",
     "subResourceName": "",
     "timing": 24,
-    "description": "行動終了時、Viewの上限を30000に制限する。（非表示）",
+    "description": "行动终了时、Viewの上限を30000に制限する。（非表示）",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -158918,7 +158918,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 8,
-    "description": "敵全体に眼力を付与。",
+    "description": "敌全体に眼力を付与。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -159114,7 +159114,7 @@
     "resourceName": "b_skill_debuff",
     "subResourceName": "",
     "timing": 1,
-    "description": "自身に2ターンの施錠を付与。",
+    "description": "自身に2ターンの施锭を付与。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -159142,13 +159142,13 @@
   },
   "8190102": {
     "skillId": 8190102,
-    "skillName": "ヨハックオート行動",
+    "skillName": "ヨハックオート行动",
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "",
     "subResourceName": "",
     "timing": 12,
-    "description": "オート行動時、ピンチ状態で無い時は第2スキルを、ピンチ状態の時は第3スキルを優先して使用する。",
+    "description": "オート行动时、ピンチ状态で无い时は第2スキルを、ピンチ状态の时は第3スキルを优先して使用する。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
