@@ -95028,13 +95028,13 @@
   },
   "4045104": {
     "skillId": 4045104,
-    "skillName": "騙し打ち+",
+    "skillName": "骗し打ち+",
     "useView": 0,
     "targetFlag": 2,
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "敵単体に120%ダメージ。1回分のDEFダウンを付与。（敵専用）",
+    "description": "敌単体に120%ダメージ。1回分のDEFダウンを付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -99694,7 +99694,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "敵単体に60%ダメージ。1回の行動の間SPDダウンを付与。（敵専用）",
+    "description": "敌単体に60%ダメージ。1回の行动の间SPDダウンを付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -99745,13 +99745,13 @@
   },
   "4055105": {
     "skillId": 4055105,
-    "skillName": "包囲陣形",
+    "skillName": "包囲阵形",
     "useView": 5000,
     "targetFlag": 2,
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_spdUpOwn",
     "timing": 0,
-    "description": "敵単体に80%ダメージ+対象と自分のSPDの差だけダメージ量が上昇。自身に1回の行動の間SPDアップを付与。（敵専用）",
+    "description": "敌単体に80%ダメージ+対象と自分のSPDの差だけダメージ量が上升。自身に1回の行动の间SPDアップを付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -129195,7 +129195,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_cureOwn",
     "timing": 0,
-    "description": "敵単体に70%ダメージ。自身のデバフを１つ解除。（敵専用）",
+    "description": "敌単体に70%ダメージ。自身のデバフを１つ解除。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -129246,13 +129246,13 @@
   },
   "4190104": {
     "skillId": 4190104,
-    "skillName": "鬼爪連斬",
+    "skillName": "鬼爪连斩",
     "useView": 5000,
     "targetFlag": 4,
     "resourceName": "b_skill_damageAll",
     "subResourceName": "s_skill_spdDownTeam",
     "timing": 0,
-    "description": "敵全体からランダムに3回50%ダメージ。ダメージを与えた対象が行動済みの場合、1回の行動の間SPDダウンを付与。",
+    "description": "敌全体からランダムに3回50%ダメージ。ダメージを与えた対象が行动済みの场合、1回の行动の间SPDダウンを付与。",
     "cutin": [
       {
         "info": {
@@ -129583,7 +129583,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "敵単体に60%ダメージ。1回分のDEFダウンを付与。（敵専用）",
+    "description": "敌単体に60%ダメージ。1回分のDEFダウンを付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -129634,13 +129634,13 @@
   },
   "4190109": {
     "skillId": 4190109,
-    "skillName": "鬼爪連斬",
+    "skillName": "鬼爪连斩",
     "useView": 5000,
     "targetFlag": 4,
     "resourceName": "b_skill_damageAll",
     "subResourceName": "s_skill_buffOwn",
     "timing": 0,
-    "description": "敵全体からランダムに3回50%ダメージ。スキル発動後、Viewが10000以下の場合、自身に2回の行動の間ATKアップを付与し、自身のスキル1を誘発。（敵専用）",
+    "description": "敌全体からランダムに3回50%ダメージ。スキル発动后、Viewが10000以下の场合、自身に2回の行动の间ATKアップを付与し、自身のスキル1を诱発。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -129756,7 +129756,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体に130%ダメージ+Viewに応じてダメージ量が上昇（最大260%まで上昇。スキル発動後のViewが25000の時最大ダメージに到達）（敵専用）。",
+    "description": "敌単体に130%ダメージ+Viewに応じてダメージ量が上升（最大260%まで上升。スキル発动后のViewが25000の时最大ダメージに到达）（敌専用）。",
     "cutin": [
       {
         "info": {
@@ -154215,7 +154215,7 @@
     "resourceName": "b_skill_special",
     "subResourceName": "",
     "timing": 8,
-    "description": "自身が行動済みの状態でダメージを受けた時、もう一度行動をする。",
+    "description": "自身が行动済みの状态でダメージを受けた时、もう一度行动をする。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -154256,7 +154256,7 @@
     "resourceName": "b_skill_spdUp",
     "subResourceName": "",
     "timing": 6,
-    "description": "ピンチ状態になった時、5回の行動の間超SPDアップを付与。",
+    "description": "ピンチ状态になった时、5回の行动の间超SPDアップを付与。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -154324,7 +154324,7 @@
     "resourceName": "b_skill_special",
     "subResourceName": "",
     "timing": 1,
-    "description": "自身に毒・火傷が付与されている場合、それぞれ1つにつきATK+50%",
+    "description": "自身に毒・火伤が付与されている场合、それぞれ1つにつきATK+50%",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -154373,7 +154373,7 @@
     "resourceName": "b_skill_special",
     "subResourceName": "",
     "timing": 3,
-    "description": "ピンチ状態の時、毎ターン2回行動する。",
+    "description": "ピンチ状态の时、毎ターン2回行动する。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
