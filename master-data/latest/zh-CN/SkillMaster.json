@@ -99802,13 +99802,13 @@
   },
   "4055107": {
     "skillId": 4055107,
-    "skillName": "強化弾装填",
+    "skillName": "强化弾装填",
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "b_skill_buff",
     "subResourceName": "",
     "timing": 0,
-    "description": "自身に1回の行動の間発動準備を付与。2回分のDEFアップを付与。（敵専用）",
+    "description": "自身に1回の行动の间発动准备を付与。2回分のDEFアップを付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -99865,7 +99865,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "s_skill_antiBuffAll",
     "timing": 0,
-    "description": "敵単体に120%ダメージ。バフを１つ解除。（敵専用）",
+    "description": "敌単体に120%ダメージ。バフを１つ解除。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -99916,13 +99916,13 @@
   },
   "4055110": {
     "skillId": 4055110,
-    "skillName": "一斉確保",
+    "skillName": "一斉确保",
     "useView": 3000,
     "targetFlag": 2,
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体に100%ダメージ。デバフが付与されていない味方のスキル1を誘発。（敵専用）",
+    "description": "敌単体に100%ダメージ。デバフが付与されていない味方のスキル1を诱発。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -99980,13 +99980,13 @@
   },
   "4055111": {
     "skillId": 4055111,
-    "skillName": "包囲陣形+",
+    "skillName": "包囲阵形+",
     "useView": 8000,
     "targetFlag": 2,
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_spdUpOwn",
     "timing": 0,
-    "description": "敵単体に100%ダメージ+対象と自分のSPDの差だけダメージ量が上昇。自身に1回の行動の間SPDアップを付与。（敵専用）",
+    "description": "敌単体に100%ダメージ+対象と自分のSPDの差だけダメージ量が上升。自身に1回の行动の间SPDアップを付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -137943,7 +137943,7 @@
     "resourceName": "b_skill_buff",
     "subResourceName": "",
     "timing": 4,
-    "description": "ターン開始時、自身がピンチ状態かつ、Viewが10000以下の場合、自身に1回の行動の間ATKアップ&SPDアップを付与。",
+    "description": "ターン开始时、自身がピンチ状态かつ、Viewが10000以下の场合、自身に1回の行动の间ATKアップ&SPDアップを付与。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
@@ -138012,13 +138012,13 @@
   },
   "6055104": {
     "skillId": 6055104,
-    "skillName": "緊急隠蔽",
+    "skillName": "紧急隠蔽",
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "b_skill_buff",
     "subResourceName": "",
     "timing": 6,
-    "description": "ピンチ状態になった時、自身に3ターンの間、Viewが10000以下の時のみ有効になる隠蔽を付与。",
+    "description": "ピンチ状态になった时、自身に3ターンの间、Viewが10000以下の时のみ有効になる隠蔽を付与。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
