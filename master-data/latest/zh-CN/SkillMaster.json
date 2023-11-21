@@ -3623,7 +3623,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵全体に最大HPの30%のダメージ",
+    "description": "敌全体に最大HPの30%のダメージ",
     "cutin": [],
     "isEquip": false,
     "isHeroSkill": false,
@@ -3714,13 +3714,13 @@
   },
   "102": {
     "skillId": 102,
-    "skillName": "視聴者の目線",
+    "skillName": "视聴者の目线",
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "視聴者の関心を付与。",
+    "description": "视聴者の関心を付与。",
     "cutin": [],
     "isEquip": false,
     "isHeroSkill": false,
@@ -3748,13 +3748,13 @@
   },
   "103": {
     "skillId": 103,
-    "skillName": "復活",
+    "skillName": "复活",
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "b_skill_heal",
     "subResourceName": "",
     "timing": 0,
-    "description": "対象を復活",
+    "description": "対象を复活",
     "cutin": [],
     "isEquip": false,
     "isHeroSkill": false,
@@ -99973,7 +99973,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵全体に100%ダメージ+Viewに応じてダメージ量が上昇（最大200%まで上昇。スキル発動後のViewが30000の時最大ダメージに到達）。もう１度行動をする。",
+    "description": "敌全体に100%ダメージ+Viewに応じてダメージ量が上升（最大200%まで上升。スキル発动后のViewが30000の时最大ダメージに到达）。もう１度行动をする。",
     "cutin": [
       {
         "info": {
@@ -100087,7 +100087,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "敵単体に80%ダメージ。1回分のDEFダウンを付与。（敵専用）",
+    "description": "敌単体に80%ダメージ。1回分のDEFダウンを付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -129667,7 +129667,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "敵単体に70%ダメージ。40%の確率で2ターンの間火傷を付与。（敵専用）",
+    "description": "敌単体に70%ダメージ。40%の确率で2ターンの间火伤を付与。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -129724,7 +129724,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体に2回50%ダメージ。（敵専用）",
+    "description": "敌単体に2回50%ダメージ。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -129781,7 +129781,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "s_skill_debuffAll",
     "timing": 0,
-    "description": "敵全体に80%ダメージ。70%の確率で1回のランダムなデバフ効果を付与。断罪の天秤を全て復活。（敵専用）",
+    "description": "敌全体に80%ダメージ。70%の确率で1回のランダムなデバフ効果を付与。断罪の天秤を全て复活。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -130528,7 +130528,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵全体に60%ダメージ。（敵専用）",
+    "description": "敌全体に60%ダメージ。（敌専用）",
     "cutin": [
       {
         "info": {
@@ -138480,7 +138480,7 @@
     "resourceName": "b_skill_heal",
     "subResourceName": "",
     "timing": 14,
-    "description": "戦闘不能時、100%のHPで復活。復活時、付与されている状態変化を全て解除 & 2回の行動の間ATKダウンを付与。このスキルが発動したターン、行動が出来なくなる。",
+    "description": "戦闘不能时、100%のHPで复活。复活时、付与されている状态変化を全て解除 & 2回の行动の间ATKダウンを付与。このスキルが発动したターン、行动が出来なくなる。",
     "cutin": [],
     "isEquip": true,
     "isHeroSkill": false,
