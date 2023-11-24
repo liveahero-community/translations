@@ -8111,7 +8111,7 @@
     "eventId": 68,
     "chapterId": 1073,
     "lookBackChapterId": 0,
-    "baseResourceName": "Masquerade2310",
+    "baseResourceName": "Masquerade2310_epilogue",
     "questSelectPrefabAddress": "",
     "startAt": "2023-10-26 14:00:00",
     "endAt": "2023-11-30 14:00:00",
@@ -8124,6 +8124,7 @@
         {
           "keys": [
             "UI_MAIN_QUEST",
+            "UI_EPILOGUE_QUEST",
             "UI_MISSION",
             "UI_EXCHANGE",
             "UI_HIGH_DIFFICULTY_QUEST"
@@ -8155,6 +8156,11 @@
           "type": 6,
           "chapterId": 1076,
           "buttonType": 1
+        },
+        {
+          "type": 7,
+          "chapterId": 1075,
+          "buttonType": 0
         }
       ],
       "tutorialKey": "Masquerade2310",
