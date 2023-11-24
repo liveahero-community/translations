@@ -4784,6 +4784,27 @@
     "endAt": "2023-11-23 20:00:00",
     "executeLimit": null
   },
+  "1075": {
+    "chapterId": 1075,
+    "groupType": 2,
+    "chapterType": 1,
+    "chapterName": "エピローグクエスト",
+    "subName": "月光群舞",
+    "peepingName": "エピローグクエスト",
+    "sortWeight": 1000,
+    "bannerResourceName": "ui_banner_questchoice_event_Masquerade2310_epilogue",
+    "bgResourceName": "ui_bg_sprite_quest_epilogue_Masquerade2310",
+    "selectBannerAddress": "banner_chapter_select_epilogue",
+    "helpPrefabAddress": "",
+    "questSelectPrefabAddress": "",
+    "missionGroupId": 0,
+    "scoreAttackStoreId": 0,
+    "scoreAttackItemIds": null,
+    "conditionChapterId": 0,
+    "startAt": "2023-11-24 18:00:00",
+    "endAt": "2023-11-30 14:00:00",
+    "executeLimit": null
+  },
   "1076": {
     "chapterId": 1076,
     "groupType": 8,
