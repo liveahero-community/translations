@@ -3626,5 +3626,565 @@
       "effectAddress": "TurnObject_Blooming",
       "targetStockId": 11901
     }
+  },
+  "429": {
+    "itemId": 11033201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att1/muzzle",
+      "targetStockId": 10332,
+      "attachmentName": "att1/muzzle"
+    }
+  },
+  "430": {
+    "itemId": 11033201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att1/head",
+      "targetStockId": 10332,
+      "attachmentName": "att1/head"
+    }
+  },
+  "431": {
+    "itemId": 11033201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att1/ear_L",
+      "targetStockId": 10332,
+      "attachmentName": "att1/ear_L"
+    }
+  },
+  "432": {
+    "itemId": 11033201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att1/hat",
+      "targetStockId": 10332,
+      "attachmentName": "att1/hat"
+    }
+  },
+  "433": {
+    "itemId": 11033201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att1/ear_R",
+      "targetStockId": 10332,
+      "attachmentName": "att1/ear_R"
+    }
+  },
+  "434": {
+    "itemId": 11033201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att1/pom",
+      "targetStockId": 10332,
+      "attachmentName": "att1/pom"
+    }
+  },
+  "435": {
+    "itemId": 11033201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att1/body_pkt",
+      "targetStockId": 10332,
+      "attachmentName": "att1/body_pkt"
+    }
+  },
+  "436": {
+    "itemId": 11033201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att1/collar",
+      "targetStockId": 10332,
+      "attachmentName": "att1/collar"
+    }
+  },
+  "437": {
+    "itemId": 11033201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att1/leg_L_foot2",
+      "targetStockId": 10332,
+      "attachmentName": "att1/leg_L_foot2"
+    }
+  },
+  "438": {
+    "itemId": 11033201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att1/leg_L_foot_ura",
+      "targetStockId": 10332,
+      "attachmentName": "att1/leg_L_foot_ura"
+    }
+  },
+  "439": {
+    "itemId": 11033201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att1/leg_L_bow",
+      "targetStockId": 10332,
+      "attachmentName": "att1/leg_L_bow"
+    }
+  },
+  "440": {
+    "itemId": 11033201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att1/leg_L",
+      "targetStockId": 10332,
+      "attachmentName": "att1/leg_L"
+    }
+  },
+  "441": {
+    "itemId": 11033201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att1/leg_L_foot1",
+      "targetStockId": 10332,
+      "attachmentName": "att1/leg_L_foot1"
+    }
+  },
+  "442": {
+    "itemId": 11033201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att1/leg_R_bow",
+      "targetStockId": 10332,
+      "attachmentName": "att1/leg_R_bow"
+    }
+  },
+  "443": {
+    "itemId": 11033201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att1/kokan",
+      "targetStockId": 10332,
+      "attachmentName": "att1/kokan"
+    }
+  },
+  "444": {
+    "itemId": 11033201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att1/leg_R",
+      "targetStockId": 10332,
+      "attachmentName": "att1/leg_R"
+    }
+  },
+  "445": {
+    "itemId": 11033201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att1/arm_L",
+      "targetStockId": 10332,
+      "attachmentName": "att1/arm_L"
+    }
+  },
+  "446": {
+    "itemId": 11033201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att1/body",
+      "targetStockId": 10332,
+      "attachmentName": "att1/body"
+    }
+  },
+  "447": {
+    "itemId": 11033201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att1/arm_R_thumb",
+      "targetStockId": 10332,
+      "attachmentName": "att1/arm_R_thumb"
+    }
+  },
+  "448": {
+    "itemId": 11033201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att1/hukuro_hold",
+      "targetStockId": 10332,
+      "attachmentName": "att1/hukuro_hold"
+    }
+  },
+  "449": {
+    "itemId": 11033201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att1/arm_R",
+      "targetStockId": 10332,
+      "attachmentName": "att1/arm_R"
+    }
+  },
+  "450": {
+    "itemId": 11033201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att1/fukuro_stars",
+      "targetStockId": 10332,
+      "attachmentName": "att1/fukuro_stars"
+    }
+  },
+  "451": {
+    "itemId": 11033201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att1/fukuro",
+      "targetStockId": 10332,
+      "attachmentName": "att1/fukuro"
+    }
+  },
+  "452": {
+    "itemId": 11125101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att_Dleg_1",
+      "targetStockId": 11251,
+      "attachmentName": "att_Dleg_1"
+    }
+  },
+  "453": {
+    "itemId": 11125101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att_Dleg_0",
+      "targetStockId": 11251,
+      "attachmentName": "att_Dleg_0"
+    }
+  },
+  "454": {
+    "itemId": 11125101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att_Dleg_2",
+      "targetStockId": 11251,
+      "attachmentName": "att_Dleg_2"
+    }
+  },
+  "455": {
+    "itemId": 11125101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att_Dleg_3",
+      "targetStockId": 11251,
+      "attachmentName": "att_Dleg_3"
+    }
+  },
+  "456": {
+    "itemId": 11125101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att_Bleg_0",
+      "targetStockId": 11251,
+      "attachmentName": "att_Bleg_0"
+    }
+  },
+  "457": {
+    "itemId": 11125101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att_Bleg_1",
+      "targetStockId": 11251,
+      "attachmentName": "att_Bleg_1"
+    }
+  },
+  "458": {
+    "itemId": 11125101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att_Bleg_2",
+      "targetStockId": 11251,
+      "attachmentName": "att_Bleg_2"
+    }
+  },
+  "459": {
+    "itemId": 11125101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att_Bleg_3",
+      "targetStockId": 11251,
+      "attachmentName": "att_Bleg_3"
+    }
+  },
+  "460": {
+    "itemId": 11125101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att_lid_close",
+      "targetStockId": 11251,
+      "attachmentName": "att_lid_close"
+    }
+  },
+  "461": {
+    "itemId": 11125101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att_box",
+      "targetStockId": 11251,
+      "attachmentName": "att_box"
+    }
+  },
+  "462": {
+    "itemId": 11125101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att__Larm",
+      "targetStockId": 11251,
+      "attachmentName": "att__Larm"
+    }
+  },
+  "463": {
+    "itemId": 11125101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att_glasses",
+      "targetStockId": 11251,
+      "attachmentName": "att_glasses"
+    }
+  },
+  "464": {
+    "itemId": 11125101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att_Lwhisker",
+      "targetStockId": 11251,
+      "attachmentName": "att_Lwhisker"
+    }
+  },
+  "465": {
+    "itemId": 11125101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att_Rwhisker",
+      "targetStockId": 11251,
+      "attachmentName": "att_Rwhisker"
+    }
+  },
+  "466": {
+    "itemId": 11125101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att_head",
+      "targetStockId": 11251,
+      "attachmentName": "att_head"
+    }
+  },
+  "467": {
+    "itemId": 11125101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att_body",
+      "targetStockId": 11251,
+      "attachmentName": "att_body"
+    }
+  },
+  "468": {
+    "itemId": 11125101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att_Rarm",
+      "targetStockId": 11251,
+      "attachmentName": "att_Rarm"
+    }
+  },
+  "469": {
+    "itemId": 11125101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att_spring",
+      "targetStockId": 11251,
+      "attachmentName": "att_spring"
+    }
+  },
+  "470": {
+    "itemId": 11125101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att_lid_open",
+      "targetStockId": 11251,
+      "attachmentName": "att_lid_open"
+    }
+  },
+  "471": {
+    "itemId": 11125101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att_inbox",
+      "targetStockId": 11251,
+      "attachmentName": "att_inbox"
+    }
+  },
+  "472": {
+    "itemId": 11125101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att_Cleg_2",
+      "targetStockId": 11251,
+      "attachmentName": "att_Cleg_2"
+    }
+  },
+  "473": {
+    "itemId": 11125101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att_Cleg_1",
+      "targetStockId": 11251,
+      "attachmentName": "att_Cleg_1"
+    }
+  },
+  "474": {
+    "itemId": 11125101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att_Cleg_3",
+      "targetStockId": 11251,
+      "attachmentName": "att_Cleg_3"
+    }
+  },
+  "475": {
+    "itemId": 11125101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att_Aleg_0",
+      "targetStockId": 11251,
+      "attachmentName": "att_Aleg_0"
+    }
+  },
+  "476": {
+    "itemId": 11125101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att_Aleg_1",
+      "targetStockId": 11251,
+      "attachmentName": "att_Aleg_1"
+    }
+  },
+  "477": {
+    "itemId": 11125101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att_Aleg_2",
+      "targetStockId": 11251,
+      "attachmentName": "att_Aleg_2"
+    }
+  },
+  "478": {
+    "itemId": 11125101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att_Aleg_4",
+      "targetStockId": 11251,
+      "attachmentName": "att_Aleg_3"
+    }
+  },
+  "479": {
+    "itemId": 11126101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att1/string1",
+      "targetStockId": 11261,
+      "attachmentName": "att1/string1"
+    }
+  },
+  "480": {
+    "itemId": 11126101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att1/ring",
+      "targetStockId": 11261,
+      "attachmentName": "att1/ring"
+    }
+  },
+  "481": {
+    "itemId": 11126101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att1/string0",
+      "targetStockId": 11261,
+      "attachmentName": "att1/string0"
+    }
+  },
+  "482": {
+    "itemId": 11126101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att1/christal",
+      "targetStockId": 11261,
+      "attachmentName": "att1/christal_3"
+    }
+  },
+  "483": {
+    "itemId": 11126101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att1/christal2",
+      "targetStockId": 11261,
+      "attachmentName": "att1/christal_"
+    }
+  },
+  "484": {
+    "itemId": 11126101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att1/christal3",
+      "targetStockId": 11261,
+      "attachmentName": "att1/christal_"
+    }
   }
 }
