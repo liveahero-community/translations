@@ -5178,12 +5178,12 @@
   "49": {
     "eventId": 49,
     "chapterId": 1022,
-    "lookBackChapterId": 519,
+    "lookBackChapterId": 0,
     "baseResourceName": "XmasMelt2212",
     "questSelectPrefabAddress": "",
     "startAt": "2022-12-22 14:00:00",
     "endAt": "2023-01-20 14:00:00",
-    "canRemember": 1,
+    "canRemember": 0,
     "eventPortalJson": {
       "bg": "ui_bg_sprite_event_XmasMelt2212",
       "bgm": "bgm_xmasmelt_adv",
