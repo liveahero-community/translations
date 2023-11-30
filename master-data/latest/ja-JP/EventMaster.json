@@ -8110,12 +8110,12 @@
   "68": {
     "eventId": 68,
     "chapterId": 1073,
-    "lookBackChapterId": 0,
-    "baseResourceName": "Masquerade2310_epilogue",
+    "lookBackChapterId": 527,
+    "baseResourceName": "Masquerade2310",
     "questSelectPrefabAddress": "",
     "startAt": "2023-10-26 14:00:00",
     "endAt": "2023-11-30 14:00:00",
-    "canRemember": 0,
+    "canRemember": 1,
     "eventPortalJson": {
       "bg": "ui_bg_sprite_event_Masquerade2310",
       "bgm": "bgm_masquerade_adv",
