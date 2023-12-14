@@ -8685,5 +8685,18 @@
         "targetStockId": 10141
       }
     ]
+  },
+  "70": {
+    "eventId": 70,
+    "chapterId": 1081,
+    "lookBackChapterId": 0,
+    "baseResourceName": "Breed",
+    "questSelectPrefabAddress": "",
+    "startAt": "2023-12-14 20:00:00",
+    "endAt": "2023-12-21 14:00:00",
+    "canRemember": 0,
+    "eventPortalJson": null,
+    "roguePortalJson": null,
+    "questBonusJsons": []
   }
 }
