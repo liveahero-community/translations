@@ -4186,5 +4186,53 @@
       "targetStockId": 11261,
       "attachmentName": "att1/christal_"
     }
+  },
+  "485": {
+    "itemId": 21015201,
+    "customJson": {
+      "class": "CustomPlayTurnEffect",
+      "effectAddress": "blooming_Battlein_Effect",
+      "targetStockId": 10152
+    }
+  },
+  "486": {
+    "itemId": 21015201,
+    "customJson": {
+      "class": "CustomGetTurnEffect",
+      "effectAddress": "TurnObject_Blooming",
+      "targetStockId": 10152
+    }
+  },
+  "487": {
+    "itemId": 21031201,
+    "customJson": {
+      "class": "CustomPlayTurnEffect",
+      "effectAddress": "blooming_Battlein_Effect",
+      "targetStockId": 10312
+    }
+  },
+  "488": {
+    "itemId": 21031201,
+    "customJson": {
+      "class": "CustomGetTurnEffect",
+      "effectAddress": "TurnObject_Blooming",
+      "targetStockId": 10312
+    }
+  },
+  "489": {
+    "itemId": 21192101,
+    "customJson": {
+      "class": "CustomPlayTurnEffect",
+      "effectAddress": "blooming_Battlein_Effect",
+      "targetStockId": 11921
+    }
+  },
+  "490": {
+    "itemId": 21192101,
+    "customJson": {
+      "class": "CustomGetTurnEffect",
+      "effectAddress": "TurnObject_Blooming",
+      "targetStockId": 11921
+    }
   }
 }

@@ -5178,12 +5178,12 @@
   "49": {
     "eventId": 49,
     "chapterId": 1022,
-    "lookBackChapterId": 0,
+    "lookBackChapterId": 519,
     "baseResourceName": "XmasMelt2212",
     "questSelectPrefabAddress": "",
     "startAt": "2022-12-22 14:00:00",
     "endAt": "2023-01-20 14:00:00",
-    "canRemember": 0,
+    "canRemember": 1,
     "eventPortalJson": {
       "bg": "ui_bg_sprite_event_XmasMelt2212",
       "bgm": "bgm_xmasmelt_adv",
@@ -8698,5 +8698,294 @@
     "eventPortalJson": null,
     "roguePortalJson": null,
     "questBonusJsons": []
+  },
+  "71": {
+    "eventId": 71,
+    "chapterId": 1082,
+    "lookBackChapterId": 0,
+    "baseResourceName": "Workout2312",
+    "questSelectPrefabAddress": "",
+    "startAt": null,
+    "endAt": "2024-01-18 14:00:00",
+    "canRemember": 0,
+    "eventPortalJson": {
+      "bg": "ui_bg_sprite_event_Workout2312",
+      "bgm": "bgm_workout_adv",
+      "logo": "Workout2312_title",
+      "terms": [
+        {
+          "keys": [
+            "UI_MAIN_QUEST",
+            "UI_MISSION",
+            "UI_EXCHANGE"
+          ],
+          "endAt": "2024-01-18 14:00:00"
+        },
+        {
+          "keys": [
+            "UI_FREE_QUEST",
+            "UI_SALES"
+          ],
+          "endAt": "2024-01-11 20:00:00"
+        }
+      ],
+      "gachaId": 89,
+      "storeId": 55,
+      "questInfos": [
+        {
+          "type": 5,
+          "chapterId": 1082,
+          "buttonType": 0
+        },
+        {
+          "type": 6,
+          "chapterId": 1083,
+          "buttonType": 1
+        }
+      ],
+      "tutorialKey": "Workout2312",
+      "eventItemIds": [
+        196
+      ],
+      "missionViews": [
+        {
+          "skinId": 0,
+          "stockId": 10312,
+          "cardType": 1,
+          "serifKinds": [
+            29
+          ],
+          "visualType": 1,
+          "resourceName": "monomasaWorkout2312",
+          "characterName": "モノマサ"
+        },
+        {
+          "skinId": 0,
+          "stockId": 10152,
+          "cardType": 1,
+          "serifKinds": [
+            29
+          ],
+          "visualType": 1,
+          "resourceName": "polarisWorkout2312",
+          "characterName": "ポラリスマスク"
+        },
+        {
+          "skinId": 0,
+          "stockId": 11921,
+          "cardType": 2,
+          "serifKinds": [
+            29
+          ],
+          "visualType": 1,
+          "resourceName": "astar",
+          "characterName": "アスター"
+        }
+      ],
+      "portalWindow": "WideTermEventPortalWindowWorkout2312",
+      "characterViews": [
+        {
+          "skinId": 0,
+          "stockId": 10312,
+          "cardType": 1,
+          "serifKinds": [
+            27,
+            28
+          ],
+          "visualType": 1,
+          "resourceName": "monomasaWorkout2312",
+          "characterName": "モノマサ"
+        },
+        {
+          "skinId": 0,
+          "stockId": 10152,
+          "cardType": 1,
+          "serifKinds": [
+            27,
+            28
+          ],
+          "visualType": 1,
+          "resourceName": "polarisWorkout2312",
+          "characterName": "ポラリスマスク"
+        },
+        {
+          "skinId": 0,
+          "stockId": 11921,
+          "cardType": 2,
+          "serifKinds": [
+            27,
+            28
+          ],
+          "visualType": 1,
+          "resourceName": "astar",
+          "characterName": "アスター"
+        }
+      ],
+      "salesRegionIds": [
+        234
+      ],
+      "missionGroupIds": [
+        1082,
+        1083
+      ],
+      "missionCategoryButtonLabels": null
+    },
+    "roguePortalJson": null,
+    "questBonusJsons": [
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 196,
+        "bonusValue": 40,
+        "targetStockId": 10152
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 196,
+        "bonusValue": 40,
+        "targetStockId": 10312
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 196,
+        "bonusValue": 30,
+        "targetStockId": 11921
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 196,
+        "bonusValue": 20,
+        "targetStockId": 10332
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 196,
+        "bonusValue": 20,
+        "targetStockId": 11251
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 196,
+        "bonusValue": 10,
+        "targetStockId": 11261
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 196,
+        "bonusValue": 10,
+        "targetStockId": 10171
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 196,
+        "bonusValue": 10,
+        "targetStockId": 11001
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 196,
+        "bonusValue": 10,
+        "targetStockId": 11291
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 196,
+        "bonusValue": 20,
+        "targetStockId": 10311
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 196,
+        "bonusValue": 20,
+        "targetStockId": 10151
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 196,
+        "bonusValue": 30,
+        "targetStockId": 11921
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 196,
+        "bonusValue": 10,
+        "targetStockId": 10711
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 196,
+        "bonusValue": 10,
+        "targetStockId": 10311
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 196,
+        "bonusValue": 10,
+        "targetStockId": 10151
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 196,
+        "bonusValue": 10,
+        "targetStockId": 10331
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 196,
+        "bonusValue": 10,
+        "targetStockId": 11251
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 196,
+        "bonusValue": 10,
+        "targetStockId": 11261
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 196,
+        "bonusValue": 10,
+        "targetStockId": 10171
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 196,
+        "bonusValue": 10,
+        "targetStockId": 11001
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 196,
+        "bonusValue": 10,
+        "targetStockId": 11291
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 196,
+        "bonusValue": 10,
+        "targetStockId": 19991
+      }
+    ]
   }
 }

@@ -1583,6 +1583,68 @@
       "isInHome": true
     }
   ],
+  "10152": [
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 4,
+      "faceType": "f",
+      "serifKey": "SERIF_POLARISWORKOUT2312_PLAYER",
+      "voiceFilename": "",
+      "resourceName": "polarisWorkout2312",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 5,
+      "faceType": "c",
+      "serifKey": "SERIF_POLARISWORKOUT2312_HERO",
+      "voiceFilename": "",
+      "resourceName": "polarisWorkout2312",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 12,
+      "faceType": "",
+      "serifKey": "SERIF_POLARISWORKOUT2312_TOUCH",
+      "voiceFilename": "",
+      "resourceName": "polarisWorkout2312",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 27,
+      "faceType": "",
+      "serifKey": "SERIF_POLARISWORKOUT2312_EVENTA",
+      "voiceFilename": "",
+      "resourceName": "polarisWorkout2312",
+      "isInHome": false
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 28,
+      "faceType": "c",
+      "serifKey": "SERIF_POLARISWORKOUT2312_EVENTB",
+      "voiceFilename": "",
+      "resourceName": "polarisWorkout2312",
+      "isInHome": false
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 29,
+      "faceType": "",
+      "serifKey": "SERIF_POLARISWORKOUT2312_EVENTC",
+      "voiceFilename": "",
+      "resourceName": "polarisWorkout2312",
+      "isInHome": false
+    }
+  ],
   "10171": [
     {
       "cardType": 2,
@@ -2927,6 +2989,68 @@
       "voiceFilename": "",
       "resourceName": "monomasa",
       "isInHome": true
+    }
+  ],
+  "10312": [
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 4,
+      "faceType": "",
+      "serifKey": "SERIF_MONOMASAWORKOUT2312_PLAYER",
+      "voiceFilename": "",
+      "resourceName": "monomasaWorkout2312",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 5,
+      "faceType": "f",
+      "serifKey": "SERIF_MONOMASAWORKOUT2312_HERO",
+      "voiceFilename": "",
+      "resourceName": "monomasaWorkout2312",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 12,
+      "faceType": "b",
+      "serifKey": "SERIF_MONOMASAWORKOUT2312_TOUCH",
+      "voiceFilename": "",
+      "resourceName": "monomasaWorkout2312",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 27,
+      "faceType": "b",
+      "serifKey": "SERIF_MONOMASAWORKOUT2312_EVENTA",
+      "voiceFilename": "",
+      "resourceName": "monomasaWorkout2312",
+      "isInHome": false
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 28,
+      "faceType": "",
+      "serifKey": "SERIF_MONOMASAWORKOUT2312_EVENTB",
+      "voiceFilename": "",
+      "resourceName": "monomasaWorkout2312",
+      "isInHome": false
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 29,
+      "faceType": "",
+      "serifKey": "SERIF_MONOMASAWORKOUT2312_EVENTC",
+      "voiceFilename": "",
+      "resourceName": "monomasaWorkout2312",
+      "isInHome": false
     }
   ],
   "10321": [
@@ -8154,6 +8278,98 @@
       "serifKey": "SERIF_YOHACK_EVENTB",
       "voiceFilename": null,
       "resourceName": "yohack",
+      "isInHome": false
+    }
+  ],
+  "11921": [
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 4,
+      "faceType": "",
+      "serifKey": "SERIF_ASTAR_PLAYER",
+      "voiceFilename": "",
+      "resourceName": "astar",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 5,
+      "faceType": "f",
+      "serifKey": "SERIF_ASTAR_HERO",
+      "voiceFilename": "",
+      "resourceName": "astar",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 12,
+      "faceType": "d",
+      "serifKey": "SERIF_ASTAR_TOUCH",
+      "voiceFilename": "",
+      "resourceName": "astar",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 3,
+      "faceType": "",
+      "serifKey": "SERIF_ASTAR_DAILY",
+      "voiceFilename": "",
+      "resourceName": "astar",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 6,
+      "faceType": "e",
+      "serifKey": "SERIF_ASTAR_RELATION",
+      "voiceFilename": "",
+      "resourceName": "astar",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 11,
+      "faceType": "b",
+      "serifKey": "SERIF_ASTAR_APPRECIATION",
+      "voiceFilename": "",
+      "resourceName": "astar",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 27,
+      "faceType": "c",
+      "serifKey": "SERIF_ASTAR_EVENTA",
+      "voiceFilename": "",
+      "resourceName": "astar",
+      "isInHome": false
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 28,
+      "faceType": "",
+      "serifKey": "SERIF_ASTAR_EVENTB",
+      "voiceFilename": "",
+      "resourceName": "astar",
+      "isInHome": false
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 29,
+      "faceType": "",
+      "serifKey": "SERIF_ASTAR_EVENTC",
+      "voiceFilename": "",
+      "resourceName": "astar",
       "isInHome": false
     }
   ],
