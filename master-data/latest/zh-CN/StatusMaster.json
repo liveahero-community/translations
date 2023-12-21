@@ -1835,7 +1835,7 @@
   },
   "268": {
     "statusId": 268,
-    "statusName": "眩暈",
+    "statusName": "眩晕",
     "isGoodStatus": 0,
     "statusType": 0,
     "description": "被ダメージ+20%"
@@ -1943,7 +1943,7 @@
     "statusName": "解放",
     "isGoodStatus": 2,
     "statusType": 2,
-    "description": "ダメージを受けた時、カウントを-1。バフでもデバフでもない状態。"
+    "description": "ダメージを受けた时、カウントを-1。バフでもデバフでもない状态。"
   },
   "1015204": {
     "statusId": 1015204,
@@ -2027,7 +2027,7 @@
     "statusName": "星光",
     "isGoodStatus": 2,
     "statusType": 2,
-    "description": "星影のモノマサ以外の味方が敵にダメージを与える度に、チャージ数+1(最大で8まで)。バフでもデバフでもない状態。"
+    "description": "星影のモノマサ以外の味方が敌にダメージを与える度に、チャージ数+1(最大で8まで)。バフでもデバフでもない状态。"
   },
   "1031202": {
     "statusId": 1031202,
