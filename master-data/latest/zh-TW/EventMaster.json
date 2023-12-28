@@ -8717,7 +8717,8 @@
           "keys": [
             "UI_MAIN_QUEST",
             "UI_MISSION",
-            "UI_EXCHANGE"
+            "UI_EXCHANGE",
+            "UI_HIGH_DIFFICULTY_QUEST"
           ],
           "endAt": "2024-01-18 14:00:00"
         },
@@ -8740,6 +8741,11 @@
         {
           "type": 6,
           "chapterId": 1083,
+          "buttonType": 1
+        },
+        {
+          "type": 6,
+          "chapterId": 1085,
           "buttonType": 1
         }
       ],
@@ -8826,7 +8832,8 @@
       ],
       "missionGroupIds": [
         1082,
-        1083
+        1083,
+        1085
       ],
       "missionCategoryButtonLabels": null
     },
