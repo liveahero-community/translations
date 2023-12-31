@@ -8994,5 +8994,103 @@
         "targetStockId": 19991
       }
     ]
+  },
+  "72": {
+    "eventId": 72,
+    "chapterId": 1082,
+    "lookBackChapterId": 0,
+    "baseResourceName": "NewYear2401",
+    "questSelectPrefabAddress": "",
+    "startAt": null,
+    "endAt": "2024-01-15 20:00:00",
+    "canRemember": 0,
+    "eventPortalJson": {
+      "bg": "ui_bg_sprite_event_NewYear2301",
+      "bgm": "bgm_main",
+      "logo": "NewYear2401_title",
+      "terms": [
+        {
+          "keys": [
+            "UI_MAIN_QUEST",
+            "UI_MISSION"
+          ],
+          "endAt": "2024-01-15 20:00:00"
+        },
+        {
+          "keys": [
+            "UI_EXCHANGE"
+          ],
+          "endAt": "2024-01-22 20:00:00"
+        }
+      ],
+      "gachaId": 92,
+      "storeId": 56,
+      "questInfos": [
+        {
+          "type": 5,
+          "chapterId": 1086,
+          "buttonType": 0
+        }
+      ],
+      "tutorialKey": "Newyear2401",
+      "eventItemIds": [
+        153
+      ],
+      "missionViews": [],
+      "portalWindow": "WideTermEventPortalWindow",
+      "characterViews": [
+        {
+          "skinId": 2,
+          "stockId": 10171,
+          "cardType": 2,
+          "serifKinds": [
+            27
+          ],
+          "visualType": 1,
+          "resourceName": "hydoor",
+          "characterName": "ハイドール"
+        },
+        {
+          "skinId": 5,
+          "stockId": 11241,
+          "cardType": 2,
+          "serifKinds": [
+            29
+          ],
+          "visualType": 1,
+          "resourceName": "giansar",
+          "characterName": "ギアンサル"
+        },
+        {
+          "skinId": 2,
+          "stockId": 11281,
+          "cardType": 2,
+          "serifKinds": [
+            29
+          ],
+          "visualType": 1,
+          "resourceName": "phein",
+          "characterName": "フェイン"
+        },
+        {
+          "skinId": 2,
+          "stockId": 11691,
+          "cardType": 2,
+          "serifKinds": [
+            27
+          ],
+          "visualType": 1,
+          "resourceName": "garbo",
+          "characterName": "ガルボ"
+        }
+      ],
+      "salesRegionIds": [],
+      "missionGroupIds": [
+        2
+      ],
+      "missionCategoryButtonLabels": null
+    },
+    "roguePortalJson": null,
+    "questBonusJsons": []
   }
 }

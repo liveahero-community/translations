@@ -5014,5 +5014,26 @@
     "startAt": "2023-12-28 18:00:00",
     "endAt": "2024-01-18 14:00:00",
     "executeLimit": null
+  },
+  "1086": {
+    "chapterId": 1086,
+    "groupType": 2,
+    "chapterType": 1,
+    "chapterName": "イベントメインクエスト",
+    "subName": "謹賀新年2024！",
+    "peepingName": "謹賀新年<br>メインクエスト",
+    "sortWeight": 1000,
+    "bannerResourceName": "ui_banner_questchoice_event_NewYear2401",
+    "bgResourceName": "ui_bg_sprite_event_NewYear2401",
+    "selectBannerAddress": "banner_chapter_select_main",
+    "helpPrefabAddress": "",
+    "questSelectPrefabAddress": "",
+    "missionGroupId": 0,
+    "scoreAttackStoreId": 0,
+    "scoreAttackItemIds": null,
+    "conditionChapterId": 0,
+    "startAt": null,
+    "endAt": "2024-01-15 20:00:00",
+    "executeLimit": null
   }
 }
