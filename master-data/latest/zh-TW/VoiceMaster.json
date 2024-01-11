@@ -5813,6 +5813,21 @@
       "voiceFilename": "",
       "conditions": null,
       "resourceName": "polarisWorkout2312"
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 32,
+      "buttonLabel": "あなたについて２",
+      "voiceFilename": "voice_polarisWorkout2312_player2",
+      "conditions": [
+        {
+          "class": "QuestClear",
+          "questId": 1082008,
+          "isCheckClear": true
+        }
+      ],
+      "resourceName": "polarisWorkout2312"
     }
   ],
   "10171": [
@@ -22757,6 +22772,21 @@
       "buttonLabel": "イベント３",
       "voiceFilename": "",
       "conditions": null,
+      "resourceName": "astar"
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 32,
+      "buttonLabel": "あなたについて２",
+      "voiceFilename": "voice_astar_player2",
+      "conditions": [
+        {
+          "class": "QuestClear",
+          "questId": 1082008,
+          "isCheckClear": true
+        }
+      ],
       "resourceName": "astar"
     }
   ],

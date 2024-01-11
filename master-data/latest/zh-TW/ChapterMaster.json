@@ -4994,6 +4994,27 @@
     "endAt": "2024-01-11 20:00:00",
     "executeLimit": null
   },
+  "1084": {
+    "chapterId": 1084,
+    "groupType": 2,
+    "chapterType": 1,
+    "chapterName": "エピローグクエスト",
+    "subName": "サンタクロース・ワークアウト",
+    "peepingName": "エピローグクエスト",
+    "sortWeight": 1000,
+    "bannerResourceName": "ui_banner_questchoice_event_Workout2312_epilogue",
+    "bgResourceName": "ui_bg_sprite_quest_epilogue_Workout2312",
+    "selectBannerAddress": "banner_chapter_select_epilogue",
+    "helpPrefabAddress": "",
+    "questSelectPrefabAddress": "",
+    "missionGroupId": 0,
+    "scoreAttackStoreId": 0,
+    "scoreAttackItemIds": null,
+    "conditionChapterId": 0,
+    "startAt": "2024-01-11 18:00:00",
+    "endAt": "2024-01-18 14:00:00",
+    "executeLimit": null
+  },
   "1085": {
     "chapterId": 1085,
     "groupType": 8,
