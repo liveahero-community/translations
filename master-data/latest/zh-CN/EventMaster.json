@@ -8702,12 +8702,12 @@
   "71": {
     "eventId": 71,
     "chapterId": 1082,
-    "lookBackChapterId": 0,
-    "baseResourceName": "Workout2312_epilogue",
+    "lookBackChapterId": 528,
+    "baseResourceName": "Workout2312",
     "questSelectPrefabAddress": "",
-    "startAt": "2024-01-01 00:00:00",
+    "startAt": "2023-12-21 20:00:00",
     "endAt": "2024-01-18 14:00:00",
-    "canRemember": 0,
+    "canRemember": 1,
     "eventPortalJson": {
       "bg": "ui_bg_sprite_event_Workout2312",
       "bgm": "bgm_workout_adv",
@@ -9004,12 +9004,12 @@
   "72": {
     "eventId": 72,
     "chapterId": 1082,
-    "lookBackChapterId": 0,
+    "lookBackChapterId": 529,
     "baseResourceName": "NewYear2401",
     "questSelectPrefabAddress": "",
     "startAt": "2023-12-31 16:00:00",
-    "endAt": "2024-01-15 20:00:00",
-    "canRemember": 0,
+    "endAt": "2024-01-18 14:01:00",
+    "canRemember": 1,
     "eventPortalJson": {
       "bg": "ui_bg_sprite_event_NewYear2301",
       "bgm": "bgm_main",
@@ -9093,6 +9093,128 @@
       "salesRegionIds": [],
       "missionGroupIds": [
         2
+      ],
+      "missionCategoryButtonLabels": null
+    },
+    "roguePortalJson": null,
+    "questBonusJsons": []
+  },
+  "73": {
+    "eventId": 73,
+    "chapterId": 1087,
+    "lookBackChapterId": 0,
+    "baseResourceName": "2401refuge",
+    "questSelectPrefabAddress": "",
+    "startAt": null,
+    "endAt": "2024-02-01 14:00:00",
+    "canRemember": 0,
+    "eventPortalJson": null,
+    "roguePortalJson": null,
+    "questBonusJsons": []
+  },
+  "74": {
+    "eventId": 74,
+    "chapterId": 1088,
+    "lookBackChapterId": 0,
+    "baseResourceName": "ContractMercenary2401",
+    "questSelectPrefabAddress": "",
+    "startAt": null,
+    "endAt": "2024-02-08 14:00:00",
+    "canRemember": 0,
+    "eventPortalJson": {
+      "bg": "ui_bg_sprite_event_ContractWolfmanEarth2101",
+      "bgm": "bgm_main",
+      "logo": "ContractMercenary2401_title",
+      "terms": [
+        {
+          "keys": [
+            "UI_FREE_QUEST"
+          ],
+          "endAt": "2024-02-01 14:00:00"
+        },
+        {
+          "keys": [
+            "UI_MISSION",
+            "UI_EXCHANGE"
+          ],
+          "endAt": "2024-02-08 14:00:00"
+        }
+      ],
+      "gachaId": null,
+      "storeId": 57,
+      "questInfos": [
+        {
+          "type": 6,
+          "chapterId": 1088,
+          "buttonType": 1
+        }
+      ],
+      "tutorialKey": "ContractMercenary2401",
+      "eventItemIds": [
+        52
+      ],
+      "missionViews": [],
+      "portalWindow": "ContractAndroidSoldierPortalWindow",
+      "characterViews": [
+        {
+          "skinId": 0,
+          "stockId": 10661,
+          "cardType": 2,
+          "serifKinds": [
+            27
+          ],
+          "visualType": 1,
+          "resourceName": "mercenaryFire",
+          "characterName": "火のマーセナリー"
+        },
+        {
+          "skinId": 0,
+          "stockId": 10671,
+          "cardType": 2,
+          "serifKinds": [
+            27
+          ],
+          "visualType": 1,
+          "resourceName": "mercenaryWater",
+          "characterName": "水のマーセナリー"
+        },
+        {
+          "skinId": 0,
+          "stockId": 10681,
+          "cardType": 2,
+          "serifKinds": [
+            27
+          ],
+          "visualType": 1,
+          "resourceName": "mercenaryEarth",
+          "characterName": "木のマーセナリー"
+        },
+        {
+          "skinId": 0,
+          "stockId": 10691,
+          "cardType": 2,
+          "serifKinds": [
+            27
+          ],
+          "visualType": 1,
+          "resourceName": "mercenaryLight",
+          "characterName": "光のマーセナリー"
+        },
+        {
+          "skinId": 0,
+          "stockId": 10701,
+          "cardType": 2,
+          "serifKinds": [
+            27
+          ],
+          "visualType": 1,
+          "resourceName": "mercenaryShadow",
+          "characterName": "影のマーセナリー"
+        }
+      ],
+      "salesRegionIds": [],
+      "missionGroupIds": [
+        1088
       ],
       "missionCategoryButtonLabels": null
     },
