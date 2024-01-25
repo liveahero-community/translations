@@ -51846,5 +51846,37 @@
       "isDisplayPersistenceStatus": false,
       "isOverrideStatusDescription": false
     }
+  },
+  "4236": {
+    "skillEffectId": 4236,
+    "skillEffectJson": {
+      "turn": 0,
+      "count": 0,
+      "effects": [
+        {
+          "class": "CannotDuplicate",
+          "parameter": []
+        }
+      ],
+      "filename": "",
+      "statusId": 143,
+      "canDispel": false,
+      "filterIds": [
+        13
+      ],
+      "parameter": false,
+      "description": "バフ・デバフ重複無効（死亡時も継続）",
+      "isImmediate": false,
+      "persistence": true,
+      "reaminDeath": true,
+      "canDuplicate": true,
+      "canDuplicateForce": false,
+      "isCountDownEffect": false,
+      "overrideStatusName": "",
+      "isOverrideStatusName": false,
+      "overrideStatusDescription": "",
+      "isDisplayPersistenceStatus": false,
+      "isOverrideStatusDescription": false
+    }
   }
 }
