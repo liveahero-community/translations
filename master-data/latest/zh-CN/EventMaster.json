@@ -9220,5 +9220,62 @@
     },
     "roguePortalJson": null,
     "questBonusJsons": []
+  },
+  "75": {
+    "eventId": 75,
+    "chapterId": 201,
+    "lookBackChapterId": 0,
+    "baseResourceName": "Rogue2307",
+    "questSelectPrefabAddress": "",
+    "startAt": "2024-01-25 14:00:00",
+    "endAt": "2024-03-26 14:00:00",
+    "canRemember": 0,
+    "eventPortalJson": null,
+    "roguePortalJson": {
+      "bg": "ui_bg_sprite_event_Train2305",
+      "bgm": "bgm_ghostwoods_adv2",
+      "logo": "Rogue2307_title",
+      "terms": [
+        {
+          "keys": [
+            "UI_EXPLORATION"
+          ],
+          "endAt": "2024-03-19 20:00:00"
+        },
+        {
+          "keys": [
+            "UI_SCORE_REWARD"
+          ],
+          "endAt": "2024-03-26 14:00:00"
+        }
+      ],
+      "rogueInfo": {
+        "roguelikeGroupId": 2
+      },
+      "tutorialKey": "Rogue2307",
+      "missionViews": [],
+      "portalWindow": "RoguelikePortalWindow",
+      "characterViews": [
+        {
+          "skinId": 0,
+          "stockId": 10141,
+          "cardType": 1,
+          "serifKinds": [
+            27
+          ],
+          "visualType": 1,
+          "resourceName": "marfik",
+          "characterName": "マルフィク"
+        }
+      ],
+      "missionGroupIds": [
+        702
+      ],
+      "startScenarioLabel": "unexplored_archaeologist_1",
+      "missionCategoryButtonLabels": {
+        "event": "MISSION_LABEL_UNEXPLORED"
+      }
+    },
+    "questBonusJsons": []
   }
 }
