@@ -9297,7 +9297,8 @@
             "UI_MAIN_QUEST",
             "UI_EPILOGUE_QUEST",
             "UI_MISSION",
-            "UI_EXCHANGE"
+            "UI_EXCHANGE",
+            "UI_HIGH_DIFFICULTY_QUEST"
           ],
           "endAt": "2024-02-22 14:00:00"
         },
@@ -9326,6 +9327,11 @@
           "type": 7,
           "chapterId": 1091,
           "buttonType": 0
+        },
+        {
+          "type": 6,
+          "chapterId": 1092,
+          "buttonType": 1
         }
       ],
       "tutorialKey": "ChocolatefesRevival2402",
@@ -9360,7 +9366,7 @@
           "stockId": 11281,
           "cardType": 2,
           "serifKinds": [
-            30
+            29
           ],
           "visualType": 1,
           "resourceName": "phein",
@@ -9434,7 +9440,8 @@
       ],
       "missionGroupIds": [
         1089,
-        1090
+        1090,
+        1092
       ],
       "missionCategoryButtonLabels": null
     },
