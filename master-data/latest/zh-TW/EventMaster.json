@@ -9567,5 +9567,131 @@
         "targetStockId": 19991
       }
     ]
+  },
+  "77": {
+    "eventId": 77,
+    "chapterId": 1093,
+    "lookBackChapterId": 0,
+    "baseResourceName": "ValentineCampaign2402",
+    "questSelectPrefabAddress": "",
+    "startAt": "2024-02-14 14:00:00",
+    "endAt": "2024-03-26 14:00:00",
+    "canRemember": 0,
+    "eventPortalJson": {
+      "bg": "ui_bg_sprite_portal_ValentineCampaign2302",
+      "bgm": "bgm_main",
+      "logo": "ValentineCampaign2402_title",
+      "terms": [
+        {
+          "keys": [
+            "UI_SWEETS_SCRAMBLE_QUEST",
+            "UI_EXCHANGE",
+            "UI_EPILOGUE_QUEST"
+          ],
+          "endAt": "2024-03-26 14:00:00"
+        },
+        {
+          "keys": [
+            "UI_MISSION"
+          ],
+          "endAt": "2024-02-27 14:00:00"
+        }
+      ],
+      "gachaId": 95,
+      "storeId": 59,
+      "questInfos": [
+        {
+          "type": 6,
+          "chapterId": 1093,
+          "buttonType": 1
+        },
+        {
+          "type": 5,
+          "chapterId": 1094,
+          "buttonType": 0
+        },
+        {
+          "type": 5,
+          "chapterId": 1095,
+          "buttonType": 0
+        }
+      ],
+      "tutorialKey": "ValentineCampaign2402",
+      "eventItemIds": [
+        200
+      ],
+      "missionViews": [],
+      "portalWindow": "ValentineCampaign2024PortalWindow",
+      "characterViews": [
+        {
+          "skinId": 0,
+          "stockId": 11221,
+          "cardType": 2,
+          "serifKinds": [
+            29
+          ],
+          "visualType": 1,
+          "resourceName": "rexer",
+          "characterName": "リグザ"
+        },
+        {
+          "skinId": 0,
+          "stockId": 10531,
+          "cardType": 2,
+          "serifKinds": [
+            29
+          ],
+          "visualType": 1,
+          "resourceName": "hisaki",
+          "characterName": "ヒサキ"
+        }
+      ],
+      "salesRegionIds": [],
+      "missionGroupIds": [
+        2
+      ],
+      "missionCategoryButtonLabels": null
+    },
+    "roguePortalJson": null,
+    "questBonusJsons": []
+  },
+  "78": {
+    "eventId": 78,
+    "chapterId": 201,
+    "lookBackChapterId": 0,
+    "baseResourceName": "Breed_EXP",
+    "questSelectPrefabAddress": "",
+    "startAt": "2024-02-14 14:00:00",
+    "endAt": "2024-02-21 00:00:00",
+    "canRemember": 0,
+    "eventPortalJson": null,
+    "roguePortalJson": null,
+    "questBonusJsons": []
+  },
+  "79": {
+    "eventId": 79,
+    "chapterId": 203,
+    "lookBackChapterId": 0,
+    "baseResourceName": "Breed_Relation",
+    "questSelectPrefabAddress": "",
+    "startAt": "2024-02-21 00:00:00",
+    "endAt": "2024-02-27 14:00:00",
+    "canRemember": 0,
+    "eventPortalJson": null,
+    "roguePortalJson": null,
+    "questBonusJsons": []
+  },
+  "80": {
+    "eventId": 80,
+    "chapterId": 206,
+    "lookBackChapterId": 0,
+    "baseResourceName": "Breed_Quartz",
+    "questSelectPrefabAddress": "",
+    "startAt": "2024-02-21 00:00:00",
+    "endAt": "2024-02-27 14:00:00",
+    "canRemember": 0,
+    "eventPortalJson": null,
+    "roguePortalJson": null,
+    "questBonusJsons": []
   }
 }
