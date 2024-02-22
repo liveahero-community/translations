@@ -5857,12 +5857,12 @@
   "54": {
     "eventId": 54,
     "chapterId": 1039,
-    "lookBackChapterId": 0,
+    "lookBackChapterId": 521,
     "baseResourceName": "Chocolatefes2303",
     "questSelectPrefabAddress": "",
     "startAt": "2023-03-03 14:00:00",
     "endAt": "2023-04-06 14:00:00",
-    "canRemember": 0,
+    "canRemember": 1,
     "eventPortalJson": {
       "bg": "ui_bg_sprite_event_Chocolatefes2303",
       "bgm": "bgm_chocolatefes_adv",
@@ -9574,7 +9574,7 @@
     "lookBackChapterId": 0,
     "baseResourceName": "ValentineCampaign2402",
     "questSelectPrefabAddress": "",
-    "startAt": "2024-02-14 14:00:00",
+    "startAt": "2024-02-22 14:00:00",
     "endAt": "2024-03-26 14:00:00",
     "canRemember": 0,
     "eventPortalJson": {
@@ -9613,6 +9613,11 @@
         {
           "type": 5,
           "chapterId": 1095,
+          "buttonType": 0
+        },
+        {
+          "type": 5,
+          "chapterId": 1096,
           "buttonType": 0
         }
       ],
