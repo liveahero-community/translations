@@ -46434,7 +46434,7 @@
       "statusId": 275,
       "canDispel": true,
       "filterIds": [
-        4
+        5
       ],
       "parameter": true,
       "description": "View40%バリア最大3000",
@@ -52498,7 +52498,9 @@
       "filename": "",
       "statusId": 0,
       "canDispel": false,
-      "filterIds": [],
+      "filterIds": [
+        4
+      ],
       "parameter": false,
       "description": "鍛錬を１ターン増加(最大5まで）",
       "isImmediate": true,
@@ -53207,10 +53209,8 @@
       "count": 0,
       "effects": [
         {
-          "class": "TurnBaseChangeAgi",
-          "parameter": {
-            "value": -10
-          }
+          "class": "NoneEffect",
+          "parameter": []
         }
       ],
       "filename": "status_reboot",
@@ -54011,8 +54011,10 @@
       "count": 0,
       "effects": [
         {
-          "class": "NoneEffect",
-          "parameter": []
+          "class": "TurnBaseChangeAgi",
+          "parameter": {
+            "value": -10
+          }
         }
       ],
       "filename": "status_spddown",
