@@ -9703,7 +9703,7 @@
     "eventId": 81,
     "chapterId": 1097,
     "lookBackChapterId": 0,
-    "baseResourceName": "Volcano2402",
+    "baseResourceName": "Volcano2402_epilogue",
     "questSelectPrefabAddress": "",
     "startAt": "2024-02-27 14:00:00",
     "endAt": "2024-03-26 14:00:00",
@@ -9716,6 +9716,7 @@
         {
           "keys": [
             "UI_MAIN_QUEST",
+            "UI_EPILOGUE_QUEST",
             "UI_MISSION",
             "UI_EXCHANGE",
             "UI_CHALLENGE_QUEST"
@@ -9747,6 +9748,11 @@
           "type": 6,
           "chapterId": 1100,
           "buttonType": 1
+        },
+        {
+          "type": 7,
+          "chapterId": 1099,
+          "buttonType": 0
         }
       ],
       "tutorialKey": "Volcano2402",
