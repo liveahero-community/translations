@@ -10109,5 +10109,18 @@
         "targetStockId": 19991
       }
     ]
+  },
+  "82": {
+    "eventId": 82,
+    "chapterId": 1101,
+    "lookBackChapterId": 0,
+    "baseResourceName": "2403OfficeLive",
+    "questSelectPrefabAddress": "",
+    "startAt": "2024-03-21 18:00:00",
+    "endAt": "2024-04-04 14:00:00",
+    "canRemember": 0,
+    "eventPortalJson": null,
+    "roguePortalJson": null,
+    "questBonusJsons": []
   }
 }

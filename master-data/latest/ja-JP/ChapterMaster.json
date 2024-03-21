@@ -5392,5 +5392,26 @@
     "startAt": "2024-03-05 18:00:00",
     "endAt": "2024-03-26 14:00:00",
     "executeLimit": null
+  },
+  "1101": {
+    "chapterId": 1101,
+    "groupType": 2,
+    "chapterType": 1,
+    "chapterName": "キャンペーンクエスト",
+    "subName": "熱狂の事務所ライブ",
+    "peepingName": "熱狂の事務所ライブ",
+    "sortWeight": 1000,
+    "bannerResourceName": "ui_banner_questchoice_event_2403OfficeLive",
+    "bgResourceName": "ui_bg_sprite_event_2403OfficeLive",
+    "selectBannerAddress": "",
+    "helpPrefabAddress": "",
+    "questSelectPrefabAddress": "",
+    "missionGroupId": 0,
+    "scoreAttackStoreId": 0,
+    "scoreAttackItemIds": null,
+    "conditionChapterId": 0,
+    "startAt": "2024-03-21 18:00:00",
+    "endAt": "2024-04-04 14:00:00",
+    "executeLimit": null
   }
 }
