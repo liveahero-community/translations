@@ -4742,5 +4742,315 @@
       "effectAddress": "TurnObject_Blooming",
       "targetStockId": 11991
     }
+  },
+  "543": {
+    "itemId": 11006201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att1/drops_d3",
+      "targetStockId": 10062,
+      "attachmentName": "att1/drops_d"
+    }
+  },
+  "544": {
+    "itemId": 11006201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att1/drops_c",
+      "targetStockId": 10062,
+      "attachmentName": "att1/drops_c"
+    }
+  },
+  "545": {
+    "itemId": 11006201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att1/drops_b",
+      "targetStockId": 10062,
+      "attachmentName": "att1/drops_b"
+    }
+  },
+  "546": {
+    "itemId": 11006201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att1/drops_d2",
+      "targetStockId": 10062,
+      "attachmentName": "att1/drops_d"
+    }
+  },
+  "547": {
+    "itemId": 11006201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att1/drops_d",
+      "targetStockId": 10062,
+      "attachmentName": "att1/drops_d"
+    }
+  },
+  "548": {
+    "itemId": 11006201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att1/sakura",
+      "targetStockId": 10062,
+      "attachmentName": "att1/sakura"
+    }
+  },
+  "549": {
+    "itemId": 11006201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att1/wave",
+      "targetStockId": 10062,
+      "attachmentName": "att1/wave"
+    }
+  },
+  "550": {
+    "itemId": 11006201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att1/sake_gloss2",
+      "targetStockId": 10062,
+      "attachmentName": "att1/sake_gloss2"
+    }
+  },
+  "551": {
+    "itemId": 11006201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att1/sake",
+      "targetStockId": 10062,
+      "attachmentName": "att1/sake"
+    }
+  },
+  "552": {
+    "itemId": 11006201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att1/dish",
+      "targetStockId": 10062,
+      "attachmentName": "att1/dish"
+    }
+  },
+  "553": {
+    "itemId": 11006201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att1/dish_B",
+      "targetStockId": 10062,
+      "attachmentName": "att1/dish_B"
+    }
+  },
+  "554": {
+    "itemId": 11006201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att1/leg",
+      "targetStockId": 10062,
+      "attachmentName": "att1/leg"
+    }
+  },
+  "555": {
+    "itemId": 11006201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att1/drops_a",
+      "targetStockId": 10062,
+      "attachmentName": "att1/drops_a"
+    }
+  },
+  "556": {
+    "itemId": 11006201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att1/drops_d4",
+      "targetStockId": 10062,
+      "attachmentName": "att1/drops_d"
+    }
+  },
+  "557": {
+    "itemId": 11018201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "K_att1_sunglasses_side",
+      "targetStockId": 10182,
+      "attachmentName": "K_att1_sunglasses_side"
+    }
+  },
+  "558": {
+    "itemId": 11018201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "K_att1_sunglasses_bridge",
+      "targetStockId": 10182,
+      "attachmentName": "K_att1_sunglasses_bridge"
+    }
+  },
+  "559": {
+    "itemId": 11018201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "K_att1_sunglasses_L_lens",
+      "targetStockId": 10182,
+      "attachmentName": "K_att1_sunglasses_L_lens"
+    }
+  },
+  "560": {
+    "itemId": 11018201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "K_att1_sunglasses_R_lens",
+      "targetStockId": 10182,
+      "attachmentName": "K_att1_sunglasses_R_lens"
+    }
+  },
+  "561": {
+    "itemId": 11018201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "S_att1_sunglasses2_side",
+      "targetStockId": 10182,
+      "attachmentName": "S_att1_sunglasses2_side"
+    }
+  },
+  "562": {
+    "itemId": 11018201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "S_att1_sunglasses2_bridge",
+      "targetStockId": 10182,
+      "attachmentName": "S_att1_sunglasses2_bridge"
+    }
+  },
+  "563": {
+    "itemId": 11018201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "S_att1_sunglasses2_L_lens",
+      "targetStockId": 10182,
+      "attachmentName": "S_att1_sunglasses2_L_lens"
+    }
+  },
+  "564": {
+    "itemId": 11018201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "S_att1_sunglasses2_R_lens",
+      "targetStockId": 10182,
+      "attachmentName": "S_att1_sunglasses2_R_lens"
+    }
+  },
+  "565": {
+    "itemId": 11140101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "book_cover_back",
+      "targetStockId": 11401,
+      "attachmentName": "book_cover_back"
+    }
+  },
+  "566": {
+    "itemId": 11140101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "book_cover_back2",
+      "targetStockId": 11401,
+      "attachmentName": "book_inside"
+    }
+  },
+  "567": {
+    "itemId": 11140101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "book_cover_back3",
+      "targetStockId": 11401,
+      "attachmentName": "book_cover_back2"
+    }
+  },
+  "568": {
+    "itemId": 11140101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "book_cover_back4",
+      "targetStockId": 11401,
+      "attachmentName": "book_inside"
+    }
+  },
+  "569": {
+    "itemId": 11140101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": true,
+      "slotName": "huda_back",
+      "targetStockId": 11401,
+      "attachmentName": "huda_front"
+    }
+  },
+  "570": {
+    "itemId": 11140101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": true,
+      "slotName": "huda_back2",
+      "targetStockId": 11401,
+      "attachmentName": "huda_back"
+    }
+  },
+  "571": {
+    "itemId": 11140101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": true,
+      "slotName": "huda_back3",
+      "targetStockId": 11401,
+      "attachmentName": "huda_back"
+    }
+  },
+  "572": {
+    "itemId": 11140101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": true,
+      "slotName": "huda_back4",
+      "targetStockId": 11401,
+      "attachmentName": "huda_back"
+    }
+  },
+  "573": {
+    "itemId": 11140101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": true,
+      "slotName": "huda_back5",
+      "targetStockId": 11401,
+      "attachmentName": "huda_back"
+    }
   }
 }
