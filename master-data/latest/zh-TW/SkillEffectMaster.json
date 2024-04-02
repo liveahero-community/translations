@@ -47605,7 +47605,7 @@
           "parameter": []
         }
       ],
-      "filename": "b_skill_special",
+      "filename": "",
       "statusId": 1010203,
       "canDispel": false,
       "filterIds": [],
@@ -47614,8 +47614,8 @@
       "isImmediate": false,
       "persistence": true,
       "reaminDeath": false,
-      "canDuplicate": true,
-      "canDuplicateForce": true,
+      "canDuplicate": false,
+      "canDuplicateForce": false,
       "isCountDownEffect": false,
       "overrideStatusName": "",
       "isOverrideStatusName": false,
@@ -47667,19 +47667,19 @@
       "count": 0,
       "effects": [
         {
-          "class": "DamageMultipleAdjust",
+          "class": "PassiveBattleSkillEffect",
           "parameter": {
-            "mult": 120
+            "timing": 17,
+            "skillId": 8010204
           }
         }
       ],
-      "trigger": "[{\"value\":0,\"element\":0,\"statusId\":0,\"role\":0,\"class\":\"EnemyDeBuffNumberExecTrigger\"}]",
-      "filename": "",
-      "statusId": 1010201,
+      "filename": "status_counter_debuff",
+      "statusId": 1010205,
       "canDispel": false,
       "filterIds": [],
-      "parameter": true,
-      "description": "攻撃対象にデバフが付与されている時、ダメージ+20%。",
+      "parameter": false,
+      "description": "パッシブスキル8010204付与",
       "isImmediate": false,
       "persistence": true,
       "reaminDeath": true,
