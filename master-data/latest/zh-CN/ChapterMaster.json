@@ -5497,5 +5497,26 @@
     "startAt": null,
     "endAt": "2024-04-16 14:00:00",
     "executeLimit": null
+  },
+  "1105": {
+    "chapterId": 1105,
+    "groupType": 8,
+    "chapterType": 1,
+    "chapterName": "高難易度クエスト",
+    "subName": "洛祭紀行～星つなぐ時～",
+    "peepingName": "高難易度クエスト",
+    "sortWeight": 1000,
+    "bannerResourceName": "ui_banner_questchoice_event_Rakusai2304_highdifficult",
+    "bgResourceName": "ui_bg_sprite_quest_highdifficult_Rakusai2304",
+    "selectBannerAddress": "banner_chapter_select_high",
+    "helpPrefabAddress": "RakusaiRevival2403HighDifficultyHelpWindow",
+    "questSelectPrefabAddress": "",
+    "missionGroupId": 0,
+    "scoreAttackStoreId": 0,
+    "scoreAttackItemIds": null,
+    "conditionChapterId": 0,
+    "startAt": "2024-04-02 14:00:00",
+    "endAt": "2024-04-16 14:00:00",
+    "executeLimit": null
   }
 }

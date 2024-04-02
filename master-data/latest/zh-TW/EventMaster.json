@@ -10142,7 +10142,8 @@
             "UI_MAIN_QUEST",
             "UI_EPILOGUE_QUEST",
             "UI_MISSION",
-            "UI_EXCHANGE"
+            "UI_EXCHANGE",
+            "UI_HIGH_DIFFICULTY_QUEST"
           ],
           "endAt": "2024-04-16 14:00:00"
         },
@@ -10171,6 +10172,11 @@
           "type": 7,
           "chapterId": 1104,
           "buttonType": 0
+        },
+        {
+          "type": 6,
+          "chapterId": 1105,
+          "buttonType": 1
         }
       ],
       "tutorialKey": "RakusaiRevival2403",
@@ -10376,7 +10382,8 @@
       ],
       "missionGroupIds": [
         1102,
-        1103
+        1103,
+        1105
       ],
       "missionCategoryButtonLabels": null
     },
