@@ -10495,5 +10495,44 @@
         "targetStockId": 10181
       }
     ]
+  },
+  "84": {
+    "eventId": 84,
+    "chapterId": 201,
+    "lookBackChapterId": 0,
+    "baseResourceName": "Breed_EXP",
+    "questSelectPrefabAddress": "",
+    "startAt": "2024-04-10 00:00:00",
+    "endAt": "2024-04-14 00:00:00",
+    "canRemember": 0,
+    "eventPortalJson": null,
+    "roguePortalJson": null,
+    "questBonusJsons": []
+  },
+  "85": {
+    "eventId": 85,
+    "chapterId": 203,
+    "lookBackChapterId": 0,
+    "baseResourceName": "Breed_Relation",
+    "questSelectPrefabAddress": "",
+    "startAt": "2024-04-14 00:00:00",
+    "endAt": "2024-04-18 00:00:00",
+    "canRemember": 0,
+    "eventPortalJson": null,
+    "roguePortalJson": null,
+    "questBonusJsons": []
+  },
+  "86": {
+    "eventId": 86,
+    "chapterId": 206,
+    "lookBackChapterId": 0,
+    "baseResourceName": "Breed_Quartz",
+    "questSelectPrefabAddress": "",
+    "startAt": "2024-04-14 00:00:00",
+    "endAt": "2024-04-18 00:00:00",
+    "canRemember": 0,
+    "eventPortalJson": null,
+    "roguePortalJson": null,
+    "questBonusJsons": []
   }
 }
