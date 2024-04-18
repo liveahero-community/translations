@@ -5052,5 +5052,69 @@
       "targetStockId": 11401,
       "attachmentName": "huda_back"
     }
+  },
+  "574": {
+    "itemId": 21075201,
+    "customJson": {
+      "class": "CustomPlayTurnEffect",
+      "effectAddress": "blooming_Battlein_Effect",
+      "targetStockId": 10752
+    }
+  },
+  "575": {
+    "itemId": 21075201,
+    "customJson": {
+      "class": "CustomGetTurnEffect",
+      "effectAddress": "TurnObject_Blooming",
+      "targetStockId": 10752
+    }
+  },
+  "576": {
+    "itemId": 21160201,
+    "customJson": {
+      "class": "CustomPlayTurnEffect",
+      "effectAddress": "blooming_Battlein_Effect",
+      "targetStockId": 11602
+    }
+  },
+  "577": {
+    "itemId": 21160201,
+    "customJson": {
+      "class": "CustomGetTurnEffect",
+      "effectAddress": "TurnObject_Blooming",
+      "targetStockId": 11602
+    }
+  },
+  "578": {
+    "itemId": 21206101,
+    "customJson": {
+      "class": "CustomPlayTurnEffect",
+      "effectAddress": "blooming_Battlein_Effect",
+      "targetStockId": 12061
+    }
+  },
+  "579": {
+    "itemId": 21206101,
+    "customJson": {
+      "class": "CustomGetTurnEffect",
+      "effectAddress": "TurnObject_Blooming",
+      "targetStockId": 12061
+    }
+  },
+  "580": {
+    "itemId": 21207101,
+    "customJson": {
+      "class": "CustomPlayTurnEffect",
+      "effectAddress": "blooming_Battlein_Effect",
+      "targetStockId": 12071
+    }
+  },
+  "581": {
+    "itemId": 21207101,
+    "customJson": {
+      "class": "CustomGetTurnEffect",
+      "effectAddress": "TurnObject_Blooming",
+      "targetStockId": 12071
+    }
   }
 }

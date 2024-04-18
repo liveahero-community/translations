@@ -2813,7 +2813,7 @@
     "scoreAttackItemIds": null,
     "conditionChapterId": 0,
     "startAt": null,
-    "endAt": "2024-03-26 14:00:00",
+    "endAt": null,
     "executeLimit": null
   },
   "523": {
@@ -5517,6 +5517,48 @@
     "conditionChapterId": 0,
     "startAt": "2024-04-02 14:00:00",
     "endAt": "2024-04-16 14:00:00",
+    "executeLimit": null
+  },
+  "1106": {
+    "chapterId": 1106,
+    "groupType": 2,
+    "chapterType": 1,
+    "chapterName": "イベントメインクエスト",
+    "subName": "脱獄！ヘルスチェック・クライシス",
+    "peepingName": "メインクエスト",
+    "sortWeight": 1000,
+    "bannerResourceName": "ui_banner_questchoice_event_Crisis2404",
+    "bgResourceName": "ui_bg_sprite_quest_Crisis2404",
+    "selectBannerAddress": "banner_chapter_select_main",
+    "helpPrefabAddress": "",
+    "questSelectPrefabAddress": "",
+    "missionGroupId": 0,
+    "scoreAttackStoreId": 0,
+    "scoreAttackItemIds": null,
+    "conditionChapterId": 0,
+    "startAt": null,
+    "endAt": "2024-05-16 14:00:00",
+    "executeLimit": null
+  },
+  "1107": {
+    "chapterId": 1107,
+    "groupType": 2,
+    "chapterType": 1,
+    "chapterName": "イベントフリークエスト",
+    "subName": "脱獄！ヘルスチェック・クライシス",
+    "peepingName": "フリークエスト",
+    "sortWeight": 1000,
+    "bannerResourceName": "ui_banner_questchoice_event_Crisis2404_free",
+    "bgResourceName": "ui_bg_sprite_quest_free_Crisis2404",
+    "selectBannerAddress": "banner_chapter_select_free",
+    "helpPrefabAddress": "",
+    "questSelectPrefabAddress": "",
+    "missionGroupId": 0,
+    "scoreAttackStoreId": 0,
+    "scoreAttackItemIds": null,
+    "conditionChapterId": 0,
+    "startAt": null,
+    "endAt": "2024-05-09 20:00:00",
     "executeLimit": null
   }
 }

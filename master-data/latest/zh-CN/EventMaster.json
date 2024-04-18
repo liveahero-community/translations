@@ -6099,12 +6099,12 @@
   "55": {
     "eventId": 55,
     "chapterId": 1043,
-    "lookBackChapterId": 0,
+    "lookBackChapterId": 522,
     "baseResourceName": "Rakusai2304",
     "questSelectPrefabAddress": "",
     "startAt": "2023-04-06 14:00:00",
     "endAt": "2023-05-04 14:00:00",
-    "canRemember": 0,
+    "canRemember": 1,
     "eventPortalJson": {
       "bg": "ui_bg_sprite_event_Rakusai2304",
       "bgm": "bgm_rakusai_adv",
@@ -10534,5 +10534,475 @@
     "eventPortalJson": null,
     "roguePortalJson": null,
     "questBonusJsons": []
+  },
+  "87": {
+    "eventId": 87,
+    "chapterId": 1106,
+    "lookBackChapterId": 0,
+    "baseResourceName": "Crisis2404",
+    "questSelectPrefabAddress": "",
+    "startAt": null,
+    "endAt": "2024-05-16 14:00:00",
+    "canRemember": 0,
+    "eventPortalJson": {
+      "bg": "ui_bg_sprite_event_Crisis2404",
+      "bgm": "bgm_crisis_adv",
+      "logo": "Crisis2404_title",
+      "terms": [
+        {
+          "keys": [
+            "UI_MAIN_QUEST",
+            "UI_MISSION",
+            "UI_EXCHANGE"
+          ],
+          "endAt": "2024-05-16 14:00:00"
+        },
+        {
+          "keys": [
+            "UI_FREE_QUEST",
+            "UI_SALES"
+          ],
+          "endAt": "2024-05-09 20:00:00"
+        }
+      ],
+      "gachaId": 105,
+      "storeId": 62,
+      "questInfos": [
+        {
+          "type": 5,
+          "chapterId": 1106,
+          "buttonType": 0
+        },
+        {
+          "type": 6,
+          "chapterId": 1107,
+          "buttonType": 1
+        }
+      ],
+      "tutorialKey": "Crisis2404",
+      "eventItemIds": [
+        205
+      ],
+      "missionViews": [
+        {
+          "skinId": 0,
+          "stockId": 10752,
+          "cardType": 1,
+          "serifKinds": [
+            29
+          ],
+          "visualType": 1,
+          "serifEntity": [
+            {
+              "priority": 0,
+              "serifKind": 29,
+              "conditions": []
+            },
+            {
+              "priority": 1,
+              "serifKind": 30,
+              "conditions": [
+                {
+                  "class": "MissionClear",
+                  "questId": 0,
+                  "missionIds": [
+                    21697,
+                    21698,
+                    21699,
+                    21700,
+                    21701,
+                    21702,
+                    21703,
+                    21687,
+                    21688,
+                    21689,
+                    21690,
+                    21691,
+                    21692,
+                    21693,
+                    21694,
+                    21695,
+                    21696,
+                    21704,
+                    21705,
+                    21706,
+                    21707
+                  ],
+                  "isCheckClear": true
+                }
+              ]
+            }
+          ],
+          "resourceName": "okitakaCrisis2404",
+          "characterName": "オキタカ"
+        },
+        {
+          "skinId": 0,
+          "stockId": 11602,
+          "cardType": 1,
+          "serifKinds": [
+            29
+          ],
+          "visualType": 1,
+          "serifEntity": [
+            {
+              "priority": 0,
+              "serifKind": 29,
+              "conditions": []
+            },
+            {
+              "priority": 1,
+              "serifKind": 30,
+              "conditions": [
+                {
+                  "class": "MissionClear",
+                  "questId": 0,
+                  "missionIds": [
+                    21697,
+                    21698,
+                    21699,
+                    21700,
+                    21701,
+                    21702,
+                    21703,
+                    21687,
+                    21688,
+                    21689,
+                    21690,
+                    21691,
+                    21692,
+                    21693,
+                    21694,
+                    21695,
+                    21696,
+                    21704,
+                    21705,
+                    21706,
+                    21707
+                  ],
+                  "isCheckClear": true
+                }
+              ]
+            }
+          ],
+          "resourceName": "obsidiusCrisis2404",
+          "characterName": "オブシディウス"
+        },
+        {
+          "skinId": 0,
+          "stockId": 12071,
+          "cardType": 2,
+          "serifKinds": [
+            29
+          ],
+          "visualType": 1,
+          "serifEntity": [
+            {
+              "priority": 0,
+              "serifKind": 29,
+              "conditions": []
+            },
+            {
+              "priority": 1,
+              "serifKind": 30,
+              "conditions": [
+                {
+                  "class": "MissionClear",
+                  "questId": 0,
+                  "missionIds": [
+                    21697,
+                    21698,
+                    21699,
+                    21700,
+                    21701,
+                    21702,
+                    21703,
+                    21687,
+                    21688,
+                    21689,
+                    21690,
+                    21691,
+                    21692,
+                    21693,
+                    21694,
+                    21695,
+                    21696,
+                    21704,
+                    21705,
+                    21706,
+                    21707
+                  ],
+                  "isCheckClear": true
+                }
+              ]
+            }
+          ],
+          "resourceName": "bygul",
+          "characterName": "ベイグル"
+        },
+        {
+          "skinId": 0,
+          "stockId": 12061,
+          "cardType": 2,
+          "serifKinds": [
+            29
+          ],
+          "visualType": 1,
+          "serifEntity": [
+            {
+              "priority": 0,
+              "serifKind": 29,
+              "conditions": []
+            },
+            {
+              "priority": 1,
+              "serifKind": 30,
+              "conditions": [
+                {
+                  "class": "MissionClear",
+                  "questId": 0,
+                  "missionIds": [
+                    21697,
+                    21698,
+                    21699,
+                    21700,
+                    21701,
+                    21702,
+                    21703,
+                    21687,
+                    21688,
+                    21689,
+                    21690,
+                    21691,
+                    21692,
+                    21693,
+                    21694,
+                    21695,
+                    21696,
+                    21704,
+                    21705,
+                    21706,
+                    21707
+                  ],
+                  "isCheckClear": true
+                }
+              ]
+            }
+          ],
+          "resourceName": "shidemasu",
+          "characterName": "シデマス"
+        }
+      ],
+      "portalWindow": "WideTermEventPortalWindowCrisis2404",
+      "characterViews": [
+        {
+          "skinId": 0,
+          "stockId": 10752,
+          "cardType": 1,
+          "serifKinds": [
+            27,
+            28
+          ],
+          "visualType": 1,
+          "resourceName": "okitakaCrisis2404",
+          "characterName": "オキタカ"
+        },
+        {
+          "skinId": 0,
+          "stockId": 11602,
+          "cardType": 1,
+          "serifKinds": [
+            27,
+            28
+          ],
+          "visualType": 1,
+          "resourceName": "obsidiusCrisis2404",
+          "characterName": "オブシディウス"
+        },
+        {
+          "skinId": 0,
+          "stockId": 12071,
+          "cardType": 2,
+          "serifKinds": [
+            27,
+            28
+          ],
+          "visualType": 1,
+          "resourceName": "bygul",
+          "characterName": "ベイグル"
+        },
+        {
+          "skinId": 0,
+          "stockId": 12061,
+          "cardType": 2,
+          "serifKinds": [
+            27,
+            28
+          ],
+          "visualType": 1,
+          "resourceName": "shidemasu",
+          "characterName": "シデマス"
+        }
+      ],
+      "salesRegionIds": [
+        238
+      ],
+      "missionGroupIds": [
+        1106,
+        1107,
+        1108
+      ],
+      "missionCategoryButtonLabels": null
+    },
+    "roguePortalJson": null,
+    "questBonusJsons": [
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 205,
+        "bonusValue": 20,
+        "targetStockId": 10062
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 205,
+        "bonusValue": 20,
+        "targetStockId": 10182
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 205,
+        "bonusValue": 10,
+        "targetStockId": 11401
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 205,
+        "bonusValue": 40,
+        "targetStockId": 10752
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 205,
+        "bonusValue": 40,
+        "targetStockId": 11602
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 205,
+        "bonusValue": 30,
+        "targetStockId": 12071
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 205,
+        "bonusValue": 20,
+        "targetStockId": 12061
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 205,
+        "bonusValue": 10,
+        "targetStockId": 10751
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 205,
+        "bonusValue": 20,
+        "targetStockId": 11601
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 205,
+        "bonusValue": 10,
+        "targetStockId": 10071
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 205,
+        "bonusValue": 20,
+        "targetStockId": 10631
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 205,
+        "bonusValue": 30,
+        "targetStockId": 12071
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 205,
+        "bonusValue": 20,
+        "targetStockId": 12061
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 205,
+        "bonusValue": 10,
+        "targetStockId": 10751
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 205,
+        "bonusValue": 10,
+        "targetStockId": 11601
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 205,
+        "bonusValue": 10,
+        "targetStockId": 11401
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 205,
+        "bonusValue": 10,
+        "targetStockId": 10061
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 205,
+        "bonusValue": 10,
+        "targetStockId": 10181
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 205,
+        "bonusValue": 10,
+        "targetStockId": 10071
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 205,
+        "bonusValue": 10,
+        "targetStockId": 10631
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 205,
+        "bonusValue": 10,
+        "targetStockId": 19991
+      }
+    ]
   }
 }
