@@ -5560,5 +5560,26 @@
     "startAt": null,
     "endAt": "2024-05-09 20:00:00",
     "executeLimit": null
+  },
+  "1109": {
+    "chapterId": 1109,
+    "groupType": 8,
+    "chapterType": 1,
+    "chapterName": "チャレンジクエスト",
+    "subName": "脱獄！ヘルスチェック・クライシス",
+    "peepingName": "チャレンジクエスト",
+    "sortWeight": 1000,
+    "bannerResourceName": "ui_banner_questchoice_event_Crisis2404_highdifficult",
+    "bgResourceName": "ui_bg_sprite_quest_highdifficult_Crisis2404",
+    "selectBannerAddress": "banner_chapter_select_challenge",
+    "helpPrefabAddress": "Crisis2404HighDifficultyHelpWindow",
+    "questSelectPrefabAddress": "",
+    "missionGroupId": 0,
+    "scoreAttackStoreId": 0,
+    "scoreAttackItemIds": null,
+    "conditionChapterId": 0,
+    "startAt": "2024-04-25 18:00:00",
+    "endAt": "2024-05-16 14:00:00",
+    "executeLimit": null
   }
 }
