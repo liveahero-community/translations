@@ -11049,5 +11049,18 @@
         "targetStockId": 19991
       }
     ]
+  },
+  "88": {
+    "eventId": 88,
+    "chapterId": 1110,
+    "lookBackChapterId": 0,
+    "baseResourceName": "PhysicalTest2405",
+    "questSelectPrefabAddress": "",
+    "startAt": "2024-05-14 18:00:00",
+    "endAt": "2024-05-28 14:00:00",
+    "canRemember": 0,
+    "eventPortalJson": null,
+    "roguePortalJson": null,
+    "questBonusJsons": []
   }
 }

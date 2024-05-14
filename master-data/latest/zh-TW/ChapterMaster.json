@@ -5602,5 +5602,26 @@
     "startAt": "2024-04-25 18:00:00",
     "endAt": "2024-05-16 14:00:00",
     "executeLimit": null
+  },
+  "1110": {
+    "chapterId": 1110,
+    "groupType": 2,
+    "chapterType": 1,
+    "chapterName": "キャンペーンクエスト",
+    "subName": "実戦式！体力テスト！",
+    "peepingName": "実戦式！体力テスト！",
+    "sortWeight": 1000,
+    "bannerResourceName": "ui_banner_questchoice_event_Crisis2404_free",
+    "bgResourceName": "ui_bg_sprite_quest_free_Crisis2404",
+    "selectBannerAddress": "",
+    "helpPrefabAddress": "PhysicalTestHighDifficultyHelpWindow",
+    "questSelectPrefabAddress": "",
+    "missionGroupId": 0,
+    "scoreAttackStoreId": 0,
+    "scoreAttackItemIds": null,
+    "conditionChapterId": 0,
+    "startAt": "2024-05-14 18:00:00",
+    "endAt": "2024-05-28 14:00:00",
+    "executeLimit": null
   }
 }
