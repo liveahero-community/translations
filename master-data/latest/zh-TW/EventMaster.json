@@ -6389,7 +6389,7 @@
   "57": {
     "eventId": 57,
     "chapterId": 1048,
-    "lookBackChapterId": 0,
+    "lookBackChapterId": 523,
     "baseResourceName": "Train2305",
     "questSelectPrefabAddress": "",
     "startAt": null,
@@ -11526,5 +11526,341 @@
         "targetStockId": 12071
       }
     ]
+  },
+  "90": {
+    "eventId": 90,
+    "chapterId": 1115,
+    "lookBackChapterId": 0,
+    "baseResourceName": "ContractWrestler2406",
+    "questSelectPrefabAddress": "",
+    "startAt": null,
+    "endAt": "2024-06-27 14:00:00",
+    "canRemember": 0,
+    "eventPortalJson": {
+      "bg": "ui_bg_sprite_portal_3rdAnniversary",
+      "bgm": "bgm_main",
+      "logo": "ContractWrestler2406_title",
+      "terms": [
+        {
+          "keys": [
+            "UI_FREE_QUEST"
+          ],
+          "endAt": "2024-06-20 14:00:00"
+        },
+        {
+          "keys": [
+            "UI_MISSION",
+            "UI_EXCHANGE"
+          ],
+          "endAt": "2024-06-27 14:00:00"
+        }
+      ],
+      "gachaId": null,
+      "storeId": 64,
+      "questInfos": [
+        {
+          "type": 6,
+          "chapterId": 1115,
+          "buttonType": 1
+        }
+      ],
+      "tutorialKey": "ContractWrestler2406",
+      "eventItemIds": [
+        52
+      ],
+      "missionViews": [
+        {
+          "skinId": 0,
+          "stockId": 11931,
+          "cardType": 2,
+          "serifKinds": [
+            29
+          ],
+          "visualType": 1,
+          "serifEntity": [
+            {
+              "priority": 0,
+              "serifKind": 29,
+              "conditions": []
+            },
+            {
+              "priority": 1,
+              "serifKind": 30,
+              "conditions": [
+                {
+                  "class": "MissionClear",
+                  "questId": 0,
+                  "missionIds": [
+                    21828,
+                    21827,
+                    21826,
+                    21825,
+                    21824,
+                    21823,
+                    21822,
+                    21821,
+                    21820
+                  ],
+                  "isCheckClear": true
+                }
+              ]
+            }
+          ],
+          "resourceName": "wrestlerFire",
+          "characterName": "火のヒールレスラー"
+        },
+        {
+          "skinId": 0,
+          "stockId": 11941,
+          "cardType": 2,
+          "serifKinds": [
+            29
+          ],
+          "visualType": 1,
+          "serifEntity": [
+            {
+              "priority": 0,
+              "serifKind": 29,
+              "conditions": []
+            },
+            {
+              "priority": 1,
+              "serifKind": 30,
+              "conditions": [
+                {
+                  "class": "MissionClear",
+                  "questId": 0,
+                  "missionIds": [
+                    21828,
+                    21827,
+                    21826,
+                    21825,
+                    21824,
+                    21823,
+                    21822,
+                    21821,
+                    21820
+                  ],
+                  "isCheckClear": true
+                }
+              ]
+            }
+          ],
+          "resourceName": "wrestlerWater",
+          "characterName": "水のヒールレスラー"
+        },
+        {
+          "skinId": 0,
+          "stockId": 11951,
+          "cardType": 2,
+          "serifKinds": [
+            29
+          ],
+          "visualType": 1,
+          "serifEntity": [
+            {
+              "priority": 0,
+              "serifKind": 29,
+              "conditions": []
+            },
+            {
+              "priority": 1,
+              "serifKind": 30,
+              "conditions": [
+                {
+                  "class": "MissionClear",
+                  "questId": 0,
+                  "missionIds": [
+                    21828,
+                    21827,
+                    21826,
+                    21825,
+                    21824,
+                    21823,
+                    21822,
+                    21821,
+                    21820
+                  ],
+                  "isCheckClear": true
+                }
+              ]
+            }
+          ],
+          "resourceName": "wrestlerEarth",
+          "characterName": "木のヒールレスラー"
+        },
+        {
+          "skinId": 0,
+          "stockId": 11961,
+          "cardType": 2,
+          "serifKinds": [
+            29
+          ],
+          "visualType": 1,
+          "serifEntity": [
+            {
+              "priority": 0,
+              "serifKind": 29,
+              "conditions": []
+            },
+            {
+              "priority": 1,
+              "serifKind": 30,
+              "conditions": [
+                {
+                  "class": "MissionClear",
+                  "questId": 0,
+                  "missionIds": [
+                    21828,
+                    21827,
+                    21826,
+                    21825,
+                    21824,
+                    21823,
+                    21822,
+                    21821,
+                    21820
+                  ],
+                  "isCheckClear": true
+                }
+              ]
+            }
+          ],
+          "resourceName": "wrestlerLight",
+          "characterName": "光のヒールレスラー"
+        },
+        {
+          "skinId": 0,
+          "stockId": 11971,
+          "cardType": 2,
+          "serifKinds": [
+            29
+          ],
+          "visualType": 1,
+          "serifEntity": [
+            {
+              "priority": 0,
+              "serifKind": 29,
+              "conditions": []
+            },
+            {
+              "priority": 1,
+              "serifKind": 30,
+              "conditions": [
+                {
+                  "class": "MissionClear",
+                  "questId": 0,
+                  "missionIds": [
+                    21828,
+                    21827,
+                    21826,
+                    21825,
+                    21824,
+                    21823,
+                    21822,
+                    21821,
+                    21820
+                  ],
+                  "isCheckClear": true
+                }
+              ]
+            }
+          ],
+          "resourceName": "wrestlerShadow",
+          "characterName": "影のヒールレスラー"
+        }
+      ],
+      "portalWindow": "ContractAndroidSoldierPortalWindow",
+      "characterViews": [
+        {
+          "skinId": 0,
+          "stockId": 11931,
+          "cardType": 2,
+          "serifKinds": [
+            27
+          ],
+          "visualType": 1,
+          "resourceName": "wrestlerFire",
+          "characterName": "火のヒールレスラー"
+        },
+        {
+          "skinId": 0,
+          "stockId": 11941,
+          "cardType": 2,
+          "serifKinds": [
+            27
+          ],
+          "visualType": 1,
+          "resourceName": "wrestlerWater",
+          "characterName": "水のヒールレスラー"
+        },
+        {
+          "skinId": 0,
+          "stockId": 11951,
+          "cardType": 2,
+          "serifKinds": [
+            27
+          ],
+          "visualType": 1,
+          "resourceName": "wrestlerEarth",
+          "characterName": "木のヒールレスラー"
+        },
+        {
+          "skinId": 0,
+          "stockId": 11961,
+          "cardType": 2,
+          "serifKinds": [
+            27
+          ],
+          "visualType": 1,
+          "resourceName": "wrestlerLight",
+          "characterName": "光のヒールレスラー"
+        },
+        {
+          "skinId": 0,
+          "stockId": 11971,
+          "cardType": 2,
+          "serifKinds": [
+            27
+          ],
+          "visualType": 1,
+          "resourceName": "wrestlerShadow",
+          "characterName": "影のヒールレスラー"
+        }
+      ],
+      "salesRegionIds": [],
+      "missionGroupIds": [
+        1115
+      ],
+      "missionCategoryButtonLabels": null
+    },
+    "roguePortalJson": null,
+    "questBonusJsons": []
+  },
+  "91": {
+    "eventId": 91,
+    "chapterId": 1116,
+    "lookBackChapterId": 0,
+    "baseResourceName": "BattleArena2406",
+    "questSelectPrefabAddress": "HeroTowerWindow",
+    "startAt": null,
+    "endAt": "2024-06-27 14:00:00",
+    "canRemember": 0,
+    "eventPortalJson": null,
+    "roguePortalJson": null,
+    "questBonusJsons": []
+  },
+  "92": {
+    "eventId": 92,
+    "chapterId": 1117,
+    "lookBackChapterId": 0,
+    "baseResourceName": "linkQuest",
+    "questSelectPrefabAddress": "",
+    "startAt": null,
+    "endAt": "2024-06-27 14:00:00",
+    "canRemember": 0,
+    "eventPortalJson": null,
+    "roguePortalJson": null,
+    "questBonusJsons": []
   }
 }
