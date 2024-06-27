@@ -11895,7 +11895,8 @@
             "UI_MAIN_QUEST",
             "UI_EPILOGUE_QUEST",
             "UI_MISSION",
-            "UI_EXCHANGE"
+            "UI_EXCHANGE",
+            "UI_HIGH_DIFFICULTY_QUEST"
           ],
           "endAt": "2024-07-11 14:00:00"
         },
@@ -11924,6 +11925,11 @@
           "type": 7,
           "chapterId": 1121,
           "buttonType": 0
+        },
+        {
+          "type": 6,
+          "chapterId": 1122,
+          "buttonType": 1
         }
       ],
       "tutorialKey": "ThermaeRevival2406",
@@ -12192,7 +12198,8 @@
       ],
       "missionGroupIds": [
         1119,
-        1120
+        1120,
+        1122
       ],
       "missionCategoryButtonLabels": null
     },
