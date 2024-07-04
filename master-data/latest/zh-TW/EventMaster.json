@@ -12332,5 +12332,31 @@
         "targetStockId": 11521
       }
     ]
+  },
+  "95": {
+    "eventId": 95,
+    "chapterId": 203,
+    "lookBackChapterId": 0,
+    "baseResourceName": "Breed_Relation",
+    "questSelectPrefabAddress": "",
+    "startAt": "2024-07-05 00:00:00",
+    "endAt": "2024-07-11 00:00:00",
+    "canRemember": 0,
+    "eventPortalJson": null,
+    "roguePortalJson": null,
+    "questBonusJsons": []
+  },
+  "96": {
+    "eventId": 96,
+    "chapterId": 206,
+    "lookBackChapterId": 0,
+    "baseResourceName": "Breed_Quartz",
+    "questSelectPrefabAddress": "",
+    "startAt": "2024-07-05 00:00:00",
+    "endAt": "2024-07-11 00:00:00",
+    "canRemember": 0,
+    "eventPortalJson": null,
+    "roguePortalJson": null,
+    "questBonusJsons": []
   }
 }
