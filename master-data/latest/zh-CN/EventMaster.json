@@ -6927,12 +6927,12 @@
   "61": {
     "eventId": 61,
     "chapterId": 1057,
-    "lookBackChapterId": 0,
+    "lookBackChapterId": 524,
     "baseResourceName": "Thermae2307",
     "questSelectPrefabAddress": "",
     "startAt": "2023-07-25 14:00:00",
     "endAt": "2023-08-22 14:00:00",
-    "canRemember": 0,
+    "canRemember": 1,
     "eventPortalJson": {
       "bg": "ui_bg_sprite_event_Thermae2307",
       "bgm": "bgm_thermae_adv",
@@ -12358,5 +12358,460 @@
     "eventPortalJson": null,
     "roguePortalJson": null,
     "questBonusJsons": []
+  },
+  "97": {
+    "eventId": 97,
+    "chapterId": 1123,
+    "lookBackChapterId": 0,
+    "baseResourceName": "SummerNight2407",
+    "questSelectPrefabAddress": "",
+    "startAt": null,
+    "endAt": "2024-08-08 14:00:00",
+    "canRemember": 1,
+    "eventPortalJson": {
+      "bg": "ui_bg_sprite_event_SummerNight2407",
+      "bgm": "bgm_summernight_short_battle",
+      "logo": "SummerNight2407_title",
+      "terms": [
+        {
+          "keys": [
+            "UI_MAIN_QUEST",
+            "UI_MISSION",
+            "UI_EXCHANGE"
+          ],
+          "endAt": "2024-08-08 14:00:00"
+        },
+        {
+          "keys": [
+            "UI_FREE_QUEST",
+            "UI_SALES"
+          ],
+          "endAt": "2024-08-01 20:00:00"
+        }
+      ],
+      "gachaId": 112,
+      "storeId": 66,
+      "questInfos": [
+        {
+          "type": 5,
+          "chapterId": 1123,
+          "buttonType": 0
+        },
+        {
+          "type": 6,
+          "chapterId": 1124,
+          "buttonType": 1
+        }
+      ],
+      "tutorialKey": "SummerNight2407",
+      "eventItemIds": [
+        210
+      ],
+      "missionViews": [
+        {
+          "skinId": 0,
+          "stockId": 10642,
+          "cardType": 1,
+          "serifKinds": [
+            29
+          ],
+          "visualType": 1,
+          "serifEntity": [
+            {
+              "priority": 0,
+              "serifKind": 29,
+              "conditions": []
+            },
+            {
+              "priority": 1,
+              "serifKind": 30,
+              "conditions": [
+                {
+                  "class": "MissionClear",
+                  "questId": 0,
+                  "missionIds": [
+                    21866,
+                    21867,
+                    21868,
+                    21869,
+                    21870,
+                    21871,
+                    21872,
+                    21873,
+                    21874,
+                    21875,
+                    21876,
+                    21877,
+                    21878,
+                    21879,
+                    21880,
+                    21881,
+                    21882,
+                    21883,
+                    21884,
+                    21885,
+                    21886
+                  ],
+                  "isCheckClear": true
+                }
+              ]
+            }
+          ],
+          "resourceName": "kalaskiSummerNight2407",
+          "characterName": "カラスキ"
+        },
+        {
+          "skinId": 0,
+          "stockId": 11012,
+          "cardType": 1,
+          "serifKinds": [
+            29
+          ],
+          "visualType": 1,
+          "serifEntity": [
+            {
+              "priority": 0,
+              "serifKind": 29,
+              "conditions": []
+            },
+            {
+              "priority": 1,
+              "serifKind": 30,
+              "conditions": [
+                {
+                  "class": "MissionClear",
+                  "questId": 0,
+                  "missionIds": [
+                    21866,
+                    21867,
+                    21868,
+                    21869,
+                    21870,
+                    21871,
+                    21872,
+                    21873,
+                    21874,
+                    21875,
+                    21876,
+                    21877,
+                    21878,
+                    21879,
+                    21880,
+                    21881,
+                    21882,
+                    21883,
+                    21884,
+                    21885,
+                    21886
+                  ],
+                  "isCheckClear": true
+                }
+              ]
+            }
+          ],
+          "resourceName": "lilacSummerNight2407",
+          "characterName": "ライラック"
+        },
+        {
+          "skinId": 0,
+          "stockId": 12091,
+          "cardType": 2,
+          "serifKinds": [
+            29
+          ],
+          "visualType": 1,
+          "serifEntity": [
+            {
+              "priority": 0,
+              "serifKind": 29,
+              "conditions": []
+            },
+            {
+              "priority": 1,
+              "serifKind": 30,
+              "conditions": [
+                {
+                  "class": "MissionClear",
+                  "questId": 0,
+                  "missionIds": [
+                    21866,
+                    21867,
+                    21868,
+                    21869,
+                    21870,
+                    21871,
+                    21872,
+                    21873,
+                    21874,
+                    21875,
+                    21876,
+                    21877,
+                    21878,
+                    21879,
+                    21880,
+                    21881,
+                    21882,
+                    21883,
+                    21884,
+                    21885,
+                    21886
+                  ],
+                  "isCheckClear": true
+                }
+              ]
+            }
+          ],
+          "resourceName": "roudin",
+          "characterName": "ルーディン"
+        }
+      ],
+      "portalWindow": "WideTermEventPortalWindowSummerNight2407",
+      "characterViews": [
+        {
+          "skinId": 0,
+          "stockId": 10642,
+          "cardType": 1,
+          "serifKinds": [
+            27,
+            28
+          ],
+          "visualType": 1,
+          "resourceName": "kalaskiSummerNight2407",
+          "characterName": "カラスキ"
+        },
+        {
+          "skinId": 0,
+          "stockId": 11012,
+          "cardType": 1,
+          "serifKinds": [
+            27,
+            28
+          ],
+          "visualType": 1,
+          "resourceName": "lilacSummerNight2407",
+          "characterName": "ライラック"
+        },
+        {
+          "skinId": 0,
+          "stockId": 12091,
+          "cardType": 2,
+          "serifKinds": [
+            27,
+            28
+          ],
+          "visualType": 1,
+          "resourceName": "roudin",
+          "characterName": "ルーディン"
+        }
+      ],
+      "salesRegionIds": [
+        241
+      ],
+      "missionGroupIds": [
+        1123,
+        1124,
+        1126
+      ],
+      "missionCategoryButtonLabels": null
+    },
+    "roguePortalJson": null,
+    "questBonusJsons": [
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 210,
+        "bonusValue": 30,
+        "targetStockId": 12091
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 210,
+        "bonusValue": 10,
+        "targetStockId": 10641
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 210,
+        "bonusValue": 10,
+        "targetStockId": 11011
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 210,
+        "bonusValue": 10,
+        "targetStockId": 11611
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 210,
+        "bonusValue": 10,
+        "targetStockId": 10621
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 210,
+        "bonusValue": 10,
+        "targetStockId": 10201
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 210,
+        "bonusValue": 10,
+        "targetStockId": 11601
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 210,
+        "bonusValue": 10,
+        "targetStockId": 11291
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 210,
+        "bonusValue": 10,
+        "targetStockId": 11531
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 210,
+        "bonusValue": 10,
+        "targetStockId": 11521
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 210,
+        "bonusValue": 10,
+        "targetStockId": 11701
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 210,
+        "bonusValue": 10,
+        "targetStockId": 11891
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 210,
+        "bonusValue": 10,
+        "targetStockId": 12061
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 210,
+        "bonusValue": 10,
+        "targetStockId": 19991
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 210,
+        "bonusValue": 40,
+        "targetStockId": 10642
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 210,
+        "bonusValue": 40,
+        "targetStockId": 11012
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 210,
+        "bonusValue": 30,
+        "targetStockId": 12091
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 210,
+        "bonusValue": 20,
+        "targetStockId": 11011
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 210,
+        "bonusValue": 10,
+        "targetStockId": 10641
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 210,
+        "bonusValue": 20,
+        "targetStockId": 10622
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 210,
+        "bonusValue": 20,
+        "targetStockId": 11601
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 210,
+        "bonusValue": 10,
+        "targetStockId": 10202
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 210,
+        "bonusValue": 10,
+        "targetStockId": 11611
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 210,
+        "bonusValue": 10,
+        "targetStockId": 11291
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 210,
+        "bonusValue": 10,
+        "targetStockId": 11521
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 210,
+        "bonusValue": 10,
+        "targetStockId": 11701
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 210,
+        "bonusValue": 20,
+        "targetStockId": 11891
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 210,
+        "bonusValue": 10,
+        "targetStockId": 12061
+      }
+    ]
   }
 }

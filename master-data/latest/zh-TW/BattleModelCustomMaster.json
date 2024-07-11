@@ -6636,5 +6636,53 @@
       "targetStockId": 11611,
       "attachmentName": "vial_back"
     }
+  },
+  "736": {
+    "itemId": 21064201,
+    "customJson": {
+      "class": "CustomPlayTurnEffect",
+      "effectAddress": "blooming_Battlein_Effect",
+      "targetStockId": 10642
+    }
+  },
+  "737": {
+    "itemId": 21064201,
+    "customJson": {
+      "class": "CustomGetTurnEffect",
+      "effectAddress": "TurnObject_Blooming",
+      "targetStockId": 10642
+    }
+  },
+  "738": {
+    "itemId": 21101201,
+    "customJson": {
+      "class": "CustomPlayTurnEffect",
+      "effectAddress": "blooming_Battlein_Effect",
+      "targetStockId": 11012
+    }
+  },
+  "739": {
+    "itemId": 21101201,
+    "customJson": {
+      "class": "CustomGetTurnEffect",
+      "effectAddress": "TurnObject_Blooming",
+      "targetStockId": 11012
+    }
+  },
+  "740": {
+    "itemId": 21209101,
+    "customJson": {
+      "class": "CustomPlayTurnEffect",
+      "effectAddress": "blooming_Battlein_Effect",
+      "targetStockId": 12091
+    }
+  },
+  "741": {
+    "itemId": 21209101,
+    "customJson": {
+      "class": "CustomGetTurnEffect",
+      "effectAddress": "TurnObject_Blooming",
+      "targetStockId": 12091
+    }
   }
 }
