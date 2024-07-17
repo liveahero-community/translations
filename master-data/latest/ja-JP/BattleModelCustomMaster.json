@@ -6684,5 +6684,15 @@
       "effectAddress": "TurnObject_Blooming",
       "targetStockId": 12091
     }
+  },
+  "742": {
+    "itemId": 11062201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": true,
+      "slotName": "ori_nuno_chest",
+      "targetStockId": 10622,
+      "attachmentName": "normal/nuno_chest"
+    }
   }
 }
