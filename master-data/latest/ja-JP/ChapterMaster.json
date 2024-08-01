@@ -5939,6 +5939,27 @@
     "endAt": "2024-08-01 20:00:00",
     "executeLimit": null
   },
+  "1125": {
+    "chapterId": 1125,
+    "groupType": 2,
+    "chapterType": 1,
+    "chapterName": "エピローグクエスト",
+    "subName": "サマーナイツ・ラストイリュージョン",
+    "peepingName": "エピローグクエスト",
+    "sortWeight": 1000,
+    "bannerResourceName": "ui_banner_questchoice_event_SummerNight2407_epilogue",
+    "bgResourceName": "ui_bg_sprite_quest_epilogue_SummerNight2407",
+    "selectBannerAddress": "banner_chapter_select_epilogue",
+    "helpPrefabAddress": "",
+    "questSelectPrefabAddress": "",
+    "missionGroupId": 0,
+    "scoreAttackStoreId": 0,
+    "scoreAttackItemIds": null,
+    "conditionChapterId": 0,
+    "startAt": "2024-08-01 18:00:00",
+    "endAt": "2024-08-08 14:00:00",
+    "executeLimit": null
+  },
   "1126": {
     "chapterId": 1126,
     "groupType": 8,
