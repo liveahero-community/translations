@@ -1223,6 +1223,16 @@
       "skinName": ""
     }
   ],
+  "10642": [
+    {
+      "cardType": 1,
+      "visualType": 2,
+      "groupId": 1,
+      "isDamage": false,
+      "skinId": 2,
+      "skinName": ""
+    }
+  ],
   "10651": [
     {
       "cardType": 2,
@@ -1526,6 +1536,14 @@
       "groupId": 3,
       "isDamage": true,
       "skinId": 7,
+      "skinName": ""
+    },
+    {
+      "cardType": 1,
+      "visualType": 2,
+      "groupId": 1,
+      "isDamage": false,
+      "skinId": 2,
       "skinName": ""
     }
   ],
@@ -2222,6 +2240,14 @@
       "groupId": 1,
       "isDamage": false,
       "skinId": 1,
+      "skinName": ""
+    },
+    {
+      "cardType": 2,
+      "visualType": 1,
+      "groupId": 2,
+      "isDamage": false,
+      "skinId": 2,
       "skinName": ""
     }
   ]

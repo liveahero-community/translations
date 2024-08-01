@@ -12363,7 +12363,7 @@
     "eventId": 97,
     "chapterId": 1123,
     "lookBackChapterId": 0,
-    "baseResourceName": "SummerNight2407",
+    "baseResourceName": "SummerNight2407_epilogue",
     "questSelectPrefabAddress": "",
     "startAt": null,
     "endAt": "2024-08-08 14:00:00",
@@ -12376,6 +12376,7 @@
         {
           "keys": [
             "UI_MAIN_QUEST",
+            "UI_EPILOGUE_QUEST",
             "UI_MISSION",
             "UI_EXCHANGE",
             "UI_CHALLENGE_QUEST"
@@ -12407,6 +12408,11 @@
           "type": 6,
           "chapterId": 1126,
           "buttonType": 1
+        },
+        {
+          "type": 7,
+          "chapterId": 1125,
+          "buttonType": 0
         }
       ],
       "tutorialKey": "SummerNight2407",
