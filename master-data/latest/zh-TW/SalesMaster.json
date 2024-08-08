@@ -28786,5 +28786,731 @@
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
     ]
+  },
+  "24201": {
+    "salesId": 24201,
+    "regionId": 242,
+    "salesName": "夏だ！海だ！ヒーロー営業だ！（短期）",
+    "iconFilename": "item_Survival2309_exchange01",
+    "startAt": null,
+    "endAt": "2024-08-22 20:00:00",
+    "requiredTime": 7200,
+    "memberLimitNumber": 8,
+    "sortWeight": 1000,
+    "rewards": [
+      {
+        "salesId": 24201,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 280
+      },
+      {
+        "salesId": 24201,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 240
+      },
+      {
+        "salesId": 24201,
+        "rewardType": 3,
+        "objectId": 186,
+        "objectValue": 14
+      },
+      {
+        "salesId": 24201,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 160
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_SURVIVAL2309_REPORT_1",
+        "condition": null
+      },
+      {
+        "textKey": "SALES_EVENT_SURVIVAL2309_REPORT_2",
+        "condition": null
+      },
+      {
+        "textKey": "SALES_EVENT_SURVIVAL2309_REPORT_3",
+        "condition": null
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": false
+      },
+      {
+        "class": "StockCountBonus",
+        "stocks": [
+          10812,
+          11821,
+          11831,
+          11241
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 10
+          },
+          {
+            "count": 2,
+            "upwardRate": 30
+          },
+          {
+            "count": 3,
+            "upwardRate": 50
+          },
+          {
+            "count": 4,
+            "upwardRate": 70
+          }
+        ],
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
+      }
+    ]
+  },
+  "24202": {
+    "salesId": 24202,
+    "regionId": 242,
+    "salesName": "夏だ！海だ！ヒーロー営業だ！（短中期）",
+    "iconFilename": "item_Survival2309_exchange01",
+    "startAt": null,
+    "endAt": "2024-08-22 20:00:00",
+    "requiredTime": 14400,
+    "memberLimitNumber": 8,
+    "sortWeight": 1000,
+    "rewards": [
+      {
+        "salesId": 24202,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 560
+      },
+      {
+        "salesId": 24202,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 480
+      },
+      {
+        "salesId": 24202,
+        "rewardType": 3,
+        "objectId": 186,
+        "objectValue": 28
+      },
+      {
+        "salesId": 24202,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 320
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_SURVIVAL2309_REPORT_1",
+        "condition": null
+      },
+      {
+        "textKey": "SALES_EVENT_SURVIVAL2309_REPORT_2",
+        "condition": null
+      },
+      {
+        "textKey": "SALES_EVENT_SURVIVAL2309_REPORT_3",
+        "condition": null
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": false
+      },
+      {
+        "class": "StockCountBonus",
+        "stocks": [
+          10812,
+          11821,
+          11831,
+          11241
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 10
+          },
+          {
+            "count": 2,
+            "upwardRate": 30
+          },
+          {
+            "count": 3,
+            "upwardRate": 50
+          },
+          {
+            "count": 4,
+            "upwardRate": 70
+          }
+        ],
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
+      }
+    ]
+  },
+  "24203": {
+    "salesId": 24203,
+    "regionId": 242,
+    "salesName": "夏だ！海だ！ヒーロー営業だ！（中期）",
+    "iconFilename": "item_Survival2309_exchange01",
+    "startAt": null,
+    "endAt": "2024-08-22 20:00:00",
+    "requiredTime": 28800,
+    "memberLimitNumber": 8,
+    "sortWeight": 1000,
+    "rewards": [
+      {
+        "salesId": 24203,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 1120
+      },
+      {
+        "salesId": 24203,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 960
+      },
+      {
+        "salesId": 24203,
+        "rewardType": 3,
+        "objectId": 186,
+        "objectValue": 56
+      },
+      {
+        "salesId": 24203,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 640
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_SURVIVAL2309_REPORT_1",
+        "condition": null
+      },
+      {
+        "textKey": "SALES_EVENT_SURVIVAL2309_REPORT_2",
+        "condition": null
+      },
+      {
+        "textKey": "SALES_EVENT_SURVIVAL2309_REPORT_3",
+        "condition": null
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": false
+      },
+      {
+        "class": "StockCountBonus",
+        "stocks": [
+          10812,
+          11821,
+          11831,
+          11241
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 10
+          },
+          {
+            "count": 2,
+            "upwardRate": 30
+          },
+          {
+            "count": 3,
+            "upwardRate": 50
+          },
+          {
+            "count": 4,
+            "upwardRate": 70
+          }
+        ],
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
+      }
+    ]
+  },
+  "24204": {
+    "salesId": 24204,
+    "regionId": 242,
+    "salesName": "夏だ！海だ！ヒーロー営業だ！（中長期）",
+    "iconFilename": "item_Survival2309_exchange01",
+    "startAt": null,
+    "endAt": "2024-08-22 20:00:00",
+    "requiredTime": 43200,
+    "memberLimitNumber": 8,
+    "sortWeight": 1000,
+    "rewards": [
+      {
+        "salesId": 24204,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 1680
+      },
+      {
+        "salesId": 24204,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 1440
+      },
+      {
+        "salesId": 24204,
+        "rewardType": 3,
+        "objectId": 186,
+        "objectValue": 84
+      },
+      {
+        "salesId": 24204,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 960
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_SURVIVAL2309_REPORT_1",
+        "condition": null
+      },
+      {
+        "textKey": "SALES_EVENT_SURVIVAL2309_REPORT_2",
+        "condition": null
+      },
+      {
+        "textKey": "SALES_EVENT_SURVIVAL2309_REPORT_3",
+        "condition": null
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": false
+      },
+      {
+        "class": "StockCountBonus",
+        "stocks": [
+          10812,
+          11821,
+          11831,
+          11241
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 10
+          },
+          {
+            "count": 2,
+            "upwardRate": 30
+          },
+          {
+            "count": 3,
+            "upwardRate": 50
+          },
+          {
+            "count": 4,
+            "upwardRate": 70
+          }
+        ],
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
+      }
+    ]
+  },
+  "24205": {
+    "salesId": 24205,
+    "regionId": 242,
+    "salesName": "夏だ！海だ！ヒーロー営業だ！（長期）",
+    "iconFilename": "item_Survival2309_exchange01",
+    "startAt": null,
+    "endAt": "2024-08-22 20:00:00",
+    "requiredTime": 57600,
+    "memberLimitNumber": 8,
+    "sortWeight": 1000,
+    "rewards": [
+      {
+        "salesId": 24205,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 2240
+      },
+      {
+        "salesId": 24205,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 1920
+      },
+      {
+        "salesId": 24205,
+        "rewardType": 3,
+        "objectId": 186,
+        "objectValue": 112
+      },
+      {
+        "salesId": 24205,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 1280
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_SURVIVAL2309_REPORT_1",
+        "condition": null
+      },
+      {
+        "textKey": "SALES_EVENT_SURVIVAL2309_REPORT_2",
+        "condition": null
+      },
+      {
+        "textKey": "SALES_EVENT_SURVIVAL2309_REPORT_3",
+        "condition": null
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": false
+      },
+      {
+        "class": "StockCountBonus",
+        "stocks": [
+          10812,
+          11821,
+          11831,
+          11241
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 10
+          },
+          {
+            "count": 2,
+            "upwardRate": 30
+          },
+          {
+            "count": 3,
+            "upwardRate": 50
+          },
+          {
+            "count": 4,
+            "upwardRate": 70
+          }
+        ],
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
+      }
+    ]
+  },
+  "24206": {
+    "salesId": 24206,
+    "regionId": 242,
+    "salesName": "夏だ！海だ！ヒーロー営業だ！（超長期）",
+    "iconFilename": "item_Survival2309_exchange01",
+    "startAt": null,
+    "endAt": "2024-08-22 20:00:00",
+    "requiredTime": 86400,
+    "memberLimitNumber": 8,
+    "sortWeight": 1000,
+    "rewards": [
+      {
+        "salesId": 24206,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 3360
+      },
+      {
+        "salesId": 24206,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 2880
+      },
+      {
+        "salesId": 24206,
+        "rewardType": 3,
+        "objectId": 186,
+        "objectValue": 168
+      },
+      {
+        "salesId": 24206,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 1920
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_SURVIVAL2309_REPORT_1",
+        "condition": null
+      },
+      {
+        "textKey": "SALES_EVENT_SURVIVAL2309_REPORT_2",
+        "condition": null
+      },
+      {
+        "textKey": "SALES_EVENT_SURVIVAL2309_REPORT_3",
+        "condition": null
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": false
+      },
+      {
+        "class": "StockCountBonus",
+        "stocks": [
+          10812,
+          11821,
+          11831,
+          11241
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 10
+          },
+          {
+            "count": 2,
+            "upwardRate": 30
+          },
+          {
+            "count": 3,
+            "upwardRate": 50
+          },
+          {
+            "count": 4,
+            "upwardRate": 70
+          }
+        ],
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
+      }
+    ]
   }
 }
