@@ -12858,7 +12858,8 @@
             "UI_MAIN_QUEST",
             "UI_EPILOGUE_QUEST",
             "UI_MISSION",
-            "UI_EXCHANGE"
+            "UI_EXCHANGE",
+            "UI_HIGH_DIFFICULTY_QUEST"
           ],
           "endAt": "2024-08-29 14:00:00"
         },
@@ -12887,6 +12888,11 @@
           "type": 7,
           "chapterId": 1130,
           "buttonType": 0
+        },
+        {
+          "type": 6,
+          "chapterId": 1131,
+          "buttonType": 1
         }
       ],
       "tutorialKey": "SurvivalRevival2408",
