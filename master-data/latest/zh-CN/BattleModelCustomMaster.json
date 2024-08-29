@@ -7314,5 +7314,53 @@
       "targetStockId": 11831,
       "attachmentName": "ori_knife_alt1"
     }
+  },
+  "805": {
+    "itemId": 21140201,
+    "customJson": {
+      "class": "CustomPlayTurnEffect",
+      "effectAddress": "blooming_Battlein_Effect",
+      "targetStockId": 11402
+    }
+  },
+  "806": {
+    "itemId": 21140201,
+    "customJson": {
+      "class": "CustomGetTurnEffect",
+      "effectAddress": "TurnObject_Blooming",
+      "targetStockId": 11402
+    }
+  },
+  "807": {
+    "itemId": 21210101,
+    "customJson": {
+      "class": "CustomPlayTurnEffect",
+      "effectAddress": "blooming_Battlein_Effect",
+      "targetStockId": 12101
+    }
+  },
+  "808": {
+    "itemId": 21210101,
+    "customJson": {
+      "class": "CustomGetTurnEffect",
+      "effectAddress": "TurnObject_Blooming",
+      "targetStockId": 12101
+    }
+  },
+  "809": {
+    "itemId": 21211101,
+    "customJson": {
+      "class": "CustomPlayTurnEffect",
+      "effectAddress": "blooming_Battlein_Effect",
+      "targetStockId": 12111
+    }
+  },
+  "810": {
+    "itemId": 21211101,
+    "customJson": {
+      "class": "CustomGetTurnEffect",
+      "effectAddress": "TurnObject_Blooming",
+      "targetStockId": 12111
+    }
   }
 }

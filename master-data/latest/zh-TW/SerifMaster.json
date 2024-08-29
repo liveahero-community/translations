@@ -7565,6 +7565,78 @@
       "isInHome": false
     }
   ],
+  "11402": [
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 4,
+      "faceType": "c",
+      "serifKey": "SERIF_TSUNEAKIROOKIES2408_PLAYER",
+      "voiceFilename": "",
+      "resourceName": "tsuneakiRookies2408",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 5,
+      "faceType": "",
+      "serifKey": "SERIF_TSUNEAKIROOKIES2408_HERO",
+      "voiceFilename": "",
+      "resourceName": "tsuneakiRookies2408",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 12,
+      "faceType": "b",
+      "serifKey": "SERIF_TSUNEAKIROOKIES2408_TOUCH",
+      "voiceFilename": "",
+      "resourceName": "tsuneakiRookies2408",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 27,
+      "faceType": "c",
+      "serifKey": "SERIF_TSUNEAKIROOKIES2408_EVENTA",
+      "voiceFilename": "",
+      "resourceName": "tsuneakiRookies2408",
+      "isInHome": false
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 28,
+      "faceType": "g",
+      "serifKey": "SERIF_TSUNEAKIROOKIES2408_EVENTB",
+      "voiceFilename": "",
+      "resourceName": "tsuneakiRookies2408",
+      "isInHome": false
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 29,
+      "faceType": "f",
+      "serifKey": "SERIF_TSUNEAKIROOKIES2408_EVENTC",
+      "voiceFilename": "",
+      "resourceName": "tsuneakiRookies2408",
+      "isInHome": false
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 30,
+      "faceType": "c",
+      "serifKey": "SERIF_TSUNEAKIROOKIES2408_EVENTD",
+      "voiceFilename": "",
+      "resourceName": "tsuneakiRookies2408",
+      "isInHome": false
+    }
+  ],
   "11511": [
     {
       "cardType": 1,
@@ -10110,6 +10182,210 @@
       "serifKey": "SERIF_ROUDIN_EVENTD",
       "voiceFilename": null,
       "resourceName": "roudin",
+      "isInHome": false
+    }
+  ],
+  "12101": [
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 4,
+      "faceType": "c",
+      "serifKey": "SERIF_CANES_PLAYER",
+      "voiceFilename": "",
+      "resourceName": "canes",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 5,
+      "faceType": "",
+      "serifKey": "SERIF_CANES_HERO",
+      "voiceFilename": "",
+      "resourceName": "canes",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 12,
+      "faceType": "b",
+      "serifKey": "SERIF_CANES_TOUCH",
+      "voiceFilename": "",
+      "resourceName": "canes",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 3,
+      "faceType": "",
+      "serifKey": "SERIF_CANES_DAILY",
+      "voiceFilename": "",
+      "resourceName": "canes",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 6,
+      "faceType": "e",
+      "serifKey": "SERIF_CANES_RELATION",
+      "voiceFilename": "",
+      "resourceName": "canes",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 11,
+      "faceType": "c",
+      "serifKey": "SERIF_CANES_APPRECIATION",
+      "voiceFilename": "",
+      "resourceName": "canes",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 27,
+      "faceType": "c",
+      "serifKey": "SERIF_CANES_EVENTA",
+      "voiceFilename": "",
+      "resourceName": "canes",
+      "isInHome": false
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 28,
+      "faceType": "",
+      "serifKey": "SERIF_CANES_EVENTB",
+      "voiceFilename": "",
+      "resourceName": "canes",
+      "isInHome": false
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 29,
+      "faceType": "",
+      "serifKey": "SERIF_CANES_EVENTC",
+      "voiceFilename": "",
+      "resourceName": "canes",
+      "isInHome": false
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 30,
+      "faceType": "c",
+      "serifKey": "SERIF_CANES_EVENTD",
+      "voiceFilename": "",
+      "resourceName": "canes",
+      "isInHome": false
+    }
+  ],
+  "12111": [
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 4,
+      "faceType": "e",
+      "serifKey": "SERIF_STERIO_PLAYER",
+      "voiceFilename": "",
+      "resourceName": "sterio",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 5,
+      "faceType": "",
+      "serifKey": "SERIF_STERIO_HERO",
+      "voiceFilename": "",
+      "resourceName": "sterio",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 12,
+      "faceType": "b",
+      "serifKey": "SERIF_STERIO_TOUCH",
+      "voiceFilename": "",
+      "resourceName": "sterio",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 3,
+      "faceType": "",
+      "serifKey": "SERIF_STERIO_DAILY",
+      "voiceFilename": "",
+      "resourceName": "sterio",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 6,
+      "faceType": "f",
+      "serifKey": "SERIF_STERIO_RELATION",
+      "voiceFilename": "",
+      "resourceName": "sterio",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 11,
+      "faceType": "c",
+      "serifKey": "SERIF_STERIO_APPRECIATION",
+      "voiceFilename": "",
+      "resourceName": "sterio",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 27,
+      "faceType": "c",
+      "serifKey": "SERIF_STERIO_EVENTA",
+      "voiceFilename": "",
+      "resourceName": "sterio",
+      "isInHome": false
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 28,
+      "faceType": "",
+      "serifKey": "SERIF_STERIO_EVENTB",
+      "voiceFilename": "",
+      "resourceName": "sterio",
+      "isInHome": false
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 29,
+      "faceType": "",
+      "serifKey": "SERIF_STERIO_EVENTC",
+      "voiceFilename": "",
+      "resourceName": "sterio",
+      "isInHome": false
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 30,
+      "faceType": "c",
+      "serifKey": "SERIF_STERIO_EVENTD",
+      "voiceFilename": "",
+      "resourceName": "sterio",
       "isInHome": false
     }
   ],

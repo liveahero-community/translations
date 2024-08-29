@@ -669,6 +669,24 @@
       "skinName": ""
     }
   ],
+  "10211": [
+    {
+      "cardType": 1,
+      "visualType": 1,
+      "groupId": 1,
+      "isDamage": false,
+      "skinId": 2,
+      "skinName": ""
+    },
+    {
+      "cardType": 1,
+      "visualType": 1,
+      "groupId": 1,
+      "isDamage": true,
+      "skinId": 3,
+      "skinName": ""
+    }
+  ],
   "10221": [
     {
       "cardType": 2,
@@ -1867,6 +1885,48 @@
       "isDamage": false,
       "skinId": 1,
       "skinName": ""
+    },
+    {
+      "cardType": 1,
+      "visualType": 1,
+      "groupId": 1,
+      "isDamage": false,
+      "skinId": 2,
+      "skinName": ""
+    },
+    {
+      "cardType": 1,
+      "visualType": 1,
+      "groupId": 1,
+      "isDamage": true,
+      "skinId": 3,
+      "skinName": ""
+    },
+    {
+      "cardType": 1,
+      "visualType": 1,
+      "groupId": 2,
+      "isDamage": false,
+      "skinId": 4,
+      "skinName": ""
+    }
+  ],
+  "11402": [
+    {
+      "cardType": 1,
+      "visualType": 1,
+      "groupId": 1,
+      "isDamage": false,
+      "skinId": 2,
+      "skinName": ""
+    },
+    {
+      "cardType": 1,
+      "visualType": 1,
+      "groupId": 1,
+      "isDamage": true,
+      "skinId": 3,
+      "skinName": ""
     }
   ],
   "11511": [
@@ -2248,6 +2308,42 @@
       "groupId": 2,
       "isDamage": false,
       "skinId": 2,
+      "skinName": ""
+    }
+  ],
+  "12101": [
+    {
+      "cardType": 1,
+      "visualType": 1,
+      "groupId": 1,
+      "isDamage": false,
+      "skinId": 2,
+      "skinName": ""
+    },
+    {
+      "cardType": 1,
+      "visualType": 1,
+      "groupId": 1,
+      "isDamage": true,
+      "skinId": 3,
+      "skinName": ""
+    },
+    {
+      "cardType": 2,
+      "visualType": 1,
+      "groupId": 1,
+      "isDamage": false,
+      "skinId": 1,
+      "skinName": ""
+    }
+  ],
+  "12111": [
+    {
+      "cardType": 2,
+      "visualType": 1,
+      "groupId": 1,
+      "isDamage": false,
+      "skinId": 1,
       "skinName": ""
     }
   ]

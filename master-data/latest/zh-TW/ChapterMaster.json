@@ -2897,7 +2897,7 @@
     "scoreAttackItemIds": null,
     "conditionChapterId": 0,
     "startAt": null,
-    "endAt": "2024-08-08 14:00:00",
+    "endAt": null,
     "executeLimit": null
   },
   "527": {
@@ -6105,6 +6105,48 @@
     "conditionChapterId": 0,
     "startAt": null,
     "endAt": "2024-08-29 14:00:00",
+    "executeLimit": null
+  },
+  "1132": {
+    "chapterId": 1132,
+    "groupType": 2,
+    "chapterType": 1,
+    "chapterName": "イベントメインクエスト",
+    "subName": "ルーキーズ・サマーフェスタ",
+    "peepingName": "メインクエスト",
+    "sortWeight": 1000,
+    "bannerResourceName": "ui_banner_questchoice_event_Rookies2408_free",
+    "bgResourceName": "ui_bg_sprite_quest_free_Rookies2408",
+    "selectBannerAddress": "banner_chapter_select_main",
+    "helpPrefabAddress": "",
+    "questSelectPrefabAddress": "",
+    "missionGroupId": 0,
+    "scoreAttackStoreId": 0,
+    "scoreAttackItemIds": null,
+    "conditionChapterId": 0,
+    "startAt": null,
+    "endAt": "2024-09-26 14:00:00",
+    "executeLimit": null
+  },
+  "1133": {
+    "chapterId": 1133,
+    "groupType": 2,
+    "chapterType": 1,
+    "chapterName": "イベントフリークエスト",
+    "subName": "ルーキーズ・サマーフェスタ",
+    "peepingName": "フリークエスト",
+    "sortWeight": 1000,
+    "bannerResourceName": "ui_banner_questchoice_event_Rookies2408",
+    "bgResourceName": "ui_bg_sprite_quest_Rookies2408",
+    "selectBannerAddress": "banner_chapter_select_free",
+    "helpPrefabAddress": "",
+    "questSelectPrefabAddress": "",
+    "missionGroupId": 0,
+    "scoreAttackStoreId": 0,
+    "scoreAttackItemIds": null,
+    "conditionChapterId": 0,
+    "startAt": null,
+    "endAt": "2024-09-19 20:00:00",
     "executeLimit": null
   }
 }
