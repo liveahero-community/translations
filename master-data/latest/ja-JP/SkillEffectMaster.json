@@ -84538,7 +84538,7 @@
       "reaminDeath": false,
       "canDuplicate": false,
       "isCountEffect": false,
-      "isCharageEffect": false,
+      "isCharageEffect": true,
       "elapseTurnTiming": [],
       "canDuplicateForce": false,
       "isCountDownEffect": false,
@@ -85915,6 +85915,46 @@
       "isOverrideStatusName": true,
       "overrideStatusDescription": "敵の数が4体の時、90%ダメージ<br>敵の数が3体の時、110%ダメージ<br>敵の数が2体の時、140%ダメージ<br>敵の数が1体の時、180%ダメージ",
       "isDisplayPersistenceStatus": false,
+      "isOverrideStatusDescription": true
+    }
+  },
+  "4682": {
+    "skillEffectId": 4682,
+    "skillEffectJson": {
+      "turn": 0,
+      "count": 0,
+      "effects": [
+        {
+          "class": "DamageLimit",
+          "parameter": {
+            "value": 0
+          }
+        }
+      ],
+      "filename": "status_invincible",
+      "statusId": 121,
+      "canDispel": false,
+      "filterIds": [
+        5
+      ],
+      "parameter": false,
+      "description": "ダメージ無効",
+      "isCountTurn": false,
+      "isImmediate": false,
+      "persistence": true,
+      "reaminDeath": false,
+      "canDuplicate": false,
+      "isCountEffect": false,
+      "isCharageEffect": false,
+      "elapseTurnTiming": [
+        0
+      ],
+      "canDuplicateForce": false,
+      "isCountDownEffect": false,
+      "overrideStatusName": "ダメージ無効",
+      "isOverrideStatusName": true,
+      "overrideStatusDescription": "相手からのダメージを無効化する。",
+      "isDisplayPersistenceStatus": true,
       "isOverrideStatusDescription": true
     }
   }
