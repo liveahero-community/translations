@@ -4,26 +4,68 @@
     "unexploredGroupId": 0,
     "isEasy": false,
     "bannerAddress": "",
+    "hiddenBannerAddress": "",
+    "clearAdvLabel": "",
     "genScore": 50,
     "middleBossScore": 300,
-    "bossScore": 400
+    "bossScore": 400,
+    "hiddenBosses": []
   },
   "2": {
     "unexploredId": 2,
     "unexploredGroupId": 2,
     "isEasy": false,
     "bannerAddress": "ui_banner_event_questbanner_Rogue2307",
+    "hiddenBannerAddress": "",
+    "clearAdvLabel": "",
     "genScore": 50,
     "middleBossScore": 300,
-    "bossScore": 400
+    "bossScore": 400,
+    "hiddenBosses": []
   },
   "3": {
     "unexploredId": 3,
     "unexploredGroupId": 2,
     "isEasy": true,
     "bannerAddress": "ui_banner_event_questbanner_RogueEasy2401",
+    "hiddenBannerAddress": "",
+    "clearAdvLabel": "",
     "genScore": 25,
     "middleBossScore": 150,
-    "bossScore": 200
+    "bossScore": 200,
+    "hiddenBosses": []
+  },
+  "4": {
+    "unexploredId": 4,
+    "unexploredGroupId": 3,
+    "isEasy": false,
+    "bannerAddress": "ui_banner_event_questbanner_Rogue2307",
+    "hiddenBannerAddress": "ui_banner_event_questbanner_Rogue2307_ex",
+    "clearAdvLabel": "unexplored_archaeologist_2",
+    "genScore": 50,
+    "middleBossScore": 300,
+    "bossScore": 400,
+    "hiddenBosses": [
+      {
+        "enemyCardId": 12052,
+        "conditions": [
+          10962,
+          11271,
+          11351
+        ]
+      }
+    ]
+  },
+  "5": {
+    "unexploredId": 5,
+    "unexploredGroupId": 3,
+    "isEasy": true,
+    "bannerAddress": "ui_banner_event_questbanner_RogueEasy2401",
+    "hiddenBannerAddress": "ui_banner_event_questbanner_RogueEasy2401",
+    "clearAdvLabel": "unexplored_archaeologist_2",
+    "genScore": 25,
+    "middleBossScore": 150,
+    "bossScore": 200,
+    "hiddenBosses": []
   }
 }
