@@ -13387,12 +13387,12 @@
   "101": {
     "eventId": 101,
     "chapterId": 1132,
-    "lookBackChapterId": 0,
-    "baseResourceName": "Rookies2408_epilogue",
+    "lookBackChapterId": 533,
+    "baseResourceName": "Rookies2408",
     "questSelectPrefabAddress": "",
     "startAt": null,
     "endAt": "2024-09-26 14:00:00",
-    "canRemember": 0,
+    "canRemember": 1,
     "eventPortalJson": {
       "bg": "ui_bg_sprite_event_Rookies2408",
       "bgm": "bgm_rookies_adv",
@@ -13862,5 +13862,439 @@
     "eventPortalJson": null,
     "roguePortalJson": null,
     "questBonusJsons": []
+  },
+  "104": {
+    "eventId": 104,
+    "chapterId": 1137,
+    "lookBackChapterId": 0,
+    "baseResourceName": "RisingMoon2410",
+    "questSelectPrefabAddress": "",
+    "startAt": "2024-10-08 14:00:00",
+    "endAt": "2024-11-05 14:00:00",
+    "canRemember": 0,
+    "eventPortalJson": {
+      "bg": "ui_bg_sprite_event_RisingMoon2410",
+      "bgm": "bgm_risingmoon_adv",
+      "logo": "RisingMoon2410_title",
+      "terms": [
+        {
+          "keys": [
+            "UI_MAIN_QUEST",
+            "UI_MISSION",
+            "UI_EXCHANGE"
+          ],
+          "endAt": "2024-11-05 14:00:00"
+        },
+        {
+          "keys": [
+            "UI_FREE_QUEST",
+            "UI_SALES"
+          ],
+          "endAt": "2024-11-05 14:00:00"
+        }
+      ],
+      "gachaId": 126,
+      "storeId": 71,
+      "questInfos": [
+        {
+          "type": 5,
+          "chapterId": 1137,
+          "buttonType": 0
+        },
+        {
+          "type": 6,
+          "chapterId": 1138,
+          "buttonType": 1
+        }
+      ],
+      "tutorialKey": "RisingMoon2410",
+      "eventItemIds": [
+        220
+      ],
+      "missionViews": [
+        {
+          "skinId": 0,
+          "stockId": 10732,
+          "cardType": 1,
+          "serifKinds": [
+            29
+          ],
+          "visualType": 1,
+          "serifEntity": [
+            {
+              "priority": 0,
+              "serifKind": 29,
+              "conditions": []
+            },
+            {
+              "priority": 1,
+              "serifKind": 30,
+              "conditions": [
+                {
+                  "class": "MissionClear",
+                  "questId": 0,
+                  "missionIds": [
+                    21944,
+                    21945,
+                    21946,
+                    21948,
+                    21947,
+                    21949,
+                    21950,
+                    21951,
+                    21952,
+                    21953,
+                    21954,
+                    21955,
+                    21956,
+                    21957,
+                    21958,
+                    21959,
+                    21960,
+                    21961,
+                    21962,
+                    21963,
+                    21964,
+                    22014
+                  ],
+                  "isCheckClear": true
+                }
+              ]
+            }
+          ],
+          "resourceName": "pubraseerRisingMoon2410",
+          "characterName": "パブラシア"
+        },
+        {
+          "skinId": 0,
+          "stockId": 12171,
+          "cardType": 2,
+          "serifKinds": [
+            29
+          ],
+          "visualType": 1,
+          "serifEntity": [
+            {
+              "priority": 0,
+              "serifKind": 29,
+              "conditions": []
+            },
+            {
+              "priority": 1,
+              "serifKind": 30,
+              "conditions": [
+                {
+                  "class": "MissionClear",
+                  "questId": 0,
+                  "missionIds": [
+                    21944,
+                    21945,
+                    21946,
+                    21948,
+                    21947,
+                    21949,
+                    21950,
+                    21951,
+                    21952,
+                    21953,
+                    21954,
+                    21955,
+                    21956,
+                    21957,
+                    21958,
+                    21959,
+                    21960,
+                    21961,
+                    21962,
+                    21963,
+                    21964,
+                    22014
+                  ],
+                  "isCheckClear": true
+                }
+              ]
+            }
+          ],
+          "resourceName": "orbiter",
+          "characterName": "オービター"
+        },
+        {
+          "skinId": 0,
+          "stockId": 12181,
+          "cardType": 2,
+          "serifKinds": [
+            29
+          ],
+          "visualType": 1,
+          "serifEntity": [
+            {
+              "priority": 0,
+              "serifKind": 29,
+              "conditions": []
+            },
+            {
+              "priority": 1,
+              "serifKind": 30,
+              "conditions": [
+                {
+                  "class": "MissionClear",
+                  "questId": 0,
+                  "missionIds": [
+                    21944,
+                    21945,
+                    21946,
+                    21948,
+                    21947,
+                    21949,
+                    21950,
+                    21951,
+                    21952,
+                    21953,
+                    21954,
+                    21955,
+                    21956,
+                    21957,
+                    21958,
+                    21959,
+                    21960,
+                    21961,
+                    21962,
+                    21963,
+                    21964,
+                    22014
+                  ],
+                  "isCheckClear": true
+                }
+              ]
+            }
+          ],
+          "resourceName": "yotaro",
+          "characterName": "ヨウタロウ"
+        }
+      ],
+      "portalWindow": "EventPortalWindowRisingMoon2410",
+      "characterViews": [
+        {
+          "skinId": 0,
+          "stockId": 10732,
+          "cardType": 1,
+          "serifKinds": [
+            27,
+            28
+          ],
+          "visualType": 1,
+          "resourceName": "pubraseerRisingMoon2410",
+          "characterName": "パブラシア"
+        },
+        {
+          "skinId": 0,
+          "stockId": 11911,
+          "cardType": 2,
+          "serifKinds": [
+            3,
+            11
+          ],
+          "visualType": 1,
+          "resourceName": "gaisei",
+          "characterName": "ガイセイ"
+        },
+        {
+          "skinId": 0,
+          "stockId": 12171,
+          "cardType": 2,
+          "serifKinds": [
+            27,
+            28
+          ],
+          "visualType": 1,
+          "resourceName": "orbiter",
+          "characterName": "オービター"
+        },
+        {
+          "skinId": 0,
+          "stockId": 12181,
+          "cardType": 2,
+          "serifKinds": [
+            27,
+            28
+          ],
+          "visualType": 1,
+          "resourceName": "yotaro",
+          "characterName": "ヨウタロウ"
+        }
+      ],
+      "salesRegionIds": [
+        244
+      ],
+      "missionGroupIds": [
+        1137,
+        1138
+      ],
+      "missionCategoryButtonLabels": null
+    },
+    "roguePortalJson": null,
+    "questBonusJsons": [
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 220,
+        "bonusValue": 40,
+        "targetStockId": 10732
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 220,
+        "bonusValue": 40,
+        "targetStockId": 11911
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 220,
+        "bonusValue": 30,
+        "targetStockId": 12171
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 220,
+        "bonusValue": 10,
+        "targetStockId": 10731
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 220,
+        "bonusValue": 20,
+        "targetStockId": 11402
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 220,
+        "bonusValue": 20,
+        "targetStockId": 12101
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 220,
+        "bonusValue": 10,
+        "targetStockId": 12111
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 220,
+        "bonusValue": 10,
+        "targetStockId": 10171
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 220,
+        "bonusValue": 10,
+        "targetStockId": 10271
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 220,
+        "bonusValue": 20,
+        "targetStockId": 10251
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 220,
+        "bonusValue": 10,
+        "targetStockId": 10111
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 220,
+        "bonusValue": 30,
+        "targetStockId": 12181
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 220,
+        "bonusValue": 30,
+        "targetStockId": 12171
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 220,
+        "bonusValue": 20,
+        "targetStockId": 11911
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 220,
+        "bonusValue": 10,
+        "targetStockId": 10731
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 220,
+        "bonusValue": 10,
+        "targetStockId": 11401
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 220,
+        "bonusValue": 10,
+        "targetStockId": 12111
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 220,
+        "bonusValue": 10,
+        "targetStockId": 12101
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 220,
+        "bonusValue": 10,
+        "targetStockId": 10171
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 220,
+        "bonusValue": 10,
+        "targetStockId": 10271
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 220,
+        "bonusValue": 10,
+        "targetStockId": 10251
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 220,
+        "bonusValue": 10,
+        "targetStockId": 10111
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 220,
+        "bonusValue": 10,
+        "targetStockId": 19991
+      }
+    ]
   }
 }
