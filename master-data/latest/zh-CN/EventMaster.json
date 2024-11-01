@@ -14309,5 +14309,18 @@
         "targetStockId": 19991
       }
     ]
+  },
+  "105": {
+    "eventId": 105,
+    "chapterId": 1141,
+    "lookBackChapterId": 0,
+    "baseResourceName": "MartialArts2410",
+    "questSelectPrefabAddress": "",
+    "startAt": "2024-11-01 18:00:00",
+    "endAt": "2024-11-14 14:00:00",
+    "canRemember": 0,
+    "eventPortalJson": null,
+    "roguePortalJson": null,
+    "questBonusJsons": []
   }
 }

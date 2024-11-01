@@ -7005,5 +7005,27 @@
     "endAt": "2024-11-05 14:00:00",
     "roguePortalJson": null,
     "executeLimit": null
+  },
+  "1141": {
+    "chapterId": 1141,
+    "groupType": 2,
+    "chapterType": 1,
+    "chapterName": "キャンペーンクエスト",
+    "subName": "武技を競う宴",
+    "peepingName": "武技を競う宴",
+    "sortWeight": 1000,
+    "bannerResourceName": "ui_banner_questchoice_event_RisingMoon2410_highdifficult",
+    "bgResourceName": "ui_bg_sprite_quest_highdifficult_RisingMoon2410",
+    "selectBannerAddress": "",
+    "helpPrefabAddress": "MartialArtsHighDifficultyHelpWindow",
+    "questSelectPrefabAddress": "",
+    "missionGroupId": 0,
+    "scoreAttackStoreId": 0,
+    "scoreAttackItemIds": null,
+    "conditionChapterId": 0,
+    "startAt": "2024-11-01 18:00:00",
+    "endAt": "2024-11-14 14:00:00",
+    "roguePortalJson": null,
+    "executeLimit": null
   }
 }
