@@ -7410,5 +7410,115 @@
       "effectAddress": "TurnObject_Blooming",
       "targetStockId": 12171
     }
+  },
+  "829": {
+    "itemId": 11051201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": true,
+      "slotName": "off/mask2",
+      "targetStockId": 10512,
+      "attachmentName": "off/mask2"
+    }
+  },
+  "830": {
+    "itemId": 11051201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": true,
+      "slotName": "off/mask",
+      "targetStockId": 10512,
+      "attachmentName": "off/mask"
+    }
+  },
+  "831": {
+    "itemId": 11051201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": true,
+      "slotName": "off/mask_feather2",
+      "targetStockId": 10512,
+      "attachmentName": "off/mask_feather2"
+    }
+  },
+  "832": {
+    "itemId": 11051201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": true,
+      "slotName": "off/mask_feather",
+      "targetStockId": 10512,
+      "attachmentName": "off/mask_feather"
+    }
+  },
+  "833": {
+    "itemId": 11189101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att_feather",
+      "targetStockId": 11891,
+      "attachmentName": "att_feather"
+    }
+  },
+  "834": {
+    "itemId": 11189101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att_Lmask",
+      "targetStockId": 11891,
+      "attachmentName": "att_Lmask"
+    }
+  },
+  "835": {
+    "itemId": 11189101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att_Rmask",
+      "targetStockId": 11891,
+      "attachmentName": "att_Rmask"
+    }
+  },
+  "836": {
+    "itemId": 11190101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att/att_cap_edgefront",
+      "targetStockId": 11901,
+      "attachmentName": "att/att_cap_edgefront"
+    }
+  },
+  "837": {
+    "itemId": 11190101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att/att_cap_front",
+      "targetStockId": 11901,
+      "attachmentName": "att/att_cap_front"
+    }
+  },
+  "838": {
+    "itemId": 11190101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att/att_cap_frontback",
+      "targetStockId": 11901,
+      "attachmentName": "att/att_cap_frontback"
+    }
+  },
+  "839": {
+    "itemId": 11190101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att/att_cap_edgeback",
+      "targetStockId": 11901,
+      "attachmentName": "att/att_cap_edgeback"
+    }
   }
 }
