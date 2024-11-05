@@ -88463,9 +88463,30 @@
         "isBannerDisplay": false
       }
     ],
-    "enemies": [],
+    "enemies": [
+      {
+        "battleInfoIcon": "icon_kaibutsuLarvaEarth_h01",
+        "battleInfoElement": 3,
+        "battleInfoSpd": 95
+      },
+      {
+        "battleInfoIcon": "icon_kaibutsuLarvaLight_h01",
+        "battleInfoElement": 4,
+        "battleInfoSpd": 95
+      },
+      {
+        "battleInfoIcon": "icon_kaibutsuLarvaEarth_h01",
+        "battleInfoElement": 3,
+        "battleInfoSpd": 95
+      },
+      {
+        "battleInfoIcon": "icon_kaibutsuEngineLarvaShadowRisingMoon4_h01",
+        "battleInfoElement": 5,
+        "battleInfoSpd": 115
+      }
+    ],
     "hasAdv": true,
-    "hasBattle": false,
+    "hasBattle": true,
     "hasStockBattle": false,
     "hasScoreAttack": false,
     "boostItems": [],
@@ -163816,7 +163837,7 @@
     "canNotContinue": false,
     "canNotGetFriendPoint": false,
     "canNotAuto": false,
-    "canRestart": false,
+    "canRestart": true,
     "canSavePreviousTeam": true,
     "rewards": [
       {
@@ -163865,7 +163886,7 @@
     "canNotContinue": false,
     "canNotGetFriendPoint": false,
     "canNotAuto": false,
-    "canRestart": false,
+    "canRestart": true,
     "canSavePreviousTeam": true,
     "rewards": [
       {
@@ -163943,7 +163964,7 @@
     "canNotContinue": false,
     "canNotGetFriendPoint": false,
     "canNotAuto": false,
-    "canRestart": false,
+    "canRestart": true,
     "canSavePreviousTeam": true,
     "rewards": [
       {
@@ -164016,7 +164037,7 @@
     "canNotContinue": false,
     "canNotGetFriendPoint": false,
     "canNotAuto": false,
-    "canRestart": false,
+    "canRestart": true,
     "canSavePreviousTeam": true,
     "rewards": [
       {
@@ -164099,7 +164120,7 @@
     "canNotContinue": false,
     "canNotGetFriendPoint": false,
     "canNotAuto": false,
-    "canRestart": false,
+    "canRestart": true,
     "canSavePreviousTeam": true,
     "rewards": [
       {
@@ -164182,7 +164203,7 @@
     "canNotContinue": false,
     "canNotGetFriendPoint": false,
     "canNotAuto": false,
-    "canRestart": false,
+    "canRestart": true,
     "canSavePreviousTeam": true,
     "rewards": [
       {
@@ -164270,7 +164291,7 @@
     "canNotContinue": false,
     "canNotGetFriendPoint": false,
     "canNotAuto": false,
-    "canRestart": false,
+    "canRestart": true,
     "canSavePreviousTeam": true,
     "rewards": [
       {
@@ -164353,7 +164374,7 @@
     "canNotContinue": false,
     "canNotGetFriendPoint": false,
     "canNotAuto": false,
-    "canRestart": false,
+    "canRestart": true,
     "canSavePreviousTeam": true,
     "rewards": [
       {
