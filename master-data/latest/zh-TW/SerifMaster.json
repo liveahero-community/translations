@@ -2243,6 +2243,78 @@
       "isInHome": true
     }
   ],
+  "10222": [
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 4,
+      "faceType": "c",
+      "serifKey": "SERIF_ISARIBIBATTLESHIP2411_PLAYER",
+      "voiceFilename": "",
+      "resourceName": "isaribiBattleShip2411",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 5,
+      "faceType": "",
+      "serifKey": "SERIF_ISARIBIBATTLESHIP2411_HERO",
+      "voiceFilename": "",
+      "resourceName": "isaribiBattleShip2411",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 12,
+      "faceType": "b",
+      "serifKey": "SERIF_ISARIBIBATTLESHIP2411_TOUCH",
+      "voiceFilename": "",
+      "resourceName": "isaribiBattleShip2411",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 27,
+      "faceType": "",
+      "serifKey": "SERIF_ISARIBIBATTLESHIP2411_EVENTA",
+      "voiceFilename": "",
+      "resourceName": "isaribiBattleShip2411",
+      "isInHome": false
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 28,
+      "faceType": "c",
+      "serifKey": "SERIF_ISARIBIBATTLESHIP2411_EVENTB",
+      "voiceFilename": "",
+      "resourceName": "isaribiBattleShip2411",
+      "isInHome": false
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 29,
+      "faceType": "",
+      "serifKey": "SERIF_ISARIBIBATTLESHIP2411_EVENTC",
+      "voiceFilename": "",
+      "resourceName": "isaribiBattleShip2411",
+      "isInHome": false
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 30,
+      "faceType": "c",
+      "serifKey": "SERIF_ISARIBIBATTLESHIP2411_EVENTD",
+      "voiceFilename": "",
+      "resourceName": "isaribiBattleShip2411",
+      "isInHome": false
+    }
+  ],
   "10231": [
     {
       "cardType": 2,
@@ -10794,6 +10866,210 @@
       "serifKey": "SERIF_YOTARO_EVENTD",
       "voiceFilename": "",
       "resourceName": "yotaro",
+      "isInHome": false
+    }
+  ],
+  "12291": [
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 4,
+      "faceType": "c",
+      "serifKey": "SERIF_KILOC_PLAYER",
+      "voiceFilename": "",
+      "resourceName": "kiloc",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 5,
+      "faceType": "",
+      "serifKey": "SERIF_KILOC_HERO",
+      "voiceFilename": "",
+      "resourceName": "kiloc",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 12,
+      "faceType": "b",
+      "serifKey": "SERIF_KILOC_TOUCH",
+      "voiceFilename": "",
+      "resourceName": "kiloc",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 3,
+      "faceType": "b",
+      "serifKey": "SERIF_KILOC_DAILY",
+      "voiceFilename": "",
+      "resourceName": "kiloc",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 6,
+      "faceType": "e",
+      "serifKey": "SERIF_KILOC_RELATION",
+      "voiceFilename": "",
+      "resourceName": "kiloc",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 11,
+      "faceType": "",
+      "serifKey": "SERIF_KILOC_APPRECIATION",
+      "voiceFilename": "",
+      "resourceName": "kiloc",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 27,
+      "faceType": "",
+      "serifKey": "SERIF_KILOC_EVENTA",
+      "voiceFilename": "",
+      "resourceName": "kiloc",
+      "isInHome": false
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 28,
+      "faceType": "g",
+      "serifKey": "SERIF_KILOC_EVENTB",
+      "voiceFilename": "",
+      "resourceName": "kiloc",
+      "isInHome": false
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 29,
+      "faceType": "",
+      "serifKey": "SERIF_KILOC_EVENTC",
+      "voiceFilename": "",
+      "resourceName": "kiloc",
+      "isInHome": false
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 30,
+      "faceType": "c",
+      "serifKey": "SERIF_KILOC_EVENTD",
+      "voiceFilename": "",
+      "resourceName": "kiloc",
+      "isInHome": false
+    }
+  ],
+  "12301": [
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 4,
+      "faceType": "c",
+      "serifKey": "SERIF_JOEZEN_PLAYER",
+      "voiceFilename": "",
+      "resourceName": "joezen",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 5,
+      "faceType": "",
+      "serifKey": "SERIF_JOEZEN_HERO",
+      "voiceFilename": "",
+      "resourceName": "joezen",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 12,
+      "faceType": "b",
+      "serifKey": "SERIF_JOEZEN_TOUCH",
+      "voiceFilename": "",
+      "resourceName": "joezen",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 3,
+      "faceType": "c",
+      "serifKey": "SERIF_JOEZEN_DAILY",
+      "voiceFilename": "",
+      "resourceName": "joezen",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 6,
+      "faceType": "e",
+      "serifKey": "SERIF_JOEZEN_RELATION",
+      "voiceFilename": "",
+      "resourceName": "joezen",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 11,
+      "faceType": "",
+      "serifKey": "SERIF_JOEZEN_APPRECIATION",
+      "voiceFilename": "",
+      "resourceName": "joezen",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 27,
+      "faceType": "",
+      "serifKey": "SERIF_JOEZEN_EVENTA",
+      "voiceFilename": "",
+      "resourceName": "joezen",
+      "isInHome": false
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 28,
+      "faceType": "g",
+      "serifKey": "SERIF_JOEZEN_EVENTB",
+      "voiceFilename": "",
+      "resourceName": "joezen",
+      "isInHome": false
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 29,
+      "faceType": "",
+      "serifKey": "SERIF_JOEZEN_EVENTC",
+      "voiceFilename": "",
+      "resourceName": "joezen",
+      "isInHome": false
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 30,
+      "faceType": "c",
+      "serifKey": "SERIF_JOEZEN_EVENTD",
+      "voiceFilename": "",
+      "resourceName": "joezen",
       "isInHome": false
     }
   ],

@@ -7520,5 +7520,53 @@
       "targetStockId": 11901,
       "attachmentName": "att/att_cap_edgeback"
     }
+  },
+  "846": {
+    "itemId": 21022201,
+    "customJson": {
+      "class": "CustomPlayTurnEffect",
+      "effectAddress": "blooming_Battlein_Effect",
+      "targetStockId": 10222
+    }
+  },
+  "847": {
+    "itemId": 21022201,
+    "customJson": {
+      "class": "CustomGetTurnEffect",
+      "effectAddress": "TurnObject_Blooming",
+      "targetStockId": 10222
+    }
+  },
+  "848": {
+    "itemId": 21229101,
+    "customJson": {
+      "class": "CustomPlayTurnEffect",
+      "effectAddress": "blooming_Battlein_Effect",
+      "targetStockId": 12291
+    }
+  },
+  "849": {
+    "itemId": 21229101,
+    "customJson": {
+      "class": "CustomGetTurnEffect",
+      "effectAddress": "TurnObject_Blooming",
+      "targetStockId": 12291
+    }
+  },
+  "850": {
+    "itemId": 21230101,
+    "customJson": {
+      "class": "CustomPlayTurnEffect",
+      "effectAddress": "blooming_Battlein_Effect",
+      "targetStockId": 12301
+    }
+  },
+  "851": {
+    "itemId": 21230101,
+    "customJson": {
+      "class": "CustomGetTurnEffect",
+      "effectAddress": "TurnObject_Blooming",
+      "targetStockId": 12301
+    }
   }
 }

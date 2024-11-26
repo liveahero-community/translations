@@ -8110,12 +8110,12 @@
   "68": {
     "eventId": 68,
     "chapterId": 1073,
-    "lookBackChapterId": 0,
+    "lookBackChapterId": 527,
     "baseResourceName": "Masquerade2310",
     "questSelectPrefabAddress": "",
     "startAt": "2023-10-26 14:00:00",
     "endAt": "2023-11-30 14:00:00",
-    "canRemember": 0,
+    "canRemember": 1,
     "eventPortalJson": {
       "bg": "ui_bg_sprite_event_Masquerade2310",
       "bgm": "bgm_masquerade_adv",
@@ -14826,5 +14826,438 @@
     "eventPortalJson": null,
     "roguePortalJson": null,
     "questBonusJsons": []
+  },
+  "109": {
+    "eventId": 109,
+    "chapterId": 1146,
+    "lookBackChapterId": 0,
+    "baseResourceName": "BattleShip2411",
+    "questSelectPrefabAddress": "",
+    "startAt": null,
+    "endAt": "2024-12-24 14:00:00",
+    "canRemember": 0,
+    "eventPortalJson": {
+      "bg": "ui_bg_sprite_event_BattleShip2411",
+      "bgm": "bgm_battleship_battle1_short",
+      "logo": "BattleShip2411_title",
+      "terms": [
+        {
+          "keys": [
+            "UI_MAIN_QUEST",
+            "UI_MISSION",
+            "UI_EXCHANGE"
+          ],
+          "endAt": "2024-12-24 14:00:00"
+        },
+        {
+          "keys": [
+            "UI_FREE_QUEST",
+            "UI_SALES"
+          ],
+          "endAt": "2024-12-17 20:00:00"
+        }
+      ],
+      "gachaId": 130,
+      "storeId": 73,
+      "questInfos": [
+        {
+          "type": 5,
+          "chapterId": 1146,
+          "buttonType": 0
+        },
+        {
+          "type": 6,
+          "chapterId": 1147,
+          "buttonType": 1
+        }
+      ],
+      "tutorialKey": "BattleShip2411",
+      "eventItemIds": [
+        225
+      ],
+      "missionViews": [
+        {
+          "skinId": 0,
+          "stockId": 10222,
+          "cardType": 1,
+          "serifKinds": [
+            29
+          ],
+          "visualType": 1,
+          "serifEntity": [
+            {
+              "priority": 0,
+              "serifKind": 29,
+              "conditions": []
+            },
+            {
+              "priority": 1,
+              "serifKind": 30,
+              "conditions": [
+                {
+                  "class": "MissionClear",
+                  "questId": 0,
+                  "missionIds": [
+                    22052,
+                    22053,
+                    22054,
+                    22055,
+                    22056,
+                    22057,
+                    22058,
+                    22059,
+                    22060,
+                    22061,
+                    22062,
+                    22063,
+                    22064,
+                    22065,
+                    22066,
+                    22067,
+                    22068,
+                    22069,
+                    22070,
+                    22071,
+                    22072
+                  ],
+                  "isCheckClear": true
+                }
+              ]
+            }
+          ],
+          "resourceName": "isaribiBattleShip2411",
+          "characterName": "イサリビ"
+        },
+        {
+          "skinId": 0,
+          "stockId": 12291,
+          "cardType": 2,
+          "serifKinds": [
+            29
+          ],
+          "visualType": 1,
+          "serifEntity": [
+            {
+              "priority": 0,
+              "serifKind": 29,
+              "conditions": []
+            },
+            {
+              "priority": 1,
+              "serifKind": 30,
+              "conditions": [
+                {
+                  "class": "MissionClear",
+                  "questId": 0,
+                  "missionIds": [
+                    22052,
+                    22053,
+                    22054,
+                    22055,
+                    22056,
+                    22057,
+                    22058,
+                    22059,
+                    22060,
+                    22061,
+                    22062,
+                    22063,
+                    22064,
+                    22065,
+                    22066,
+                    22067,
+                    22068,
+                    22069,
+                    22070,
+                    22071,
+                    22072
+                  ],
+                  "isCheckClear": true
+                }
+              ]
+            }
+          ],
+          "resourceName": "kiloc",
+          "characterName": "キロク"
+        },
+        {
+          "skinId": 0,
+          "stockId": 12301,
+          "cardType": 2,
+          "serifKinds": [
+            29
+          ],
+          "visualType": 1,
+          "serifEntity": [
+            {
+              "priority": 0,
+              "serifKind": 29,
+              "conditions": []
+            },
+            {
+              "priority": 1,
+              "serifKind": 30,
+              "conditions": [
+                {
+                  "class": "MissionClear",
+                  "questId": 0,
+                  "missionIds": [
+                    22052,
+                    22053,
+                    22054,
+                    22055,
+                    22056,
+                    22057,
+                    22058,
+                    22059,
+                    22060,
+                    22061,
+                    22062,
+                    22063,
+                    22064,
+                    22065,
+                    22066,
+                    22067,
+                    22068,
+                    22069,
+                    22070,
+                    22071,
+                    22072
+                  ],
+                  "isCheckClear": true
+                }
+              ]
+            }
+          ],
+          "resourceName": "joezen",
+          "characterName": "ジョウゼン"
+        }
+      ],
+      "portalWindow": "EventPortalWindowBattleShip2411",
+      "characterViews": [
+        {
+          "skinId": 0,
+          "stockId": 10222,
+          "cardType": 1,
+          "serifKinds": [
+            27,
+            28
+          ],
+          "visualType": 1,
+          "resourceName": "isaribiBattleShip2411",
+          "characterName": "イサリビ"
+        },
+        {
+          "skinId": 0,
+          "stockId": 12291,
+          "cardType": 2,
+          "serifKinds": [
+            27,
+            28
+          ],
+          "visualType": 1,
+          "resourceName": "kiloc",
+          "characterName": "キロク"
+        },
+        {
+          "skinId": 0,
+          "stockId": 12301,
+          "cardType": 2,
+          "serifKinds": [
+            27,
+            28
+          ],
+          "visualType": 1,
+          "resourceName": "joezen",
+          "characterName": "ジョウゼン"
+        }
+      ],
+      "salesRegionIds": [
+        246
+      ],
+      "missionGroupIds": [
+        1146,
+        1147
+      ],
+      "missionCategoryButtonLabels": null
+    },
+    "roguePortalJson": null,
+    "questBonusJsons": [
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 225,
+        "bonusValue": 30,
+        "targetStockId": 12301
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 225,
+        "bonusValue": 20,
+        "targetStockId": 12291
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 225,
+        "bonusValue": 10,
+        "targetStockId": 10221
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 225,
+        "bonusValue": 10,
+        "targetStockId": 11901
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 225,
+        "bonusValue": 10,
+        "targetStockId": 11891
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 225,
+        "bonusValue": 10,
+        "targetStockId": 10511
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 225,
+        "bonusValue": 10,
+        "targetStockId": 10181
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 225,
+        "bonusValue": 10,
+        "targetStockId": 11241
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 225,
+        "bonusValue": 10,
+        "targetStockId": 11281
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 225,
+        "bonusValue": 10,
+        "targetStockId": 11511
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 225,
+        "bonusValue": 10,
+        "targetStockId": 10531
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 225,
+        "bonusValue": 10,
+        "targetStockId": 19991
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 225,
+        "bonusValue": 40,
+        "targetStockId": 10222
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 225,
+        "bonusValue": 40,
+        "targetStockId": 12291
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 225,
+        "bonusValue": 30,
+        "targetStockId": 12301
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 225,
+        "bonusValue": 10,
+        "targetStockId": 10221
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 225,
+        "bonusValue": 20,
+        "targetStockId": 11891
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 225,
+        "bonusValue": 20,
+        "targetStockId": 10512
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 225,
+        "bonusValue": 10,
+        "targetStockId": 11901
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 225,
+        "bonusValue": 20,
+        "targetStockId": 10182
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 225,
+        "bonusValue": 20,
+        "targetStockId": 10181
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 225,
+        "bonusValue": 20,
+        "targetStockId": 11241
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 225,
+        "bonusValue": 20,
+        "targetStockId": 11511
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 225,
+        "bonusValue": 10,
+        "targetStockId": 11281
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 225,
+        "bonusValue": 10,
+        "targetStockId": 10531
+      }
+    ]
   }
 }
