@@ -7203,5 +7203,27 @@
     "endAt": "2024-12-17 20:00:00",
     "roguePortalJson": null,
     "executeLimit": null
+  },
+  "1149": {
+    "chapterId": 1149,
+    "groupType": 8,
+    "chapterType": 1,
+    "chapterName": "チャレンジクエスト",
+    "subName": "バトルシップ・フィッシャーズ",
+    "peepingName": "チャレンジクエスト",
+    "sortWeight": 1000,
+    "bannerResourceName": "ui_banner_questchoice_event_BattleShip2411_highdifficult",
+    "bgResourceName": "ui_bg_sprite_quest_highdifficult_BattleShip2411",
+    "selectBannerAddress": "banner_chapter_select_challenge",
+    "helpPrefabAddress": "",
+    "questSelectPrefabAddress": "",
+    "missionGroupId": 0,
+    "scoreAttackStoreId": 0,
+    "scoreAttackItemIds": null,
+    "conditionChapterId": 0,
+    "startAt": "2024-12-03 18:00:00",
+    "endAt": "2024-12-24 14:00:00",
+    "roguePortalJson": null,
+    "executeLimit": null
   }
 }
