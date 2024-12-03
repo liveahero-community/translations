@@ -14845,7 +14845,8 @@
           "keys": [
             "UI_MAIN_QUEST",
             "UI_MISSION",
-            "UI_EXCHANGE"
+            "UI_EXCHANGE",
+            "UI_CHALLENGE_QUEST"
           ],
           "endAt": "2024-12-24 14:00:00"
         },
@@ -14868,6 +14869,11 @@
         {
           "type": 6,
           "chapterId": 1147,
+          "buttonType": 1
+        },
+        {
+          "type": 6,
+          "chapterId": 1149,
           "buttonType": 1
         }
       ],
@@ -15077,7 +15083,8 @@
       ],
       "missionGroupIds": [
         1146,
-        1147
+        1147,
+        1149
       ],
       "missionCategoryButtonLabels": null
     },
