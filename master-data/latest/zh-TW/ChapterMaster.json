@@ -7204,6 +7204,28 @@
     "roguePortalJson": null,
     "executeLimit": null
   },
+  "1148": {
+    "chapterId": 1148,
+    "groupType": 2,
+    "chapterType": 1,
+    "chapterName": "エピローグクエスト",
+    "subName": "バトルシップ・フィッシャーズ",
+    "peepingName": "エピローグクエスト",
+    "sortWeight": 1000,
+    "bannerResourceName": "ui_banner_questchoice_event_BattleShip2411_epilogue",
+    "bgResourceName": "ui_bg_sprite_quest_epilogue_BattleShip2411",
+    "selectBannerAddress": "banner_chapter_select_epilogue",
+    "helpPrefabAddress": "",
+    "questSelectPrefabAddress": "",
+    "missionGroupId": 0,
+    "scoreAttackStoreId": 0,
+    "scoreAttackItemIds": null,
+    "conditionChapterId": 0,
+    "startAt": "2024-12-17 18:00:00",
+    "endAt": "2024-12-24 14:00:00",
+    "roguePortalJson": null,
+    "executeLimit": null
+  },
   "1149": {
     "chapterId": 1149,
     "groupType": 8,
