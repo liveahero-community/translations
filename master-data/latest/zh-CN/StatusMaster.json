@@ -268,7 +268,7 @@
     "statusName": "炸裂",
     "isGoodStatus": 0,
     "statusType": 0,
-    "limitCount": -1,
+    "limitCount": 5,
     "description": "ダメージを受けたときに炸裂の作成者のATK基础値の40%のダメージを受ける。"
   },
   "35": {
@@ -2433,7 +2433,7 @@
   },
   "310": {
     "statusId": 310,
-    "statusName": "誘導",
+    "statusName": "诱导",
     "isGoodStatus": 0,
     "statusType": 0,
     "limitCount": -1,
