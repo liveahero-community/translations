@@ -7269,6 +7269,78 @@
       "isInHome": false
     }
   ],
+  "11242": [
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 4,
+      "faceType": "c",
+      "serifKey": "SERIF_GIANSARLIGHTYEARS2412_PLAYER",
+      "voiceFilename": "",
+      "resourceName": "giansarLightYears2412",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 5,
+      "faceType": "e",
+      "serifKey": "SERIF_GIANSARLIGHTYEARS2412_HERO",
+      "voiceFilename": "",
+      "resourceName": "giansarLightYears2412",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 12,
+      "faceType": "d",
+      "serifKey": "SERIF_GIANSARLIGHTYEARS2412_TOUCH",
+      "voiceFilename": "",
+      "resourceName": "giansarLightYears2412",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 27,
+      "faceType": "e",
+      "serifKey": "SERIF_GIANSARLIGHTYEARS2412_EVENTA",
+      "voiceFilename": "",
+      "resourceName": "giansarLightYears2412",
+      "isInHome": false
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 28,
+      "faceType": "",
+      "serifKey": "SERIF_GIANSARLIGHTYEARS2412_EVENTB",
+      "voiceFilename": "",
+      "resourceName": "giansarLightYears2412",
+      "isInHome": false
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 29,
+      "faceType": "d",
+      "serifKey": "SERIF_GIANSARLIGHTYEARS2412_EVENTC",
+      "voiceFilename": "",
+      "resourceName": "giansarLightYears2412",
+      "isInHome": false
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 30,
+      "faceType": "b",
+      "serifKey": "SERIF_GIANSARLIGHTYEARS2412_EVENTD",
+      "voiceFilename": "",
+      "resourceName": "giansarLightYears2412",
+      "isInHome": false
+    }
+  ],
   "11251": [
     {
       "cardType": 1,
@@ -11070,6 +11142,210 @@
       "serifKey": "SERIF_JOEZEN_EVENTD",
       "voiceFilename": "",
       "resourceName": "joezen",
+      "isInHome": false
+    }
+  ],
+  "12361": [
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 4,
+      "faceType": "c",
+      "serifKey": "SERIF_ALEND_PLAYER",
+      "voiceFilename": "",
+      "resourceName": "alend",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 5,
+      "faceType": "",
+      "serifKey": "SERIF_ALEND_HERO",
+      "voiceFilename": "",
+      "resourceName": "alend",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 12,
+      "faceType": "g",
+      "serifKey": "SERIF_ALEND_TOUCH",
+      "voiceFilename": "",
+      "resourceName": "alend",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 3,
+      "faceType": "c",
+      "serifKey": "SERIF_ALEND_DAILY",
+      "voiceFilename": "",
+      "resourceName": "alend",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 6,
+      "faceType": "",
+      "serifKey": "SERIF_ALEND_RELATION",
+      "voiceFilename": "",
+      "resourceName": "alend",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 11,
+      "faceType": "",
+      "serifKey": "SERIF_ALEND_APPRECIATION",
+      "voiceFilename": "",
+      "resourceName": "alend",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 27,
+      "faceType": "",
+      "serifKey": "SERIF_ALEND_EVENTA",
+      "voiceFilename": "",
+      "resourceName": "alend",
+      "isInHome": false
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 28,
+      "faceType": "e",
+      "serifKey": "SERIF_ALEND_EVENTB",
+      "voiceFilename": "",
+      "resourceName": "alend",
+      "isInHome": false
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 29,
+      "faceType": "",
+      "serifKey": "SERIF_ALEND_EVENTC",
+      "voiceFilename": "",
+      "resourceName": "alend",
+      "isInHome": false
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 30,
+      "faceType": "c",
+      "serifKey": "SERIF_ALEND_EVENTD",
+      "voiceFilename": "",
+      "resourceName": "alend",
+      "isInHome": false
+    }
+  ],
+  "12371": [
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 4,
+      "faceType": "c",
+      "serifKey": "SERIF_SENTHAK_PLAYER",
+      "voiceFilename": "",
+      "resourceName": "senthak",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 5,
+      "faceType": "f",
+      "serifKey": "SERIF_SENTHAK_HERO",
+      "voiceFilename": "",
+      "resourceName": "senthak",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 12,
+      "faceType": "h",
+      "serifKey": "SERIF_SENTHAK_TOUCH",
+      "voiceFilename": "",
+      "resourceName": "senthak",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 3,
+      "faceType": "h",
+      "serifKey": "SERIF_SENTHAK_DAILY",
+      "voiceFilename": "",
+      "resourceName": "senthak",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 6,
+      "faceType": "c",
+      "serifKey": "SERIF_SENTHAK_RELATION",
+      "voiceFilename": "",
+      "resourceName": "senthak",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 11,
+      "faceType": "e",
+      "serifKey": "SERIF_SENTHAK_APPRECIATION",
+      "voiceFilename": "",
+      "resourceName": "senthak",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 27,
+      "faceType": "",
+      "serifKey": "SERIF_SENTHAK_EVENTA",
+      "voiceFilename": "",
+      "resourceName": "senthak",
+      "isInHome": false
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 28,
+      "faceType": "c",
+      "serifKey": "SERIF_SENTHAK_EVENTB",
+      "voiceFilename": "",
+      "resourceName": "senthak",
+      "isInHome": false
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 29,
+      "faceType": "",
+      "serifKey": "SERIF_SENTHAK_EVENTC",
+      "voiceFilename": "",
+      "resourceName": "senthak",
+      "isInHome": false
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 30,
+      "faceType": "c",
+      "serifKey": "SERIF_SENTHAK_EVENTD",
+      "voiceFilename": "",
+      "resourceName": "senthak",
       "isInHome": false
     }
   ],
