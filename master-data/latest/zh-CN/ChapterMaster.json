@@ -7313,5 +7313,27 @@
     "endAt": "2025-01-16 20:00:00",
     "roguePortalJson": null,
     "executeLimit": null
+  },
+  "1153": {
+    "chapterId": 1153,
+    "groupType": 8,
+    "chapterType": 1,
+    "chapterName": "チャレンジクエスト",
+    "subName": "ライトイヤーズ・イルミネーション",
+    "peepingName": "チャレンジクエスト",
+    "sortWeight": 1000,
+    "bannerResourceName": "ui_banner_questchoice_event_LightYears2412_highdifficult",
+    "bgResourceName": "ui_bg_sprite_quest_highdifficult_LightYears2412",
+    "selectBannerAddress": "banner_chapter_select_challenge",
+    "helpPrefabAddress": "",
+    "questSelectPrefabAddress": "",
+    "missionGroupId": 0,
+    "scoreAttackStoreId": 0,
+    "scoreAttackItemIds": null,
+    "conditionChapterId": 0,
+    "startAt": "2024-12-30 18:00:00",
+    "endAt": "2025-01-23 14:00:00",
+    "roguePortalJson": null,
+    "executeLimit": null
   }
 }
