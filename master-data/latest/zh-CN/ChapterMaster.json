@@ -7335,5 +7335,27 @@
     "endAt": "2025-01-23 14:00:00",
     "roguePortalJson": null,
     "executeLimit": null
+  },
+  "1154": {
+    "chapterId": 1154,
+    "groupType": 2,
+    "chapterType": 1,
+    "chapterName": "イベントメインクエスト",
+    "subName": "迎春・京洛訪問記",
+    "peepingName": "謹賀新年<br>メインクエスト",
+    "sortWeight": 1000,
+    "bannerResourceName": "ui_banner_questchoice_event_Rakusai2304",
+    "bgResourceName": "ui_bg_sprite_quest_Rakusai2304",
+    "selectBannerAddress": "banner_chapter_select_main",
+    "helpPrefabAddress": "",
+    "questSelectPrefabAddress": "",
+    "missionGroupId": 0,
+    "scoreAttackStoreId": 0,
+    "scoreAttackItemIds": null,
+    "conditionChapterId": 0,
+    "startAt": null,
+    "endAt": "2025-01-16 20:00:00",
+    "roguePortalJson": null,
+    "executeLimit": null
   }
 }

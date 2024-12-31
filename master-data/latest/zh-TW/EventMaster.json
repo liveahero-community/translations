@@ -15279,7 +15279,7 @@
     "lookBackChapterId": 0,
     "baseResourceName": "LightYears2412",
     "questSelectPrefabAddress": "",
-    "startAt": null,
+    "startAt": "2024-12-24 20:00:00",
     "endAt": "2025-01-23 14:00:00",
     "canRemember": 0,
     "eventPortalJson": {
@@ -15719,5 +15719,99 @@
         "targetStockId": 10821
       }
     ]
+  },
+  "111": {
+    "eventId": 111,
+    "chapterId": 1154,
+    "lookBackChapterId": 0,
+    "baseResourceName": "NewYear2501",
+    "questSelectPrefabAddress": "",
+    "startAt": "2024-12-31 14:00:00",
+    "endAt": "2025-01-16 20:00:00",
+    "canRemember": 0,
+    "eventPortalJson": {
+      "bg": "ui_bg_sprite_event_NewYear2301",
+      "bgm": "bgm_main",
+      "logo": "NewYear2501_title",
+      "terms": [
+        {
+          "keys": [
+            "UI_MAIN_QUEST",
+            "UI_LIMITED_LOGIN_BONUS"
+          ],
+          "endAt": "2025-01-16 20:00:00"
+        },
+        {
+          "keys": [
+            "UI_LIMITED_GACHA"
+          ],
+          "endAt": "2025-01-23 14:00:00"
+        }
+      ],
+      "gachaId": 136,
+      "storeId": 0,
+      "questInfos": [
+        {
+          "type": 5,
+          "chapterId": 1154,
+          "buttonType": 0
+        }
+      ],
+      "tutorialKey": "",
+      "eventItemIds": [],
+      "missionViews": [],
+      "portalWindow": "WideTermEventPortalWindowNewYear2501",
+      "characterViews": [
+        {
+          "skinId": 2,
+          "stockId": 10101,
+          "cardType": 2,
+          "serifKinds": [
+            27
+          ],
+          "visualType": 1,
+          "resourceName": "kyoichi",
+          "characterName": "キョウイチ"
+        },
+        {
+          "skinId": 2,
+          "stockId": 10261,
+          "cardType": 2,
+          "serifKinds": [
+            27
+          ],
+          "visualType": 1,
+          "resourceName": "alchiba",
+          "characterName": "アルキバ"
+        },
+        {
+          "skinId": 2,
+          "stockId": 11121,
+          "cardType": 2,
+          "serifKinds": [
+            28
+          ],
+          "visualType": 1,
+          "resourceName": "santetsu",
+          "characterName": "サンテツ"
+        },
+        {
+          "skinId": 2,
+          "stockId": 11131,
+          "cardType": 2,
+          "serifKinds": [
+            28
+          ],
+          "visualType": 1,
+          "resourceName": "roiker",
+          "characterName": "ロイカー"
+        }
+      ],
+      "salesRegionIds": [],
+      "missionGroupIds": [],
+      "missionCategoryButtonLabels": null
+    },
+    "roguePortalJson": null,
+    "questBonusJsons": []
   }
 }

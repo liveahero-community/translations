@@ -1051,6 +1051,16 @@
       "voiceFilename": "",
       "resourceName": "kyoichi",
       "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 27,
+      "faceType": "c",
+      "serifKey": "SERIF_KYOICHI_EVENTA",
+      "voiceFilename": "",
+      "resourceName": "kyoichi",
+      "isInHome": false
     }
   ],
   "10102": [
@@ -2665,6 +2675,16 @@
       "voiceFilename": "",
       "resourceName": "alchiba",
       "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 27,
+      "faceType": "c",
+      "serifKey": "SERIF_ALCHIBA_EVENTA",
+      "voiceFilename": "",
+      "resourceName": "alchiba",
+      "isInHome": false
     }
   ],
   "10262": [
@@ -6743,6 +6763,26 @@
       "voiceFilename": "",
       "resourceName": "santetsu",
       "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 27,
+      "faceType": "h",
+      "serifKey": "SERIF_SANTETSU_EVENTA",
+      "voiceFilename": "",
+      "resourceName": "santetsu",
+      "isInHome": false
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 28,
+      "faceType": "k",
+      "serifKey": "SERIF_SANTETSU_EVENTB",
+      "voiceFilename": "",
+      "resourceName": "santetsu",
+      "isInHome": false
     }
   ],
   "11131": [
@@ -6805,6 +6845,26 @@
       "voiceFilename": "",
       "resourceName": "roiker",
       "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 27,
+      "faceType": "c",
+      "serifKey": "SERIF_ROIKER_EVENTA",
+      "voiceFilename": "",
+      "resourceName": "roiker",
+      "isInHome": false
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 28,
+      "faceType": "c",
+      "serifKey": "SERIF_ROIKER_EVENTB",
+      "voiceFilename": "",
+      "resourceName": "roiker",
+      "isInHome": false
     }
   ],
   "11141": [
