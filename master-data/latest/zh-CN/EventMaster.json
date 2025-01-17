@@ -15277,7 +15277,7 @@
     "eventId": 110,
     "chapterId": 1150,
     "lookBackChapterId": 0,
-    "baseResourceName": "LightYears2412",
+    "baseResourceName": "LightYears2412_epilogue",
     "questSelectPrefabAddress": "",
     "startAt": "2024-12-24 20:00:00",
     "endAt": "2025-01-23 14:00:00",
@@ -15290,6 +15290,7 @@
         {
           "keys": [
             "UI_MAIN_QUEST",
+            "UI_EPILOGUE_QUEST",
             "UI_MISSION",
             "UI_EXCHANGE",
             "UI_CHALLENGE_QUEST"
@@ -15321,6 +15322,11 @@
           "type": 6,
           "chapterId": 1153,
           "buttonType": 1
+        },
+        {
+          "type": 7,
+          "chapterId": 1152,
+          "buttonType": 0
         }
       ],
       "tutorialKey": "LightYears2412",
