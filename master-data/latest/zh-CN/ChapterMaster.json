@@ -7379,5 +7379,27 @@
     "endAt": "2025-01-16 20:00:00",
     "roguePortalJson": null,
     "executeLimit": null
+  },
+  "1159": {
+    "chapterId": 1159,
+    "groupType": 2,
+    "chapterType": 1,
+    "chapterName": "キャンペーンクエスト",
+    "subName": "イルミネーション・ライブ！",
+    "peepingName": "イルミネーション・ライブ！",
+    "sortWeight": 1000,
+    "bannerResourceName": "ui_banner_questchoice_event_Illumination2511_highdifficult",
+    "bgResourceName": "ui_bg_sprite_quest_highdifficult_Illumination2511",
+    "selectBannerAddress": "",
+    "helpPrefabAddress": "IllminationHighDifficultyHelpWindow",
+    "questSelectPrefabAddress": "",
+    "missionGroupId": 0,
+    "scoreAttackStoreId": 0,
+    "scoreAttackItemIds": null,
+    "conditionChapterId": 0,
+    "startAt": "2025-01-21 18:00:00",
+    "endAt": "2025-02-06 14:00:00",
+    "roguePortalJson": null,
+    "executeLimit": null
   }
 }
