@@ -8702,12 +8702,12 @@
   "71": {
     "eventId": 71,
     "chapterId": 1082,
-    "lookBackChapterId": 528,
+    "lookBackChapterId": 0,
     "baseResourceName": "Workout2312",
     "questSelectPrefabAddress": "",
     "startAt": "2023-12-21 20:00:00",
     "endAt": "2024-01-18 14:00:00",
-    "canRemember": 1,
+    "canRemember": 0,
     "eventPortalJson": {
       "bg": "ui_bg_sprite_event_Workout2312",
       "bgm": "bgm_workout_adv",
