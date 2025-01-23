@@ -32992,5 +32992,701 @@
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
     ]
+  },
+  "24801": {
+    "salesId": 24801,
+    "regionId": 248,
+    "salesName": "ヒーローが町にやってくる！（短期）",
+    "iconFilename": "item_Workout2312_exchange01",
+    "startAt": null,
+    "endAt": "2025-02-06 20:00:00",
+    "requiredTime": 7200,
+    "memberLimitNumber": 8,
+    "sortWeight": 1000,
+    "rewards": [
+      {
+        "salesId": 24801,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 280
+      },
+      {
+        "salesId": 24801,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 240
+      },
+      {
+        "salesId": 24801,
+        "rewardType": 3,
+        "objectId": 196,
+        "objectValue": 14
+      },
+      {
+        "salesId": 24801,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 160
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_WORKOUT_REPORT_1",
+        "condition": null
+      },
+      {
+        "textKey": "SALES_EVENT_WORKOUT_REPORT_2",
+        "condition": null
+      },
+      {
+        "textKey": "SALES_EVENT_WORKOUT_REPORT_3",
+        "condition": null
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": false
+      },
+      {
+        "class": "StockCountBonus",
+        "stocks": [
+          11921,
+          10312,
+          10152
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 10
+          },
+          {
+            "count": 2,
+            "upwardRate": 30
+          },
+          {
+            "count": 3,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
+      }
+    ]
+  },
+  "24802": {
+    "salesId": 24802,
+    "regionId": 248,
+    "salesName": "ヒーローが町にやってくる！（短中期）",
+    "iconFilename": "item_Workout2312_exchange01",
+    "startAt": null,
+    "endAt": "2025-02-06 20:00:00",
+    "requiredTime": 14400,
+    "memberLimitNumber": 8,
+    "sortWeight": 1000,
+    "rewards": [
+      {
+        "salesId": 24802,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 560
+      },
+      {
+        "salesId": 24802,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 480
+      },
+      {
+        "salesId": 24802,
+        "rewardType": 3,
+        "objectId": 196,
+        "objectValue": 28
+      },
+      {
+        "salesId": 24802,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 320
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_WORKOUT_REPORT_1",
+        "condition": null
+      },
+      {
+        "textKey": "SALES_EVENT_WORKOUT_REPORT_2",
+        "condition": null
+      },
+      {
+        "textKey": "SALES_EVENT_WORKOUT_REPORT_3",
+        "condition": null
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": false
+      },
+      {
+        "class": "StockCountBonus",
+        "stocks": [
+          11921,
+          10312,
+          10152
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 10
+          },
+          {
+            "count": 2,
+            "upwardRate": 30
+          },
+          {
+            "count": 3,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
+      }
+    ]
+  },
+  "24803": {
+    "salesId": 24803,
+    "regionId": 248,
+    "salesName": "ヒーローが町にやってくる！（中期）",
+    "iconFilename": "item_Workout2312_exchange01",
+    "startAt": null,
+    "endAt": "2025-02-06 20:00:00",
+    "requiredTime": 28800,
+    "memberLimitNumber": 8,
+    "sortWeight": 1000,
+    "rewards": [
+      {
+        "salesId": 24803,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 1120
+      },
+      {
+        "salesId": 24803,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 960
+      },
+      {
+        "salesId": 24803,
+        "rewardType": 3,
+        "objectId": 196,
+        "objectValue": 56
+      },
+      {
+        "salesId": 24803,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 640
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_WORKOUT_REPORT_1",
+        "condition": null
+      },
+      {
+        "textKey": "SALES_EVENT_WORKOUT_REPORT_2",
+        "condition": null
+      },
+      {
+        "textKey": "SALES_EVENT_WORKOUT_REPORT_3",
+        "condition": null
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": false
+      },
+      {
+        "class": "StockCountBonus",
+        "stocks": [
+          11921,
+          10312,
+          10152
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 10
+          },
+          {
+            "count": 2,
+            "upwardRate": 30
+          },
+          {
+            "count": 3,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
+      }
+    ]
+  },
+  "24804": {
+    "salesId": 24804,
+    "regionId": 248,
+    "salesName": "ヒーローが町にやってくる！（中長期）",
+    "iconFilename": "item_Workout2312_exchange01",
+    "startAt": null,
+    "endAt": "2025-02-06 20:00:00",
+    "requiredTime": 43200,
+    "memberLimitNumber": 8,
+    "sortWeight": 1000,
+    "rewards": [
+      {
+        "salesId": 24804,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 1680
+      },
+      {
+        "salesId": 24804,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 1440
+      },
+      {
+        "salesId": 24804,
+        "rewardType": 3,
+        "objectId": 196,
+        "objectValue": 84
+      },
+      {
+        "salesId": 24804,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 960
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_WORKOUT_REPORT_1",
+        "condition": null
+      },
+      {
+        "textKey": "SALES_EVENT_WORKOUT_REPORT_2",
+        "condition": null
+      },
+      {
+        "textKey": "SALES_EVENT_WORKOUT_REPORT_3",
+        "condition": null
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": false
+      },
+      {
+        "class": "StockCountBonus",
+        "stocks": [
+          11921,
+          10312,
+          10152
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 10
+          },
+          {
+            "count": 2,
+            "upwardRate": 30
+          },
+          {
+            "count": 3,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
+      }
+    ]
+  },
+  "24805": {
+    "salesId": 24805,
+    "regionId": 248,
+    "salesName": "ヒーローが町にやってくる！（長期）",
+    "iconFilename": "item_Workout2312_exchange01",
+    "startAt": null,
+    "endAt": "2025-02-06 20:00:00",
+    "requiredTime": 57600,
+    "memberLimitNumber": 8,
+    "sortWeight": 1000,
+    "rewards": [
+      {
+        "salesId": 24805,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 2240
+      },
+      {
+        "salesId": 24805,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 1920
+      },
+      {
+        "salesId": 24805,
+        "rewardType": 3,
+        "objectId": 196,
+        "objectValue": 112
+      },
+      {
+        "salesId": 24805,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 1280
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_WORKOUT_REPORT_1",
+        "condition": null
+      },
+      {
+        "textKey": "SALES_EVENT_WORKOUT_REPORT_2",
+        "condition": null
+      },
+      {
+        "textKey": "SALES_EVENT_WORKOUT_REPORT_3",
+        "condition": null
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": false
+      },
+      {
+        "class": "StockCountBonus",
+        "stocks": [
+          11921,
+          10312,
+          10152
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 10
+          },
+          {
+            "count": 2,
+            "upwardRate": 30
+          },
+          {
+            "count": 3,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
+      }
+    ]
+  },
+  "24806": {
+    "salesId": 24806,
+    "regionId": 248,
+    "salesName": "ヒーローが町にやってくる！（超長期）",
+    "iconFilename": "item_Workout2312_exchange01",
+    "startAt": null,
+    "endAt": "2025-02-06 20:00:00",
+    "requiredTime": 86400,
+    "memberLimitNumber": 8,
+    "sortWeight": 1000,
+    "rewards": [
+      {
+        "salesId": 24806,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 3360
+      },
+      {
+        "salesId": 24806,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 2880
+      },
+      {
+        "salesId": 24806,
+        "rewardType": 3,
+        "objectId": 196,
+        "objectValue": 168
+      },
+      {
+        "salesId": 24806,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 1920
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_WORKOUT_REPORT_1",
+        "condition": null
+      },
+      {
+        "textKey": "SALES_EVENT_WORKOUT_REPORT_2",
+        "condition": null
+      },
+      {
+        "textKey": "SALES_EVENT_WORKOUT_REPORT_3",
+        "condition": null
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": false
+      },
+      {
+        "class": "StockCountBonus",
+        "stocks": [
+          11921,
+          10312,
+          10152
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 10
+          },
+          {
+            "count": 2,
+            "upwardRate": 30
+          },
+          {
+            "count": 3,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
+      }
+    ]
   }
 }
