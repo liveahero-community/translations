@@ -15839,7 +15839,8 @@
             "UI_MAIN_QUEST",
             "UI_EPILOGUE_QUEST",
             "UI_MISSION",
-            "UI_EXCHANGE"
+            "UI_EXCHANGE",
+            "UI_CHALLENGE_QUEST"
           ],
           "endAt": "2025-02-13 14:00:00"
         },
@@ -15868,6 +15869,11 @@
           "type": 7,
           "chapterId": 1157,
           "buttonType": 0
+        },
+        {
+          "type": 6,
+          "chapterId": 1158,
+          "buttonType": 1
         }
       ],
       "tutorialKey": "WorkoutRevival2501",
@@ -15956,7 +15962,8 @@
       ],
       "missionGroupIds": [
         1155,
-        1156
+        1156,
+        1158
       ],
       "missionCategoryButtonLabels": null
     },
