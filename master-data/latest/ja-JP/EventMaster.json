@@ -18004,8 +18004,7 @@
           "keys": [
             "UI_MAIN_QUEST",
             "UI_MISSION",
-            "UI_EXCHANGE",
-            "UI_CHALLENGE_QUEST"
+            "UI_EXCHANGE"
           ],
           "endAt": "2025-03-19 14:00:00"
         },
@@ -18015,12 +18014,6 @@
             "UI_SALES"
           ],
           "endAt": "2025-03-13 20:00:00"
-        },
-        {
-          "keys": [
-            "UI_EPILOGUE_QUEST"
-          ],
-          "endAt": "2025-04-10 14:00:00"
         }
       ],
       "gachaId": 139,
@@ -18035,16 +18028,6 @@
           "type": 6,
           "chapterId": 1161,
           "buttonType": 1
-        },
-        {
-          "type": 6,
-          "chapterId": 1163,
-          "buttonType": 1
-        },
-        {
-          "type": 7,
-          "chapterId": 1162,
-          "buttonType": 0
         }
       ],
       "tutorialKey": "Seekers2502",
@@ -18253,8 +18236,7 @@
       ],
       "missionGroupIds": [
         1160,
-        1161,
-        1163
+        1161
       ],
       "missionCategoryButtonLabels": null
     },
