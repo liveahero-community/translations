@@ -6981,6 +6981,78 @@
       "isInHome": false
     }
   ],
+  "11152": [
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 4,
+      "faceType": "",
+      "serifKey": "SERIF_GAIUSSEEKERS2502_PLAYER",
+      "voiceFilename": "",
+      "resourceName": "gaiusSeekers2502",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 5,
+      "faceType": "c",
+      "serifKey": "SERIF_GAIUSSEEKERS2502_HERO",
+      "voiceFilename": "",
+      "resourceName": "gaiusSeekers2502",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 12,
+      "faceType": "b",
+      "serifKey": "SERIF_GAIUSSEEKERS2502_TOUCH",
+      "voiceFilename": "",
+      "resourceName": "gaiusSeekers2502",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 27,
+      "faceType": "",
+      "serifKey": "SERIF_GAIUSSEEKERS2502_EVENTA",
+      "voiceFilename": "",
+      "resourceName": "gaiusSeekers2502",
+      "isInHome": false
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 28,
+      "faceType": "c",
+      "serifKey": "SERIF_GAIUSSEEKERS2502_EVENTB",
+      "voiceFilename": "",
+      "resourceName": "gaiusSeekers2502",
+      "isInHome": false
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 29,
+      "faceType": "c",
+      "serifKey": "SERIF_GAIUSSEEKERS2502_EVENTC",
+      "voiceFilename": "",
+      "resourceName": "gaiusSeekers2502",
+      "isInHome": false
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 30,
+      "faceType": "g",
+      "serifKey": "SERIF_GAIUSSEEKERS2502_EVENTD",
+      "voiceFilename": "",
+      "resourceName": "gaiusSeekers2502",
+      "isInHome": false
+    }
+  ],
   "11221": [
     {
       "cardType": 1,
@@ -11406,6 +11478,210 @@
       "serifKey": "SERIF_SENTHAK_EVENTD",
       "voiceFilename": "",
       "resourceName": "senthak",
+      "isInHome": false
+    }
+  ],
+  "12481": [
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 4,
+      "faceType": "h",
+      "serifKey": "SERIF_VLAHAM_PLAYER",
+      "voiceFilename": "",
+      "resourceName": "vlaham",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 5,
+      "faceType": "e",
+      "serifKey": "SERIF_VLAHAM_HERO",
+      "voiceFilename": "",
+      "resourceName": "vlaham",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 12,
+      "faceType": "c",
+      "serifKey": "SERIF_VLAHAM_TOUCH",
+      "voiceFilename": "",
+      "resourceName": "vlaham",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 3,
+      "faceType": "c",
+      "serifKey": "SERIF_VLAHAM_DAILY",
+      "voiceFilename": "",
+      "resourceName": "vlaham",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 6,
+      "faceType": "",
+      "serifKey": "SERIF_VLAHAM_RELATION",
+      "voiceFilename": "",
+      "resourceName": "vlaham",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 11,
+      "faceType": "c",
+      "serifKey": "SERIF_VLAHAM_APPRECIATION",
+      "voiceFilename": "",
+      "resourceName": "vlaham",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 27,
+      "faceType": "e",
+      "serifKey": "SERIF_VLAHAM_EVENTA",
+      "voiceFilename": "",
+      "resourceName": "vlaham",
+      "isInHome": false
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 28,
+      "faceType": "c",
+      "serifKey": "SERIF_VLAHAM_EVENTB",
+      "voiceFilename": "",
+      "resourceName": "vlaham",
+      "isInHome": false
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 29,
+      "faceType": "",
+      "serifKey": "SERIF_VLAHAM_EVENTC",
+      "voiceFilename": "",
+      "resourceName": "vlaham",
+      "isInHome": false
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 30,
+      "faceType": "c",
+      "serifKey": "SERIF_VLAHAM_EVENTD",
+      "voiceFilename": "",
+      "resourceName": "vlaham",
+      "isInHome": false
+    }
+  ],
+  "12491": [
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 4,
+      "faceType": "c",
+      "serifKey": "SERIF_VALORAY_PLAYER",
+      "voiceFilename": "",
+      "resourceName": "valoray",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 5,
+      "faceType": "",
+      "serifKey": "SERIF_VALORAY_HERO",
+      "voiceFilename": "",
+      "resourceName": "valoray",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 12,
+      "faceType": "b",
+      "serifKey": "SERIF_VALORAY_TOUCH",
+      "voiceFilename": "",
+      "resourceName": "valoray",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 3,
+      "faceType": "f",
+      "serifKey": "SERIF_VALORAY_DAILY",
+      "voiceFilename": "",
+      "resourceName": "valoray",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 6,
+      "faceType": "g",
+      "serifKey": "SERIF_VALORAY_RELATION",
+      "voiceFilename": "",
+      "resourceName": "valoray",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 11,
+      "faceType": "c",
+      "serifKey": "SERIF_VALORAY_APPRECIATION",
+      "voiceFilename": "",
+      "resourceName": "valoray",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 27,
+      "faceType": "h",
+      "serifKey": "SERIF_VALORAY_EVENTA",
+      "voiceFilename": "",
+      "resourceName": "valoray",
+      "isInHome": false
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 28,
+      "faceType": "c",
+      "serifKey": "SERIF_VALORAY_EVENTB",
+      "voiceFilename": "",
+      "resourceName": "valoray",
+      "isInHome": false
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 29,
+      "faceType": "",
+      "serifKey": "SERIF_VALORAY_EVENTC",
+      "voiceFilename": "",
+      "resourceName": "valoray",
+      "isInHome": false
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 30,
+      "faceType": "c",
+      "serifKey": "SERIF_VALORAY_EVENTD",
+      "voiceFilename": "",
+      "resourceName": "valoray",
       "isInHome": false
     }
   ],

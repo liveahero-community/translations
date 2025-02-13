@@ -7866,5 +7866,53 @@
       "targetStockId": 11921,
       "attachmentName": "att_santabeard"
     }
+  },
+  "883": {
+    "itemId": 21115201,
+    "customJson": {
+      "class": "CustomPlayTurnEffect",
+      "effectAddress": "blooming_Battlein_Effect",
+      "targetStockId": 11152
+    }
+  },
+  "884": {
+    "itemId": 21115201,
+    "customJson": {
+      "class": "CustomGetTurnEffect",
+      "effectAddress": "TurnObject_Blooming",
+      "targetStockId": 11152
+    }
+  },
+  "885": {
+    "itemId": 21248101,
+    "customJson": {
+      "class": "CustomPlayTurnEffect",
+      "effectAddress": "blooming_Battlein_Effect",
+      "targetStockId": 12481
+    }
+  },
+  "886": {
+    "itemId": 21248101,
+    "customJson": {
+      "class": "CustomGetTurnEffect",
+      "effectAddress": "TurnObject_Blooming",
+      "targetStockId": 12481
+    }
+  },
+  "887": {
+    "itemId": 21249101,
+    "customJson": {
+      "class": "CustomPlayTurnEffect",
+      "effectAddress": "blooming_Battlein_Effect",
+      "targetStockId": 12491
+    }
+  },
+  "888": {
+    "itemId": 21249101,
+    "customJson": {
+      "class": "CustomGetTurnEffect",
+      "effectAddress": "TurnObject_Blooming",
+      "targetStockId": 12491
+    }
   }
 }
