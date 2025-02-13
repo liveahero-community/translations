@@ -105,7 +105,99 @@
     "startAt": "2020-12-17 00:00:00",
     "endAt": "2021-02-06 20:00:00",
     "canRemember": 1,
-    "eventPortalJson": null,
+    "eventPortalJson": {
+      "bg": "ui_bg_sprite_event_Xmas2012",
+      "bgm": "bgm_yukemuri_adv",
+      "logo": "Xmas2012Revival_title",
+      "terms": [
+        {
+          "keys": [
+            "UI_MAIN_QUEST",
+            "UI_MISSION",
+            "UI_EXCHANGE"
+          ],
+          "endAt": "2021-11-22 14:00:00"
+        },
+        {
+          "keys": [
+            "UI_FREE_QUEST",
+            "UI_SALES",
+            "UI_SCORE_ATTACK"
+          ],
+          "endAt": "2021-11-15 20:00:00"
+        }
+      ],
+      "gachaId": 21,
+      "storeId": 15,
+      "questInfos": [
+        {
+          "type": 5,
+          "chapterId": 441,
+          "buttonType": 0
+        },
+        {
+          "type": 6,
+          "chapterId": 442,
+          "buttonType": 0
+        },
+        {
+          "type": 8,
+          "chapterId": 443,
+          "buttonType": 0
+        }
+      ],
+      "tutorialKey": "Xmas2012Revival",
+      "eventItemIds": [
+        50
+      ],
+      "missionViews": [],
+      "portalWindow": "",
+      "characterViews": [
+        {
+          "skinId": 0,
+          "stockId": 10511,
+          "cardType": 2,
+          "serifKinds": [
+            3,
+            11
+          ],
+          "visualType": 1,
+          "resourceName": "nessen",
+          "characterName": "ネッセン"
+        },
+        {
+          "skinId": 0,
+          "stockId": 10042,
+          "cardType": 1,
+          "serifKinds": [
+            4,
+            12
+          ],
+          "visualType": 1,
+          "resourceName": "ryekieXmas2012",
+          "characterName": "ライキ"
+        },
+        {
+          "skinId": 0,
+          "stockId": 10271,
+          "cardType": 2,
+          "serifKinds": [
+            3,
+            11
+          ],
+          "visualType": 1,
+          "resourceName": "subaru",
+          "characterName": "スバル"
+        }
+      ],
+      "salesRegionIds": [
+        210
+      ],
+      "missionGroupIds": [
+        441
+      ],
+      "missionCategoryButtonLabels": null
+    },
     "roguePortalJson": null,
     "pastPortalJson": {
       "bg": "ui_bg_sprite_event_Xmas2012",
@@ -4712,7 +4804,9 @@
         }
       ],
       "tutorialKey": "PastQuestPortalTutorialWindow",
-      "eventItemIds": [],
+      "eventItemIds": [
+        120
+      ],
       "missionViews": [],
       "portalWindow": "",
       "characterViews": [
