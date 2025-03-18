@@ -18048,7 +18048,7 @@
     "eventId": 114,
     "chapterId": 1160,
     "lookBackChapterId": 0,
-    "baseResourceName": "Seekers2502",
+    "baseResourceName": "Seekers2502_epilogue",
     "questSelectPrefabAddress": "",
     "startAt": null,
     "endAt": "2025-03-19 14:00:00",
@@ -18061,6 +18061,7 @@
         {
           "keys": [
             "UI_MAIN_QUEST",
+            "UI_EPILOGUE_QUEST",
             "UI_MISSION",
             "UI_EXCHANGE",
             "UI_CHALLENGE_QUEST"
@@ -18081,6 +18082,11 @@
         {
           "type": 5,
           "chapterId": 1160,
+          "buttonType": 0
+        },
+        {
+          "type": 7,
+          "chapterId": 1162,
           "buttonType": 0
         },
         {
