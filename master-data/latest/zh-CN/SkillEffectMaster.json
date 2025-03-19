@@ -102061,6 +102061,45 @@
       "isOverrideStatusDescription": true
     }
   },
+  "4924": {
+    "skillEffectId": 4924,
+    "skillEffectJson": {
+      "turn": 0,
+      "count": 0,
+      "effects": [
+        {
+          "class": "NoneEffect",
+          "parameter": []
+        }
+      ],
+      "filename": "b_skill_special",
+      "statusId": 305,
+      "canDispel": false,
+      "filterIds": [],
+      "parameter": false,
+      "description": "エネミーヴラハム弾丸説明用",
+      "isCountTurn": false,
+      "isDotDamage": false,
+      "isImmediate": false,
+      "persistence": true,
+      "reaminDeath": false,
+      "canDuplicate": true,
+      "isCountEffect": false,
+      "isFieldEffect": false,
+      "penetrateDeath": false,
+      "isCharageEffect": false,
+      "elapseTurnTiming": [
+        0
+      ],
+      "canDuplicateForce": false,
+      "isCountDownEffect": false,
+      "overrideStatusName": "弾丸ごとの追加効果",
+      "isOverrideStatusName": true,
+      "overrideStatusDescription": "【強襲弾】敵に与えるダメージ1.5倍。<br>【彩光弾】Viewを5000獲得。<br>【裂傷弾】チャージ数3の傷跡を付与。<br>【連双弾】30%ダメージの追加攻撃。<br>【治癒弾】自身のHPを基礎ATKの200%回復。",
+      "isDisplayPersistenceStatus": false,
+      "isOverrideStatusDescription": true
+    }
+  },
   "5001": {
     "skillEffectId": 5001,
     "skillEffectJson": {
