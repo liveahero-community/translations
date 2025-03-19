@@ -7914,5 +7914,325 @@
       "effectAddress": "TurnObject_Blooming",
       "targetStockId": 12491
     }
+  },
+  "889": {
+    "itemId": 11122200,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att_helm",
+      "targetStockId": 11222,
+      "attachmentName": "att_helm"
+    }
+  },
+  "890": {
+    "itemId": 11198102,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att_sprincle3",
+      "targetStockId": 11981,
+      "attachmentName": "att_sprincle"
+    }
+  },
+  "891": {
+    "itemId": 11198102,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att_sprincle2",
+      "targetStockId": 11981,
+      "attachmentName": "att_sprincle"
+    }
+  },
+  "892": {
+    "itemId": 11198102,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att_sprincle",
+      "targetStockId": 11981,
+      "attachmentName": "att_sprincle"
+    }
+  },
+  "893": {
+    "itemId": 11198102,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att_piece3",
+      "targetStockId": 11981,
+      "attachmentName": "att_piece"
+    }
+  },
+  "894": {
+    "itemId": 11198102,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att_piece2",
+      "targetStockId": 11981,
+      "attachmentName": "att_piece"
+    }
+  },
+  "895": {
+    "itemId": 11198102,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att_piece4",
+      "targetStockId": 11981,
+      "attachmentName": "att_piece"
+    }
+  },
+  "896": {
+    "itemId": 11198102,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att_piece",
+      "targetStockId": 11981,
+      "attachmentName": "att_piece"
+    }
+  },
+  "897": {
+    "itemId": 11198102,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att_cacao",
+      "targetStockId": 11981,
+      "attachmentName": "att_cacao"
+    }
+  },
+  "898": {
+    "itemId": 11199102,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att_towel_front",
+      "targetStockId": 11991,
+      "attachmentName": "att_towel_front"
+    }
+  },
+  "899": {
+    "itemId": 11199102,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att_head_hair",
+      "targetStockId": 11991,
+      "attachmentName": "att_head_hair"
+    }
+  },
+  "900": {
+    "itemId": 11199102,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att_towel_back",
+      "targetStockId": 11991,
+      "attachmentName": "att_towel_front"
+    }
+  },
+  "901": {
+    "itemId": 11199102,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att_traps",
+      "targetStockId": 11991,
+      "attachmentName": "att_traps"
+    }
+  },
+  "902": {
+    "itemId": 11199102,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": true,
+      "slotName": "ori_damage/chain_a1",
+      "targetStockId": 11991,
+      "attachmentName": "ori_damage/chain_a1"
+    }
+  },
+  "903": {
+    "itemId": 11199102,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": true,
+      "slotName": "ori_head_goggle",
+      "targetStockId": 11991,
+      "attachmentName": "ori_head_goggle"
+    }
+  },
+  "904": {
+    "itemId": 11199102,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": true,
+      "slotName": "ori_head_goggle2",
+      "targetStockId": 11991,
+      "attachmentName": "ori_head_goggle2"
+    }
+  },
+  "905": {
+    "itemId": 11199102,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": true,
+      "slotName": "ori_chain_b1",
+      "targetStockId": 11991,
+      "attachmentName": "ori_chain_b1"
+    }
+  },
+  "906": {
+    "itemId": 11199102,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": true,
+      "slotName": "ori_chain_a4",
+      "targetStockId": 11991,
+      "attachmentName": "ori_chain_a4"
+    }
+  },
+  "907": {
+    "itemId": 11199102,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": true,
+      "slotName": "ori_neckfur_L",
+      "targetStockId": 11991,
+      "attachmentName": "ori_neckfur_L"
+    }
+  },
+  "908": {
+    "itemId": 11199102,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": true,
+      "slotName": "ori_chain_a5",
+      "targetStockId": 11991,
+      "attachmentName": "ori_chain_a5"
+    }
+  },
+  "909": {
+    "itemId": 11199102,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": true,
+      "slotName": "ori_damage/chain_l2",
+      "targetStockId": 11991,
+      "attachmentName": "ori_damage/chain_l2"
+    }
+  },
+  "910": {
+    "itemId": 11199102,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": true,
+      "slotName": "ori_chain_a3",
+      "targetStockId": 11991,
+      "attachmentName": "ori_chain_a3"
+    }
+  },
+  "911": {
+    "itemId": 11199102,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": true,
+      "slotName": "ori_chain_l1",
+      "targetStockId": 11991,
+      "attachmentName": "ori_chain_l1"
+    }
+  },
+  "912": {
+    "itemId": 11199102,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": true,
+      "slotName": "ori_chain_a6",
+      "targetStockId": 11991,
+      "attachmentName": "ori_chain_a6"
+    }
+  },
+  "913": {
+    "itemId": 11199102,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": true,
+      "slotName": "ori_damage/chain_b1",
+      "targetStockId": 11991,
+      "attachmentName": "ori_damage/chain_b1"
+    }
+  },
+  "914": {
+    "itemId": 11199102,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": true,
+      "slotName": "ori_chain_l4",
+      "targetStockId": 11991,
+      "attachmentName": "ori_chain_l4"
+    }
+  },
+  "915": {
+    "itemId": 11199102,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": true,
+      "slotName": "ori_chain_l3",
+      "targetStockId": 11991,
+      "attachmentName": "ori_chain_l3"
+    }
+  },
+  "916": {
+    "itemId": 11199102,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": true,
+      "slotName": "ori_chain_l2",
+      "targetStockId": 11991,
+      "attachmentName": "ori_chain_l2"
+    }
+  },
+  "917": {
+    "itemId": 11199102,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": true,
+      "slotName": "ori_coat_L",
+      "targetStockId": 11991,
+      "attachmentName": "ori_coat_L"
+    }
+  },
+  "918": {
+    "itemId": 11199102,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": true,
+      "slotName": "ori_coat_R",
+      "targetStockId": 11991,
+      "attachmentName": "ori_coat_R"
+    }
+  },
+  "919": {
+    "itemId": 11199102,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": true,
+      "slotName": "ori_traps",
+      "targetStockId": 11991,
+      "attachmentName": "ori_traps"
+    }
+  },
+  "920": {
+    "itemId": 11199102,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": true,
+      "slotName": "ori_coat_R_ura",
+      "targetStockId": 11991,
+      "attachmentName": "ori_coat_R_ura"
+    }
   }
 }

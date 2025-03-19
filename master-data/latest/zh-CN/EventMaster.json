@@ -11496,12 +11496,12 @@
   "81": {
     "eventId": 81,
     "chapterId": 1097,
-    "lookBackChapterId": 530,
+    "lookBackChapterId": 0,
     "baseResourceName": "Volcano2402",
     "questSelectPrefabAddress": "",
     "startAt": null,
     "endAt": "2024-03-26 14:00:00",
-    "canRemember": 1,
+    "canRemember": 0,
     "eventPortalJson": {
       "bg": "ui_bg_sprite_event_Volcano2402",
       "bgm": "bgm_volcano_adv",
@@ -18047,12 +18047,12 @@
   "114": {
     "eventId": 114,
     "chapterId": 1160,
-    "lookBackChapterId": 0,
-    "baseResourceName": "Seekers2502_epilogue",
+    "lookBackChapterId": 539,
+    "baseResourceName": "Seekers2502",
     "questSelectPrefabAddress": "",
     "startAt": null,
     "endAt": "2025-03-19 14:00:00",
-    "canRemember": 0,
+    "canRemember": 1,
     "eventPortalJson": {
       "bg": "ui_bg_sprite_event_Seekers2502",
       "bgm": "bgm_seekers_adv",
@@ -18316,7 +18316,9 @@
     "summary": {
       "description": "UI_EVENT_SUMMARY_2502SEEKERS",
       "mainChapterId": 107,
-      "relationEventIds": []
+      "relationEventIds": [
+        39
+      ]
     },
     "questBonusJsons": [
       {
@@ -18611,6 +18613,431 @@
     "baseResourceName": "Chocolatefes2303",
     "questSelectPrefabAddress": "",
     "startAt": null,
+    "endAt": "2025-04-10 14:00:00",
+    "canRemember": 0,
+    "eventPortalJson": null,
+    "roguePortalJson": null,
+    "pastPortalJson": null,
+    "summary": null,
+    "questBonusJsons": []
+  },
+  "119": {
+    "eventId": 119,
+    "chapterId": 1167,
+    "lookBackChapterId": 0,
+    "baseResourceName": "SandStorm2503",
+    "questSelectPrefabAddress": "",
+    "startAt": "2025-03-18 10:00:00",
+    "endAt": "2025-04-02 14:00:00",
+    "canRemember": 0,
+    "eventPortalJson": null,
+    "roguePortalJson": null,
+    "pastPortalJson": null,
+    "summary": null,
+    "questBonusJsons": []
+  },
+  "120": {
+    "eventId": 120,
+    "chapterId": 1168,
+    "lookBackChapterId": 530,
+    "baseResourceName": "VolcanoRevival2503",
+    "questSelectPrefabAddress": "",
+    "startAt": "2025-03-18 11:00:00",
+    "endAt": "2025-04-10 14:00:00",
+    "canRemember": 0,
+    "eventPortalJson": {
+      "bg": "ui_bg_sprite_event_Volcano2402",
+      "bgm": "bgm_volcano_adv",
+      "logo": "VolcanoRevival2503_title",
+      "terms": [
+        {
+          "keys": [
+            "UI_MAIN_QUEST",
+            "UI_EPILOGUE_QUEST",
+            "UI_MISSION",
+            "UI_EXCHANGE"
+          ],
+          "endAt": "2025-04-10 14:00:00"
+        },
+        {
+          "keys": [
+            "UI_FREE_QUEST",
+            "UI_SALES"
+          ],
+          "endAt": "2025-04-03 20:00:00"
+        }
+      ],
+      "gachaId": 143,
+      "storeId": 78,
+      "questInfos": [
+        {
+          "type": 5,
+          "chapterId": 1168,
+          "buttonType": 0
+        },
+        {
+          "type": 6,
+          "chapterId": 1169,
+          "buttonType": 1
+        },
+        {
+          "type": 7,
+          "chapterId": 1170,
+          "buttonType": 0
+        }
+      ],
+      "tutorialKey": "VolcanoRevival2503",
+      "eventItemIds": [
+        201
+      ],
+      "missionViews": [
+        {
+          "skinId": 0,
+          "stockId": 11222,
+          "cardType": 1,
+          "serifKinds": [
+            29
+          ],
+          "visualType": 1,
+          "serifEntity": [
+            {
+              "priority": 0,
+              "serifKind": 29,
+              "conditions": []
+            },
+            {
+              "priority": 1,
+              "serifKind": 30,
+              "conditions": [
+                {
+                  "class": "MissionClear",
+                  "questId": 0,
+                  "missionIds": [
+                    22158,
+                    22159,
+                    22160,
+                    22161,
+                    22162,
+                    22163,
+                    22164,
+                    22165,
+                    22166,
+                    22167,
+                    22168,
+                    22169,
+                    22170,
+                    22171,
+                    22172,
+                    22173,
+                    22174,
+                    22175,
+                    22176,
+                    22177
+                  ],
+                  "isCheckClear": true
+                }
+              ]
+            }
+          ],
+          "resourceName": "rexerVolcano2402",
+          "characterName": "リグザ"
+        },
+        {
+          "skinId": 0,
+          "stockId": 11981,
+          "cardType": 2,
+          "serifKinds": [
+            29
+          ],
+          "visualType": 1,
+          "serifEntity": [
+            {
+              "priority": 0,
+              "serifKind": 29,
+              "conditions": []
+            },
+            {
+              "priority": 1,
+              "serifKind": 30,
+              "conditions": [
+                {
+                  "class": "MissionClear",
+                  "questId": 0,
+                  "missionIds": [
+                    22158,
+                    22159,
+                    22160,
+                    22161,
+                    22162,
+                    22163,
+                    22164,
+                    22165,
+                    22166,
+                    22167,
+                    22168,
+                    22169,
+                    22170,
+                    22171,
+                    22172,
+                    22173,
+                    22174,
+                    22175,
+                    22176,
+                    22177
+                  ],
+                  "isCheckClear": true
+                }
+              ]
+            }
+          ],
+          "resourceName": "ryusei",
+          "characterName": "リューセイ"
+        },
+        {
+          "skinId": 0,
+          "stockId": 11991,
+          "cardType": 2,
+          "serifKinds": [
+            29
+          ],
+          "visualType": 1,
+          "serifEntity": [
+            {
+              "priority": 0,
+              "serifKind": 29,
+              "conditions": []
+            },
+            {
+              "priority": 1,
+              "serifKind": 30,
+              "conditions": [
+                {
+                  "class": "MissionClear",
+                  "questId": 0,
+                  "missionIds": [
+                    22158,
+                    22159,
+                    22160,
+                    22161,
+                    22162,
+                    22163,
+                    22164,
+                    22165,
+                    22166,
+                    22167,
+                    22168,
+                    22169,
+                    22170,
+                    22171,
+                    22172,
+                    22173,
+                    22174,
+                    22175,
+                    22176,
+                    22177
+                  ],
+                  "isCheckClear": true
+                }
+              ]
+            }
+          ],
+          "resourceName": "ganran",
+          "characterName": "ガンラン"
+        }
+      ],
+      "portalWindow": "WideTermEventPortalWindowVolcanoRevival2503",
+      "characterViews": [
+        {
+          "skinId": 0,
+          "stockId": 11222,
+          "cardType": 1,
+          "serifKinds": [
+            27,
+            28
+          ],
+          "visualType": 1,
+          "resourceName": "rexerVolcano2402",
+          "characterName": "リグザ"
+        },
+        {
+          "skinId": 0,
+          "stockId": 11981,
+          "cardType": 2,
+          "serifKinds": [
+            27,
+            28
+          ],
+          "visualType": 1,
+          "resourceName": "ryusei",
+          "characterName": "リューセイ"
+        },
+        {
+          "skinId": 0,
+          "stockId": 11991,
+          "cardType": 2,
+          "serifKinds": [
+            27,
+            28
+          ],
+          "visualType": 1,
+          "resourceName": "ganran",
+          "characterName": "ガンラン"
+        }
+      ],
+      "salesRegionIds": [
+        250
+      ],
+      "missionGroupIds": [
+        1168,
+        1169
+      ],
+      "missionCategoryButtonLabels": null
+    },
+    "roguePortalJson": null,
+    "pastPortalJson": null,
+    "summary": {
+      "description": "UI_EVENT_SUMMARY_2402VOLCANO",
+      "mainChapterId": 107,
+      "relationEventIds": [
+        42
+      ]
+    },
+    "questBonusJsons": [
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 201,
+        "bonusValue": 40,
+        "targetStockId": 11222
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 201,
+        "bonusValue": 40,
+        "targetStockId": 11981
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 201,
+        "bonusValue": 30,
+        "targetStockId": 11991
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 201,
+        "bonusValue": 10,
+        "targetStockId": 11221
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 201,
+        "bonusValue": 20,
+        "targetStockId": 11152
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 201,
+        "bonusValue": 20,
+        "targetStockId": 12481
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 201,
+        "bonusValue": 10,
+        "targetStockId": 12491
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 201,
+        "bonusValue": 10,
+        "targetStockId": 10191
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 201,
+        "bonusValue": 20,
+        "targetStockId": 11601
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 201,
+        "bonusValue": 30,
+        "targetStockId": 11991
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 201,
+        "bonusValue": 20,
+        "targetStockId": 11981
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 201,
+        "bonusValue": 10,
+        "targetStockId": 11221
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 201,
+        "bonusValue": 10,
+        "targetStockId": 12491
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 201,
+        "bonusValue": 10,
+        "targetStockId": 12481
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 201,
+        "bonusValue": 10,
+        "targetStockId": 11151
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 201,
+        "bonusValue": 10,
+        "targetStockId": 10191
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 201,
+        "bonusValue": 10,
+        "targetStockId": 11601
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 201,
+        "bonusValue": 10,
+        "targetStockId": 19991
+      }
+    ]
+  },
+  "122": {
+    "eventId": 122,
+    "chapterId": 1162,
+    "lookBackChapterId": 0,
+    "baseResourceName": "Seekers2502",
+    "questSelectPrefabAddress": "",
+    "startAt": "2025-03-18 09:00:00",
     "endAt": "2025-04-10 14:00:00",
     "canRemember": 0,
     "eventPortalJson": null,

@@ -8764,571 +8764,6 @@
       ],
       "characters": []
     },
-    "76": {
-      "storeId": 76,
-      "storeName": "チョコレート・シーカーズ<br>イベントアイテム交換所",
-      "storeBanner": "Seekers2502_title",
-      "sortWeight": 1000,
-      "isHide": false,
-      "startAt": null,
-      "endAt": "2025-03-19 14:00:00",
-      "storePrefabAddress": "",
-      "confirmWindowAddress": "",
-      "conditions": null,
-      "products": [
-        {
-          "productId": 222239,
-          "storeId": 76,
-          "storeProductNo": 0,
-          "sortWeight": 1000,
-          "exchangeLimit": 6,
-          "startAt": null,
-          "endAt": "2025-03-19 14:00:00",
-          "resetType": 0,
-          "resetDetail": null,
-          "product": {
-            "rewardType": 3,
-            "objectId": 10,
-            "objectValue": 1
-          },
-          "currency": {
-            "currencyType": 3,
-            "objectId": 235,
-            "objectValue": 1000
-          },
-          "condition": []
-        },
-        {
-          "productId": 222240,
-          "storeId": 76,
-          "storeProductNo": 1,
-          "sortWeight": 1000,
-          "exchangeLimit": 20,
-          "startAt": null,
-          "endAt": "2025-03-19 14:00:00",
-          "resetType": 0,
-          "resetDetail": null,
-          "product": {
-            "rewardType": 3,
-            "objectId": 135,
-            "objectValue": 1
-          },
-          "currency": {
-            "currencyType": 3,
-            "objectId": 235,
-            "objectValue": 1500
-          },
-          "condition": []
-        },
-        {
-          "productId": 222241,
-          "storeId": 76,
-          "storeProductNo": 2,
-          "sortWeight": 1000,
-          "exchangeLimit": 5,
-          "startAt": null,
-          "endAt": "2025-03-19 14:00:00",
-          "resetType": 0,
-          "resetDetail": null,
-          "product": {
-            "rewardType": 3,
-            "objectId": 29,
-            "objectValue": 1
-          },
-          "currency": {
-            "currencyType": 3,
-            "objectId": 235,
-            "objectValue": 4000
-          },
-          "condition": []
-        },
-        {
-          "productId": 222242,
-          "storeId": 76,
-          "storeProductNo": 3,
-          "sortWeight": 1000,
-          "exchangeLimit": 12,
-          "startAt": null,
-          "endAt": "2025-03-19 14:00:00",
-          "resetType": 0,
-          "resetDetail": null,
-          "product": {
-            "rewardType": 3,
-            "objectId": 28,
-            "objectValue": 1
-          },
-          "currency": {
-            "currencyType": 3,
-            "objectId": 235,
-            "objectValue": 800
-          },
-          "condition": []
-        },
-        {
-          "productId": 222243,
-          "storeId": 76,
-          "storeProductNo": 4,
-          "sortWeight": 1000,
-          "exchangeLimit": 12,
-          "startAt": null,
-          "endAt": "2025-03-19 14:00:00",
-          "resetType": 0,
-          "resetDetail": null,
-          "product": {
-            "rewardType": 3,
-            "objectId": 27,
-            "objectValue": 1
-          },
-          "currency": {
-            "currencyType": 3,
-            "objectId": 235,
-            "objectValue": 160
-          },
-          "condition": []
-        },
-        {
-          "productId": 222244,
-          "storeId": 76,
-          "storeProductNo": 5,
-          "sortWeight": 1000,
-          "exchangeLimit": 1,
-          "startAt": null,
-          "endAt": "2025-03-19 14:00:00",
-          "resetType": 0,
-          "resetDetail": null,
-          "product": {
-            "rewardType": 3,
-            "objectId": 236,
-            "objectValue": 1
-          },
-          "currency": {
-            "currencyType": 3,
-            "objectId": 235,
-            "objectValue": 400
-          },
-          "condition": []
-        },
-        {
-          "productId": 222245,
-          "storeId": 76,
-          "storeProductNo": 6,
-          "sortWeight": 1000,
-          "exchangeLimit": 1,
-          "startAt": null,
-          "endAt": "2025-03-19 14:00:00",
-          "resetType": 0,
-          "resetDetail": null,
-          "product": {
-            "rewardType": 3,
-            "objectId": 237,
-            "objectValue": 1
-          },
-          "currency": {
-            "currencyType": 3,
-            "objectId": 235,
-            "objectValue": 400
-          },
-          "condition": []
-        },
-        {
-          "productId": 222246,
-          "storeId": 76,
-          "storeProductNo": 7,
-          "sortWeight": 1000,
-          "exchangeLimit": 1,
-          "startAt": null,
-          "endAt": "2025-03-19 14:00:00",
-          "resetType": 0,
-          "resetDetail": null,
-          "product": {
-            "rewardType": 3,
-            "objectId": 238,
-            "objectValue": 1
-          },
-          "currency": {
-            "currencyType": 3,
-            "objectId": 235,
-            "objectValue": 400
-          },
-          "condition": []
-        },
-        {
-          "productId": 222247,
-          "storeId": 76,
-          "storeProductNo": 8,
-          "sortWeight": 1000,
-          "exchangeLimit": 2,
-          "startAt": null,
-          "endAt": "2025-03-19 14:00:00",
-          "resetType": 0,
-          "resetDetail": null,
-          "product": {
-            "rewardType": 3,
-            "objectId": 79,
-            "objectValue": 5
-          },
-          "currency": {
-            "currencyType": 3,
-            "objectId": 235,
-            "objectValue": 2500
-          },
-          "condition": []
-        },
-        {
-          "productId": 222248,
-          "storeId": 76,
-          "storeProductNo": 9,
-          "sortWeight": 1000,
-          "exchangeLimit": 20,
-          "startAt": null,
-          "endAt": "2025-03-19 14:00:00",
-          "resetType": 0,
-          "resetDetail": null,
-          "product": {
-            "rewardType": 3,
-            "objectId": 78,
-            "objectValue": 5
-          },
-          "currency": {
-            "currencyType": 3,
-            "objectId": 235,
-            "objectValue": 65
-          },
-          "condition": []
-        },
-        {
-          "productId": 222249,
-          "storeId": 76,
-          "storeProductNo": 10,
-          "sortWeight": 1000,
-          "exchangeLimit": 40,
-          "startAt": null,
-          "endAt": "2025-03-19 14:00:00",
-          "resetType": 0,
-          "resetDetail": null,
-          "product": {
-            "rewardType": 3,
-            "objectId": 59,
-            "objectValue": 10
-          },
-          "currency": {
-            "currencyType": 3,
-            "objectId": 235,
-            "objectValue": 1000
-          },
-          "condition": []
-        },
-        {
-          "productId": 222250,
-          "storeId": 76,
-          "storeProductNo": 11,
-          "sortWeight": 1000,
-          "exchangeLimit": 650,
-          "startAt": null,
-          "endAt": "2025-03-19 14:00:00",
-          "resetType": 0,
-          "resetDetail": null,
-          "product": {
-            "rewardType": 3,
-            "objectId": 11,
-            "objectValue": 1000
-          },
-          "currency": {
-            "currencyType": 3,
-            "objectId": 235,
-            "objectValue": 40
-          },
-          "condition": []
-        },
-        {
-          "productId": 222251,
-          "storeId": 76,
-          "storeProductNo": 12,
-          "sortWeight": 1000,
-          "exchangeLimit": 350,
-          "startAt": null,
-          "endAt": "2025-03-19 14:00:00",
-          "resetType": 0,
-          "resetDetail": null,
-          "product": {
-            "rewardType": 3,
-            "objectId": 30,
-            "objectValue": 1000
-          },
-          "currency": {
-            "currencyType": 3,
-            "objectId": 235,
-            "objectValue": 40
-          },
-          "condition": []
-        },
-        {
-          "productId": 222252,
-          "storeId": 76,
-          "storeProductNo": 13,
-          "sortWeight": 1000,
-          "exchangeLimit": 700,
-          "startAt": null,
-          "endAt": "2025-03-19 14:00:00",
-          "resetType": 0,
-          "resetDetail": null,
-          "product": {
-            "rewardType": 3,
-            "objectId": 35,
-            "objectValue": 500
-          },
-          "currency": {
-            "currencyType": 3,
-            "objectId": 235,
-            "objectValue": 20
-          },
-          "condition": []
-        },
-        {
-          "productId": 222253,
-          "storeId": 76,
-          "storeProductNo": 14,
-          "sortWeight": 1000,
-          "exchangeLimit": 40,
-          "startAt": null,
-          "endAt": "2025-03-19 14:00:00",
-          "resetType": 0,
-          "resetDetail": null,
-          "product": {
-            "rewardType": 3,
-            "objectId": 15,
-            "objectValue": 1
-          },
-          "currency": {
-            "currencyType": 3,
-            "objectId": 235,
-            "objectValue": 40
-          },
-          "condition": []
-        },
-        {
-          "productId": 222254,
-          "storeId": 76,
-          "storeProductNo": 15,
-          "sortWeight": 1000,
-          "exchangeLimit": 20,
-          "startAt": null,
-          "endAt": "2025-03-19 14:00:00",
-          "resetType": 0,
-          "resetDetail": null,
-          "product": {
-            "rewardType": 3,
-            "objectId": 16,
-            "objectValue": 1
-          },
-          "currency": {
-            "currencyType": 3,
-            "objectId": 235,
-            "objectValue": 80
-          },
-          "condition": []
-        },
-        {
-          "productId": 222255,
-          "storeId": 76,
-          "storeProductNo": 16,
-          "sortWeight": 1000,
-          "exchangeLimit": 10,
-          "startAt": null,
-          "endAt": "2025-03-19 14:00:00",
-          "resetType": 0,
-          "resetDetail": null,
-          "product": {
-            "rewardType": 3,
-            "objectId": 17,
-            "objectValue": 1
-          },
-          "currency": {
-            "currencyType": 3,
-            "objectId": 235,
-            "objectValue": 160
-          },
-          "condition": []
-        },
-        {
-          "productId": 222256,
-          "storeId": 76,
-          "storeProductNo": 17,
-          "sortWeight": 1000,
-          "exchangeLimit": 40,
-          "startAt": null,
-          "endAt": "2025-03-19 14:00:00",
-          "resetType": 0,
-          "resetDetail": null,
-          "product": {
-            "rewardType": 3,
-            "objectId": 18,
-            "objectValue": 1
-          },
-          "currency": {
-            "currencyType": 3,
-            "objectId": 235,
-            "objectValue": 40
-          },
-          "condition": []
-        },
-        {
-          "productId": 222257,
-          "storeId": 76,
-          "storeProductNo": 18,
-          "sortWeight": 1000,
-          "exchangeLimit": 20,
-          "startAt": null,
-          "endAt": "2025-03-19 14:00:00",
-          "resetType": 0,
-          "resetDetail": null,
-          "product": {
-            "rewardType": 3,
-            "objectId": 19,
-            "objectValue": 1
-          },
-          "currency": {
-            "currencyType": 3,
-            "objectId": 235,
-            "objectValue": 80
-          },
-          "condition": []
-        },
-        {
-          "productId": 222258,
-          "storeId": 76,
-          "storeProductNo": 19,
-          "sortWeight": 1000,
-          "exchangeLimit": 10,
-          "startAt": null,
-          "endAt": "2025-03-19 14:00:00",
-          "resetType": 0,
-          "resetDetail": null,
-          "product": {
-            "rewardType": 3,
-            "objectId": 20,
-            "objectValue": 1
-          },
-          "currency": {
-            "currencyType": 3,
-            "objectId": 235,
-            "objectValue": 160
-          },
-          "condition": []
-        },
-        {
-          "productId": 222259,
-          "storeId": 76,
-          "storeProductNo": 20,
-          "sortWeight": 1000,
-          "exchangeLimit": 40,
-          "startAt": null,
-          "endAt": "2025-03-19 14:00:00",
-          "resetType": 0,
-          "resetDetail": null,
-          "product": {
-            "rewardType": 3,
-            "objectId": 24,
-            "objectValue": 1
-          },
-          "currency": {
-            "currencyType": 3,
-            "objectId": 235,
-            "objectValue": 40
-          },
-          "condition": []
-        },
-        {
-          "productId": 222260,
-          "storeId": 76,
-          "storeProductNo": 21,
-          "sortWeight": 1000,
-          "exchangeLimit": 20,
-          "startAt": null,
-          "endAt": "2025-03-19 14:00:00",
-          "resetType": 0,
-          "resetDetail": null,
-          "product": {
-            "rewardType": 3,
-            "objectId": 25,
-            "objectValue": 1
-          },
-          "currency": {
-            "currencyType": 3,
-            "objectId": 235,
-            "objectValue": 80
-          },
-          "condition": []
-        },
-        {
-          "productId": 222261,
-          "storeId": 76,
-          "storeProductNo": 22,
-          "sortWeight": 1000,
-          "exchangeLimit": 10,
-          "startAt": null,
-          "endAt": "2025-03-19 14:00:00",
-          "resetType": 0,
-          "resetDetail": null,
-          "product": {
-            "rewardType": 3,
-            "objectId": 26,
-            "objectValue": 1
-          },
-          "currency": {
-            "currencyType": 3,
-            "objectId": 235,
-            "objectValue": 160
-          },
-          "condition": []
-        },
-        {
-          "productId": 222262,
-          "storeId": 76,
-          "storeProductNo": 23,
-          "sortWeight": 1000,
-          "exchangeLimit": 40,
-          "startAt": null,
-          "endAt": "2025-03-19 14:00:00",
-          "resetType": 0,
-          "resetDetail": null,
-          "product": {
-            "rewardType": 3,
-            "objectId": 53,
-            "objectValue": 1
-          },
-          "currency": {
-            "currencyType": 3,
-            "objectId": 235,
-            "objectValue": 100
-          },
-          "condition": []
-        },
-        {
-          "productId": 222263,
-          "storeId": 76,
-          "storeProductNo": 24,
-          "sortWeight": 1000,
-          "exchangeLimit": 0,
-          "startAt": null,
-          "endAt": "2025-03-19 14:00:00",
-          "resetType": 0,
-          "resetDetail": null,
-          "product": {
-            "rewardType": 3,
-            "objectId": 35,
-            "objectValue": 5
-          },
-          "currency": {
-            "currencyType": 3,
-            "objectId": 235,
-            "objectValue": 1
-          },
-          "condition": []
-        }
-      ],
-      "characters": []
-    },
     "77": {
       "storeId": 77,
       "storeName": "ウィークリーミッション交換所",
@@ -11430,6 +10865,670 @@
               "relationProductIds": []
             }
           ]
+        }
+      ],
+      "characters": []
+    },
+    "78": {
+      "storeId": 78,
+      "storeName": "<size=18>チョコ・ヴォルカーノより愛を込めて<br>イベントアイテム交換所</size>",
+      "storeBanner": "VolcanoRevival2503_title",
+      "sortWeight": 1000,
+      "isHide": false,
+      "startAt": null,
+      "endAt": "2025-04-10 14:00:00",
+      "storePrefabAddress": "",
+      "confirmWindowAddress": "",
+      "conditions": null,
+      "products": [
+        {
+          "productId": 222490,
+          "storeId": 78,
+          "storeProductNo": 0,
+          "sortWeight": 1000,
+          "exchangeLimit": 3,
+          "startAt": null,
+          "endAt": "2025-04-10 14:00:00",
+          "resetType": 0,
+          "resetDetail": null,
+          "product": {
+            "rewardType": 3,
+            "objectId": 10,
+            "objectValue": 1
+          },
+          "currency": {
+            "currencyType": 3,
+            "objectId": 201,
+            "objectValue": 1000
+          },
+          "condition": []
+        },
+        {
+          "productId": 222491,
+          "storeId": 78,
+          "storeProductNo": 1,
+          "sortWeight": 1000,
+          "exchangeLimit": 15,
+          "startAt": null,
+          "endAt": "2025-04-10 14:00:00",
+          "resetType": 0,
+          "resetDetail": null,
+          "product": {
+            "rewardType": 3,
+            "objectId": 135,
+            "objectValue": 1
+          },
+          "currency": {
+            "currencyType": 3,
+            "objectId": 201,
+            "objectValue": 1500
+          },
+          "condition": []
+        },
+        {
+          "productId": 222492,
+          "storeId": 78,
+          "storeProductNo": 2,
+          "sortWeight": 1000,
+          "exchangeLimit": 2,
+          "startAt": null,
+          "endAt": "2025-04-10 14:00:00",
+          "resetType": 0,
+          "resetDetail": null,
+          "product": {
+            "rewardType": 3,
+            "objectId": 29,
+            "objectValue": 1
+          },
+          "currency": {
+            "currencyType": 3,
+            "objectId": 201,
+            "objectValue": 4000
+          },
+          "condition": []
+        },
+        {
+          "productId": 222493,
+          "storeId": 78,
+          "storeProductNo": 3,
+          "sortWeight": 1000,
+          "exchangeLimit": 10,
+          "startAt": null,
+          "endAt": "2025-04-10 14:00:00",
+          "resetType": 0,
+          "resetDetail": null,
+          "product": {
+            "rewardType": 3,
+            "objectId": 28,
+            "objectValue": 1
+          },
+          "currency": {
+            "currencyType": 3,
+            "objectId": 201,
+            "objectValue": 800
+          },
+          "condition": []
+        },
+        {
+          "productId": 222494,
+          "storeId": 78,
+          "storeProductNo": 4,
+          "sortWeight": 1000,
+          "exchangeLimit": 10,
+          "startAt": null,
+          "endAt": "2025-04-10 14:00:00",
+          "resetType": 0,
+          "resetDetail": null,
+          "product": {
+            "rewardType": 3,
+            "objectId": 27,
+            "objectValue": 1
+          },
+          "currency": {
+            "currencyType": 3,
+            "objectId": 201,
+            "objectValue": 160
+          },
+          "condition": []
+        },
+        {
+          "productId": 222495,
+          "storeId": 78,
+          "storeProductNo": 5,
+          "sortWeight": 1000,
+          "exchangeLimit": 1,
+          "startAt": null,
+          "endAt": "2025-04-10 14:00:00",
+          "resetType": 0,
+          "resetDetail": null,
+          "product": {
+            "rewardType": 3,
+            "objectId": 11122200,
+            "objectValue": 1
+          },
+          "currency": {
+            "currencyType": 3,
+            "objectId": 201,
+            "objectValue": 600
+          },
+          "condition": []
+        },
+        {
+          "productId": 222496,
+          "storeId": 78,
+          "storeProductNo": 6,
+          "sortWeight": 1000,
+          "exchangeLimit": 1,
+          "startAt": null,
+          "endAt": "2025-04-10 14:00:00",
+          "resetType": 0,
+          "resetDetail": null,
+          "product": {
+            "rewardType": 3,
+            "objectId": 11198102,
+            "objectValue": 1
+          },
+          "currency": {
+            "currencyType": 3,
+            "objectId": 201,
+            "objectValue": 600
+          },
+          "condition": []
+        },
+        {
+          "productId": 222497,
+          "storeId": 78,
+          "storeProductNo": 7,
+          "sortWeight": 1000,
+          "exchangeLimit": 1,
+          "startAt": null,
+          "endAt": "2025-04-10 14:00:00",
+          "resetType": 0,
+          "resetDetail": null,
+          "product": {
+            "rewardType": 3,
+            "objectId": 11199102,
+            "objectValue": 1
+          },
+          "currency": {
+            "currencyType": 3,
+            "objectId": 201,
+            "objectValue": 600
+          },
+          "condition": []
+        },
+        {
+          "productId": 222498,
+          "storeId": 78,
+          "storeProductNo": 8,
+          "sortWeight": 1000,
+          "exchangeLimit": 1,
+          "startAt": null,
+          "endAt": "2025-04-10 14:00:00",
+          "resetType": 0,
+          "resetDetail": null,
+          "product": {
+            "rewardType": 3,
+            "objectId": 202,
+            "objectValue": 1
+          },
+          "currency": {
+            "currencyType": 3,
+            "objectId": 201,
+            "objectValue": 400
+          },
+          "condition": [
+            {
+              "class": "AggregateHavingItemOnExchangeLimit",
+              "itemId": 202,
+              "stockId": 0,
+              "cardType": 0,
+              "officeLv": 0,
+              "officeProductId": 0,
+              "isAscendingOrder": true,
+              "relationProductIds": []
+            }
+          ]
+        },
+        {
+          "productId": 222499,
+          "storeId": 78,
+          "storeProductNo": 9,
+          "sortWeight": 1000,
+          "exchangeLimit": 1,
+          "startAt": null,
+          "endAt": "2025-04-10 14:00:00",
+          "resetType": 0,
+          "resetDetail": null,
+          "product": {
+            "rewardType": 3,
+            "objectId": 203,
+            "objectValue": 1
+          },
+          "currency": {
+            "currencyType": 3,
+            "objectId": 201,
+            "objectValue": 400
+          },
+          "condition": [
+            {
+              "class": "AggregateHavingItemOnExchangeLimit",
+              "itemId": 203,
+              "stockId": 0,
+              "cardType": 0,
+              "officeLv": 0,
+              "officeProductId": 0,
+              "isAscendingOrder": true,
+              "relationProductIds": []
+            }
+          ]
+        },
+        {
+          "productId": 222500,
+          "storeId": 78,
+          "storeProductNo": 10,
+          "sortWeight": 1000,
+          "exchangeLimit": 1,
+          "startAt": null,
+          "endAt": "2025-04-10 14:00:00",
+          "resetType": 0,
+          "resetDetail": null,
+          "product": {
+            "rewardType": 3,
+            "objectId": 204,
+            "objectValue": 1
+          },
+          "currency": {
+            "currencyType": 3,
+            "objectId": 201,
+            "objectValue": 400
+          },
+          "condition": [
+            {
+              "class": "AggregateHavingItemOnExchangeLimit",
+              "itemId": 204,
+              "stockId": 0,
+              "cardType": 0,
+              "officeLv": 0,
+              "officeProductId": 0,
+              "isAscendingOrder": true,
+              "relationProductIds": []
+            }
+          ]
+        },
+        {
+          "productId": 222501,
+          "storeId": 78,
+          "storeProductNo": 11,
+          "sortWeight": 1000,
+          "exchangeLimit": 1,
+          "startAt": null,
+          "endAt": "2025-04-10 14:00:00",
+          "resetType": 0,
+          "resetDetail": null,
+          "product": {
+            "rewardType": 3,
+            "objectId": 79,
+            "objectValue": 5
+          },
+          "currency": {
+            "currencyType": 3,
+            "objectId": 201,
+            "objectValue": 2500
+          },
+          "condition": []
+        },
+        {
+          "productId": 222502,
+          "storeId": 78,
+          "storeProductNo": 12,
+          "sortWeight": 1000,
+          "exchangeLimit": 20,
+          "startAt": null,
+          "endAt": "2025-04-10 14:00:00",
+          "resetType": 0,
+          "resetDetail": null,
+          "product": {
+            "rewardType": 3,
+            "objectId": 78,
+            "objectValue": 5
+          },
+          "currency": {
+            "currencyType": 3,
+            "objectId": 201,
+            "objectValue": 65
+          },
+          "condition": []
+        },
+        {
+          "productId": 222503,
+          "storeId": 78,
+          "storeProductNo": 13,
+          "sortWeight": 1000,
+          "exchangeLimit": 15,
+          "startAt": null,
+          "endAt": "2025-04-10 14:00:00",
+          "resetType": 0,
+          "resetDetail": null,
+          "product": {
+            "rewardType": 3,
+            "objectId": 59,
+            "objectValue": 10
+          },
+          "currency": {
+            "currencyType": 3,
+            "objectId": 201,
+            "objectValue": 1000
+          },
+          "condition": []
+        },
+        {
+          "productId": 222504,
+          "storeId": 78,
+          "storeProductNo": 14,
+          "sortWeight": 1000,
+          "exchangeLimit": 300,
+          "startAt": null,
+          "endAt": "2025-04-10 14:00:00",
+          "resetType": 0,
+          "resetDetail": null,
+          "product": {
+            "rewardType": 3,
+            "objectId": 11,
+            "objectValue": 1000
+          },
+          "currency": {
+            "currencyType": 3,
+            "objectId": 201,
+            "objectValue": 40
+          },
+          "condition": []
+        },
+        {
+          "productId": 222505,
+          "storeId": 78,
+          "storeProductNo": 15,
+          "sortWeight": 1000,
+          "exchangeLimit": 200,
+          "startAt": null,
+          "endAt": "2025-04-10 14:00:00",
+          "resetType": 0,
+          "resetDetail": null,
+          "product": {
+            "rewardType": 3,
+            "objectId": 30,
+            "objectValue": 1000
+          },
+          "currency": {
+            "currencyType": 3,
+            "objectId": 201,
+            "objectValue": 40
+          },
+          "condition": []
+        },
+        {
+          "productId": 222506,
+          "storeId": 78,
+          "storeProductNo": 16,
+          "sortWeight": 1000,
+          "exchangeLimit": 450,
+          "startAt": null,
+          "endAt": "2025-04-10 14:00:00",
+          "resetType": 0,
+          "resetDetail": null,
+          "product": {
+            "rewardType": 3,
+            "objectId": 35,
+            "objectValue": 500
+          },
+          "currency": {
+            "currencyType": 3,
+            "objectId": 201,
+            "objectValue": 20
+          },
+          "condition": []
+        },
+        {
+          "productId": 222507,
+          "storeId": 78,
+          "storeProductNo": 17,
+          "sortWeight": 1000,
+          "exchangeLimit": 30,
+          "startAt": null,
+          "endAt": "2025-04-10 14:00:00",
+          "resetType": 0,
+          "resetDetail": null,
+          "product": {
+            "rewardType": 3,
+            "objectId": 12,
+            "objectValue": 1
+          },
+          "currency": {
+            "currencyType": 3,
+            "objectId": 201,
+            "objectValue": 40
+          },
+          "condition": []
+        },
+        {
+          "productId": 222508,
+          "storeId": 78,
+          "storeProductNo": 18,
+          "sortWeight": 1000,
+          "exchangeLimit": 15,
+          "startAt": null,
+          "endAt": "2025-04-10 14:00:00",
+          "resetType": 0,
+          "resetDetail": null,
+          "product": {
+            "rewardType": 3,
+            "objectId": 13,
+            "objectValue": 1
+          },
+          "currency": {
+            "currencyType": 3,
+            "objectId": 201,
+            "objectValue": 80
+          },
+          "condition": []
+        },
+        {
+          "productId": 222509,
+          "storeId": 78,
+          "storeProductNo": 19,
+          "sortWeight": 1000,
+          "exchangeLimit": 5,
+          "startAt": null,
+          "endAt": "2025-04-10 14:00:00",
+          "resetType": 0,
+          "resetDetail": null,
+          "product": {
+            "rewardType": 3,
+            "objectId": 14,
+            "objectValue": 1
+          },
+          "currency": {
+            "currencyType": 3,
+            "objectId": 201,
+            "objectValue": 160
+          },
+          "condition": []
+        },
+        {
+          "productId": 222510,
+          "storeId": 78,
+          "storeProductNo": 20,
+          "sortWeight": 1000,
+          "exchangeLimit": 30,
+          "startAt": null,
+          "endAt": "2025-04-10 14:00:00",
+          "resetType": 0,
+          "resetDetail": null,
+          "product": {
+            "rewardType": 3,
+            "objectId": 18,
+            "objectValue": 1
+          },
+          "currency": {
+            "currencyType": 3,
+            "objectId": 201,
+            "objectValue": 40
+          },
+          "condition": []
+        },
+        {
+          "productId": 222511,
+          "storeId": 78,
+          "storeProductNo": 21,
+          "sortWeight": 1000,
+          "exchangeLimit": 15,
+          "startAt": null,
+          "endAt": "2025-04-10 14:00:00",
+          "resetType": 0,
+          "resetDetail": null,
+          "product": {
+            "rewardType": 3,
+            "objectId": 19,
+            "objectValue": 1
+          },
+          "currency": {
+            "currencyType": 3,
+            "objectId": 201,
+            "objectValue": 80
+          },
+          "condition": []
+        },
+        {
+          "productId": 222512,
+          "storeId": 78,
+          "storeProductNo": 22,
+          "sortWeight": 1000,
+          "exchangeLimit": 5,
+          "startAt": null,
+          "endAt": "2025-04-10 14:00:00",
+          "resetType": 0,
+          "resetDetail": null,
+          "product": {
+            "rewardType": 3,
+            "objectId": 20,
+            "objectValue": 1
+          },
+          "currency": {
+            "currencyType": 3,
+            "objectId": 201,
+            "objectValue": 160
+          },
+          "condition": []
+        },
+        {
+          "productId": 222513,
+          "storeId": 78,
+          "storeProductNo": 23,
+          "sortWeight": 1000,
+          "exchangeLimit": 30,
+          "startAt": null,
+          "endAt": "2025-04-10 14:00:00",
+          "resetType": 0,
+          "resetDetail": null,
+          "product": {
+            "rewardType": 3,
+            "objectId": 21,
+            "objectValue": 1
+          },
+          "currency": {
+            "currencyType": 3,
+            "objectId": 201,
+            "objectValue": 40
+          },
+          "condition": []
+        },
+        {
+          "productId": 222514,
+          "storeId": 78,
+          "storeProductNo": 24,
+          "sortWeight": 1000,
+          "exchangeLimit": 15,
+          "startAt": null,
+          "endAt": "2025-04-10 14:00:00",
+          "resetType": 0,
+          "resetDetail": null,
+          "product": {
+            "rewardType": 3,
+            "objectId": 22,
+            "objectValue": 1
+          },
+          "currency": {
+            "currencyType": 3,
+            "objectId": 201,
+            "objectValue": 80
+          },
+          "condition": []
+        },
+        {
+          "productId": 222515,
+          "storeId": 78,
+          "storeProductNo": 25,
+          "sortWeight": 1000,
+          "exchangeLimit": 5,
+          "startAt": null,
+          "endAt": "2025-04-10 14:00:00",
+          "resetType": 0,
+          "resetDetail": null,
+          "product": {
+            "rewardType": 3,
+            "objectId": 23,
+            "objectValue": 1
+          },
+          "currency": {
+            "currencyType": 3,
+            "objectId": 201,
+            "objectValue": 160
+          },
+          "condition": []
+        },
+        {
+          "productId": 222516,
+          "storeId": 78,
+          "storeProductNo": 26,
+          "sortWeight": 1000,
+          "exchangeLimit": 40,
+          "startAt": null,
+          "endAt": "2025-04-10 14:00:00",
+          "resetType": 0,
+          "resetDetail": null,
+          "product": {
+            "rewardType": 3,
+            "objectId": 53,
+            "objectValue": 1
+          },
+          "currency": {
+            "currencyType": 3,
+            "objectId": 201,
+            "objectValue": 100
+          },
+          "condition": []
+        },
+        {
+          "productId": 222517,
+          "storeId": 78,
+          "storeProductNo": 27,
+          "sortWeight": 1000,
+          "exchangeLimit": 0,
+          "startAt": null,
+          "endAt": "2025-04-10 14:00:00",
+          "resetType": 0,
+          "resetDetail": null,
+          "product": {
+            "rewardType": 3,
+            "objectId": 35,
+            "objectValue": 5
+          },
+          "currency": {
+            "currencyType": 3,
+            "objectId": 201,
+            "objectValue": 1
+          },
+          "condition": []
         }
       ],
       "characters": []
