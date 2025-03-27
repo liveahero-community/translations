@@ -147,11 +147,14 @@
       "parameter": false,
       "description": "120%ダメージ",
       "isCountTurn": false,
+      "isDotDamage": false,
       "isImmediate": true,
       "persistence": false,
       "reaminDeath": false,
       "canDuplicate": false,
       "isCountEffect": false,
+      "isFieldEffect": false,
+      "penetrateDeath": false,
       "isCharageEffect": false,
       "elapseTurnTiming": [
         0
@@ -2902,11 +2905,14 @@
       "parameter": false,
       "description": "バフを２つ解除",
       "isCountTurn": false,
+      "isDotDamage": false,
       "isImmediate": true,
       "persistence": false,
       "reaminDeath": false,
       "canDuplicate": false,
       "isCountEffect": false,
+      "isFieldEffect": false,
+      "penetrateDeath": false,
       "isCharageEffect": false,
       "elapseTurnTiming": [
         0
@@ -25998,11 +26004,14 @@
       "parameter": false,
       "description": "火傷無効",
       "isCountTurn": false,
+      "isDotDamage": false,
       "isImmediate": false,
       "persistence": true,
       "reaminDeath": false,
       "canDuplicate": true,
       "isCountEffect": false,
+      "isFieldEffect": false,
+      "penetrateDeath": false,
       "isCharageEffect": false,
       "elapseTurnTiming": [
         0
@@ -32351,11 +32360,14 @@
       "parameter": false,
       "description": "システム効果126番除去",
       "isCountTurn": false,
+      "isDotDamage": false,
       "isImmediate": true,
       "persistence": false,
       "reaminDeath": false,
       "canDuplicate": false,
       "isCountEffect": false,
+      "isFieldEffect": false,
+      "penetrateDeath": false,
       "isCharageEffect": false,
       "elapseTurnTiming": [
         0
@@ -34340,11 +34352,14 @@
       "parameter": false,
       "description": "システム効果132番全除去",
       "isCountTurn": false,
+      "isDotDamage": false,
       "isImmediate": true,
       "persistence": false,
       "reaminDeath": false,
       "canDuplicate": false,
       "isCountEffect": false,
+      "isFieldEffect": false,
+      "penetrateDeath": false,
       "isCharageEffect": false,
       "elapseTurnTiming": [
         0
@@ -34376,11 +34391,14 @@
       "parameter": false,
       "description": "システム効果132番付与",
       "isCountTurn": false,
+      "isDotDamage": false,
       "isImmediate": false,
       "persistence": true,
       "reaminDeath": false,
       "canDuplicate": true,
       "isCountEffect": false,
+      "isFieldEffect": false,
+      "penetrateDeath": false,
       "isCharageEffect": false,
       "elapseTurnTiming": [
         0
@@ -37878,11 +37896,14 @@
       "parameter": false,
       "description": "システム効果166番付与",
       "isCountTurn": false,
+      "isDotDamage": false,
       "isImmediate": false,
       "persistence": false,
       "reaminDeath": false,
       "canDuplicate": true,
       "isCountEffect": false,
+      "isFieldEffect": false,
+      "penetrateDeath": false,
       "isCharageEffect": false,
       "elapseTurnTiming": [
         1
@@ -41862,11 +41883,14 @@
       "parameter": false,
       "description": "沈黙無効",
       "isCountTurn": false,
+      "isDotDamage": false,
       "isImmediate": false,
       "persistence": true,
       "reaminDeath": false,
       "canDuplicate": true,
       "isCountEffect": false,
+      "isFieldEffect": false,
+      "penetrateDeath": false,
       "isCharageEffect": false,
       "elapseTurnTiming": [
         0
@@ -42880,11 +42904,14 @@
       "parameter": false,
       "description": "強化無効",
       "isCountTurn": false,
+      "isDotDamage": false,
       "isImmediate": false,
       "persistence": false,
       "reaminDeath": false,
       "canDuplicate": false,
       "isCountEffect": false,
+      "isFieldEffect": false,
+      "penetrateDeath": false,
       "isCharageEffect": false,
       "elapseTurnTiming": [
         3
@@ -53481,11 +53508,14 @@
       "parameter": false,
       "description": "システム効果130番付与",
       "isCountTurn": false,
+      "isDotDamage": false,
       "isImmediate": false,
       "persistence": true,
       "reaminDeath": false,
       "canDuplicate": false,
       "isCountEffect": false,
+      "isFieldEffect": false,
+      "penetrateDeath": false,
       "isCharageEffect": false,
       "elapseTurnTiming": [
         0
@@ -59265,11 +59295,14 @@
       "parameter": false,
       "description": "スタン",
       "isCountTurn": false,
+      "isDotDamage": false,
       "isImmediate": false,
       "persistence": false,
       "reaminDeath": false,
       "canDuplicate": false,
       "isCountEffect": false,
+      "isFieldEffect": false,
+      "penetrateDeath": false,
       "isCharageEffect": false,
       "elapseTurnTiming": [
         2
@@ -61478,11 +61511,14 @@
       "parameter": false,
       "description": "システム効果276を１ターン減少",
       "isCountTurn": false,
+      "isDotDamage": false,
       "isImmediate": true,
       "persistence": false,
       "reaminDeath": false,
       "canDuplicate": false,
       "isCountEffect": false,
+      "isFieldEffect": false,
+      "penetrateDeath": false,
       "isCharageEffect": false,
       "elapseTurnTiming": [
         0
@@ -79224,11 +79260,14 @@
       "parameter": false,
       "description": "火傷無効（アイコン表示有り）",
       "isCountTurn": false,
+      "isDotDamage": false,
       "isImmediate": false,
       "persistence": true,
       "reaminDeath": false,
       "canDuplicate": false,
       "isCountEffect": false,
+      "isFieldEffect": false,
+      "penetrateDeath": false,
       "isCharageEffect": false,
       "elapseTurnTiming": [
         0
@@ -79265,11 +79304,14 @@
       "parameter": false,
       "description": "沈黙無効（アイコン表示有り）",
       "isCountTurn": false,
+      "isDotDamage": false,
       "isImmediate": false,
       "persistence": true,
       "reaminDeath": false,
       "canDuplicate": false,
       "isCountEffect": false,
+      "isFieldEffect": false,
+      "penetrateDeath": false,
       "isCharageEffect": false,
       "elapseTurnTiming": [
         0
@@ -79306,11 +79348,14 @@
       "parameter": false,
       "description": "毒無効（アイコン表示有り）",
       "isCountTurn": false,
+      "isDotDamage": false,
       "isImmediate": false,
       "persistence": true,
       "reaminDeath": false,
       "canDuplicate": false,
       "isCountEffect": false,
+      "isFieldEffect": false,
+      "penetrateDeath": false,
       "isCharageEffect": false,
       "elapseTurnTiming": [
         0
@@ -81932,11 +81977,14 @@
       "parameter": true,
       "description": "SPD-3（1ターンの間）",
       "isCountTurn": false,
+      "isDotDamage": false,
       "isImmediate": false,
       "persistence": false,
       "reaminDeath": false,
       "canDuplicate": true,
       "isCountEffect": false,
+      "isFieldEffect": false,
+      "penetrateDeath": false,
       "isCharageEffect": false,
       "elapseTurnTiming": [
         0
@@ -81968,11 +82016,14 @@
       "parameter": false,
       "description": "システム効果276番付与",
       "isCountTurn": false,
+      "isDotDamage": false,
       "isImmediate": false,
       "persistence": false,
       "reaminDeath": false,
       "canDuplicate": false,
       "isCountEffect": false,
+      "isFieldEffect": false,
+      "penetrateDeath": false,
       "isCharageEffect": false,
       "elapseTurnTiming": [
         4
@@ -82006,11 +82057,14 @@
       "parameter": false,
       "description": "SPD増加（チャージ数1につき+3)",
       "isCountTurn": false,
+      "isDotDamage": false,
       "isImmediate": false,
       "persistence": false,
       "reaminDeath": false,
       "canDuplicate": false,
       "isCountEffect": false,
+      "isFieldEffect": false,
+      "penetrateDeath": false,
       "isCharageEffect": true,
       "elapseTurnTiming": [],
       "canDuplicateForce": false,
@@ -82047,11 +82101,14 @@
       "parameter": false,
       "description": "システム効果126のターン数を1ターン増加（最大5まで）",
       "isCountTurn": false,
+      "isDotDamage": false,
       "isImmediate": true,
       "persistence": false,
       "reaminDeath": false,
       "canDuplicate": false,
       "isCountEffect": false,
+      "isFieldEffect": false,
+      "penetrateDeath": false,
       "isCharageEffect": false,
       "elapseTurnTiming": [
         0
@@ -82213,11 +82270,14 @@
       "parameter": false,
       "description": "システム効果276番付与",
       "isCountTurn": false,
+      "isDotDamage": false,
       "isImmediate": false,
       "persistence": false,
       "reaminDeath": false,
       "canDuplicate": false,
       "isCountEffect": false,
+      "isFieldEffect": false,
+      "penetrateDeath": false,
       "isCharageEffect": false,
       "elapseTurnTiming": [
         4
@@ -82249,11 +82309,14 @@
       "parameter": false,
       "description": "システム効果276番付与",
       "isCountTurn": false,
+      "isDotDamage": false,
       "isImmediate": false,
       "persistence": false,
       "reaminDeath": false,
       "canDuplicate": false,
       "isCountEffect": false,
+      "isFieldEffect": false,
+      "penetrateDeath": false,
       "isCharageEffect": false,
       "elapseTurnTiming": [
         4
@@ -82285,11 +82348,14 @@
       "parameter": false,
       "description": "システム効果276番付与",
       "isCountTurn": false,
+      "isDotDamage": false,
       "isImmediate": false,
       "persistence": false,
       "reaminDeath": false,
       "canDuplicate": false,
       "isCountEffect": false,
+      "isFieldEffect": false,
+      "penetrateDeath": false,
       "isCharageEffect": false,
       "elapseTurnTiming": [
         4
@@ -82321,11 +82387,14 @@
       "parameter": false,
       "description": "システム効果276番付与",
       "isCountTurn": false,
+      "isDotDamage": false,
       "isImmediate": false,
       "persistence": false,
       "reaminDeath": false,
       "canDuplicate": false,
       "isCountEffect": false,
+      "isFieldEffect": false,
+      "penetrateDeath": false,
       "isCharageEffect": false,
       "elapseTurnTiming": [
         4
@@ -82357,11 +82426,14 @@
       "parameter": false,
       "description": "システム効果276番付与",
       "isCountTurn": false,
+      "isDotDamage": false,
       "isImmediate": false,
       "persistence": false,
       "reaminDeath": false,
       "canDuplicate": false,
       "isCountEffect": false,
+      "isFieldEffect": false,
+      "penetrateDeath": false,
       "isCharageEffect": false,
       "elapseTurnTiming": [
         4
@@ -98123,6 +98195,7 @@
       "parameter": false,
       "description": "システム効果129番全て除去",
       "isCountTurn": false,
+      "isDotDamage": false,
       "isImmediate": true,
       "persistence": false,
       "reaminDeath": false,
@@ -102434,6 +102507,282 @@
       "overrideStatusDescription": "【強襲弾】敵に与えるダメージ1.5倍。<br>【彩光弾】Viewを5000獲得。<br>【裂傷弾】チャージ数3の傷跡を付与。<br>【連双弾】30%ダメージの追加攻撃。<br>【治癒弾】自身のHPを基礎ATKの200%回復。",
       "isDisplayPersistenceStatus": false,
       "isOverrideStatusDescription": true
+    }
+  },
+  "4934": {
+    "skillEffectId": 4934,
+    "skillEffectJson": {
+      "turn": 0,
+      "count": 0,
+      "effects": [
+        {
+          "class": "SkillTurnExtension",
+          "parameter": {
+            "value": 7,
+            "isRandom": false,
+            "statusId": 276,
+            "statusNum": 0,
+            "extensionLimit": 15,
+            "statusTypeValue": 2
+          }
+        }
+      ],
+      "filename": "",
+      "statusId": 0,
+      "canDispel": false,
+      "filterIds": [],
+      "parameter": false,
+      "description": "システム効果276を7ターン増加（最大15まで）",
+      "isCountTurn": false,
+      "isDotDamage": false,
+      "isImmediate": true,
+      "persistence": false,
+      "reaminDeath": false,
+      "canDuplicate": false,
+      "isCountEffect": false,
+      "isFieldEffect": false,
+      "penetrateDeath": false,
+      "isCharageEffect": false,
+      "elapseTurnTiming": [
+        0
+      ],
+      "canDuplicateForce": false,
+      "isCountDownEffect": false,
+      "overrideStatusName": "",
+      "isOverrideStatusName": false,
+      "overrideStatusDescription": "",
+      "isDisplayPersistenceStatus": false,
+      "isOverrideStatusDescription": false
+    }
+  },
+  "4935": {
+    "skillEffectId": 4935,
+    "skillEffectJson": {
+      "turn": 0,
+      "count": 0,
+      "effects": [
+        {
+          "class": "SkillTurnExtension",
+          "parameter": {
+            "value": 7,
+            "isRandom": false,
+            "statusId": 276,
+            "statusNum": 0,
+            "extensionLimit": 18,
+            "statusTypeValue": 2
+          }
+        }
+      ],
+      "filename": "",
+      "statusId": 0,
+      "canDispel": false,
+      "filterIds": [],
+      "parameter": false,
+      "description": "システム効果276を7ターン増加（最大18まで）",
+      "isCountTurn": false,
+      "isDotDamage": false,
+      "isImmediate": true,
+      "persistence": false,
+      "reaminDeath": false,
+      "canDuplicate": false,
+      "isCountEffect": false,
+      "isFieldEffect": false,
+      "penetrateDeath": false,
+      "isCharageEffect": false,
+      "elapseTurnTiming": [
+        0
+      ],
+      "canDuplicateForce": false,
+      "isCountDownEffect": false,
+      "overrideStatusName": "",
+      "isOverrideStatusName": false,
+      "overrideStatusDescription": "",
+      "isDisplayPersistenceStatus": false,
+      "isOverrideStatusDescription": false
+    }
+  },
+  "4936": {
+    "skillEffectId": 4936,
+    "skillEffectJson": {
+      "turn": 0,
+      "count": 0,
+      "effects": [
+        {
+          "class": "SkillTurnExtension",
+          "parameter": {
+            "value": 7,
+            "isRandom": false,
+            "statusId": 276,
+            "statusNum": 0,
+            "extensionLimit": 21,
+            "statusTypeValue": 2
+          }
+        }
+      ],
+      "filename": "",
+      "statusId": 0,
+      "canDispel": false,
+      "filterIds": [],
+      "parameter": false,
+      "description": "システム効果276を7ターン増加（最大21まで）",
+      "isCountTurn": false,
+      "isDotDamage": false,
+      "isImmediate": true,
+      "persistence": false,
+      "reaminDeath": false,
+      "canDuplicate": false,
+      "isCountEffect": false,
+      "isFieldEffect": false,
+      "penetrateDeath": false,
+      "isCharageEffect": false,
+      "elapseTurnTiming": [
+        0
+      ],
+      "canDuplicateForce": false,
+      "isCountDownEffect": false,
+      "overrideStatusName": "",
+      "isOverrideStatusName": false,
+      "overrideStatusDescription": "",
+      "isDisplayPersistenceStatus": false,
+      "isOverrideStatusDescription": false
+    }
+  },
+  "4937": {
+    "skillEffectId": 4937,
+    "skillEffectJson": {
+      "turn": 0,
+      "count": 0,
+      "effects": [
+        {
+          "class": "SkillTurnExtension",
+          "parameter": {
+            "value": 7,
+            "isRandom": false,
+            "statusId": 276,
+            "statusNum": 0,
+            "extensionLimit": 24,
+            "statusTypeValue": 2
+          }
+        }
+      ],
+      "filename": "",
+      "statusId": 0,
+      "canDispel": false,
+      "filterIds": [],
+      "parameter": false,
+      "description": "システム効果276を7ターン増加（最大24まで）",
+      "isCountTurn": false,
+      "isDotDamage": false,
+      "isImmediate": true,
+      "persistence": false,
+      "reaminDeath": false,
+      "canDuplicate": false,
+      "isCountEffect": false,
+      "isFieldEffect": false,
+      "penetrateDeath": false,
+      "isCharageEffect": false,
+      "elapseTurnTiming": [
+        0
+      ],
+      "canDuplicateForce": false,
+      "isCountDownEffect": false,
+      "overrideStatusName": "",
+      "isOverrideStatusName": false,
+      "overrideStatusDescription": "",
+      "isDisplayPersistenceStatus": false,
+      "isOverrideStatusDescription": false
+    }
+  },
+  "4938": {
+    "skillEffectId": 4938,
+    "skillEffectJson": {
+      "turn": 0,
+      "count": 0,
+      "effects": [
+        {
+          "class": "SkillTurnExtension",
+          "parameter": {
+            "value": 7,
+            "isRandom": false,
+            "statusId": 276,
+            "statusNum": 0,
+            "extensionLimit": 27,
+            "statusTypeValue": 2
+          }
+        }
+      ],
+      "filename": "",
+      "statusId": 0,
+      "canDispel": false,
+      "filterIds": [],
+      "parameter": false,
+      "description": "システム効果276を7ターン増加（最大27まで）",
+      "isCountTurn": false,
+      "isDotDamage": false,
+      "isImmediate": true,
+      "persistence": false,
+      "reaminDeath": false,
+      "canDuplicate": false,
+      "isCountEffect": false,
+      "isFieldEffect": false,
+      "penetrateDeath": false,
+      "isCharageEffect": false,
+      "elapseTurnTiming": [
+        0
+      ],
+      "canDuplicateForce": false,
+      "isCountDownEffect": false,
+      "overrideStatusName": "",
+      "isOverrideStatusName": false,
+      "overrideStatusDescription": "",
+      "isDisplayPersistenceStatus": false,
+      "isOverrideStatusDescription": false
+    }
+  },
+  "4939": {
+    "skillEffectId": 4939,
+    "skillEffectJson": {
+      "turn": 0,
+      "count": 0,
+      "effects": [
+        {
+          "class": "SkillTurnExtension",
+          "parameter": {
+            "value": 7,
+            "isRandom": false,
+            "statusId": 276,
+            "statusNum": 0,
+            "extensionLimit": 30,
+            "statusTypeValue": 2
+          }
+        }
+      ],
+      "filename": "",
+      "statusId": 0,
+      "canDispel": false,
+      "filterIds": [],
+      "parameter": false,
+      "description": "システム効果276を7ターン増加（最大30まで）",
+      "isCountTurn": false,
+      "isDotDamage": false,
+      "isImmediate": true,
+      "persistence": false,
+      "reaminDeath": false,
+      "canDuplicate": false,
+      "isCountEffect": false,
+      "isFieldEffect": false,
+      "penetrateDeath": false,
+      "isCharageEffect": false,
+      "elapseTurnTiming": [
+        0
+      ],
+      "canDuplicateForce": false,
+      "isCountDownEffect": false,
+      "overrideStatusName": "",
+      "isOverrideStatusName": false,
+      "overrideStatusDescription": "",
+      "isDisplayPersistenceStatus": false,
+      "isOverrideStatusDescription": false
     }
   },
   "5001": {
