@@ -11496,12 +11496,12 @@
   "81": {
     "eventId": 81,
     "chapterId": 1097,
-    "lookBackChapterId": 0,
+    "lookBackChapterId": 530,
     "baseResourceName": "Volcano2402",
     "questSelectPrefabAddress": "",
     "startAt": null,
     "endAt": "2024-03-26 14:00:00",
-    "canRemember": 0,
+    "canRemember": 1,
     "eventPortalJson": {
       "bg": "ui_bg_sprite_event_Volcano2402",
       "bgm": "bgm_volcano_adv",
@@ -19038,6 +19038,69 @@
       }
     ]
   },
+  "121": {
+    "eventId": 121,
+    "chapterId": 1172,
+    "lookBackChapterId": 0,
+    "baseResourceName": "campaignSlime",
+    "questSelectPrefabAddress": "",
+    "startAt": "2025-04-24 14:00:00",
+    "endAt": "2025-04-24 14:00:00",
+    "canRemember": 0,
+    "eventPortalJson": {
+      "bg": "",
+      "bgm": "",
+      "logo": "WinterCampaign2212_title",
+      "terms": [
+        {
+          "keys": [
+            "UI_FREE_QUEST"
+          ],
+          "endAt": "2025-04-24 14:00:00"
+        },
+        {
+          "keys": [
+            "UI_MISSION",
+            "UI_EXCHANGE"
+          ],
+          "endAt": "2025-04-24 14:00:00"
+        }
+      ],
+      "gachaId": 54,
+      "storeId": 34,
+      "questInfos": [
+        {
+          "type": 8,
+          "chapterId": 1172,
+          "buttonType": 1
+        }
+      ],
+      "tutorialKey": "Spring2504",
+      "eventItemIds": [],
+      "missionViews": [],
+      "portalWindow": "EventPortalWindowContractDiver2504",
+      "characterViews": [
+        {
+          "skinId": 0,
+          "stockId": 10541,
+          "cardType": 2,
+          "serifKinds": [
+            27
+          ],
+          "visualType": 1,
+          "resourceName": "guardmanFire",
+          "characterName": "火のガードマン"
+        }
+      ],
+      "salesRegionIds": [],
+      "missionGroupIds": [],
+      "missionCategoryButtonLabels": null
+    },
+    "roguePortalJson": null,
+    "pastPortalJson": null,
+    "summary": null,
+    "questBonusJsons": []
+  },
   "122": {
     "eventId": 122,
     "chapterId": 1162,
@@ -19046,6 +19109,348 @@
     "questSelectPrefabAddress": "",
     "startAt": "2025-03-18 09:00:00",
     "endAt": "2025-04-10 14:00:00",
+    "canRemember": 0,
+    "eventPortalJson": null,
+    "roguePortalJson": null,
+    "pastPortalJson": null,
+    "summary": null,
+    "questBonusJsons": []
+  },
+  "123": {
+    "eventId": 123,
+    "chapterId": 1173,
+    "lookBackChapterId": 0,
+    "baseResourceName": "linkQuestSpring2504",
+    "questSelectPrefabAddress": "",
+    "startAt": "2025-02-07 00:00:00",
+    "endAt": "2025-04-24 14:00:00",
+    "canRemember": 0,
+    "eventPortalJson": null,
+    "roguePortalJson": null,
+    "pastPortalJson": null,
+    "summary": null,
+    "questBonusJsons": []
+  },
+  "124": {
+    "eventId": 124,
+    "chapterId": 1174,
+    "lookBackChapterId": 0,
+    "baseResourceName": "ContractDiver2504",
+    "questSelectPrefabAddress": "",
+    "startAt": "2025-02-13 00:00:00",
+    "endAt": "2025-04-24 14:00:00",
+    "canRemember": 0,
+    "eventPortalJson": {
+      "bg": "ui_bg_sprite_portal_3rdAnniversary",
+      "bgm": "bgm_main",
+      "logo": "ContractDiver2504_title",
+      "terms": [
+        {
+          "keys": [
+            "UI_FREE_QUEST"
+          ],
+          "endAt": "2025-04-24 14:00:00"
+        },
+        {
+          "keys": [
+            "UI_MISSION",
+            "UI_EXCHANGE"
+          ],
+          "endAt": "2025-04-24 14:00:00"
+        }
+      ],
+      "gachaId": null,
+      "storeId": 79,
+      "questInfos": [
+        {
+          "type": 6,
+          "chapterId": 1174,
+          "buttonType": 1
+        }
+      ],
+      "tutorialKey": "ContractDiver2504",
+      "eventItemIds": [
+        52
+      ],
+      "missionViews": [
+        {
+          "skinId": 0,
+          "stockId": 11161,
+          "cardType": 2,
+          "serifKinds": [
+            29
+          ],
+          "visualType": 1,
+          "serifEntity": [
+            {
+              "priority": 0,
+              "serifKind": 29,
+              "conditions": []
+            },
+            {
+              "priority": 1,
+              "serifKind": 30,
+              "conditions": [
+                {
+                  "class": "MissionClear",
+                  "questId": 0,
+                  "missionIds": [
+                    22178,
+                    22179,
+                    22180,
+                    22181,
+                    22182,
+                    22183,
+                    22184,
+                    22185,
+                    22186
+                  ],
+                  "isCheckClear": true
+                }
+              ]
+            }
+          ],
+          "resourceName": "diverFire",
+          "characterName": "火のダイバー"
+        },
+        {
+          "skinId": 0,
+          "stockId": 11171,
+          "cardType": 2,
+          "serifKinds": [
+            29
+          ],
+          "visualType": 1,
+          "serifEntity": [
+            {
+              "priority": 0,
+              "serifKind": 29,
+              "conditions": []
+            },
+            {
+              "priority": 1,
+              "serifKind": 30,
+              "conditions": [
+                {
+                  "class": "MissionClear",
+                  "questId": 0,
+                  "missionIds": [
+                    22178,
+                    22179,
+                    22180,
+                    22181,
+                    22182,
+                    22183,
+                    22184,
+                    22185,
+                    22186
+                  ],
+                  "isCheckClear": true
+                }
+              ]
+            }
+          ],
+          "resourceName": "diverWater",
+          "characterName": "水のダイバー"
+        },
+        {
+          "skinId": 0,
+          "stockId": 11181,
+          "cardType": 2,
+          "serifKinds": [
+            29
+          ],
+          "visualType": 1,
+          "serifEntity": [
+            {
+              "priority": 0,
+              "serifKind": 29,
+              "conditions": []
+            },
+            {
+              "priority": 1,
+              "serifKind": 30,
+              "conditions": [
+                {
+                  "class": "MissionClear",
+                  "questId": 0,
+                  "missionIds": [
+                    22178,
+                    22179,
+                    22180,
+                    22181,
+                    22182,
+                    22183,
+                    22184,
+                    22185,
+                    22186
+                  ],
+                  "isCheckClear": true
+                }
+              ]
+            }
+          ],
+          "resourceName": "diverEarth",
+          "characterName": "木のダイバー"
+        },
+        {
+          "skinId": 0,
+          "stockId": 11191,
+          "cardType": 2,
+          "serifKinds": [
+            29
+          ],
+          "visualType": 1,
+          "serifEntity": [
+            {
+              "priority": 0,
+              "serifKind": 29,
+              "conditions": []
+            },
+            {
+              "priority": 1,
+              "serifKind": 30,
+              "conditions": [
+                {
+                  "class": "MissionClear",
+                  "questId": 0,
+                  "missionIds": [
+                    22178,
+                    22179,
+                    22180,
+                    22181,
+                    22182,
+                    22183,
+                    22184,
+                    22185,
+                    22186
+                  ],
+                  "isCheckClear": true
+                }
+              ]
+            }
+          ],
+          "resourceName": "diverLight",
+          "characterName": "光のダイバー"
+        },
+        {
+          "skinId": 0,
+          "stockId": 11201,
+          "cardType": 2,
+          "serifKinds": [
+            29
+          ],
+          "visualType": 1,
+          "serifEntity": [
+            {
+              "priority": 0,
+              "serifKind": 29,
+              "conditions": []
+            },
+            {
+              "priority": 1,
+              "serifKind": 30,
+              "conditions": [
+                {
+                  "class": "MissionClear",
+                  "questId": 0,
+                  "missionIds": [
+                    22178,
+                    22179,
+                    22180,
+                    22181,
+                    22182,
+                    22183,
+                    22184,
+                    22185,
+                    22186
+                  ],
+                  "isCheckClear": true
+                }
+              ]
+            }
+          ],
+          "resourceName": "diverShadow",
+          "characterName": "影のダイバー"
+        }
+      ],
+      "portalWindow": "EventPortalWindowContractDiver2504",
+      "characterViews": [
+        {
+          "skinId": 0,
+          "stockId": 11161,
+          "cardType": 2,
+          "serifKinds": [
+            27
+          ],
+          "visualType": 1,
+          "resourceName": "diverFire",
+          "characterName": "火のダイバー"
+        },
+        {
+          "skinId": 0,
+          "stockId": 11171,
+          "cardType": 2,
+          "serifKinds": [
+            27
+          ],
+          "visualType": 1,
+          "resourceName": "diverWater",
+          "characterName": "水のダイバー"
+        },
+        {
+          "skinId": 0,
+          "stockId": 11181,
+          "cardType": 2,
+          "serifKinds": [
+            27
+          ],
+          "visualType": 1,
+          "resourceName": "diverEarth",
+          "characterName": "木のダイバー"
+        },
+        {
+          "skinId": 0,
+          "stockId": 11191,
+          "cardType": 2,
+          "serifKinds": [
+            27
+          ],
+          "visualType": 1,
+          "resourceName": "diverLight",
+          "characterName": "光のダイバー"
+        },
+        {
+          "skinId": 0,
+          "stockId": 11201,
+          "cardType": 2,
+          "serifKinds": [
+            27
+          ],
+          "visualType": 1,
+          "resourceName": "diverShadow",
+          "characterName": "影のダイバー"
+        }
+      ],
+      "salesRegionIds": [],
+      "missionGroupIds": [
+        1174
+      ],
+      "missionCategoryButtonLabels": null
+    },
+    "roguePortalJson": null,
+    "pastPortalJson": null,
+    "summary": null,
+    "questBonusJsons": []
+  },
+  "125": {
+    "eventId": 125,
+    "chapterId": 1172,
+    "lookBackChapterId": 0,
+    "baseResourceName": "campaignSlime",
+    "questSelectPrefabAddress": "",
+    "startAt": null,
+    "endAt": "2025-04-24 14:00:00",
     "canRemember": 0,
     "eventPortalJson": null,
     "roguePortalJson": null,
