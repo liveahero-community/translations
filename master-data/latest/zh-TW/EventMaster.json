@@ -19458,6 +19458,459 @@
     "summary": null,
     "questBonusJsons": []
   },
+  "126": {
+    "eventId": 126,
+    "chapterId": 1175,
+    "lookBackChapterId": 0,
+    "baseResourceName": "Travelers2504",
+    "questSelectPrefabAddress": "",
+    "startAt": null,
+    "endAt": null,
+    "canRemember": 0,
+    "eventPortalJson": {
+      "bg": "ui_bg_sprite_event_Travelers2504",
+      "bgm": "bgm_travelers_adv",
+      "logo": "Travelers2504_title",
+      "terms": [
+        {
+          "keys": [
+            "UI_MAIN_QUEST",
+            "UI_MISSION",
+            "UI_EXCHANGE"
+          ],
+          "endAt": "2025-05-28 14:00:00"
+        },
+        {
+          "keys": [
+            "UI_FREE_QUEST",
+            "UI_SALES"
+          ],
+          "endAt": "2025-05-21 20:00:00"
+        }
+      ],
+      "gachaId": 148,
+      "storeId": 80,
+      "questInfos": [
+        {
+          "type": 5,
+          "chapterId": 1175,
+          "buttonType": 0
+        },
+        {
+          "type": 6,
+          "chapterId": 1176,
+          "buttonType": 1
+        }
+      ],
+      "tutorialKey": "Travelers2504",
+      "eventItemIds": [
+        239
+      ],
+      "missionViews": [
+        {
+          "skinId": 0,
+          "stockId": 10172,
+          "cardType": 1,
+          "serifKinds": [
+            29
+          ],
+          "visualType": 1,
+          "serifEntity": [
+            {
+              "priority": 0,
+              "serifKind": 29,
+              "conditions": []
+            },
+            {
+              "priority": 1,
+              "serifKind": 30,
+              "conditions": [
+                {
+                  "class": "MissionClear",
+                  "questId": 0,
+                  "missionIds": [
+                    22130,
+                    22131,
+                    22132,
+                    22133,
+                    22134,
+                    22135,
+                    22136,
+                    22137,
+                    22138,
+                    22139,
+                    22140,
+                    22141,
+                    22142,
+                    22143,
+                    22144,
+                    22145,
+                    22146,
+                    22147,
+                    22148,
+                    22149,
+                    22150
+                  ],
+                  "isCheckClear": true
+                }
+              ]
+            }
+          ],
+          "resourceName": "hydoorTravelers2504",
+          "characterName": "ハイドール"
+        },
+        {
+          "skinId": 0,
+          "stockId": 11682,
+          "cardType": 1,
+          "serifKinds": [
+            29
+          ],
+          "visualType": 1,
+          "serifEntity": [
+            {
+              "priority": 0,
+              "serifKind": 29,
+              "conditions": []
+            },
+            {
+              "priority": 1,
+              "serifKind": 30,
+              "conditions": [
+                {
+                  "class": "MissionClear",
+                  "questId": 0,
+                  "missionIds": [
+                    22130,
+                    22131,
+                    22132,
+                    22133,
+                    22134,
+                    22135,
+                    22136,
+                    22137,
+                    22138,
+                    22139,
+                    22140,
+                    22141,
+                    22142,
+                    22143,
+                    22144,
+                    22145,
+                    22146,
+                    22147,
+                    22148,
+                    22149,
+                    22150
+                  ],
+                  "isCheckClear": true
+                }
+              ]
+            }
+          ],
+          "resourceName": "danzoTravelers2504",
+          "characterName": "ダンゾー"
+        },
+        {
+          "skinId": 0,
+          "stockId": 12001,
+          "cardType": 2,
+          "serifKinds": [
+            29
+          ],
+          "visualType": 1,
+          "serifEntity": [
+            {
+              "priority": 0,
+              "serifKind": 29,
+              "conditions": []
+            },
+            {
+              "priority": 1,
+              "serifKind": 30,
+              "conditions": [
+                {
+                  "class": "MissionClear",
+                  "questId": 0,
+                  "missionIds": [
+                    22130,
+                    22131,
+                    22132,
+                    22133,
+                    22134,
+                    22135,
+                    22136,
+                    22137,
+                    22138,
+                    22139,
+                    22140,
+                    22141,
+                    22142,
+                    22143,
+                    22144,
+                    22145,
+                    22146,
+                    22147,
+                    22148,
+                    22149,
+                    22150
+                  ],
+                  "isCheckClear": true
+                }
+              ]
+            }
+          ],
+          "resourceName": "barte",
+          "characterName": "バルテ"
+        },
+        {
+          "skinId": 0,
+          "stockId": 12551,
+          "cardType": 2,
+          "serifKinds": [
+            29
+          ],
+          "visualType": 1,
+          "serifEntity": [
+            {
+              "priority": 0,
+              "serifKind": 29,
+              "conditions": []
+            },
+            {
+              "priority": 1,
+              "serifKind": 30,
+              "conditions": [
+                {
+                  "class": "MissionClear",
+                  "questId": 0,
+                  "missionIds": [
+                    22130,
+                    22131,
+                    22132,
+                    22133,
+                    22134,
+                    22135,
+                    22136,
+                    22137,
+                    22138,
+                    22139,
+                    22140,
+                    22141,
+                    22142,
+                    22143,
+                    22144,
+                    22145,
+                    22146,
+                    22147,
+                    22148,
+                    22149,
+                    22150
+                  ],
+                  "isCheckClear": true
+                }
+              ]
+            }
+          ],
+          "resourceName": "gnomon",
+          "characterName": "ノーモン"
+        }
+      ],
+      "portalWindow": "EventPortalWindowTravelers",
+      "characterViews": [
+        {
+          "skinId": 0,
+          "stockId": 10172,
+          "cardType": 1,
+          "serifKinds": [
+            27,
+            28
+          ],
+          "visualType": 1,
+          "resourceName": "hydoorTravelers2504",
+          "characterName": "ハイドール"
+        },
+        {
+          "skinId": 0,
+          "stockId": 11682,
+          "cardType": 1,
+          "serifKinds": [
+            27,
+            28
+          ],
+          "visualType": 1,
+          "resourceName": "danzoTravelers2504",
+          "characterName": "ダンゾー"
+        },
+        {
+          "skinId": 0,
+          "stockId": 12001,
+          "cardType": 2,
+          "serifKinds": [
+            27,
+            28
+          ],
+          "visualType": 1,
+          "resourceName": "barte",
+          "characterName": "バルテ"
+        },
+        {
+          "skinId": 0,
+          "stockId": 12551,
+          "cardType": 2,
+          "serifKinds": [
+            27,
+            28
+          ],
+          "visualType": 1,
+          "resourceName": "gnomon",
+          "characterName": "ノーモン"
+        }
+      ],
+      "salesRegionIds": [
+        251
+      ],
+      "missionGroupIds": [
+        1179,
+        1175,
+        1176,
+        1178
+      ],
+      "missionCategoryButtonLabels": null
+    },
+    "roguePortalJson": null,
+    "pastPortalJson": null,
+    "summary": {
+      "description": "UI_EVENT_SUMMARY_2504TRAVELERS",
+      "mainChapterId": 107,
+      "relationEventIds": [
+        13,
+        18,
+        81
+      ]
+    },
+    "questBonusJsons": [
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 239,
+        "bonusValue": 40,
+        "targetStockId": 10172
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 239,
+        "bonusValue": 40,
+        "targetStockId": 11682
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 239,
+        "bonusValue": 30,
+        "targetStockId": 12001
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 239,
+        "bonusValue": 20,
+        "targetStockId": 12551
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 239,
+        "bonusValue": 10,
+        "targetStockId": 10171
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 239,
+        "bonusValue": 20,
+        "targetStockId": 11681
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 239,
+        "bonusValue": 20,
+        "targetStockId": 11222
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 239,
+        "bonusValue": 20,
+        "targetStockId": 11981
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 239,
+        "bonusValue": 10,
+        "targetStockId": 11991
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 239,
+        "bonusValue": 30,
+        "targetStockId": 12001
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 239,
+        "bonusValue": 20,
+        "targetStockId": 12551
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 239,
+        "bonusValue": 10,
+        "targetStockId": 10171
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 239,
+        "bonusValue": 10,
+        "targetStockId": 11681
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 239,
+        "bonusValue": 10,
+        "targetStockId": 11991
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 239,
+        "bonusValue": 10,
+        "targetStockId": 11981
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 239,
+        "bonusValue": 10,
+        "targetStockId": 11221
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 239,
+        "bonusValue": 10,
+        "targetStockId": 19991
+      }
+    ]
+  },
   "127": {
     "eventId": 127,
     "chapterId": 203,
