@@ -19476,7 +19476,8 @@
           "keys": [
             "UI_MAIN_QUEST",
             "UI_MISSION",
-            "UI_EXCHANGE"
+            "UI_EXCHANGE",
+            "UI_CHALLENGE_QUEST"
           ],
           "endAt": "2025-05-28 14:00:00"
         },
@@ -19499,6 +19500,11 @@
         {
           "type": 6,
           "chapterId": 1176,
+          "buttonType": 1
+        },
+        {
+          "type": 6,
+          "chapterId": 1178,
           "buttonType": 1
         }
       ],
