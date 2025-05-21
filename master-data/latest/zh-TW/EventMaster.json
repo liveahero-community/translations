@@ -19462,7 +19462,7 @@
     "eventId": 126,
     "chapterId": 1175,
     "lookBackChapterId": 0,
-    "baseResourceName": "Travelers2504",
+    "baseResourceName": "Travelers2504_epilogue",
     "questSelectPrefabAddress": "",
     "startAt": null,
     "endAt": null,
@@ -19475,6 +19475,7 @@
         {
           "keys": [
             "UI_MAIN_QUEST",
+            "UI_EPILOGUE_QUEST",
             "UI_MISSION",
             "UI_EXCHANGE",
             "UI_CHALLENGE_QUEST"
@@ -19506,6 +19507,11 @@
           "type": 6,
           "chapterId": 1178,
           "buttonType": 1
+        },
+        {
+          "type": 7,
+          "chapterId": 1177,
+          "buttonType": 0
         }
       ],
       "tutorialKey": "Travelers2504",
