@@ -52682,6 +52682,29 @@
     "sceneCategory": 7,
     "overwriteRewards": []
   },
+  "22252": {
+    "missionId": 22252,
+    "missionCategory": 2,
+    "missionGroupId": 2,
+    "missionTextKey": "MISSION_22252_LABEL",
+    "count": 1,
+    "sortWeight": 900,
+    "receiveConditions": [],
+    "displayConditions": [],
+    "bannerAddress": "",
+    "rewards": [
+      {
+        "rewardType": 15,
+        "objectId": 28,
+        "objectValue": 1,
+        "bonus": 100,
+        "fixAddValue": 0,
+        "isAddDrop": false
+      }
+    ],
+    "sceneCategory": 7,
+    "overwriteRewards": []
+  },
   "30001": {
     "missionId": 30001,
     "missionCategory": 3,

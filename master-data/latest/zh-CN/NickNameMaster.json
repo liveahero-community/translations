@@ -367,6 +367,20 @@
       }
     ]
   },
+  "28": {
+    "nickNameId": 28,
+    "nickNameType": 2,
+    "rarity": 3,
+    "category": 2,
+    "nickNameTextKey": "NICK_NAME_28",
+    "getConditionDescription": "NICK_NAME_DESCRIPTION_28",
+    "conditions": [
+      {
+        "class": "MissionClear",
+        "missionId": 22252
+      }
+    ]
+  },
   "110011": {
     "nickNameId": 110011,
     "nickNameType": 1,
