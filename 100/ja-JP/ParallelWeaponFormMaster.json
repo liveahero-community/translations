@@ -1,0 +1,50 @@
+[
+  {
+    "parallelWeaponFormId": 0,
+    "formName": "ノーマル",
+    "iconFilename": "",
+    "atkBase": 5,
+    "hpBase": 10,
+    "decreaseDamageBase": 2.5,
+    "atkFeature": 3,
+    "hpFeature": 3,
+    "decreaseDamageFeature": 3,
+    "description": "汎用性の高いフォーム"
+  },
+  {
+    "parallelWeaponFormId": 1,
+    "formName": "アタック",
+    "iconFilename": "",
+    "atkBase": 7.5,
+    "hpBase": 7.5,
+    "decreaseDamageBase": 1.875,
+    "atkFeature": 4,
+    "hpFeature": 2,
+    "decreaseDamageFeature": 2,
+    "description": "攻撃が得意なフォーム"
+  },
+  {
+    "parallelWeaponFormId": 2,
+    "formName": "フィジカル",
+    "iconFilename": "",
+    "atkBase": 3.75,
+    "hpBase": 15,
+    "decreaseDamageBase": 1.875,
+    "atkFeature": 2,
+    "hpFeature": 4,
+    "decreaseDamageFeature": 2,
+    "description": "前線にたつのに適したフォーム"
+  },
+  {
+    "parallelWeaponFormId": 3,
+    "formName": "ガード",
+    "iconFilename": "",
+    "atkBase": 3.75,
+    "hpBase": 7.5,
+    "decreaseDamageBase": 3.75,
+    "atkFeature": 2,
+    "hpFeature": 2,
+    "decreaseDamageFeature": 4,
+    "description": "防御に秀でたフォーム"
+  }
+]
