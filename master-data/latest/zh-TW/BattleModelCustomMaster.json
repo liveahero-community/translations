@@ -8378,5 +8378,175 @@
       "effectAddress": "TurnObject_Blooming",
       "targetStockId": 12551
     }
+  },
+  "939": {
+    "itemId": 11075201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att/bubble",
+      "targetStockId": 10752,
+      "attachmentName": "att/bubble"
+    }
+  },
+  "940": {
+    "itemId": 11075201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att/bubble2",
+      "targetStockId": 10752,
+      "attachmentName": "att/bubble"
+    }
+  },
+  "941": {
+    "itemId": 11075201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att/dropA",
+      "targetStockId": 10752,
+      "attachmentName": "att/dropA"
+    }
+  },
+  "942": {
+    "itemId": 11075201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att/dropB",
+      "targetStockId": 10752,
+      "attachmentName": "att/dropB"
+    }
+  },
+  "943": {
+    "itemId": 11075201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att/handle",
+      "targetStockId": 10752,
+      "attachmentName": "att/handle"
+    }
+  },
+  "944": {
+    "itemId": 11075201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att/handle2",
+      "targetStockId": 10752,
+      "attachmentName": "att/handle"
+    }
+  },
+  "945": {
+    "itemId": 11075201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att/jug",
+      "targetStockId": 10752,
+      "attachmentName": "att/jug"
+    }
+  },
+  "946": {
+    "itemId": 11075201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att/jug2",
+      "targetStockId": 10752,
+      "attachmentName": "att/jug"
+    }
+  },
+  "947": {
+    "itemId": 11160201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att_glass_L",
+      "targetStockId": 11602,
+      "attachmentName": "attglass_L"
+    }
+  },
+  "948": {
+    "itemId": 11160201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att_glass_R",
+      "targetStockId": 11602,
+      "attachmentName": "attglass_R"
+    }
+  },
+  "949": {
+    "itemId": 11160201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att_pen",
+      "targetStockId": 11602,
+      "attachmentName": "attpen"
+    }
+  },
+  "950": {
+    "itemId": 11207101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att1/a",
+      "targetStockId": 12071,
+      "attachmentName": "att1/a"
+    }
+  },
+  "951": {
+    "itemId": 11207101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att1/b",
+      "targetStockId": 12071,
+      "attachmentName": "att1/b"
+    }
+  },
+  "952": {
+    "itemId": 11207101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att1/bt",
+      "targetStockId": 12071,
+      "attachmentName": "att1/bt"
+    }
+  },
+  "953": {
+    "itemId": 11207101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att1/c",
+      "targetStockId": 12071,
+      "attachmentName": "att1/c"
+    }
+  },
+  "954": {
+    "itemId": 11207101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att1/d",
+      "targetStockId": 12071,
+      "attachmentName": "att1/d"
+    }
+  },
+  "955": {
+    "itemId": 11207101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att1/tp",
+      "targetStockId": 12071,
+      "attachmentName": "att1/tp"
+    }
   }
 }
