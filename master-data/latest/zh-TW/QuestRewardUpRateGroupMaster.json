@@ -110,5 +110,13 @@
     "helpPrefabAddress": "QuestRewardUpTutorialWindow",
     "startAt": "2025-04-25 00:00:00",
     "endAt": "2025-04-30 00:00:00"
+  },
+  "15": {
+    "rewardUpGroupId": 15,
+    "executeLimit": 3,
+    "labelTextKey": "UI_TODAY_QUEST_REWARD_DOUBLE_COUNT",
+    "helpPrefabAddress": "QuestRewardUpTutorialWindow",
+    "startAt": "2025-06-18 00:00:00",
+    "endAt": "2025-06-24 00:00:00"
   }
 }

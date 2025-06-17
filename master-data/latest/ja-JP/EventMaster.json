@@ -20504,5 +20504,20 @@
         "targetStockId": 19991
       }
     ]
+  },
+  "132": {
+    "eventId": 132,
+    "chapterId": 201,
+    "lookBackChapterId": 0,
+    "baseResourceName": "Breed_EXP",
+    "questSelectPrefabAddress": "",
+    "startAt": "2025-06-18 00:00:00",
+    "endAt": "2025-06-24 00:00:00",
+    "canRemember": 0,
+    "eventPortalJson": null,
+    "roguePortalJson": null,
+    "pastPortalJson": null,
+    "summary": null,
+    "questBonusJsons": []
   }
 }
