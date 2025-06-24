@@ -20505,6 +20505,448 @@
       }
     ]
   },
+  "131": {
+    "eventId": 131,
+    "chapterId": 1185,
+    "lookBackChapterId": 0,
+    "baseResourceName": "LastResort2506",
+    "questSelectPrefabAddress": "",
+    "startAt": null,
+    "endAt": "2025-07-22 14:00:00",
+    "canRemember": 0,
+    "eventPortalJson": {
+      "bg": "ui_bg_sprite_event_LastResort2506",
+      "bgm": "bgm_lastresort_battle",
+      "logo": "LastResort2506_title",
+      "terms": [
+        {
+          "keys": [
+            "UI_MAIN_QUEST",
+            "UI_OIL_QUEST",
+            "UI_MISSION",
+            "UI_EXCHANGE"
+          ],
+          "endAt": "2025-07-22 14:00:00"
+        },
+        {
+          "keys": [
+            "UI_FREE_QUEST",
+            "UI_SALES"
+          ],
+          "endAt": "2025-07-15 20:00:00"
+        }
+      ],
+      "gachaId": 152,
+      "storeId": 82,
+      "questInfos": [
+        {
+          "type": 5,
+          "chapterId": 1185,
+          "buttonType": 0
+        },
+        {
+          "type": 6,
+          "chapterId": 1186,
+          "buttonType": 1
+        },
+        {
+          "type": 0,
+          "chapterId": 1190,
+          "buttonType": 4
+        }
+      ],
+      "tutorialKey": "LastResort2506",
+      "eventItemIds": [
+        245
+      ],
+      "missionViews": [
+        {
+          "skinId": 0,
+          "stockId": 11902,
+          "cardType": 1,
+          "serifKinds": [
+            29
+          ],
+          "visualType": 1,
+          "serifEntity": [
+            {
+              "priority": 0,
+              "serifKind": 29,
+              "conditions": []
+            },
+            {
+              "priority": 1,
+              "serifKind": 30,
+              "conditions": [
+                {
+                  "class": "MissionClear",
+                  "questId": 0,
+                  "missionIds": [
+                    22273,
+                    22274,
+                    22275,
+                    22276,
+                    22277,
+                    22278,
+                    22279,
+                    22280,
+                    22281,
+                    22282,
+                    22283,
+                    22284,
+                    22285,
+                    22286,
+                    22287,
+                    22288,
+                    22289,
+                    22290,
+                    22291,
+                    22292,
+                    22293
+                  ],
+                  "isCheckClear": true
+                }
+              ]
+            }
+          ],
+          "resourceName": "yohackLastResort2506",
+          "characterName": "ヨハック"
+        },
+        {
+          "skinId": 0,
+          "stockId": 11922,
+          "cardType": 1,
+          "serifKinds": [
+            29
+          ],
+          "visualType": 1,
+          "serifEntity": [
+            {
+              "priority": 0,
+              "serifKind": 29,
+              "conditions": []
+            },
+            {
+              "priority": 1,
+              "serifKind": 30,
+              "conditions": [
+                {
+                  "class": "MissionClear",
+                  "questId": 0,
+                  "missionIds": [
+                    22273,
+                    22274,
+                    22275,
+                    22276,
+                    22277,
+                    22278,
+                    22279,
+                    22280,
+                    22281,
+                    22282,
+                    22283,
+                    22284,
+                    22285,
+                    22286,
+                    22287,
+                    22288,
+                    22289,
+                    22290,
+                    22291,
+                    22292,
+                    22293
+                  ],
+                  "isCheckClear": true
+                }
+              ]
+            }
+          ],
+          "resourceName": "astarLastResort2506",
+          "characterName": "アスター"
+        },
+        {
+          "skinId": 0,
+          "stockId": 12611,
+          "cardType": 2,
+          "serifKinds": [
+            29
+          ],
+          "visualType": 1,
+          "serifEntity": [
+            {
+              "priority": 0,
+              "serifKind": 29,
+              "conditions": []
+            },
+            {
+              "priority": 1,
+              "serifKind": 30,
+              "conditions": [
+                {
+                  "class": "MissionClear",
+                  "questId": 0,
+                  "missionIds": [
+                    22273,
+                    22274,
+                    22275,
+                    22276,
+                    22277,
+                    22278,
+                    22279,
+                    22280,
+                    22281,
+                    22282,
+                    22283,
+                    22284,
+                    22285,
+                    22286,
+                    22287,
+                    22288,
+                    22289,
+                    22290,
+                    22291,
+                    22292,
+                    22293
+                  ],
+                  "isCheckClear": true
+                }
+              ]
+            }
+          ],
+          "resourceName": "saotome",
+          "characterName": "サオトメ"
+        }
+      ],
+      "portalWindow": "EventPortalWindowLastResort",
+      "characterViews": [
+        {
+          "skinId": 0,
+          "stockId": 11902,
+          "cardType": 1,
+          "serifKinds": [
+            27,
+            28
+          ],
+          "visualType": 1,
+          "resourceName": "yohackLastResort2506",
+          "characterName": "ヨハック"
+        },
+        {
+          "skinId": 0,
+          "stockId": 11922,
+          "cardType": 1,
+          "serifKinds": [
+            27,
+            28
+          ],
+          "visualType": 1,
+          "resourceName": "astarLastResort2506",
+          "characterName": "アスター"
+        },
+        {
+          "skinId": 0,
+          "stockId": 12611,
+          "cardType": 2,
+          "serifKinds": [
+            27,
+            28
+          ],
+          "visualType": 1,
+          "resourceName": "saotome",
+          "characterName": "サオトメ"
+        }
+      ],
+      "salesRegionIds": [
+        253
+      ],
+      "missionGroupIds": [
+        1185,
+        1186,
+        1188
+      ],
+      "missionCategoryButtonLabels": null
+    },
+    "roguePortalJson": null,
+    "pastPortalJson": null,
+    "summary": {
+      "description": "UI_EVENT_SUMMARY_2506LASTRESORT",
+      "mainChapterId": 107,
+      "relationEventIds": [
+        68,
+        71
+      ]
+    },
+    "questBonusJsons": [
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 245,
+        "bonusValue": 30,
+        "targetStockId": 12611
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 245,
+        "bonusValue": 10,
+        "targetStockId": 11901
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 245,
+        "bonusValue": 10,
+        "targetStockId": 11921
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 245,
+        "bonusValue": 10,
+        "targetStockId": 12071
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 245,
+        "bonusValue": 10,
+        "targetStockId": 12061
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 245,
+        "bonusValue": 10,
+        "targetStockId": 10751
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 245,
+        "bonusValue": 10,
+        "targetStockId": 11601
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 245,
+        "bonusValue": 10,
+        "targetStockId": 12291
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 245,
+        "bonusValue": 10,
+        "targetStockId": 12301
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 245,
+        "bonusValue": 10,
+        "targetStockId": 12361
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 245,
+        "bonusValue": 10,
+        "targetStockId": 11891
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 245,
+        "bonusValue": 10,
+        "targetStockId": 19991
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 245,
+        "bonusValue": 40,
+        "targetStockId": 11902
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 245,
+        "bonusValue": 40,
+        "targetStockId": 11922
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 245,
+        "bonusValue": 30,
+        "targetStockId": 12611
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 245,
+        "bonusValue": 10,
+        "targetStockId": 11901
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 245,
+        "bonusValue": 10,
+        "targetStockId": 11921
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 245,
+        "bonusValue": 20,
+        "targetStockId": 10752
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 245,
+        "bonusValue": 20,
+        "targetStockId": 11602
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 245,
+        "bonusValue": 10,
+        "targetStockId": 12071
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 245,
+        "bonusValue": 10,
+        "targetStockId": 12061
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 245,
+        "bonusValue": 20,
+        "targetStockId": 10512
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 245,
+        "bonusValue": 20,
+        "targetStockId": 11891
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 245,
+        "bonusValue": 10,
+        "targetStockId": 12371
+      }
+    ]
+  },
   "132": {
     "eventId": 132,
     "chapterId": 201,

@@ -8548,5 +8548,53 @@
       "targetStockId": 12071,
       "attachmentName": "att1/tp"
     }
+  },
+  "956": {
+    "itemId": 21190201,
+    "customJson": {
+      "class": "CustomPlayTurnEffect",
+      "effectAddress": "blooming_Battlein_Effect",
+      "targetStockId": 11902
+    }
+  },
+  "957": {
+    "itemId": 21190201,
+    "customJson": {
+      "class": "CustomGetTurnEffect",
+      "effectAddress": "TurnObject_Blooming",
+      "targetStockId": 11902
+    }
+  },
+  "958": {
+    "itemId": 21192201,
+    "customJson": {
+      "class": "CustomPlayTurnEffect",
+      "effectAddress": "blooming_Battlein_Effect",
+      "targetStockId": 11922
+    }
+  },
+  "959": {
+    "itemId": 21192201,
+    "customJson": {
+      "class": "CustomGetTurnEffect",
+      "effectAddress": "TurnObject_Blooming",
+      "targetStockId": 11922
+    }
+  },
+  "960": {
+    "itemId": 21261101,
+    "customJson": {
+      "class": "CustomPlayTurnEffect",
+      "effectAddress": "blooming_Battlein_Effect",
+      "targetStockId": 12611
+    }
+  },
+  "961": {
+    "itemId": 21261101,
+    "customJson": {
+      "class": "CustomGetTurnEffect",
+      "effectAddress": "TurnObject_Blooming",
+      "targetStockId": 12611
+    }
   }
 }
