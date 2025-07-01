@@ -20524,7 +20524,8 @@
             "UI_MAIN_QUEST",
             "UI_OIL_QUEST",
             "UI_MISSION",
-            "UI_EXCHANGE"
+            "UI_EXCHANGE",
+            "UI_CHALLENGE_QUEST"
           ],
           "endAt": "2025-07-22 14:00:00"
         },
@@ -20553,6 +20554,11 @@
           "type": 0,
           "chapterId": 1190,
           "buttonType": 4
+        },
+        {
+          "type": 6,
+          "chapterId": 1188,
+          "buttonType": 1
         }
       ],
       "tutorialKey": "LastResort2506",
