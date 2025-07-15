@@ -20509,7 +20509,7 @@
     "eventId": 131,
     "chapterId": 1185,
     "lookBackChapterId": 0,
-    "baseResourceName": "LastResort2506",
+    "baseResourceName": "LastResort2506_epilogue",
     "questSelectPrefabAddress": "",
     "startAt": null,
     "endAt": "2025-07-22 14:00:00",
@@ -20523,6 +20523,7 @@
           "keys": [
             "UI_MAIN_QUEST",
             "UI_OIL_QUEST",
+            "UI_EPILOGUE_QUEST",
             "UI_MISSION",
             "UI_EXCHANGE",
             "UI_CHALLENGE_QUEST"
@@ -20559,6 +20560,11 @@
           "type": 6,
           "chapterId": 1188,
           "buttonType": 1
+        },
+        {
+          "type": 7,
+          "chapterId": 1187,
+          "buttonType": 0
         }
       ],
       "tutorialKey": "LastResort2506",
