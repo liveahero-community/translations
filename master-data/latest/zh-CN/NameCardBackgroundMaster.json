@@ -1243,5 +1243,47 @@
         ]
       }
     ]
+  },
+  "1079": {
+    "backgroundId": 1079,
+    "iconAddress": "item_icon_bg_enoshimabeach_evening",
+    "bgAddress": "bg_enoshimabeach_evening",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          1185008
+        ]
+      }
+    ]
+  },
+  "1080": {
+    "backgroundId": 1080,
+    "iconAddress": "item_icon_bg_enoshimatown_evening",
+    "bgAddress": "bg_enoshimatown_evening",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          1185008
+        ]
+      }
+    ]
+  },
+  "1081": {
+    "backgroundId": 1081,
+    "iconAddress": "item_icon_bg_enoshimatrain_evening",
+    "bgAddress": "bg_enoshimatrain_evening",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          1185008
+        ]
+      }
+    ]
   }
 }
