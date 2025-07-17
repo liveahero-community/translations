@@ -9881,5 +9881,28 @@
     "endAt": "2025-07-22 14:00:00",
     "roguePortalJson": null,
     "executeLimit": null
+  },
+  "1191": {
+    "chapterId": 1191,
+    "chapterGroupId": 0,
+    "groupType": 2,
+    "chapterType": 1,
+    "chapterName": "キャンペーンクエスト",
+    "subName": "ご当地ヒーロー大合戦！",
+    "peepingName": "ご当地ヒーロー大合戦！",
+    "sortWeight": 1000,
+    "bannerResourceName": "ui_banner_questchoice_event_LastResort2506_highdifficult",
+    "bgResourceName": "ui_bg_sprite_quest_highdifficult_LastResort2506",
+    "selectBannerAddress": "",
+    "helpPrefabAddress": "GotoutiHighDifficultyHelpWindow",
+    "questSelectPrefabAddress": "",
+    "missionGroupId": 0,
+    "scoreAttackStoreId": 0,
+    "scoreAttackItemIds": null,
+    "conditionChapterId": 0,
+    "startAt": null,
+    "endAt": "2025-07-31 14:00:00",
+    "roguePortalJson": null,
+    "executeLimit": null
   }
 }
