@@ -8596,5 +8596,255 @@
       "effectAddress": "TurnObject_Blooming",
       "targetStockId": 12611
     }
+  },
+  "962": {
+    "itemId": 11064201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att/bandL",
+      "targetStockId": 10642,
+      "attachmentName": "att/bandL"
+    }
+  },
+  "963": {
+    "itemId": 11064201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att/cameratop",
+      "targetStockId": 10642,
+      "attachmentName": "att/cameratop"
+    }
+  },
+  "964": {
+    "itemId": 11064201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att/lens",
+      "targetStockId": 10642,
+      "attachmentName": "att/lens"
+    }
+  },
+  "965": {
+    "itemId": 11064201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att/band_R",
+      "targetStockId": 10642,
+      "attachmentName": "att/band_R"
+    }
+  },
+  "966": {
+    "itemId": 11064201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att/camera",
+      "targetStockId": 10642,
+      "attachmentName": "att/camera"
+    }
+  },
+  "967": {
+    "itemId": 11101201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": true,
+      "slotName": "ori/coat_lapel_L",
+      "targetStockId": 11012,
+      "attachmentName": "ori/coat_lapel_L"
+    }
+  },
+  "968": {
+    "itemId": 11101201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": true,
+      "slotName": "ori/coat_hood",
+      "targetStockId": 11012,
+      "attachmentName": "ori/coat_hood"
+    }
+  },
+  "969": {
+    "itemId": 11101201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": true,
+      "slotName": "ori/hair_F",
+      "targetStockId": 11012,
+      "attachmentName": "ori/hair_F"
+    }
+  },
+  "970": {
+    "itemId": 11101201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": true,
+      "slotName": "ori/coat_lapel_R",
+      "targetStockId": 11012,
+      "attachmentName": "ori/coat_lapel_R"
+    }
+  },
+  "971": {
+    "itemId": 11101201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": true,
+      "slotName": "ori/coat_hood_B",
+      "targetStockId": 11012,
+      "attachmentName": "ori/coat_hood_B"
+    }
+  },
+  "972": {
+    "itemId": 11101201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att/coat_lapel_L",
+      "targetStockId": 11012,
+      "attachmentName": "att/coat_lapel_L"
+    }
+  },
+  "973": {
+    "itemId": 11101201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att/hair_F",
+      "targetStockId": 11012,
+      "attachmentName": "att/hair_F"
+    }
+  },
+  "974": {
+    "itemId": 11101201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att/coat_lapel_R",
+      "targetStockId": 11012,
+      "attachmentName": "att/coat_lapel_R"
+    }
+  },
+  "975": {
+    "itemId": 11101201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att/coat_lapel_L2",
+      "targetStockId": 11012,
+      "attachmentName": "att/coat_lapel_L2"
+    }
+  },
+  "976": {
+    "itemId": 11101201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att/coat_hood_B",
+      "targetStockId": 11012,
+      "attachmentName": "att/coat_hood_B"
+    }
+  },
+  "977": {
+    "itemId": 11209101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att_card_back",
+      "targetStockId": 12091,
+      "attachmentName": "att_card_back"
+    }
+  },
+  "978": {
+    "itemId": 11209101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att_card_back2",
+      "targetStockId": 12091,
+      "attachmentName": "att_card_back2"
+    }
+  },
+  "979": {
+    "itemId": 11209101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att_card_back3",
+      "targetStockId": 12091,
+      "attachmentName": "att_card_back3"
+    }
+  },
+  "980": {
+    "itemId": 11209101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att_card_back4",
+      "targetStockId": 12091,
+      "attachmentName": "att_card_back4"
+    }
+  },
+  "981": {
+    "itemId": 11209101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att_card_back5",
+      "targetStockId": 12091,
+      "attachmentName": "att_card_back5"
+    }
+  },
+  "982": {
+    "itemId": 11209101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att_card_back6",
+      "targetStockId": 12091,
+      "attachmentName": "att_card_back6"
+    }
+  },
+  "983": {
+    "itemId": 11209101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att_card_back7",
+      "targetStockId": 12091,
+      "attachmentName": "att_card_back7"
+    }
+  },
+  "984": {
+    "itemId": 11209101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att_card_back8",
+      "targetStockId": 12091,
+      "attachmentName": "att_card_back8"
+    }
+  },
+  "985": {
+    "itemId": 11209101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att_card_back9",
+      "targetStockId": 12091,
+      "attachmentName": "att_card_back9"
+    }
+  },
+  "986": {
+    "itemId": 11209101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att_card_back10",
+      "targetStockId": 12091,
+      "attachmentName": "att_card_back10"
+    }
   }
 }
