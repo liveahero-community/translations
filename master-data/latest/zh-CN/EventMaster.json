@@ -14201,12 +14201,12 @@
   "97": {
     "eventId": 97,
     "chapterId": 1123,
-    "lookBackChapterId": 532,
+    "lookBackChapterId": 0,
     "baseResourceName": "SummerNight2407",
     "questSelectPrefabAddress": "",
     "startAt": null,
     "endAt": "2024-08-08 14:00:00",
-    "canRemember": 1,
+    "canRemember": 0,
     "eventPortalJson": {
       "bg": "ui_bg_sprite_event_SummerNight2407",
       "bgm": "bgm_summernight_short_battle",
