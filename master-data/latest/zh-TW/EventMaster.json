@@ -20992,7 +20992,7 @@
   "134": {
     "eventId": 134,
     "chapterId": 1192,
-    "lookBackChapterId": 0,
+    "lookBackChapterId": 532,
     "baseResourceName": "SummerNightRevival2507",
     "questSelectPrefabAddress": "",
     "startAt": "2025-07-22 14:00:00",
@@ -21008,7 +21008,8 @@
             "UI_MAIN_QUEST",
             "UI_EPILOGUE_QUEST",
             "UI_MISSION",
-            "UI_EXCHANGE"
+            "UI_EXCHANGE",
+            "UI_CHALLENGE_QUEST"
           ],
           "endAt": "2025-08-12 14:00:00"
         },
@@ -21037,6 +21038,11 @@
           "type": 7,
           "chapterId": 1194,
           "buttonType": 0
+        },
+        {
+          "type": 6,
+          "chapterId": 1195,
+          "buttonType": 1
         }
       ],
       "tutorialKey": "SummerNightRevival2507",
