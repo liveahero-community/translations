@@ -10019,5 +10019,28 @@
     "endAt": "2025-08-12 14:00:00",
     "roguePortalJson": null,
     "executeLimit": null
+  },
+  "1198": {
+    "chapterId": 1198,
+    "chapterGroupId": 0,
+    "groupType": 2,
+    "chapterType": 1,
+    "chapterName": "キャンペーンクエスト",
+    "subName": "ミッドナイト・マジック！",
+    "peepingName": "ミッドナイト・マジック！",
+    "sortWeight": 1000,
+    "bannerResourceName": "ui_banner_questchoice_event_SummerNight2407_epilogue",
+    "bgResourceName": "ui_bg_sprite_quest_epilogue_SummerNight2407",
+    "selectBannerAddress": "",
+    "helpPrefabAddress": "MidnightMagicHighDifficultyHelpWindow",
+    "questSelectPrefabAddress": "",
+    "missionGroupId": 0,
+    "scoreAttackStoreId": 0,
+    "scoreAttackItemIds": null,
+    "conditionChapterId": 0,
+    "startAt": "2025-08-06 18:00:00",
+    "endAt": "2025-08-20 20:00:00",
+    "roguePortalJson": null,
+    "executeLimit": null
   }
 }

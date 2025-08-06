@@ -21443,5 +21443,20 @@
         "targetStockId": 19991
       }
     ]
+  },
+  "139": {
+    "eventId": 139,
+    "chapterId": 1198,
+    "lookBackChapterId": 0,
+    "baseResourceName": "MidnightMagic2408",
+    "questSelectPrefabAddress": "",
+    "startAt": "2025-08-06 18:00:00",
+    "endAt": "2025-08-20 20:00:00",
+    "canRemember": 0,
+    "eventPortalJson": null,
+    "roguePortalJson": null,
+    "pastPortalJson": null,
+    "summary": null,
+    "questBonusJsons": []
   }
 }
