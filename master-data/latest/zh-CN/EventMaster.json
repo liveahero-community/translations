@@ -14201,12 +14201,12 @@
   "97": {
     "eventId": 97,
     "chapterId": 1123,
-    "lookBackChapterId": 0,
+    "lookBackChapterId": 532,
     "baseResourceName": "SummerNight2407",
     "questSelectPrefabAddress": "",
     "startAt": null,
     "endAt": "2024-08-08 14:00:00",
-    "canRemember": 0,
+    "canRemember": 1,
     "eventPortalJson": {
       "bg": "ui_bg_sprite_event_SummerNight2407",
       "bgm": "bgm_summernight_short_battle",
@@ -21444,6 +21444,396 @@
       }
     ]
   },
+  "135": {
+    "eventId": 135,
+    "chapterId": 1196,
+    "lookBackChapterId": 0,
+    "baseResourceName": "linkQuestSummer2508",
+    "questSelectPrefabAddress": "",
+    "startAt": "2025-08-07 01:00:05",
+    "endAt": "2025-09-02 14:00:00",
+    "canRemember": 0,
+    "eventPortalJson": null,
+    "roguePortalJson": null,
+    "pastPortalJson": null,
+    "summary": null,
+    "questBonusJsons": []
+  },
+  "136": {
+    "eventId": 136,
+    "chapterId": 1199,
+    "lookBackChapterId": 0,
+    "baseResourceName": "ContractApprentice2508",
+    "questSelectPrefabAddress": "",
+    "startAt": "2025-08-07 01:00:10",
+    "endAt": "2025-09-02 14:00:00",
+    "canRemember": 0,
+    "eventPortalJson": {
+      "bg": "ui_bg_sprite_portal_3rdAnniversary",
+      "bgm": "bgm_main",
+      "logo": "ContractApprentice2508_title",
+      "terms": [
+        {
+          "keys": [
+            "UI_FREE_QUEST"
+          ],
+          "endAt": "2025-08-26 14:00:00"
+        },
+        {
+          "keys": [
+            "UI_MISSION",
+            "UI_EXCHANGE"
+          ],
+          "endAt": "2025-09-02 14:00:00"
+        }
+      ],
+      "gachaId": null,
+      "storeId": 84,
+      "questInfos": [
+        {
+          "type": 6,
+          "chapterId": 1199,
+          "buttonType": 1
+        }
+      ],
+      "tutorialKey": "ContractApprentice2508",
+      "eventItemIds": [
+        52
+      ],
+      "missionViews": [
+        {
+          "skinId": 0,
+          "stockId": 12121,
+          "cardType": 2,
+          "serifKinds": [
+            29
+          ],
+          "visualType": 1,
+          "serifEntity": [
+            {
+              "priority": 0,
+              "serifKind": 29,
+              "conditions": []
+            },
+            {
+              "priority": 1,
+              "serifKind": 30,
+              "conditions": [
+                {
+                  "class": "MissionClear",
+                  "questId": 0,
+                  "missionIds": [
+                    22336,
+                    22337,
+                    22338,
+                    22339,
+                    22340,
+                    22341,
+                    22342,
+                    22343,
+                    22344
+                  ],
+                  "isCheckClear": true
+                }
+              ]
+            }
+          ],
+          "resourceName": "apprenticeFire",
+          "characterName": "火のアプレンティス"
+        },
+        {
+          "skinId": 0,
+          "stockId": 12131,
+          "cardType": 2,
+          "serifKinds": [
+            29
+          ],
+          "visualType": 1,
+          "serifEntity": [
+            {
+              "priority": 0,
+              "serifKind": 29,
+              "conditions": []
+            },
+            {
+              "priority": 1,
+              "serifKind": 30,
+              "conditions": [
+                {
+                  "class": "MissionClear",
+                  "questId": 0,
+                  "missionIds": [
+                    22336,
+                    22337,
+                    22338,
+                    22339,
+                    22340,
+                    22341,
+                    22342,
+                    22343,
+                    22344
+                  ],
+                  "isCheckClear": true
+                }
+              ]
+            }
+          ],
+          "resourceName": "apprenticeWater",
+          "characterName": "水のアプレンティス"
+        },
+        {
+          "skinId": 0,
+          "stockId": 12141,
+          "cardType": 2,
+          "serifKinds": [
+            29
+          ],
+          "visualType": 1,
+          "serifEntity": [
+            {
+              "priority": 0,
+              "serifKind": 29,
+              "conditions": []
+            },
+            {
+              "priority": 1,
+              "serifKind": 30,
+              "conditions": [
+                {
+                  "class": "MissionClear",
+                  "questId": 0,
+                  "missionIds": [
+                    22336,
+                    22337,
+                    22338,
+                    22339,
+                    22340,
+                    22341,
+                    22342,
+                    22343,
+                    22344
+                  ],
+                  "isCheckClear": true
+                }
+              ]
+            }
+          ],
+          "resourceName": "apprenticeEarth",
+          "characterName": "木のアプレンティス"
+        },
+        {
+          "skinId": 0,
+          "stockId": 12151,
+          "cardType": 2,
+          "serifKinds": [
+            29
+          ],
+          "visualType": 1,
+          "serifEntity": [
+            {
+              "priority": 0,
+              "serifKind": 29,
+              "conditions": []
+            },
+            {
+              "priority": 1,
+              "serifKind": 30,
+              "conditions": [
+                {
+                  "class": "MissionClear",
+                  "questId": 0,
+                  "missionIds": [
+                    22336,
+                    22337,
+                    22338,
+                    22339,
+                    22340,
+                    22341,
+                    22342,
+                    22343,
+                    22344
+                  ],
+                  "isCheckClear": true
+                }
+              ]
+            }
+          ],
+          "resourceName": "apprenticeLight",
+          "characterName": "光のアプレンティス"
+        },
+        {
+          "skinId": 0,
+          "stockId": 12161,
+          "cardType": 2,
+          "serifKinds": [
+            29
+          ],
+          "visualType": 1,
+          "serifEntity": [
+            {
+              "priority": 0,
+              "serifKind": 29,
+              "conditions": []
+            },
+            {
+              "priority": 1,
+              "serifKind": 30,
+              "conditions": [
+                {
+                  "class": "MissionClear",
+                  "questId": 0,
+                  "missionIds": [
+                    22336,
+                    22337,
+                    22338,
+                    22339,
+                    22340,
+                    22341,
+                    22342,
+                    22343,
+                    22344
+                  ],
+                  "isCheckClear": true
+                }
+              ]
+            }
+          ],
+          "resourceName": "apprenticeShadow",
+          "characterName": "影のアプレンティス"
+        }
+      ],
+      "portalWindow": "EventPortalWindowContractDiver2504",
+      "characterViews": [
+        {
+          "skinId": 0,
+          "stockId": 12121,
+          "cardType": 2,
+          "serifKinds": [
+            27
+          ],
+          "visualType": 1,
+          "resourceName": "apprenticeFire",
+          "characterName": "火のアプレンティス"
+        },
+        {
+          "skinId": 0,
+          "stockId": 12131,
+          "cardType": 2,
+          "serifKinds": [
+            27
+          ],
+          "visualType": 1,
+          "resourceName": "apprenticeWater",
+          "characterName": "水のアプレンティス"
+        },
+        {
+          "skinId": 0,
+          "stockId": 12141,
+          "cardType": 2,
+          "serifKinds": [
+            27
+          ],
+          "visualType": 1,
+          "resourceName": "apprenticeEarth",
+          "characterName": "木のアプレンティス"
+        },
+        {
+          "skinId": 0,
+          "stockId": 12151,
+          "cardType": 2,
+          "serifKinds": [
+            27
+          ],
+          "visualType": 1,
+          "resourceName": "apprenticeLight",
+          "characterName": "光のアプレンティス"
+        },
+        {
+          "skinId": 0,
+          "stockId": 12161,
+          "cardType": 2,
+          "serifKinds": [
+            27
+          ],
+          "visualType": 1,
+          "resourceName": "apprenticeShadow",
+          "characterName": "影のアプレンティス"
+        }
+      ],
+      "salesRegionIds": [],
+      "missionGroupIds": [
+        1199
+      ],
+      "missionCategoryButtonLabels": null
+    },
+    "roguePortalJson": null,
+    "pastPortalJson": null,
+    "summary": null,
+    "questBonusJsons": []
+  },
+  "138": {
+    "eventId": 138,
+    "chapterId": 1197,
+    "lookBackChapterId": 0,
+    "baseResourceName": "campaignLaborers",
+    "questSelectPrefabAddress": "",
+    "startAt": "2025-09-02 14:00:00",
+    "endAt": "2025-09-02 14:00:00",
+    "canRemember": 0,
+    "eventPortalJson": {
+      "bg": "",
+      "bgm": "",
+      "logo": "WinterCampaign2212_title",
+      "terms": [
+        {
+          "keys": [
+            "UI_FREE_QUEST"
+          ],
+          "endAt": "2025-09-02 14:00:00"
+        },
+        {
+          "keys": [
+            "UI_MISSION",
+            "UI_EXCHANGE"
+          ],
+          "endAt": "2025-09-02 14:00:00"
+        }
+      ],
+      "gachaId": 54,
+      "storeId": 34,
+      "questInfos": [
+        {
+          "type": 8,
+          "chapterId": 1197,
+          "buttonType": 1
+        }
+      ],
+      "tutorialKey": "Summer2508",
+      "eventItemIds": [],
+      "missionViews": [],
+      "portalWindow": "EventPortalWindowContractDiver2504",
+      "characterViews": [
+        {
+          "skinId": 0,
+          "stockId": 10541,
+          "cardType": 2,
+          "serifKinds": [
+            27
+          ],
+          "visualType": 1,
+          "resourceName": "guardmanFire",
+          "characterName": "火のガードマン"
+        }
+      ],
+      "salesRegionIds": [],
+      "missionGroupIds": [],
+      "missionCategoryButtonLabels": null
+    },
+    "roguePortalJson": null,
+    "pastPortalJson": null,
+    "summary": null,
+    "questBonusJsons": []
+  },
   "139": {
     "eventId": 139,
     "chapterId": 1198,
@@ -21452,6 +21842,21 @@
     "questSelectPrefabAddress": "",
     "startAt": "2025-08-06 18:00:00",
     "endAt": "2025-08-20 20:00:00",
+    "canRemember": 0,
+    "eventPortalJson": null,
+    "roguePortalJson": null,
+    "pastPortalJson": null,
+    "summary": null,
+    "questBonusJsons": []
+  },
+  "140": {
+    "eventId": 140,
+    "chapterId": 1197,
+    "lookBackChapterId": 0,
+    "baseResourceName": "campaignLaborers",
+    "questSelectPrefabAddress": "",
+    "startAt": "2025-08-07 01:00:01",
+    "endAt": "2025-09-02 14:00:00",
     "canRemember": 0,
     "eventPortalJson": null,
     "roguePortalJson": null,
