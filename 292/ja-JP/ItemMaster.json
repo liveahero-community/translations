@@ -1,0 +1,3407 @@
+{
+  "1": {
+    "itemId": 1,
+    "itemName": "エーテル晶石",
+    "resourceName": "stone01",
+    "rarity": 3,
+    "itemType": 129,
+    "description": "様々な役割を果たす綺麗な晶石。",
+    "effect": [
+      {
+        "class": "StaminaRepairItemEffect",
+        "isPercent": true,
+        "repairValue": 100
+      }
+    ],
+    "limitValue": 0
+  },
+  "2": {
+    "itemId": 2,
+    "itemName": "エーテル晶石",
+    "resourceName": "stone01",
+    "rarity": 3,
+    "itemType": 130,
+    "description": "様々な役割を果たす綺麗な晶石。（無償）",
+    "effect": [
+      {
+        "class": "StaminaRepairItemEffect",
+        "isPercent": true,
+        "repairValue": 100
+      }
+    ],
+    "limitValue": 0
+  },
+  "10": {
+    "itemId": 10,
+    "itemName": "エーテルチケット",
+    "resourceName": "stone_ticket",
+    "rarity": 3,
+    "itemType": 4,
+    "description": "エーテルサーチを１回行うことができるチケット",
+    "effect": [],
+    "limitValue": 0
+  },
+  "11": {
+    "itemId": 11,
+    "itemName": "EXPアイテム",
+    "resourceName": "exp",
+    "rarity": 3,
+    "itemType": 8,
+    "description": "ヒーローが経験を積むために使われるアイテム",
+    "effect": [
+      {
+        "exp": 1,
+        "class": "CardExpItemEffect"
+      }
+    ],
+    "limitValue": 0
+  },
+  "12": {
+    "itemId": 12,
+    "itemName": "火の小覚醒石",
+    "resourceName": "rank4_fire",
+    "rarity": 3,
+    "itemType": 16,
+    "description": "火属性のヒーローのランクアップに必要なアイテム",
+    "effect": [],
+    "limitValue": 0
+  },
+  "13": {
+    "itemId": 13,
+    "itemName": "火の中覚醒石",
+    "resourceName": "rank5_fire",
+    "rarity": 3,
+    "itemType": 16,
+    "description": "火属性のヒーローのランクアップに必要なアイテム",
+    "effect": [],
+    "limitValue": 0
+  },
+  "14": {
+    "itemId": 14,
+    "itemName": "火の大覚醒石",
+    "resourceName": "rank6_fire",
+    "rarity": 3,
+    "itemType": 16,
+    "description": "火属性のヒーローのランクアップに必要なアイテム",
+    "effect": [],
+    "limitValue": 0
+  },
+  "15": {
+    "itemId": 15,
+    "itemName": "水の小覚醒石",
+    "resourceName": "rank4_water",
+    "rarity": 3,
+    "itemType": 16,
+    "description": "水属性のヒーローのランクアップに必要なアイテム",
+    "effect": [],
+    "limitValue": 0
+  },
+  "16": {
+    "itemId": 16,
+    "itemName": "水の中覚醒石",
+    "resourceName": "rank5_water",
+    "rarity": 3,
+    "itemType": 16,
+    "description": "水属性のヒーローのランクアップに必要なアイテム",
+    "effect": [],
+    "limitValue": 0
+  },
+  "17": {
+    "itemId": 17,
+    "itemName": "水の大覚醒石",
+    "resourceName": "rank6_water",
+    "rarity": 3,
+    "itemType": 16,
+    "description": "水属性のヒーローのランクアップに必要なアイテム",
+    "effect": [],
+    "limitValue": 0
+  },
+  "18": {
+    "itemId": 18,
+    "itemName": "木の小覚醒石",
+    "resourceName": "rank4_earth",
+    "rarity": 3,
+    "itemType": 16,
+    "description": "木属性のヒーローのランクアップに必要なアイテム",
+    "effect": [],
+    "limitValue": 0
+  },
+  "19": {
+    "itemId": 19,
+    "itemName": "木の中覚醒石",
+    "resourceName": "rank5_earth",
+    "rarity": 3,
+    "itemType": 16,
+    "description": "木属性のヒーローのランクアップに必要なアイテム",
+    "effect": [],
+    "limitValue": 0
+  },
+  "20": {
+    "itemId": 20,
+    "itemName": "木の大覚醒石",
+    "resourceName": "rank6_earth",
+    "rarity": 3,
+    "itemType": 16,
+    "description": "木属性のヒーローのランクアップに必要なアイテム",
+    "effect": [],
+    "limitValue": 0
+  },
+  "21": {
+    "itemId": 21,
+    "itemName": "光の小覚醒石",
+    "resourceName": "rank4_light",
+    "rarity": 3,
+    "itemType": 16,
+    "description": "光属性のヒーローのランクアップに必要なアイテム",
+    "effect": [],
+    "limitValue": 0
+  },
+  "22": {
+    "itemId": 22,
+    "itemName": "光の中覚醒石",
+    "resourceName": "rank5_light",
+    "rarity": 3,
+    "itemType": 16,
+    "description": "光属性のヒーローのランクアップに必要なアイテム",
+    "effect": [],
+    "limitValue": 0
+  },
+  "23": {
+    "itemId": 23,
+    "itemName": "光の大覚醒石",
+    "resourceName": "rank6_light",
+    "rarity": 3,
+    "itemType": 16,
+    "description": "光属性のヒーローのランクアップに必要なアイテム",
+    "effect": [],
+    "limitValue": 0
+  },
+  "24": {
+    "itemId": 24,
+    "itemName": "影の小覚醒石",
+    "resourceName": "rank4_shadow",
+    "rarity": 3,
+    "itemType": 16,
+    "description": "影属性のヒーローのランクアップに必要なアイテム",
+    "effect": [],
+    "limitValue": 0
+  },
+  "25": {
+    "itemId": 25,
+    "itemName": "影の中覚醒石",
+    "resourceName": "rank5_shadow",
+    "rarity": 3,
+    "itemType": 16,
+    "description": "影属性のヒーローのランクアップに必要なアイテム",
+    "effect": [],
+    "limitValue": 0
+  },
+  "26": {
+    "itemId": 26,
+    "itemName": "影の大覚醒石",
+    "resourceName": "rank6_shadow",
+    "rarity": 3,
+    "itemType": 16,
+    "description": "影属性のヒーローのランクアップに必要なアイテム",
+    "effect": [],
+    "limitValue": 0
+  },
+  "27": {
+    "itemId": 27,
+    "itemName": "シルバーメダル",
+    "resourceName": "rank4_common",
+    "rarity": 3,
+    "itemType": 16,
+    "description": "特定のヒーローのランクアップに必要なアイテム",
+    "effect": [],
+    "limitValue": 0
+  },
+  "28": {
+    "itemId": 28,
+    "itemName": "ゴールドメダル",
+    "resourceName": "rank5_common",
+    "rarity": 3,
+    "itemType": 16,
+    "description": "特定のヒーローのランクアップに必要なアイテム",
+    "effect": [],
+    "limitValue": 0
+  },
+  "29": {
+    "itemId": 29,
+    "itemName": "レジェンドメダル",
+    "resourceName": "rank6_common",
+    "rarity": 3,
+    "itemType": 16,
+    "description": "特定のヒーローのランクアップに必要なアイテム",
+    "effect": [],
+    "limitValue": 0
+  },
+  "30": {
+    "itemId": 30,
+    "itemName": "トレーニングバンド",
+    "resourceName": "trainingband",
+    "rarity": 3,
+    "itemType": 64,
+    "description": "２人の絆を高めるアイテム",
+    "effect": [],
+    "limitValue": 0
+  },
+  "31": {
+    "itemId": 31,
+    "itemName": "ブロンズ直帰チケット",
+    "resourceName": "salesticket_01",
+    "rarity": 3,
+    "itemType": 256,
+    "description": "使用すると営業時間を10分短縮できるチケット",
+    "effect": [
+      {
+        "class": "SalesShortenItemEffect",
+        "shortenValue": 600
+      }
+    ],
+    "limitValue": 0
+  },
+  "32": {
+    "itemId": 32,
+    "itemName": "シルバー直帰チケット",
+    "resourceName": "salesticket_02",
+    "rarity": 3,
+    "itemType": 256,
+    "description": "使用すると営業時間を30分短縮できるチケット",
+    "effect": [
+      {
+        "class": "SalesShortenItemEffect",
+        "shortenValue": 1800
+      }
+    ],
+    "limitValue": 0
+  },
+  "33": {
+    "itemId": 33,
+    "itemName": "ゴールド直帰チケット",
+    "resourceName": "salesticket_03",
+    "rarity": 3,
+    "itemType": 256,
+    "description": "使用すると営業時間を60分短縮できるチケット",
+    "effect": [
+      {
+        "class": "SalesShortenItemEffect",
+        "shortenValue": 3600
+      }
+    ],
+    "limitValue": 0
+  },
+  "34": {
+    "itemId": 34,
+    "itemName": "スタミナドリンク",
+    "resourceName": "staminadrink",
+    "rarity": 3,
+    "itemType": 128,
+    "description": "スタミナを50回復するアイテム",
+    "effect": [
+      {
+        "class": "StaminaRepairItemEffect",
+        "isPercent": false,
+        "repairValue": 50
+      }
+    ],
+    "limitValue": 0
+  },
+  "35": {
+    "itemId": 35,
+    "itemName": "ラフ",
+    "resourceName": "lah",
+    "rarity": 1,
+    "itemType": 4,
+    "description": "宇宙統一通貨。ショップで商品と交換できる。",
+    "effect": [],
+    "limitValue": 0
+  },
+  "38": {
+    "itemId": 38,
+    "itemName": "クエストチケット",
+    "resourceName": "questticket_01",
+    "rarity": 3,
+    "itemType": 4,
+    "description": "特定のクエストに出撃するために必要なチケット。３枚まで所持できる。",
+    "effect": [],
+    "limitValue": 3
+  },
+  "39": {
+    "itemId": 39,
+    "itemName": "☆３サイドキックの心",
+    "resourceName": "genericheart_rank3",
+    "rarity": 5,
+    "itemType": 2048,
+    "description": "☆３サイドキックを1段階ランクアップできる不思議な結晶。",
+    "effect": [
+      {
+        "class": "SidekickHeartItemEffect",
+        "rarity": 3,
+        "stockId": 0
+      }
+    ],
+    "limitValue": 0
+  },
+  "40": {
+    "itemId": 40,
+    "itemName": "レコードキューブ",
+    "resourceName": "recordcube",
+    "rarity": 5,
+    "itemType": 4,
+    "description": "記憶や記録が封じられているキューブ。ショップで商品と交換できる。",
+    "effect": [],
+    "limitValue": 0
+  },
+  "42": {
+    "itemId": 42,
+    "itemName": "フレンドポイント",
+    "resourceName": "friendpoint",
+    "rarity": 3,
+    "itemType": 4,
+    "description": "フレンドガチャを回すのに必要なポイント。",
+    "effect": [],
+    "limitValue": 0
+  },
+  "43": {
+    "itemId": 43,
+    "itemName": "☆３ヒーローの記憶片",
+    "resourceName": "genericpiece_rank3",
+    "rarity": 5,
+    "itemType": 1024,
+    "description": "排出時ランク３のヒーローのファン数を増やすことができる不思議な結晶。",
+    "effect": [
+      {
+        "class": "HeroPieceItemEffect",
+        "addFan": 10,
+        "rarity": 3,
+        "stockId": 0
+      }
+    ],
+    "limitValue": 0
+  },
+  "44": {
+    "itemId": 44,
+    "itemName": "☆４ヒーローの記憶片",
+    "resourceName": "genericpiece_rank4",
+    "rarity": 5,
+    "itemType": 1024,
+    "description": "排出時ランク４のヒーローのファン数を増やすことができる不思議な結晶。",
+    "effect": [
+      {
+        "class": "HeroPieceItemEffect",
+        "addFan": 50,
+        "rarity": 4,
+        "stockId": 0
+      }
+    ],
+    "limitValue": 0
+  },
+  "45": {
+    "itemId": 45,
+    "itemName": "☆５ヒーローの記憶片",
+    "resourceName": "genericpiece_rank5",
+    "rarity": 5,
+    "itemType": 1024,
+    "description": "排出時ランク５のヒーローのファン数を増やすことができる不思議な結晶。",
+    "effect": [
+      {
+        "class": "HeroPieceItemEffect",
+        "addFan": 200,
+        "rarity": 5,
+        "stockId": 0
+      }
+    ],
+    "limitValue": 0
+  },
+  "46": {
+    "itemId": 46,
+    "itemName": "☆４サイドキックの心",
+    "resourceName": "genericheart_rank4",
+    "rarity": 5,
+    "itemType": 2048,
+    "description": "☆4サイドキックを1段階ランクアップできる不思議な結晶。",
+    "effect": [
+      {
+        "class": "SidekickHeartItemEffect",
+        "rarity": 4,
+        "stockId": 0
+      }
+    ],
+    "limitValue": 0
+  },
+  "47": {
+    "itemId": 47,
+    "itemName": "営業枠拡張チケット",
+    "resourceName": "salescapacity_ticket",
+    "rarity": 5,
+    "itemType": 4,
+    "description": "営業枠を増やすのに必要なチケット<br>エーテル晶石（有償）でのみ購入できます。",
+    "effect": [],
+    "limitValue": 0
+  },
+  "48": {
+    "itemId": 48,
+    "itemName": "捜査資料",
+    "resourceName": "2010akatsuki_exchange01",
+    "rarity": 3,
+    "itemType": 512,
+    "description": "捜査内容が書かれた極秘資料。交換所でアイテムと交換してもらえる。",
+    "effect": [],
+    "limitValue": 0
+  },
+  "49": {
+    "itemId": 49,
+    "itemName": "謎の痕跡",
+    "resourceName": "2010akatsuki_exchange02",
+    "rarity": 3,
+    "itemType": 512,
+    "description": "謎を探して見つけた手がかり。交換所でアイテムと交換してもらえる。",
+    "effect": [],
+    "limitValue": 0
+  },
+  "50": {
+    "itemId": 50,
+    "itemName": "クリスマスオーナメント",
+    "resourceName": "Xmas2012_exchange",
+    "rarity": 3,
+    "itemType": 512,
+    "description": "クリスマスを祝う飾り。交換所でアイテムと交換してもらえる。",
+    "effect": [],
+    "limitValue": 0
+  },
+  "51": {
+    "itemId": 51,
+    "itemName": "スペシャルエーテルチケット",
+    "resourceName": "special_stone_ticket",
+    "rarity": 3,
+    "itemType": 4,
+    "description": "謹賀新年2021！エーテル・サーチを行うことができるチケット",
+    "effect": [],
+    "limitValue": 0
+  },
+  "52": {
+    "itemId": 52,
+    "itemName": "勲章",
+    "resourceName": "ContractWolfmanEarth2101_exchange01",
+    "rarity": 3,
+    "itemType": 512,
+    "description": "功績を称える章飾。交換所でアイテムと交換してもらえる。",
+    "effect": [],
+    "limitValue": 0
+  },
+  "53": {
+    "itemId": 53,
+    "itemName": "ヒーローの証",
+    "resourceName": "rank_hero_token",
+    "rarity": 3,
+    "itemType": 16,
+    "description": "ヒーローとして認められた功績。特定のヒーローのランクアップに必要なアイテム",
+    "effect": [],
+    "limitValue": 0
+  },
+  "54": {
+    "itemId": 54,
+    "itemName": "パワーブースター",
+    "resourceName": "Valentine2102_power",
+    "rarity": 3,
+    "itemType": 4096,
+    "description": "ヒサキが発明したヒーロー強化アイテム。Atkがアップする。",
+    "effect": [
+      {
+        "class": "BoostItemAttackUp",
+        "value": 100
+      }
+    ],
+    "limitValue": 0
+  },
+  "55": {
+    "itemId": 55,
+    "itemName": "エネルギータンク",
+    "resourceName": "Valentine2102_energy",
+    "rarity": 3,
+    "itemType": 4096,
+    "description": "ヒサキが発明したヒーロー強化アイテム。HPを増加させる。",
+    "effect": [
+      {
+        "class": "BoostItemHpUp",
+        "value": 200
+      }
+    ],
+    "limitValue": 0
+  },
+  "56": {
+    "itemId": 56,
+    "itemName": "ディフェンシブスキン",
+    "resourceName": "Valentine2102_defense",
+    "rarity": 3,
+    "itemType": 4096,
+    "description": "ヒサキが発明したヒーロー強化アイテム。被ダメージを減少させる。",
+    "effect": [
+      {
+        "class": "BoostItemDamageDecrease",
+        "value": 50
+      }
+    ],
+    "limitValue": 0
+  },
+  "57": {
+    "itemId": 57,
+    "itemName": "マイクロカメラ",
+    "resourceName": "Valentine2102_exchange01",
+    "rarity": 3,
+    "itemType": 512,
+    "description": "情報収集用の小型カメラ。交換所でアイテムと交換してもらえる。",
+    "effect": [],
+    "limitValue": 0
+  },
+  "58": {
+    "itemId": 58,
+    "itemName": "メカパーツ",
+    "resourceName": "Valentine2102_exchange02",
+    "rarity": 3,
+    "itemType": 512,
+    "description": "ガジェット開発用の部品。交換所でアイテムと交換してもらえる。",
+    "effect": [],
+    "limitValue": 0
+  },
+  "59": {
+    "itemId": 59,
+    "itemName": "パラレル・クオーツ",
+    "resourceName": "pwexp",
+    "rarity": 0,
+    "itemType": 8192,
+    "description": "パラレルウェポンを改造するのに必要なアイテム",
+    "effect": [
+      {
+        "exp": 1,
+        "class": "ParallelWeaponExpItemEffect"
+      }
+    ],
+    "limitValue": 0
+  },
+  "60": {
+    "itemId": 60,
+    "itemName": "ベース・デザイン",
+    "resourceName": "stance_normal",
+    "rarity": 0,
+    "itemType": 16384,
+    "description": "パラレルウェポンのフォームを、平均的に能力値が増加する「ベースフォーム」に変更できるアイテム。",
+    "effect": [
+      {
+        "form": 0,
+        "class": "ParallelWeaponFormItemEffect"
+      }
+    ],
+    "limitValue": 0
+  },
+  "61": {
+    "itemId": 61,
+    "itemName": "アタック・デザイン",
+    "resourceName": "stance_attack",
+    "rarity": 0,
+    "itemType": 16384,
+    "description": "パラレルウェポンのフォームを、Atkがより増加する「アタックフォーム」に変更できるアイテム。",
+    "effect": [
+      {
+        "form": 1,
+        "class": "ParallelWeaponFormItemEffect"
+      }
+    ],
+    "limitValue": 0
+  },
+  "62": {
+    "itemId": 62,
+    "itemName": "フィジカル・デザイン",
+    "resourceName": "stance_physical",
+    "rarity": 0,
+    "itemType": 16384,
+    "description": "パラレルウェポンのフォームを、HPがより増加する「フィジカルフォーム」に変更できるアイテム。",
+    "effect": [
+      {
+        "form": 2,
+        "class": "ParallelWeaponFormItemEffect"
+      }
+    ],
+    "limitValue": 0
+  },
+  "63": {
+    "itemId": 63,
+    "itemName": "ガード・デザイン",
+    "resourceName": "stance_guard",
+    "rarity": 0,
+    "itemType": 16384,
+    "description": "パラレルウェポンのフォームを、被ダメージがより減少する「ガードフォーム」に変更できるアイテム。",
+    "effect": [
+      {
+        "form": 3,
+        "class": "ParallelWeaponFormItemEffect"
+      }
+    ],
+    "limitValue": 0
+  },
+  "64": {
+    "itemId": 64,
+    "itemName": "冒険マップ",
+    "resourceName": "Ruins2104_exchange01",
+    "rarity": 0,
+    "itemType": 512,
+    "description": "ダンジョン探索中にマッピングを行った冒険の地図。交換所でアイテムと交換してもらえる。",
+    "effect": [],
+    "limitValue": 0
+  },
+  "65": {
+    "itemId": 65,
+    "itemName": "セカンド・アタックの技術書",
+    "resourceName": "equipskill_auto_2ndAttack",
+    "rarity": 3,
+    "itemType": 32768,
+    "description": "オート行動時に第2スキルを優先して使用する「セカンド・アタック」を習得できる技術書。",
+    "effect": [
+      {
+        "class": "SkillLearnItemEffect",
+        "skillId": 7000001
+      }
+    ],
+    "limitValue": 0
+  },
+  "66": {
+    "itemId": 66,
+    "itemName": "サード・アタックの技術書",
+    "resourceName": "equipskill_auto_3rdAttack",
+    "rarity": 3,
+    "itemType": 32768,
+    "description": "オート行動時に第3スキルを優先して使用する「サード・アタック」を習得できる技術書。",
+    "effect": [
+      {
+        "class": "SkillLearnItemEffect",
+        "skillId": 7000002
+      }
+    ],
+    "limitValue": 0
+  },
+  "67": {
+    "itemId": 67,
+    "itemName": "メディア・フォルダー",
+    "resourceName": "Chasers2105_exchange01",
+    "rarity": 0,
+    "itemType": 512,
+    "description": "現地の画像・映像データをまとめたスクラップブック用データ。交換所でアイテムと交換してもらえる。",
+    "effect": [],
+    "limitValue": 0
+  },
+  "68": {
+    "itemId": 68,
+    "itemName": "ヒーロニウム",
+    "resourceName": "simulator",
+    "rarity": 0,
+    "itemType": 4,
+    "description": "ヒーロー事務所間で使われる期限付き独自通貨。交換所でアイテムと交換できる。",
+    "effect": [],
+    "limitValue": 0
+  },
+  "69": {
+    "itemId": 69,
+    "itemName": "星の砂",
+    "resourceName": "Summerdive2108_exchange01",
+    "rarity": 0,
+    "itemType": 512,
+    "description": "ムイラウカⅣの海底で拾える綺麗な砂。交換所でアイテムと交換してもらえる。",
+    "effect": [],
+    "limitValue": 0
+  },
+  "70": {
+    "itemId": 70,
+    "itemName": "1stアニバーサリー交換チケット",
+    "resourceName": "1stAnniversaryTicket",
+    "rarity": 5,
+    "itemType": 4,
+    "description": "１周年記念に配布された、☆４ヒーロー・サイドキック交換所で使用できるチケット",
+    "effect": [],
+    "limitValue": 0
+  },
+  "71": {
+    "itemId": 71,
+    "itemName": "夏祭りのお面",
+    "resourceName": "Herofesta2109_exchange01",
+    "rarity": 0,
+    "itemType": 512,
+    "description": "夏祭りの露天で売っているお面。交換所でアイテムと交換してもらえる。",
+    "effect": [],
+    "limitValue": 0
+  },
+  "72": {
+    "itemId": 72,
+    "itemName": "隕石のかけら",
+    "resourceName": "Meteorite2112_exchange01",
+    "rarity": 0,
+    "itemType": 512,
+    "description": "聖夜に降り注いだ隕石のかけら。交換所でアイテムと交換してもらえる。",
+    "effect": [],
+    "limitValue": 0
+  },
+  "73": {
+    "itemId": 73,
+    "itemName": "お年玉",
+    "resourceName": "Newyear2201_exchange01",
+    "rarity": 0,
+    "itemType": 4,
+    "description": "新年に強敵を倒したご褒美。交換所でアイテムと交換できる。",
+    "effect": [],
+    "limitValue": 0
+  },
+  "74": {
+    "itemId": 74,
+    "itemName": "レコードキューブの欠片",
+    "resourceName": "recordcubepiece",
+    "rarity": 5,
+    "itemType": 4,
+    "description": "レコードキューブの破片。複数集めるとショップでレコードキューブと交換できる。",
+    "effect": [],
+    "limitValue": 0
+  },
+  "75": {
+    "itemId": 75,
+    "itemName": "サーチ・ストラクチャ",
+    "resourceName": "searchstruct",
+    "rarity": 5,
+    "itemType": 4,
+    "description": "サーチポイントが時間を経て変換された構造体。ショップでアイテムと交換できる。",
+    "effect": [],
+    "limitValue": 0
+  },
+  "76": {
+    "itemId": 76,
+    "itemName": "サーカス・バルーン",
+    "resourceName": "Circus2202_exchange01",
+    "rarity": 0,
+    "itemType": 512,
+    "description": "サーカスで貰える風船。交換所でアイテムと交換して貰える。",
+    "effect": [],
+    "limitValue": 0
+  },
+  "77": {
+    "itemId": 77,
+    "itemName": "フラワードーム",
+    "resourceName": "GhostWoods2204_exchange01",
+    "rarity": 0,
+    "itemType": 512,
+    "description": "ウェーマルトで人気の花のおみやげ。交換所でアイテムと交換して貰える。",
+    "effect": [],
+    "limitValue": 0
+  },
+  "110011": {
+    "itemId": 110011,
+    "itemName": "アカシの記憶片",
+    "resourceName": "piece_akashi",
+    "rarity": 3,
+    "itemType": 1024,
+    "description": "アカシのファン数を増やすことが出来る不思議な結晶。",
+    "effect": [
+      {
+        "class": "HeroPieceItemEffect",
+        "addFan": 10,
+        "rarity": 0,
+        "stockId": 10011
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 1
+      }
+    ],
+    "limitValue": 0
+  },
+  "110012": {
+    "itemId": 110012,
+    "itemName": "水弾のアカシの記憶片",
+    "resourceName": "piece_akashiSummerdive2108",
+    "rarity": 5,
+    "itemType": 1024,
+    "description": "水弾のアカシのファン数を増やすことが出来る不思議な結晶。",
+    "effect": [
+      {
+        "class": "HeroPieceItemEffect",
+        "addFan": 200,
+        "rarity": 0,
+        "stockId": 10012
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 20
+      }
+    ],
+    "limitValue": 0
+  },
+  "110021": {
+    "itemId": 110021,
+    "itemName": "モクダイの記憶片",
+    "resourceName": "piece_mokdai",
+    "rarity": 3,
+    "itemType": 1024,
+    "description": "モクダイのファン数を増やすことが出来る不思議な結晶。",
+    "effect": [
+      {
+        "class": "HeroPieceItemEffect",
+        "addFan": 10,
+        "rarity": 0,
+        "stockId": 10021
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 1
+      }
+    ],
+    "limitValue": 0
+  },
+  "110022": {
+    "itemId": 110022,
+    "itemName": "聖夜のモクダイの記憶片",
+    "resourceName": "piece_mokdaiMeteorite2112",
+    "rarity": 5,
+    "itemType": 1024,
+    "description": "聖夜のモクダイのファン数を増やすことが出来る不思議な結晶。",
+    "effect": [
+      {
+        "class": "HeroPieceItemEffect",
+        "addFan": 200,
+        "rarity": 0,
+        "stockId": 10022
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 20
+      }
+    ],
+    "limitValue": 0
+  },
+  "110031": {
+    "itemId": 110031,
+    "itemName": "スイの記憶片",
+    "resourceName": "piece_sui",
+    "rarity": 3,
+    "itemType": 1024,
+    "description": "スイのファン数を増やすことが出来る不思議な結晶。",
+    "effect": [
+      {
+        "class": "HeroPieceItemEffect",
+        "addFan": 10,
+        "rarity": 0,
+        "stockId": 10031
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 1
+      }
+    ],
+    "limitValue": 0
+  },
+  "110041": {
+    "itemId": 110041,
+    "itemName": "ライキの記憶片",
+    "resourceName": "piece_ryekie",
+    "rarity": 4,
+    "itemType": 1024,
+    "description": "ライキのファン数を増やすことが出来る不思議な結晶。",
+    "effect": [
+      {
+        "class": "HeroPieceItemEffect",
+        "addFan": 50,
+        "rarity": 0,
+        "stockId": 10041
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 5
+      }
+    ],
+    "limitValue": 0
+  },
+  "110042": {
+    "itemId": 110042,
+    "itemName": "酔虎のライキの記憶片",
+    "resourceName": "piece_ryekieXmas2012",
+    "rarity": 5,
+    "itemType": 1024,
+    "description": "酔虎のライキのファン数を増やすことが出来る不思議な結晶。",
+    "effect": [
+      {
+        "class": "HeroPieceItemEffect",
+        "addFan": 200,
+        "rarity": 0,
+        "stockId": 10042
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 20
+      }
+    ],
+    "limitValue": 0
+  },
+  "110051": {
+    "itemId": 110051,
+    "itemName": "クローネの記憶片",
+    "resourceName": "piece_crowne",
+    "rarity": 4,
+    "itemType": 1024,
+    "description": "クローネのファン数を増やすことが出来る不思議な結晶。",
+    "effect": [
+      {
+        "class": "HeroPieceItemEffect",
+        "addFan": 50,
+        "rarity": 0,
+        "stockId": 10051
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 5
+      }
+    ],
+    "limitValue": 0
+  },
+  "110061": {
+    "itemId": 110061,
+    "itemName": "ガンメイの記憶片",
+    "resourceName": "piece_gammei",
+    "rarity": 4,
+    "itemType": 1024,
+    "description": "ガンメイのファン数を増やすことが出来る不思議な結晶。",
+    "effect": [
+      {
+        "class": "HeroPieceItemEffect",
+        "addFan": 50,
+        "rarity": 0,
+        "stockId": 10061
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 5
+      }
+    ],
+    "limitValue": 0
+  },
+  "110071": {
+    "itemId": 110071,
+    "itemName": "バレルの記憶片",
+    "resourceName": "piece_barrel",
+    "rarity": 4,
+    "itemType": 1024,
+    "description": "バレルのファン数を増やすことが出来る不思議な結晶。",
+    "effect": [
+      {
+        "class": "HeroPieceItemEffect",
+        "addFan": 50,
+        "rarity": 0,
+        "stockId": 10071
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 5
+      }
+    ],
+    "limitValue": 0
+  },
+  "110072": {
+    "itemId": 110072,
+    "itemName": "清涼のバレルの記憶片",
+    "resourceName": "piece_barrelHerofesta2109",
+    "rarity": 5,
+    "itemType": 1024,
+    "description": "清涼のバレルのファン数を増やすことが出来る不思議な結晶。",
+    "effect": [
+      {
+        "class": "HeroPieceItemEffect",
+        "addFan": 200,
+        "rarity": 0,
+        "stockId": 10072
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 20
+      }
+    ],
+    "limitValue": 0
+  },
+  "110081": {
+    "itemId": 110081,
+    "itemName": "ハロンの記憶片",
+    "resourceName": "piece_furlong",
+    "rarity": 4,
+    "itemType": 1024,
+    "description": "ハロンのファン数を増やすことが出来る不思議な結晶。",
+    "effect": [
+      {
+        "class": "HeroPieceItemEffect",
+        "addFan": 50,
+        "rarity": 0,
+        "stockId": 10081
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 5
+      }
+    ],
+    "limitValue": 0
+  },
+  "110082": {
+    "itemId": 110082,
+    "itemName": "跳躍のハロンの記憶片",
+    "resourceName": "piece_furlongCircus2202",
+    "rarity": 5,
+    "itemType": 1024,
+    "description": "跳躍のハロンのファン数を増やすことが出来る不思議な結晶。",
+    "effect": [
+      {
+        "class": "HeroPieceItemEffect",
+        "addFan": 200,
+        "rarity": 0,
+        "stockId": 10082
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 20
+      }
+    ],
+    "limitValue": 0
+  },
+  "110091": {
+    "itemId": 110091,
+    "itemName": "ヴィクトムの記憶片",
+    "resourceName": "piece_victom",
+    "rarity": 4,
+    "itemType": 1024,
+    "description": "ヴィクトムのファン数を増やすことが出来る不思議な結晶。",
+    "effect": [
+      {
+        "class": "HeroPieceItemEffect",
+        "addFan": 50,
+        "rarity": 0,
+        "stockId": 10091
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 5
+      }
+    ],
+    "limitValue": 0
+  },
+  "110092": {
+    "itemId": 110092,
+    "itemName": "豪爽のヴィクトムの記憶片",
+    "resourceName": "piece_victomHerofesta2109",
+    "rarity": 5,
+    "itemType": 1024,
+    "description": "豪爽のヴィクトムのファン数を増やすことが出来る不思議な結晶。",
+    "effect": [
+      {
+        "class": "HeroPieceItemEffect",
+        "addFan": 200,
+        "rarity": 0,
+        "stockId": 10092
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 20
+      }
+    ],
+    "limitValue": 0
+  },
+  "110101": {
+    "itemId": 110101,
+    "itemName": "キョウイチの記憶片",
+    "resourceName": "piece_kyoichi",
+    "rarity": 4,
+    "itemType": 1024,
+    "description": "キョウイチのファン数を増やすことが出来る不思議な結晶。",
+    "effect": [
+      {
+        "class": "HeroPieceItemEffect",
+        "addFan": 50,
+        "rarity": 0,
+        "stockId": 10101
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 5
+      }
+    ],
+    "limitValue": 0
+  },
+  "110102": {
+    "itemId": 110102,
+    "itemName": "潜行のキョウイチの記憶片",
+    "resourceName": "piece_kyoichiValentine2102",
+    "rarity": 5,
+    "itemType": 1024,
+    "description": "潜行のキョウイチのファン数を増やすことが出来る不思議な結晶。",
+    "effect": [
+      {
+        "class": "HeroPieceItemEffect",
+        "addFan": 200,
+        "rarity": 0,
+        "stockId": 10102
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 20
+      }
+    ],
+    "limitValue": 0
+  },
+  "110111": {
+    "itemId": 110111,
+    "itemName": "フラミーの記憶片",
+    "resourceName": "piece_flamier",
+    "rarity": 4,
+    "itemType": 1024,
+    "description": "フラミーのファン数を増やすことが出来る不思議な結晶。",
+    "effect": [
+      {
+        "class": "HeroPieceItemEffect",
+        "addFan": 50,
+        "rarity": 0,
+        "stockId": 10111
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 5
+      }
+    ],
+    "limitValue": 0
+  },
+  "110112": {
+    "itemId": 110112,
+    "itemName": "花踊のフラミーの記憶片",
+    "resourceName": "piece_flamierGhostWoods2204",
+    "rarity": 4,
+    "itemType": 1024,
+    "description": "花踊のフラミーのファン数を増やすことが出来る不思議な結晶。",
+    "effect": [
+      {
+        "class": "HeroPieceItemEffect",
+        "addFan": 50,
+        "rarity": 0,
+        "stockId": 10112
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 5
+      }
+    ],
+    "limitValue": 0
+  },
+  "110121": {
+    "itemId": 110121,
+    "itemName": "ショウエンの記憶片",
+    "resourceName": "piece_shoen",
+    "rarity": 5,
+    "itemType": 1024,
+    "description": "ショウエンのファン数を増やすことが出来る不思議な結晶。",
+    "effect": [
+      {
+        "class": "HeroPieceItemEffect",
+        "addFan": 200,
+        "rarity": 0,
+        "stockId": 10121
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 20
+      }
+    ],
+    "limitValue": 0
+  },
+  "110122": {
+    "itemId": 110122,
+    "itemName": "隠密のショウエンの記憶片",
+    "resourceName": "piece_shoenValentine2102",
+    "rarity": 4,
+    "itemType": 1024,
+    "description": "隠密のショウエンのファン数を増やすことが出来る不思議な結晶。",
+    "effect": [
+      {
+        "class": "HeroPieceItemEffect",
+        "addFan": 50,
+        "rarity": 0,
+        "stockId": 10122
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 5
+      }
+    ],
+    "limitValue": 0
+  },
+  "110131": {
+    "itemId": 110131,
+    "itemName": "トウシュウの記憶片",
+    "resourceName": "piece_toshu",
+    "rarity": 4,
+    "itemType": 1024,
+    "description": "トウシュウのファン数を増やすことが出来る不思議な結晶。",
+    "effect": [
+      {
+        "class": "HeroPieceItemEffect",
+        "addFan": 50,
+        "rarity": 0,
+        "stockId": 10131
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 5
+      }
+    ],
+    "limitValue": 0
+  },
+  "110141": {
+    "itemId": 110141,
+    "itemName": "マルフィクの記憶片",
+    "resourceName": "piece_marfik",
+    "rarity": 5,
+    "itemType": 1024,
+    "description": "マルフィクのファン数を増やすことが出来る不思議な結晶。",
+    "effect": [
+      {
+        "class": "HeroPieceItemEffect",
+        "addFan": 200,
+        "rarity": 0,
+        "stockId": 10141
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 20
+      }
+    ],
+    "limitValue": 0
+  },
+  "110142": {
+    "itemId": 110142,
+    "itemName": "探険のマルフィクの記憶片",
+    "resourceName": "piece_marfikRuins2104",
+    "rarity": 5,
+    "itemType": 1024,
+    "description": "探険のマルフィクのファン数を増やすことが出来る不思議な結晶。",
+    "effect": [
+      {
+        "class": "HeroPieceItemEffect",
+        "addFan": 200,
+        "rarity": 0,
+        "stockId": 10142
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 20
+      }
+    ],
+    "limitValue": 0
+  },
+  "110151": {
+    "itemId": 110151,
+    "itemName": "ポラリスマスクの記憶片",
+    "resourceName": "piece_polaris",
+    "rarity": 5,
+    "itemType": 1024,
+    "description": "ポラリスマスクのファン数を増やすことが出来る不思議な結晶。",
+    "effect": [
+      {
+        "class": "HeroPieceItemEffect",
+        "addFan": 200,
+        "rarity": 0,
+        "stockId": 10151
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 20
+      }
+    ],
+    "limitValue": 0
+  },
+  "110161": {
+    "itemId": 110161,
+    "itemName": "ラッドの記憶片",
+    "resourceName": "piece_rad",
+    "rarity": 3,
+    "itemType": 1024,
+    "description": "ラッドのファン数を増やすことが出来る不思議な結晶。",
+    "effect": [
+      {
+        "class": "HeroPieceItemEffect",
+        "addFan": 10,
+        "rarity": 0,
+        "stockId": 10161
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 1
+      }
+    ],
+    "limitValue": 0
+  },
+  "110171": {
+    "itemId": 110171,
+    "itemName": "ハイドールの記憶片",
+    "resourceName": "piece_hydoor",
+    "rarity": 4,
+    "itemType": 1024,
+    "description": "ハイドールのファン数を増やすことが出来る不思議な結晶。",
+    "effect": [
+      {
+        "class": "HeroPieceItemEffect",
+        "addFan": 50,
+        "rarity": 0,
+        "stockId": 10171
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 5
+      }
+    ],
+    "limitValue": 0
+  },
+  "110181": {
+    "itemId": 110181,
+    "itemName": "コウキの記憶片",
+    "resourceName": "piece_kouki",
+    "rarity": 5,
+    "itemType": 1024,
+    "description": "コウキのファン数を増やすことが出来る不思議な結晶。",
+    "effect": [
+      {
+        "class": "HeroPieceItemEffect",
+        "addFan": 200,
+        "rarity": 0,
+        "stockId": 10181
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 20
+      }
+    ],
+    "limitValue": 0
+  },
+  "110191": {
+    "itemId": 110191,
+    "itemName": "ヒトミの記憶片",
+    "resourceName": "piece_hitomi",
+    "rarity": 4,
+    "itemType": 1024,
+    "description": "ヒトミのファン数を増やすことが出来る不思議な結晶。",
+    "effect": [
+      {
+        "class": "HeroPieceItemEffect",
+        "addFan": 50,
+        "rarity": 0,
+        "stockId": 10191
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 5
+      }
+    ],
+    "limitValue": 0
+  },
+  "110192": {
+    "itemId": 110192,
+    "itemName": "波音のヒトミの記憶片",
+    "resourceName": "piece_hitomiSummerdive2108",
+    "rarity": 4,
+    "itemType": 1024,
+    "description": "波音のヒトミのファン数を増やすことが出来る不思議な結晶。",
+    "effect": [
+      {
+        "class": "HeroPieceItemEffect",
+        "addFan": 50,
+        "rarity": 0,
+        "stockId": 10192
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 5
+      }
+    ],
+    "limitValue": 0
+  },
+  "110201": {
+    "itemId": 110201,
+    "itemName": "ラクタの記憶片",
+    "resourceName": "piece_rakta",
+    "rarity": 3,
+    "itemType": 1024,
+    "description": "ラクタのファン数を増やすことが出来る不思議な結晶。",
+    "effect": [
+      {
+        "class": "HeroPieceItemEffect",
+        "addFan": 10,
+        "rarity": 0,
+        "stockId": 10201
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 1
+      }
+    ],
+    "limitValue": 0
+  },
+  "110211": {
+    "itemId": 110211,
+    "itemName": "ロレンの記憶片",
+    "resourceName": "piece_loren",
+    "rarity": 3,
+    "itemType": 1024,
+    "description": "ロレンのファン数を増やすことが出来る不思議な結晶。",
+    "effect": [
+      {
+        "class": "HeroPieceItemEffect",
+        "addFan": 10,
+        "rarity": 0,
+        "stockId": 10211
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 1
+      }
+    ],
+    "limitValue": 0
+  },
+  "110221": {
+    "itemId": 110221,
+    "itemName": "イサリビの記憶片",
+    "resourceName": "piece_isaribi",
+    "rarity": 3,
+    "itemType": 1024,
+    "description": "イサリビのファン数を増やすことが出来る不思議な結晶。",
+    "effect": [
+      {
+        "class": "HeroPieceItemEffect",
+        "addFan": 10,
+        "rarity": 0,
+        "stockId": 10221
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 1
+      }
+    ],
+    "limitValue": 0
+  },
+  "110231": {
+    "itemId": 110231,
+    "itemName": "ゴロウの記憶片",
+    "resourceName": "piece_goro",
+    "rarity": 3,
+    "itemType": 1024,
+    "description": "ゴロウのファン数を増やすことが出来る不思議な結晶。",
+    "effect": [
+      {
+        "class": "HeroPieceItemEffect",
+        "addFan": 10,
+        "rarity": 0,
+        "stockId": 10231
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 1
+      }
+    ],
+    "limitValue": 0
+  },
+  "110232": {
+    "itemId": 110232,
+    "itemName": "奏楽のゴロウの記憶片",
+    "resourceName": "piece_goroGhostWoods2204",
+    "rarity": 5,
+    "itemType": 1024,
+    "description": "奏楽のゴロウのファン数を増やすことが出来る不思議な結晶。",
+    "effect": [
+      {
+        "class": "HeroPieceItemEffect",
+        "addFan": 200,
+        "rarity": 0,
+        "stockId": 10232
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 20
+      }
+    ],
+    "limitValue": 0
+  },
+  "110241": {
+    "itemId": 110241,
+    "itemName": "ディグラムの記憶片",
+    "resourceName": "piece_digram",
+    "rarity": 3,
+    "itemType": 1024,
+    "description": "ディグラムのファン数を増やすことが出来る不思議な結晶。",
+    "effect": [
+      {
+        "class": "HeroPieceItemEffect",
+        "addFan": 10,
+        "rarity": 0,
+        "stockId": 10241
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 1
+      }
+    ],
+    "limitValue": 0
+  },
+  "110251": {
+    "itemId": 110251,
+    "itemName": "アンドリューの記憶片",
+    "resourceName": "piece_andrew",
+    "rarity": 5,
+    "itemType": 1024,
+    "description": "アンドリューのファン数を増やすことが出来る不思議な結晶。",
+    "effect": [
+      {
+        "class": "HeroPieceItemEffect",
+        "addFan": 200,
+        "rarity": 0,
+        "stockId": 10251
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 20
+      }
+    ],
+    "limitValue": 0
+  },
+  "110261": {
+    "itemId": 110261,
+    "itemName": "アルキバの記憶片",
+    "resourceName": "piece_alchiba",
+    "rarity": 3,
+    "itemType": 1024,
+    "description": "アルキバのファン数を増やすことが出来る不思議な結晶。",
+    "effect": [
+      {
+        "class": "HeroPieceItemEffect",
+        "addFan": 10,
+        "rarity": 0,
+        "stockId": 10261
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 1
+      }
+    ],
+    "limitValue": 0
+  },
+  "110262": {
+    "itemId": 110262,
+    "itemName": "追跡のアルキバの記憶片",
+    "resourceName": "piece_alchibaChasers2105",
+    "rarity": 5,
+    "itemType": 1024,
+    "description": "追跡のアルキバのファン数を増やすことが出来る不思議な結晶。",
+    "effect": [
+      {
+        "class": "HeroPieceItemEffect",
+        "addFan": 200,
+        "rarity": 0,
+        "stockId": 10262
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 20
+      }
+    ],
+    "limitValue": 0
+  },
+  "110271": {
+    "itemId": 110271,
+    "itemName": "スバルの記憶片",
+    "resourceName": "piece_subaru",
+    "rarity": 4,
+    "itemType": 1024,
+    "description": "スバルのファン数を増やすことが出来る不思議な結晶。",
+    "effect": [
+      {
+        "class": "HeroPieceItemEffect",
+        "addFan": 50,
+        "rarity": 0,
+        "stockId": 10271
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 5
+      }
+    ],
+    "limitValue": 0
+  },
+  "110281": {
+    "itemId": 110281,
+    "itemName": "キルシュの記憶片",
+    "resourceName": "piece_kirsch",
+    "rarity": 3,
+    "itemType": 1024,
+    "description": "キルシュのファン数を増やすことが出来る不思議な結晶。",
+    "effect": [
+      {
+        "class": "HeroPieceItemEffect",
+        "addFan": 10,
+        "rarity": 0,
+        "stockId": 10281
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 1
+      }
+    ],
+    "limitValue": 0
+  },
+  "110291": {
+    "itemId": 110291,
+    "itemName": "ナリヒトの記憶片",
+    "resourceName": "piece_narihito",
+    "rarity": 3,
+    "itemType": 1024,
+    "description": "ナリヒトのファン数を増やすことが出来る不思議な結晶。",
+    "effect": [
+      {
+        "class": "HeroPieceItemEffect",
+        "addFan": 10,
+        "rarity": 0,
+        "stockId": 10291
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 1
+      }
+    ],
+    "limitValue": 0
+  },
+  "110292": {
+    "itemId": 110292,
+    "itemName": "彗星のナリヒトの記憶片",
+    "resourceName": "piece_narihitoMeteorite2112",
+    "rarity": 5,
+    "itemType": 1024,
+    "description": "彗星のナリヒトのファン数を増やすことが出来る不思議な結晶。",
+    "effect": [
+      {
+        "class": "HeroPieceItemEffect",
+        "addFan": 200,
+        "rarity": 0,
+        "stockId": 10292
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 20
+      }
+    ],
+    "limitValue": 0
+  },
+  "110301": {
+    "itemId": 110301,
+    "itemName": "スハイルの記憶片",
+    "resourceName": "piece_suhail",
+    "rarity": 5,
+    "itemType": 1024,
+    "description": "スハイルのファン数を増やすことが出来る不思議な結晶。",
+    "effect": [
+      {
+        "class": "HeroPieceItemEffect",
+        "addFan": 200,
+        "rarity": 0,
+        "stockId": 10301
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 20
+      }
+    ],
+    "limitValue": 0
+  },
+  "110311": {
+    "itemId": 110311,
+    "itemName": "モノマサの記憶片",
+    "resourceName": "piece_monomasa",
+    "rarity": 5,
+    "itemType": 1024,
+    "description": "モノマサのファン数を増やすことが出来る不思議な結晶。",
+    "effect": [
+      {
+        "class": "HeroPieceItemEffect",
+        "addFan": 200,
+        "rarity": 0,
+        "stockId": 10311
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 20
+      }
+    ],
+    "limitValue": 0
+  },
+  "110321": {
+    "itemId": 110321,
+    "itemName": "プロキーの記憶片",
+    "resourceName": "piece_procy",
+    "rarity": 3,
+    "itemType": 1024,
+    "description": "プロキーのファン数を増やすことが出来る不思議な結晶。",
+    "effect": [
+      {
+        "class": "HeroPieceItemEffect",
+        "addFan": 10,
+        "rarity": 0,
+        "stockId": 10321
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 1
+      }
+    ],
+    "limitValue": 0
+  },
+  "110331": {
+    "itemId": 110331,
+    "itemName": "ゴメイサの記憶片",
+    "resourceName": "piece_gomeisa",
+    "rarity": 5,
+    "itemType": 1024,
+    "description": "ゴメイサのファン数を増やすことが出来る不思議な結晶。",
+    "effect": [
+      {
+        "class": "HeroPieceItemEffect",
+        "addFan": 200,
+        "rarity": 0,
+        "stockId": 10331
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 20
+      }
+    ],
+    "limitValue": 0
+  },
+  "110341": {
+    "itemId": 110341,
+    "itemName": "ハックルの記憶片",
+    "resourceName": "piece_huckle",
+    "rarity": 4,
+    "itemType": 1024,
+    "description": "ハックルのファン数を増やすことが出来る不思議な結晶。",
+    "effect": [
+      {
+        "class": "HeroPieceItemEffect",
+        "addFan": 50,
+        "rarity": 0,
+        "stockId": 10341
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 5
+      }
+    ],
+    "limitValue": 0
+  },
+  "110431": {
+    "itemId": 110431,
+    "itemName": "木のウルフマンの記憶片",
+    "resourceName": "piece_wolfmanEarth",
+    "rarity": 1,
+    "itemType": 1024,
+    "description": "木のウルフマンのファン数を増やすことが出来る不思議な結晶。",
+    "effect": [
+      {
+        "class": "HeroPieceItemEffect",
+        "addFan": 1,
+        "rarity": 0,
+        "stockId": 10431
+      }
+    ],
+    "limitValue": 0
+  },
+  "110451": {
+    "itemId": 110451,
+    "itemName": "影のウルフマンの記憶片",
+    "resourceName": "piece_wolfmanShadow",
+    "rarity": 1,
+    "itemType": 1024,
+    "description": "影のウルフマンのファン数を増やすことが出来る不思議な結晶。",
+    "effect": [
+      {
+        "class": "HeroPieceItemEffect",
+        "addFan": 1,
+        "rarity": 0,
+        "stockId": 10451
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 0
+      }
+    ],
+    "limitValue": 0
+  },
+  "110511": {
+    "itemId": 110511,
+    "itemName": "ネッセンの記憶片",
+    "resourceName": "piece_nessen",
+    "rarity": 5,
+    "itemType": 1024,
+    "description": "ネッセンのファン数を増やすことが出来る不思議な結晶。",
+    "effect": [
+      {
+        "class": "HeroPieceItemEffect",
+        "addFan": 200,
+        "rarity": 0,
+        "stockId": 10511
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 20
+      }
+    ],
+    "limitValue": 0
+  },
+  "110531": {
+    "itemId": 110531,
+    "itemName": "ヒサキの記憶片",
+    "resourceName": "piece_hisaki",
+    "rarity": 3,
+    "itemType": 1024,
+    "description": "ヒサキのファン数を増やすことが出来る不思議な結晶。",
+    "effect": [
+      {
+        "class": "HeroPieceItemEffect",
+        "addFan": 10,
+        "rarity": 0,
+        "stockId": 10531
+      }
+    ],
+    "limitValue": 0
+  },
+  "110591": {
+    "itemId": 110591,
+    "itemName": "マクラータの記憶片",
+    "resourceName": "piece_maculata",
+    "rarity": 4,
+    "itemType": 1024,
+    "description": "マクラータのファン数を増やすことが出来る不思議な結晶。",
+    "effect": [
+      {
+        "class": "HeroPieceItemEffect",
+        "addFan": 50,
+        "rarity": 0,
+        "stockId": 10591
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 5
+      }
+    ],
+    "limitValue": 0
+  },
+  "110611": {
+    "itemId": 110611,
+    "itemName": "ルティリクスの記憶片",
+    "resourceName": "piece_rutilix",
+    "rarity": 5,
+    "itemType": 1024,
+    "description": "ルティリクスのファン数を増やすことが出来る不思議な結晶。",
+    "effect": [
+      {
+        "class": "HeroPieceItemEffect",
+        "addFan": 200,
+        "rarity": 0,
+        "stockId": 10611
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 20
+      }
+    ],
+    "limitValue": 0
+  },
+  "110621": {
+    "itemId": 110621,
+    "itemName": "アルフェッカの記憶片",
+    "resourceName": "piece_alphecca",
+    "rarity": 4,
+    "itemType": 1024,
+    "description": "アルフェッカのファン数を増やすことが出来る不思議な結晶。",
+    "effect": [
+      {
+        "class": "HeroPieceItemEffect",
+        "addFan": 50,
+        "rarity": 0,
+        "stockId": 10621
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 5
+      }
+    ],
+    "limitValue": 0
+  },
+  "110631": {
+    "itemId": 110631,
+    "itemName": "シャフトの記憶片",
+    "resourceName": "piece_shaft",
+    "rarity": 5,
+    "itemType": 1024,
+    "description": "シャフトのファン数を増やすことが出来る不思議な結晶。",
+    "effect": [
+      {
+        "class": "HeroPieceItemEffect",
+        "addFan": 200,
+        "rarity": 0,
+        "stockId": 10631
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 20
+      }
+    ],
+    "limitValue": 0
+  },
+  "110641": {
+    "itemId": 110641,
+    "itemName": "カラスキの記憶片",
+    "resourceName": "piece_kalaski",
+    "rarity": 4,
+    "itemType": 1024,
+    "description": "カラスキのファン数を増やすことが出来る不思議な結晶。",
+    "effect": [
+      {
+        "class": "HeroPieceItemEffect",
+        "addFan": 50,
+        "rarity": 0,
+        "stockId": 10641
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 5
+      }
+    ],
+    "limitValue": 0
+  },
+  "110651": {
+    "itemId": 110651,
+    "itemName": "ウルペクラの記憶片",
+    "resourceName": "piece_vulpecula",
+    "rarity": 5,
+    "itemType": 1024,
+    "description": "ウルペクラのファン数を増やすことが出来る不思議な結晶。",
+    "effect": [
+      {
+        "class": "HeroPieceItemEffect",
+        "addFan": 200,
+        "rarity": 0,
+        "stockId": 10651
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 20
+      }
+    ],
+    "limitValue": 0
+  },
+  "110661": {
+    "itemId": 110661,
+    "itemName": "火のマーセナリーの記憶片",
+    "resourceName": "piece_mercenaryFire",
+    "rarity": 1,
+    "itemType": 1024,
+    "description": "火のマーセナリーのファン数を増やすことが出来る不思議な結晶。",
+    "effect": [
+      {
+        "class": "HeroPieceItemEffect",
+        "addFan": 1,
+        "rarity": 0,
+        "stockId": 10661
+      }
+    ],
+    "limitValue": 0
+  },
+  "110671": {
+    "itemId": 110671,
+    "itemName": "水のマーセナリーの記憶片",
+    "resourceName": "piece_mercenaryWater",
+    "rarity": 1,
+    "itemType": 1024,
+    "description": "水のマーセナリーのファン数を増やすことが出来る不思議な結晶。",
+    "effect": [
+      {
+        "class": "HeroPieceItemEffect",
+        "addFan": 1,
+        "rarity": 0,
+        "stockId": 10671
+      }
+    ],
+    "limitValue": 0
+  },
+  "110681": {
+    "itemId": 110681,
+    "itemName": "木のマーセナリーの記憶片",
+    "resourceName": "piece_mercenaryEarth",
+    "rarity": 1,
+    "itemType": 1024,
+    "description": "木のマーセナリーのファン数を増やすことが出来る不思議な結晶。",
+    "effect": [
+      {
+        "class": "HeroPieceItemEffect",
+        "addFan": 1,
+        "rarity": 0,
+        "stockId": 10681
+      }
+    ],
+    "limitValue": 0
+  },
+  "110691": {
+    "itemId": 110691,
+    "itemName": "光のマーセナリーの記憶片",
+    "resourceName": "piece_mercenaryLight",
+    "rarity": 1,
+    "itemType": 1024,
+    "description": "光のマーセナリーのファン数を増やすことが出来る不思議な結晶。",
+    "effect": [
+      {
+        "class": "HeroPieceItemEffect",
+        "addFan": 1,
+        "rarity": 0,
+        "stockId": 10691
+      }
+    ],
+    "limitValue": 0
+  },
+  "110701": {
+    "itemId": 110701,
+    "itemName": "影のマーセナリーの記憶片",
+    "resourceName": "piece_mercenaryShadow",
+    "rarity": 1,
+    "itemType": 1024,
+    "description": "影のマーセナリーのファン数を増やすことが出来る不思議な結晶。",
+    "effect": [
+      {
+        "class": "HeroPieceItemEffect",
+        "addFan": 1,
+        "rarity": 0,
+        "stockId": 10701
+      }
+    ],
+    "limitValue": 0
+  },
+  "110721": {
+    "itemId": 110721,
+    "itemName": "ヨシオリの記憶片",
+    "resourceName": "piece_yoshiori",
+    "rarity": 4,
+    "itemType": 1024,
+    "description": "ヨシオリのファン数を増やすことが出来る不思議な結晶。",
+    "effect": [
+      {
+        "class": "HeroPieceItemEffect",
+        "addFan": 50,
+        "rarity": 0,
+        "stockId": 10721
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 5
+      }
+    ],
+    "limitValue": 0
+  },
+  "110731": {
+    "itemId": 110731,
+    "itemName": "パブラシアの記憶片",
+    "resourceName": "piece_pubraseer",
+    "rarity": 3,
+    "itemType": 1024,
+    "description": "パブラシアのファン数を増やすことが出来る不思議な結晶。",
+    "effect": [
+      {
+        "class": "HeroPieceItemEffect",
+        "addFan": 10,
+        "rarity": 0,
+        "stockId": 10731
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 0
+      }
+    ],
+    "limitValue": 0
+  },
+  "110751": {
+    "itemId": 110751,
+    "itemName": "オキタカの記憶片",
+    "resourceName": "piece_okitaka",
+    "rarity": 4,
+    "itemType": 1024,
+    "description": "オキタカのファン数を増やすことが出来る不思議な結晶。",
+    "effect": [
+      {
+        "class": "HeroPieceItemEffect",
+        "addFan": 50,
+        "rarity": 0,
+        "stockId": 10751
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 5
+      }
+    ],
+    "limitValue": 0
+  },
+  "110811": {
+    "itemId": 110811,
+    "itemName": "サダヨシの記憶片",
+    "resourceName": "piece_sadayoshi",
+    "rarity": 5,
+    "itemType": 1024,
+    "description": "サダヨシのファン数を増やすことが出来る不思議な結晶。",
+    "effect": [
+      {
+        "class": "HeroPieceItemEffect",
+        "addFan": 200,
+        "rarity": 0,
+        "stockId": 10811
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 20
+      }
+    ],
+    "limitValue": 0
+  },
+  "110821": {
+    "itemId": 110821,
+    "itemName": "ボレアリスの記憶片",
+    "resourceName": "piece_borealis",
+    "rarity": 4,
+    "itemType": 1024,
+    "description": "ボレアリスのファン数を増やすことが出来る不思議な結晶。",
+    "effect": [
+      {
+        "class": "HeroPieceItemEffect",
+        "addFan": 50,
+        "rarity": 0,
+        "stockId": 10821
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 5
+      }
+    ],
+    "limitValue": 0
+  },
+  "111001": {
+    "itemId": 111001,
+    "itemName": "ヤスヒコの記憶片",
+    "resourceName": "piece_yasuhiko",
+    "rarity": 4,
+    "itemType": 1024,
+    "description": "ヤスヒコのファン数を増やすことが出来る不思議な結晶。",
+    "effect": [
+      {
+        "class": "HeroPieceItemEffect",
+        "addFan": 50,
+        "rarity": 0,
+        "stockId": 11001
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 5
+      }
+    ],
+    "limitValue": 0
+  },
+  "111011": {
+    "itemId": 111011,
+    "itemName": "ライラックの記憶片",
+    "resourceName": "piece_lilac",
+    "rarity": 5,
+    "itemType": 1024,
+    "description": "ライラックのファン数を増やすことが出来る不思議な結晶。",
+    "effect": [
+      {
+        "class": "HeroPieceItemEffect",
+        "addFan": 200,
+        "rarity": 0,
+        "stockId": 11011
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 20
+      }
+    ],
+    "limitValue": 0
+  },
+  "210011": {
+    "itemId": 210011,
+    "itemName": "アカシの心",
+    "resourceName": "heart_akashi",
+    "rarity": 4,
+    "itemType": 2048,
+    "description": "アカシのランクを１段階上げることが出来る不思議なアイテム。",
+    "effect": [
+      {
+        "class": "SidekickHeartItemEffect",
+        "rarity": 0,
+        "stockId": 10011
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 5
+      }
+    ],
+    "limitValue": 0
+  },
+  "210012": {
+    "itemId": 210012,
+    "itemName": "アカシの心",
+    "resourceName": "heart_akashi",
+    "rarity": 4,
+    "itemType": 2048,
+    "description": "アカシのランクを１段階上げることが出来る不思議なアイテム。",
+    "effect": [
+      {
+        "class": "SidekickHeartItemEffect",
+        "rarity": 0,
+        "stockId": 10012
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 5
+      }
+    ],
+    "limitValue": 0
+  },
+  "210021": {
+    "itemId": 210021,
+    "itemName": "モクダイの心",
+    "resourceName": "heart_mokdai",
+    "rarity": 4,
+    "itemType": 2048,
+    "description": "モクダイのランクを１段階上げることが出来る不思議なアイテム。",
+    "effect": [
+      {
+        "class": "SidekickHeartItemEffect",
+        "rarity": 0,
+        "stockId": 10021
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 5
+      }
+    ],
+    "limitValue": 0
+  },
+  "210031": {
+    "itemId": 210031,
+    "itemName": "スイの心",
+    "resourceName": "heart_sui",
+    "rarity": 4,
+    "itemType": 2048,
+    "description": "スイのランクを１段階上げることが出来る不思議なアイテム。",
+    "effect": [
+      {
+        "class": "SidekickHeartItemEffect",
+        "rarity": 0,
+        "stockId": 10031
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 5
+      }
+    ],
+    "limitValue": 0
+  },
+  "210041": {
+    "itemId": 210041,
+    "itemName": "ライキの心",
+    "resourceName": "heart_ryekie",
+    "rarity": 3,
+    "itemType": 2048,
+    "description": "ライキのランクを１段階上げることが出来る不思議なアイテム。",
+    "effect": [
+      {
+        "class": "SidekickHeartItemEffect",
+        "rarity": 0,
+        "stockId": 10041
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 1
+      }
+    ],
+    "limitValue": 0
+  },
+  "210051": {
+    "itemId": 210051,
+    "itemName": "クローネの心",
+    "resourceName": "heart_crowne",
+    "rarity": 3,
+    "itemType": 2048,
+    "description": "クローネのランクを１段階上げることが出来る不思議なアイテム。",
+    "effect": [
+      {
+        "class": "SidekickHeartItemEffect",
+        "rarity": 0,
+        "stockId": 10051
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 1
+      }
+    ],
+    "limitValue": 0
+  },
+  "210061": {
+    "itemId": 210061,
+    "itemName": "ガンメイの心",
+    "resourceName": "heart_gammei",
+    "rarity": 3,
+    "itemType": 2048,
+    "description": "ガンメイのランクを１段階上げることが出来る不思議なアイテム。",
+    "effect": [
+      {
+        "class": "SidekickHeartItemEffect",
+        "rarity": 0,
+        "stockId": 10061
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 1
+      }
+    ],
+    "limitValue": 0
+  },
+  "210071": {
+    "itemId": 210071,
+    "itemName": "バレルの心",
+    "resourceName": "heart_barrel",
+    "rarity": 3,
+    "itemType": 2048,
+    "description": "バレルのランクを１段階上げることが出来る不思議なアイテム。",
+    "effect": [
+      {
+        "class": "SidekickHeartItemEffect",
+        "rarity": 0,
+        "stockId": 10071
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 1
+      }
+    ],
+    "limitValue": 0
+  },
+  "210081": {
+    "itemId": 210081,
+    "itemName": "ハロンの心",
+    "resourceName": "heart_furlong",
+    "rarity": 3,
+    "itemType": 2048,
+    "description": "ハロンのランクを１段階上げることが出来る不思議なアイテム。",
+    "effect": [
+      {
+        "class": "SidekickHeartItemEffect",
+        "rarity": 0,
+        "stockId": 10081
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 1
+      }
+    ],
+    "limitValue": 0
+  },
+  "210091": {
+    "itemId": 210091,
+    "itemName": "ヴィクトムの心",
+    "resourceName": "heart_victom",
+    "rarity": 3,
+    "itemType": 2048,
+    "description": "ヴィクトムのランクを１段階上げることが出来る不思議なアイテム。",
+    "effect": [
+      {
+        "class": "SidekickHeartItemEffect",
+        "rarity": 0,
+        "stockId": 10091
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 1
+      }
+    ],
+    "limitValue": 0
+  },
+  "210101": {
+    "itemId": 210101,
+    "itemName": "キョウイチの心",
+    "resourceName": "heart_kyoichi",
+    "rarity": 3,
+    "itemType": 2048,
+    "description": "キョウイチのランクを１段階上げることが出来る不思議なアイテム。",
+    "effect": [
+      {
+        "class": "SidekickHeartItemEffect",
+        "rarity": 0,
+        "stockId": 10101
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 1
+      }
+    ],
+    "limitValue": 0
+  },
+  "210111": {
+    "itemId": 210111,
+    "itemName": "フラミーの心",
+    "resourceName": "heart_flamier",
+    "rarity": 4,
+    "itemType": 2048,
+    "description": "フラミーのランクを１段階上げることが出来る不思議なアイテム。",
+    "effect": [
+      {
+        "class": "SidekickHeartItemEffect",
+        "rarity": 0,
+        "stockId": 10111
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 5
+      }
+    ],
+    "limitValue": 0
+  },
+  "210121": {
+    "itemId": 210121,
+    "itemName": "ショウエンの心",
+    "resourceName": "heart_shoen",
+    "rarity": 3,
+    "itemType": 2048,
+    "description": "ショウエンのランクを１段階上げることが出来る不思議なアイテム。",
+    "effect": [
+      {
+        "class": "SidekickHeartItemEffect",
+        "rarity": 0,
+        "stockId": 10121
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 1
+      }
+    ],
+    "limitValue": 0
+  },
+  "210131": {
+    "itemId": 210131,
+    "itemName": "トウシュウの心",
+    "resourceName": "heart_toshu",
+    "rarity": 3,
+    "itemType": 2048,
+    "description": "トウシュウのランクを１段階上げることが出来る不思議なアイテム。",
+    "effect": [
+      {
+        "class": "SidekickHeartItemEffect",
+        "rarity": 0,
+        "stockId": 10131
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 1
+      }
+    ],
+    "limitValue": 0
+  },
+  "210141": {
+    "itemId": 210141,
+    "itemName": "マルフィクの心",
+    "resourceName": "heart_marfik",
+    "rarity": 3,
+    "itemType": 2048,
+    "description": "マルフィクのランクを１段階上げることが出来る不思議なアイテム。",
+    "effect": [
+      {
+        "class": "SidekickHeartItemEffect",
+        "rarity": 0,
+        "stockId": 10141
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 1
+      }
+    ],
+    "limitValue": 0
+  },
+  "210151": {
+    "itemId": 210151,
+    "itemName": "ポラリスマスクの心",
+    "resourceName": "heart_polaris",
+    "rarity": 3,
+    "itemType": 2048,
+    "description": "ポラリスマスクのランクを１段階上げることが出来る不思議なアイテム。",
+    "effect": [
+      {
+        "class": "SidekickHeartItemEffect",
+        "rarity": 0,
+        "stockId": 10151
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 1
+      }
+    ],
+    "limitValue": 0
+  },
+  "210161": {
+    "itemId": 210161,
+    "itemName": "ラッドの心",
+    "resourceName": "heart_rad",
+    "rarity": 3,
+    "itemType": 2048,
+    "description": "ラッドのランクを１段階上げることが出来る不思議なアイテム。",
+    "effect": [
+      {
+        "class": "SidekickHeartItemEffect",
+        "rarity": 0,
+        "stockId": 10161
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 1
+      }
+    ],
+    "limitValue": 0
+  },
+  "210171": {
+    "itemId": 210171,
+    "itemName": "ハイドールの心",
+    "resourceName": "heart_hydoor",
+    "rarity": 3,
+    "itemType": 2048,
+    "description": "ハイドールのランクを１段階上げることが出来る不思議なアイテム。",
+    "effect": [
+      {
+        "class": "SidekickHeartItemEffect",
+        "rarity": 0,
+        "stockId": 10171
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 1
+      }
+    ],
+    "limitValue": 0
+  },
+  "210181": {
+    "itemId": 210181,
+    "itemName": "コウキの心",
+    "resourceName": "heart_kouki",
+    "rarity": 3,
+    "itemType": 2048,
+    "description": "コウキのランクを１段階上げることが出来る不思議なアイテム。",
+    "effect": [
+      {
+        "class": "SidekickHeartItemEffect",
+        "rarity": 0,
+        "stockId": 10181
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 1
+      }
+    ],
+    "limitValue": 0
+  },
+  "210191": {
+    "itemId": 210191,
+    "itemName": "ヒトミの心",
+    "resourceName": "heart_hitomi",
+    "rarity": 3,
+    "itemType": 2048,
+    "description": "ヒトミのランクを１段階上げることが出来る不思議なアイテム。",
+    "effect": [
+      {
+        "class": "SidekickHeartItemEffect",
+        "rarity": 0,
+        "stockId": 10191
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 1
+      }
+    ],
+    "limitValue": 0
+  },
+  "210201": {
+    "itemId": 210201,
+    "itemName": "ラクタの心",
+    "resourceName": "heart_rakta",
+    "rarity": 3,
+    "itemType": 2048,
+    "description": "ラクタのランクを１段階上げることが出来る不思議なアイテム。",
+    "effect": [
+      {
+        "class": "SidekickHeartItemEffect",
+        "rarity": 0,
+        "stockId": 10201
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 1
+      }
+    ],
+    "limitValue": 0
+  },
+  "210211": {
+    "itemId": 210211,
+    "itemName": "ロレンの心",
+    "resourceName": "heart_loren",
+    "rarity": 4,
+    "itemType": 2048,
+    "description": "ロレンのランクを１段階上げることが出来る不思議なアイテム。",
+    "effect": [
+      {
+        "class": "SidekickHeartItemEffect",
+        "rarity": 0,
+        "stockId": 10211
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 5
+      }
+    ],
+    "limitValue": 0
+  },
+  "210221": {
+    "itemId": 210221,
+    "itemName": "イサリビの心",
+    "resourceName": "heart_isaribi",
+    "rarity": 3,
+    "itemType": 2048,
+    "description": "イサリビのランクを１段階上げることが出来る不思議なアイテム。",
+    "effect": [
+      {
+        "class": "SidekickHeartItemEffect",
+        "rarity": 0,
+        "stockId": 10221
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 1
+      }
+    ],
+    "limitValue": 0
+  },
+  "210231": {
+    "itemId": 210231,
+    "itemName": "ゴロウの心",
+    "resourceName": "heart_goro",
+    "rarity": 4,
+    "itemType": 2048,
+    "description": "ゴロウのランクを１段階上げることが出来る不思議なアイテム。",
+    "effect": [
+      {
+        "class": "SidekickHeartItemEffect",
+        "rarity": 0,
+        "stockId": 10231
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 5
+      }
+    ],
+    "limitValue": 0
+  },
+  "210241": {
+    "itemId": 210241,
+    "itemName": "ディグラムの心",
+    "resourceName": "heart_digram",
+    "rarity": 3,
+    "itemType": 2048,
+    "description": "ディグラムのランクを１段階上げることが出来る不思議なアイテム。",
+    "effect": [
+      {
+        "class": "SidekickHeartItemEffect",
+        "rarity": 0,
+        "stockId": 10241
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 1
+      }
+    ],
+    "limitValue": 0
+  },
+  "210251": {
+    "itemId": 210251,
+    "itemName": "アンドリューの心",
+    "resourceName": "heart_andrew",
+    "rarity": 3,
+    "itemType": 2048,
+    "description": "アンドリューのランクを１段階上げることが出来る不思議なアイテム。",
+    "effect": [
+      {
+        "class": "SidekickHeartItemEffect",
+        "rarity": 0,
+        "stockId": 10251
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 1
+      }
+    ],
+    "limitValue": 0
+  },
+  "210261": {
+    "itemId": 210261,
+    "itemName": "アルキバの心",
+    "resourceName": "heart_alchiba",
+    "rarity": 3,
+    "itemType": 2048,
+    "description": "アルキバのランクを１段階上げることが出来る不思議なアイテム。",
+    "effect": [
+      {
+        "class": "SidekickHeartItemEffect",
+        "rarity": 0,
+        "stockId": 10261
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 1
+      }
+    ],
+    "limitValue": 0
+  },
+  "210271": {
+    "itemId": 210271,
+    "itemName": "スバルの心",
+    "resourceName": "heart_subaru",
+    "rarity": 3,
+    "itemType": 2048,
+    "description": "スバルのランクを１段階上げることが出来る不思議なアイテム。",
+    "effect": [
+      {
+        "class": "SidekickHeartItemEffect",
+        "rarity": 0,
+        "stockId": 10271
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 1
+      }
+    ],
+    "limitValue": 0
+  },
+  "210281": {
+    "itemId": 210281,
+    "itemName": "キルシュの心",
+    "resourceName": "heart_kirsch",
+    "rarity": 3,
+    "itemType": 2048,
+    "description": "キルシュのランクを１段階上げることが出来る不思議なアイテム。",
+    "effect": [
+      {
+        "class": "SidekickHeartItemEffect",
+        "rarity": 0,
+        "stockId": 10281
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 1
+      }
+    ],
+    "limitValue": 0
+  },
+  "210291": {
+    "itemId": 210291,
+    "itemName": "ナリヒトの心",
+    "resourceName": "heart_narihito",
+    "rarity": 3,
+    "itemType": 2048,
+    "description": "ナリヒトのランクを１段階上げることが出来る不思議なアイテム。",
+    "effect": [
+      {
+        "class": "SidekickHeartItemEffect",
+        "rarity": 0,
+        "stockId": 10291
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 1
+      }
+    ],
+    "limitValue": 0
+  },
+  "210301": {
+    "itemId": 210301,
+    "itemName": "スハイルの心",
+    "resourceName": "heart_suhail",
+    "rarity": 3,
+    "itemType": 2048,
+    "description": "スハイルのランクを１段階上げることが出来る不思議なアイテム。",
+    "effect": [
+      {
+        "class": "SidekickHeartItemEffect",
+        "rarity": 0,
+        "stockId": 10301
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 1
+      }
+    ],
+    "limitValue": 0
+  },
+  "210311": {
+    "itemId": 210311,
+    "itemName": "モノマサの心",
+    "resourceName": "heart_monomasa",
+    "rarity": 3,
+    "itemType": 2048,
+    "description": "モノマサのランクを１段階上げることが出来る不思議なアイテム。",
+    "effect": [
+      {
+        "class": "SidekickHeartItemEffect",
+        "rarity": 0,
+        "stockId": 10311
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 1
+      }
+    ],
+    "limitValue": 0
+  },
+  "210321": {
+    "itemId": 210321,
+    "itemName": "プロキーの心",
+    "resourceName": "heart_procy",
+    "rarity": 3,
+    "itemType": 2048,
+    "description": "プロキーのランクを１段階上げることが出来る不思議なアイテム。",
+    "effect": [
+      {
+        "class": "SidekickHeartItemEffect",
+        "rarity": 0,
+        "stockId": 10321
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 1
+      }
+    ],
+    "limitValue": 0
+  },
+  "210331": {
+    "itemId": 210331,
+    "itemName": "ゴメイサの心",
+    "resourceName": "heart_gomeisa",
+    "rarity": 3,
+    "itemType": 2048,
+    "description": "ゴメイサのランクを１段階上げることが出来る不思議なアイテム。",
+    "effect": [
+      {
+        "class": "SidekickHeartItemEffect",
+        "rarity": 0,
+        "stockId": 10331
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 1
+      }
+    ],
+    "limitValue": 0
+  },
+  "210341": {
+    "itemId": 210341,
+    "itemName": "ハックルの心",
+    "resourceName": "heart_huckle",
+    "rarity": 4,
+    "itemType": 2048,
+    "description": "ハックルのランクを１段階上げることが出来る不思議なアイテム。",
+    "effect": [
+      {
+        "class": "SidekickHeartItemEffect",
+        "rarity": 0,
+        "stockId": 10341
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 5
+      }
+    ],
+    "limitValue": 0
+  },
+  "210351": {
+    "itemId": 210351,
+    "itemName": "エクシオの心",
+    "resourceName": "heart_exio",
+    "rarity": 4,
+    "itemType": 2048,
+    "description": "エクシオのランクを１段階上げることが出来る不思議なアイテム。",
+    "effect": [
+      {
+        "class": "SidekickHeartItemEffect",
+        "rarity": 0,
+        "stockId": 10351
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 5
+      }
+    ],
+    "limitValue": 0
+  },
+  "210431": {
+    "itemId": 210431,
+    "itemName": "木のウルフマンの心",
+    "resourceName": "heart_wolfmanEarth",
+    "rarity": 1,
+    "itemType": 2048,
+    "description": "木のウルフマンのランクを１段階上げることが出来る不思議なアイテム。",
+    "effect": [
+      {
+        "class": "SidekickHeartItemEffect",
+        "rarity": 0,
+        "stockId": 10431
+      }
+    ],
+    "limitValue": 0
+  },
+  "210451": {
+    "itemId": 210451,
+    "itemName": "影のウルフマンの心",
+    "resourceName": "heart_wolfmanShadow",
+    "rarity": 1,
+    "itemType": 2048,
+    "description": "影のウルフマンのランクを１段階上げることが出来る不思議なアイテム。",
+    "effect": [
+      {
+        "class": "SidekickHeartItemEffect",
+        "rarity": 0,
+        "stockId": 10451
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 0
+      }
+    ],
+    "limitValue": 0
+  },
+  "210511": {
+    "itemId": 210511,
+    "itemName": "ネッセンの心",
+    "resourceName": "heart_nessen",
+    "rarity": 3,
+    "itemType": 2048,
+    "description": "ネッセンのランクを１段階上げることが出来る不思議なアイテム。",
+    "effect": [
+      {
+        "class": "SidekickHeartItemEffect",
+        "rarity": 0,
+        "stockId": 10511
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 1
+      }
+    ],
+    "limitValue": 0
+  },
+  "210531": {
+    "itemId": 210531,
+    "itemName": "ヒサキの心",
+    "resourceName": "heart_hisaki",
+    "rarity": 3,
+    "itemType": 2048,
+    "description": "ヒサキのランクを１段階上げることが出来る不思議なアイテム。",
+    "effect": [
+      {
+        "class": "SidekickHeartItemEffect",
+        "rarity": 0,
+        "stockId": 10531
+      }
+    ],
+    "limitValue": 0
+  },
+  "210591": {
+    "itemId": 210591,
+    "itemName": "マクラータの心",
+    "resourceName": "heart_maculata",
+    "rarity": 3,
+    "itemType": 2048,
+    "description": "マクラータのランクを１段階上げることが出来る不思議なアイテム。",
+    "effect": [
+      {
+        "class": "SidekickHeartItemEffect",
+        "rarity": 0,
+        "stockId": 10591
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 1
+      }
+    ],
+    "limitValue": 0
+  },
+  "210611": {
+    "itemId": 210611,
+    "itemName": "ルティリクスの心",
+    "resourceName": "heart_rutilix",
+    "rarity": 3,
+    "itemType": 2048,
+    "description": "ルティリクスのランクを１段階上げることが出来る不思議なアイテム。",
+    "effect": [
+      {
+        "class": "SidekickHeartItemEffect",
+        "rarity": 0,
+        "stockId": 10611
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 1
+      }
+    ],
+    "limitValue": 0
+  },
+  "210621": {
+    "itemId": 210621,
+    "itemName": "アルフェッカの心",
+    "resourceName": "heart_alphecca",
+    "rarity": 3,
+    "itemType": 2048,
+    "description": "アルフェッカのランクを１段階上げることが出来る不思議なアイテム。",
+    "effect": [
+      {
+        "class": "SidekickHeartItemEffect",
+        "rarity": 0,
+        "stockId": 10621
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 1
+      }
+    ],
+    "limitValue": 0
+  },
+  "210631": {
+    "itemId": 210631,
+    "itemName": "シャフトの心",
+    "resourceName": "heart_shaft",
+    "rarity": 3,
+    "itemType": 2048,
+    "description": "シャフトのランクを１段階上げることが出来る不思議なアイテム。",
+    "effect": [
+      {
+        "class": "SidekickHeartItemEffect",
+        "rarity": 0,
+        "stockId": 10631
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 1
+      }
+    ],
+    "limitValue": 0
+  },
+  "210641": {
+    "itemId": 210641,
+    "itemName": "カラスキの心",
+    "resourceName": "heart_kalaski",
+    "rarity": 4,
+    "itemType": 2048,
+    "description": "カラスキのランクを１段階上げることが出来る不思議なアイテム。",
+    "effect": [
+      {
+        "class": "SidekickHeartItemEffect",
+        "rarity": 0,
+        "stockId": 10641
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 5
+      }
+    ],
+    "limitValue": 0
+  },
+  "210651": {
+    "itemId": 210651,
+    "itemName": "ウルペクラの心",
+    "resourceName": "heart_vulpecula",
+    "rarity": 3,
+    "itemType": 2048,
+    "description": "ウルペクラのランクを１段階上げることが出来る不思議なアイテム。",
+    "effect": [
+      {
+        "class": "SidekickHeartItemEffect",
+        "rarity": 0,
+        "stockId": 10651
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 1
+      }
+    ],
+    "limitValue": 0
+  },
+  "210661": {
+    "itemId": 210661,
+    "itemName": "火のマーセナリ―の心",
+    "resourceName": "heart_mercenaryFire",
+    "rarity": 1,
+    "itemType": 2048,
+    "description": "火のマーセナリ―のランクを１段階上げることが出来る不思議なアイテム。",
+    "effect": [
+      {
+        "class": "SidekickHeartItemEffect",
+        "rarity": 0,
+        "stockId": 10661
+      }
+    ],
+    "limitValue": 0
+  },
+  "210671": {
+    "itemId": 210671,
+    "itemName": "水のマーセナリ―の心",
+    "resourceName": "heart_mercenaryWater",
+    "rarity": 1,
+    "itemType": 2048,
+    "description": "水のマーセナリ―のランクを１段階上げることが出来る不思議なアイテム。",
+    "effect": [
+      {
+        "class": "SidekickHeartItemEffect",
+        "rarity": 0,
+        "stockId": 10671
+      }
+    ],
+    "limitValue": 0
+  },
+  "210681": {
+    "itemId": 210681,
+    "itemName": "木のマーセナリ―の心",
+    "resourceName": "heart_mercenaryEarth",
+    "rarity": 1,
+    "itemType": 2048,
+    "description": "木のマーセナリ―のランクを１段階上げることが出来る不思議なアイテム。",
+    "effect": [
+      {
+        "class": "SidekickHeartItemEffect",
+        "rarity": 0,
+        "stockId": 10681
+      }
+    ],
+    "limitValue": 0
+  },
+  "210691": {
+    "itemId": 210691,
+    "itemName": "光のマーセナリ―の心",
+    "resourceName": "heart_mercenaryLight",
+    "rarity": 1,
+    "itemType": 2048,
+    "description": "光のマーセナリ―のランクを１段階上げることが出来る不思議なアイテム。",
+    "effect": [
+      {
+        "class": "SidekickHeartItemEffect",
+        "rarity": 0,
+        "stockId": 10691
+      }
+    ],
+    "limitValue": 0
+  },
+  "210701": {
+    "itemId": 210701,
+    "itemName": "影のマーセナリ―の心",
+    "resourceName": "heart_mercenaryShadow",
+    "rarity": 1,
+    "itemType": 2048,
+    "description": "影のマーセナリ―のランクを１段階上げることが出来る不思議なアイテム。",
+    "effect": [
+      {
+        "class": "SidekickHeartItemEffect",
+        "rarity": 0,
+        "stockId": 10701
+      }
+    ],
+    "limitValue": 0
+  },
+  "210711": {
+    "itemId": 210711,
+    "itemName": "メリデの心",
+    "resourceName": "heart_melide",
+    "rarity": 4,
+    "itemType": 2048,
+    "description": "メリデのランクを１段階上げることが出来る不思議なアイテム。",
+    "effect": [
+      {
+        "class": "SidekickHeartItemEffect",
+        "rarity": 0,
+        "stockId": 10711
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 5
+      }
+    ],
+    "limitValue": 0
+  },
+  "210721": {
+    "itemId": 210721,
+    "itemName": "ヨシオリの心",
+    "resourceName": "heart_yoshiori",
+    "rarity": 3,
+    "itemType": 2048,
+    "description": "ヨシオリのランクを１段階上げることが出来る不思議なアイテム。",
+    "effect": [
+      {
+        "class": "SidekickHeartItemEffect",
+        "rarity": 0,
+        "stockId": 10721
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 1
+      }
+    ],
+    "limitValue": 0
+  },
+  "210731": {
+    "itemId": 210731,
+    "itemName": "パブラシアの心",
+    "resourceName": "heart_pubraseer",
+    "rarity": 3,
+    "itemType": 2048,
+    "description": "パブラシアのランクを１段階上げることが出来る不思議なアイテム。",
+    "effect": [
+      {
+        "class": "SidekickHeartItemEffect",
+        "rarity": 0,
+        "stockId": 10731
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 0
+      }
+    ],
+    "limitValue": 0
+  },
+  "210751": {
+    "itemId": 210751,
+    "itemName": "オキタカの心",
+    "resourceName": "heart_okitaka",
+    "rarity": 4,
+    "itemType": 2048,
+    "description": "オキタカのランクを１段階上げることが出来る不思議なアイテム。",
+    "effect": [
+      {
+        "class": "SidekickHeartItemEffect",
+        "rarity": 0,
+        "stockId": 10751
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 5
+      }
+    ],
+    "limitValue": 0
+  },
+  "210811": {
+    "itemId": 210811,
+    "itemName": "サダヨシの心",
+    "resourceName": "heart_sadayoshi",
+    "rarity": 3,
+    "itemType": 2048,
+    "description": "サダヨシのランクを１段階上げることが出来る不思議なアイテム。",
+    "effect": [
+      {
+        "class": "SidekickHeartItemEffect",
+        "rarity": 0,
+        "stockId": 10811
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 1
+      }
+    ],
+    "limitValue": 0
+  },
+  "210821": {
+    "itemId": 210821,
+    "itemName": "ボレアリスの心",
+    "resourceName": "heart_borealis",
+    "rarity": 3,
+    "itemType": 2048,
+    "description": "ボレアリスのランクを１段階上げることが出来る不思議なアイテム。",
+    "effect": [
+      {
+        "class": "SidekickHeartItemEffect",
+        "rarity": 0,
+        "stockId": 10821
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 1
+      }
+    ],
+    "limitValue": 0
+  },
+  "211001": {
+    "itemId": 211001,
+    "itemName": "ヤスヒコの心",
+    "resourceName": "heart_yasuhiko",
+    "rarity": 4,
+    "itemType": 2048,
+    "description": "ヤスヒコのランクを１段階上げることが出来る不思議なアイテム。",
+    "effect": [
+      {
+        "class": "SidekickHeartItemEffect",
+        "rarity": 0,
+        "stockId": 11001
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 5
+      }
+    ],
+    "limitValue": 0
+  },
+  "211011": {
+    "itemId": 211011,
+    "itemName": "ライラックの心",
+    "resourceName": "heart_lilac",
+    "rarity": 3,
+    "itemType": 2048,
+    "description": "ライラックのランクを１段階上げることが出来る不思議なアイテム。",
+    "effect": [
+      {
+        "class": "SidekickHeartItemEffect",
+        "rarity": 0,
+        "stockId": 11011
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 1
+      }
+    ],
+    "limitValue": 0
+  },
+  "219991": {
+    "itemId": 219991,
+    "itemName": "@playerNameの心",
+    "resourceName": "heart_@playerIcon",
+    "rarity": 3,
+    "itemType": 2048,
+    "description": "@playerNameのランクを１段階上げることが出来る不思議なアイテム。",
+    "effect": [
+      {
+        "class": "SidekickHeartItemEffect",
+        "rarity": 0,
+        "stockId": 19991
+      },
+      {
+        "class": "GeneralCurrencyExchangeItemEffect",
+        "exchangeValue": 1
+      }
+    ],
+    "limitValue": 0
+  }
+}
