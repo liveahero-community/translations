@@ -465,6 +465,20 @@
       }
     ]
   },
+  "36": {
+    "nickNameId": 36,
+    "nickNameType": 1,
+    "rarity": 2,
+    "category": 1,
+    "nickNameTextKey": "NICK_NAME_36",
+    "getConditionDescription": "NICK_NAME_DESCRIPTION_36",
+    "conditions": [
+      {
+        "class": "MissionClear",
+        "missionId": 30174
+      }
+    ]
+  },
   "110011": {
     "nickNameId": 110011,
     "nickNameType": 1,
@@ -2789,6 +2803,48 @@
       }
     ]
   },
+  "112641": {
+    "nickNameId": 112641,
+    "nickNameType": 1,
+    "rarity": 2,
+    "category": 3,
+    "nickNameTextKey": "NICK_NAME_112641",
+    "getConditionDescription": "NICK_NAME_DESCRIPTION_112641",
+    "conditions": [
+      {
+        "class": "HeroMaxRank",
+        "heroCardId": 126412
+      }
+    ]
+  },
+  "112651": {
+    "nickNameId": 112651,
+    "nickNameType": 1,
+    "rarity": 2,
+    "category": 3,
+    "nickNameTextKey": "NICK_NAME_112651",
+    "getConditionDescription": "NICK_NAME_DESCRIPTION_112651",
+    "conditions": [
+      {
+        "class": "HeroMaxRank",
+        "heroCardId": 126512
+      }
+    ]
+  },
+  "112661": {
+    "nickNameId": 112661,
+    "nickNameType": 1,
+    "rarity": 2,
+    "category": 3,
+    "nickNameTextKey": "NICK_NAME_112661",
+    "getConditionDescription": "NICK_NAME_DESCRIPTION_112661",
+    "conditions": [
+      {
+        "class": "HeroMaxRank",
+        "heroCardId": 126613
+      }
+    ]
+  },
   "210011": {
     "nickNameId": 210011,
     "nickNameType": 2,
@@ -4550,6 +4606,48 @@
       {
         "class": "SidekickMaxLevel",
         "sidekickCardId": 126116
+      }
+    ]
+  },
+  "212641": {
+    "nickNameId": 212641,
+    "nickNameType": 2,
+    "rarity": 2,
+    "category": 3,
+    "nickNameTextKey": "NICK_NAME_212641",
+    "getConditionDescription": "NICK_NAME_DESCRIPTION_212641",
+    "conditions": [
+      {
+        "class": "SidekickMaxLevel",
+        "sidekickCardId": 126416
+      }
+    ]
+  },
+  "212651": {
+    "nickNameId": 212651,
+    "nickNameType": 2,
+    "rarity": 2,
+    "category": 3,
+    "nickNameTextKey": "NICK_NAME_212651",
+    "getConditionDescription": "NICK_NAME_DESCRIPTION_212651",
+    "conditions": [
+      {
+        "class": "SidekickMaxLevel",
+        "sidekickCardId": 126516
+      }
+    ]
+  },
+  "212661": {
+    "nickNameId": 212661,
+    "nickNameType": 2,
+    "rarity": 2,
+    "category": 3,
+    "nickNameTextKey": "NICK_NAME_212661",
+    "getConditionDescription": "NICK_NAME_DESCRIPTION_212661",
+    "conditions": [
+      {
+        "class": "SidekickMaxLevel",
+        "sidekickCardId": 126616
       }
     ]
   }

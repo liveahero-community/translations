@@ -8926,5 +8926,143 @@
       "effectAddress": "TurnObject_Blooming",
       "targetStockId": 12161
     }
+  },
+  "997": {
+    "itemId": 11140102,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att2/L_colour",
+      "targetStockId": 11401,
+      "attachmentName": "att2/L_colour"
+    }
+  },
+  "998": {
+    "itemId": 11140102,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att2/L_hoodear",
+      "targetStockId": 11401,
+      "attachmentName": "att2/L_hoodear"
+    }
+  },
+  "999": {
+    "itemId": 11140102,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att2/R_colour",
+      "targetStockId": 11401,
+      "attachmentName": "att2/R_colour"
+    }
+  },
+  "1000": {
+    "itemId": 11140102,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att2/R_hoodear",
+      "targetStockId": 11401,
+      "attachmentName": "att2/R_hoodear"
+    }
+  },
+  "1001": {
+    "itemId": 11140102,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att2/hood",
+      "targetStockId": 11401,
+      "attachmentName": "att2/hood"
+    }
+  },
+  "1002": {
+    "itemId": 11140102,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att2/hood_under",
+      "targetStockId": 11401,
+      "attachmentName": "att2/hood_under"
+    }
+  },
+  "1003": {
+    "itemId": 11140102,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att2/muffler",
+      "targetStockId": 11401,
+      "attachmentName": "att2/muffler"
+    }
+  },
+  "1004": {
+    "itemId": 11140102,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att2/turban",
+      "targetStockId": 11401,
+      "attachmentName": "att2/turban"
+    }
+  },
+  "1005": {
+    "itemId": 11140102,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "jacket_colour",
+      "targetStockId": 11401,
+      "attachmentName": "jacket_colour"
+    }
+  },
+  "1006": {
+    "itemId": 21264101,
+    "customJson": {
+      "class": "CustomPlayTurnEffect",
+      "effectAddress": "blooming_Battlein_Effect",
+      "targetStockId": 12641
+    }
+  },
+  "1007": {
+    "itemId": 21264101,
+    "customJson": {
+      "class": "CustomGetTurnEffect",
+      "effectAddress": "TurnObject_Blooming",
+      "targetStockId": 12641
+    }
+  },
+  "1008": {
+    "itemId": 21265101,
+    "customJson": {
+      "class": "CustomPlayTurnEffect",
+      "effectAddress": "blooming_Battlein_Effect",
+      "targetStockId": 12651
+    }
+  },
+  "1009": {
+    "itemId": 21265101,
+    "customJson": {
+      "class": "CustomGetTurnEffect",
+      "effectAddress": "TurnObject_Blooming",
+      "targetStockId": 12651
+    }
+  },
+  "1010": {
+    "itemId": 21266101,
+    "customJson": {
+      "class": "CustomPlayTurnEffect",
+      "effectAddress": "blooming_Battlein_Effect",
+      "targetStockId": 12661
+    }
+  },
+  "1011": {
+    "itemId": 21266101,
+    "customJson": {
+      "class": "CustomGetTurnEffect",
+      "effectAddress": "TurnObject_Blooming",
+      "targetStockId": 12661
+    }
   }
 }

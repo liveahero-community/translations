@@ -21771,6 +21771,450 @@
     "summary": null,
     "questBonusJsons": []
   },
+  "137": {
+    "eventId": 137,
+    "chapterId": 108,
+    "lookBackChapterId": 0,
+    "baseResourceName": "Main23",
+    "questSelectPrefabAddress": "",
+    "startAt": "2025-08-28 00:00:00",
+    "endAt": "2025-09-23 14:00:00",
+    "canRemember": 1,
+    "eventPortalJson": {
+      "bg": "ui_bg_sprite_event_Main23",
+      "bgm": "bgm_main2-3_adv",
+      "logo": "Main23_title",
+      "terms": [
+        {
+          "keys": [
+            "UI_MISSION",
+            "UI_EXCHANGE"
+          ],
+          "endAt": "2025-09-23 14:00:00"
+        },
+        {
+          "keys": [
+            "UI_FREE_QUEST"
+          ],
+          "endAt": "2025-09-16 20:00:00"
+        },
+        {
+          "keys": [
+            "UI_SALES_BONUS"
+          ],
+          "endAt": "2025-09-16 20:00:00"
+        }
+      ],
+      "gachaId": 159,
+      "storeId": 85,
+      "questInfos": [
+        {
+          "type": 1,
+          "chapterId": 108,
+          "buttonType": 0
+        },
+        {
+          "type": 6,
+          "chapterId": 1200,
+          "buttonType": 1
+        }
+      ],
+      "tutorialKey": "Main23",
+      "eventItemIds": [
+        249
+      ],
+      "missionViews": [
+        {
+          "skinId": 0,
+          "stockId": 12641,
+          "cardType": 2,
+          "serifKinds": [
+            29
+          ],
+          "visualType": 1,
+          "serifEntity": [
+            {
+              "priority": 0,
+              "serifKind": 29,
+              "conditions": []
+            },
+            {
+              "priority": 1,
+              "serifKind": 30,
+              "conditions": [
+                {
+                  "class": "MissionClear",
+                  "questId": 0,
+                  "missionIds": [
+                    22273,
+                    22274,
+                    22275,
+                    22276,
+                    22277,
+                    22278,
+                    22279,
+                    22280,
+                    22281,
+                    22282,
+                    22283,
+                    22284,
+                    22285,
+                    22286,
+                    22287,
+                    22288,
+                    22289,
+                    22290,
+                    22291,
+                    22292,
+                    22293
+                  ],
+                  "isCheckClear": true
+                }
+              ]
+            }
+          ],
+          "resourceName": "antares",
+          "characterName": "アンタレス"
+        },
+        {
+          "skinId": 0,
+          "stockId": 12651,
+          "cardType": 2,
+          "serifKinds": [
+            29
+          ],
+          "visualType": 1,
+          "serifEntity": [
+            {
+              "priority": 0,
+              "serifKind": 29,
+              "conditions": []
+            },
+            {
+              "priority": 1,
+              "serifKind": 30,
+              "conditions": [
+                {
+                  "class": "MissionClear",
+                  "questId": 0,
+                  "missionIds": [
+                    22273,
+                    22274,
+                    22275,
+                    22276,
+                    22277,
+                    22278,
+                    22279,
+                    22280,
+                    22281,
+                    22282,
+                    22283,
+                    22284,
+                    22285,
+                    22286,
+                    22287,
+                    22288,
+                    22289,
+                    22290,
+                    22291,
+                    22292,
+                    22293
+                  ],
+                  "isCheckClear": true
+                }
+              ]
+            }
+          ],
+          "resourceName": "taika",
+          "characterName": "タイカ"
+        },
+        {
+          "skinId": 0,
+          "stockId": 12661,
+          "cardType": 2,
+          "serifKinds": [
+            29
+          ],
+          "visualType": 1,
+          "serifEntity": [
+            {
+              "priority": 0,
+              "serifKind": 29,
+              "conditions": []
+            },
+            {
+              "priority": 1,
+              "serifKind": 30,
+              "conditions": [
+                {
+                  "class": "MissionClear",
+                  "questId": 0,
+                  "missionIds": [
+                    22273,
+                    22274,
+                    22275,
+                    22276,
+                    22277,
+                    22278,
+                    22279,
+                    22280,
+                    22281,
+                    22282,
+                    22283,
+                    22284,
+                    22285,
+                    22286,
+                    22287,
+                    22288,
+                    22289,
+                    22290,
+                    22291,
+                    22292,
+                    22293
+                  ],
+                  "isCheckClear": true
+                }
+              ]
+            }
+          ],
+          "resourceName": "houley",
+          "characterName": "フーレイ"
+        }
+      ],
+      "portalWindow": "EventPortalWindowMain2_3",
+      "characterViews": [
+        {
+          "skinId": 0,
+          "stockId": 12641,
+          "cardType": 2,
+          "serifKinds": [
+            27,
+            28
+          ],
+          "visualType": 1,
+          "resourceName": "antares",
+          "characterName": "アンタレス"
+        },
+        {
+          "skinId": 0,
+          "stockId": 12651,
+          "cardType": 2,
+          "serifKinds": [
+            27,
+            28
+          ],
+          "visualType": 1,
+          "resourceName": "taika",
+          "characterName": "タイカ"
+        },
+        {
+          "skinId": 0,
+          "stockId": 12661,
+          "cardType": 2,
+          "serifKinds": [
+            27,
+            28
+          ],
+          "visualType": 1,
+          "resourceName": "houley",
+          "characterName": "フーレイ"
+        }
+      ],
+      "salesRegionIds": [
+        101,
+        103,
+        104
+      ],
+      "missionGroupIds": [
+        1200
+      ],
+      "missionCategoryButtonLabels": null
+    },
+    "roguePortalJson": null,
+    "pastPortalJson": null,
+    "summary": {
+      "description": "UI_EVENT_SUMMARY_2506LASTRESORT",
+      "mainChapterId": 107,
+      "relationEventIds": []
+    },
+    "questBonusJsons": [
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 249,
+        "bonusValue": 40,
+        "targetStockId": 12641
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 249,
+        "bonusValue": 40,
+        "targetStockId": 12651
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 249,
+        "bonusValue": 30,
+        "targetStockId": 12661
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 249,
+        "bonusValue": 20,
+        "targetStockId": 10642
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 249,
+        "bonusValue": 20,
+        "targetStockId": 11012
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 249,
+        "bonusValue": 10,
+        "targetStockId": 12091
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 249,
+        "bonusValue": 20,
+        "targetStockId": 10351
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 249,
+        "bonusValue": 20,
+        "targetStockId": 11681
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 249,
+        "bonusValue": 10,
+        "targetStockId": 11691
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 249,
+        "bonusValue": 10,
+        "targetStockId": 11701
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 249,
+        "bonusValue": 10,
+        "targetStockId": 10341
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 249,
+        "bonusValue": 30,
+        "targetStockId": 12661
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 249,
+        "bonusValue": 20,
+        "targetStockId": 12641
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 249,
+        "bonusValue": 20,
+        "targetStockId": 12651
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 249,
+        "bonusValue": 10,
+        "targetStockId": 10641
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 249,
+        "bonusValue": 10,
+        "targetStockId": 11011
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 249,
+        "bonusValue": 10,
+        "targetStockId": 12091
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 249,
+        "bonusValue": 10,
+        "targetStockId": 10351
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 249,
+        "bonusValue": 10,
+        "targetStockId": 11681
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 249,
+        "bonusValue": 10,
+        "targetStockId": 11691
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 249,
+        "bonusValue": 10,
+        "targetStockId": 11701
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 249,
+        "bonusValue": 10,
+        "targetStockId": 10341
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 249,
+        "bonusValue": 10,
+        "targetStockId": 11401
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 249,
+        "bonusValue": 10,
+        "targetStockId": 19991
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 249,
+        "bonusValue": 10,
+        "targetStockId": 11401
+      }
+    ]
+  },
   "138": {
     "eventId": 138,
     "chapterId": 1197,

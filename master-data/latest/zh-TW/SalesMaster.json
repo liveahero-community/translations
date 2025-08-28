@@ -21,6 +21,15 @@
         "rewardType": 6,
         "objectId": 0,
         "objectValue": 400
+      },
+      {
+        "salesId": 10101,
+        "rewardType": 3,
+        "objectId": 249,
+        "objectValue": 14,
+        "startAt": null,
+        "endAt": "2025-09-16 20:00:00",
+        "isAddReward": true
       }
     ],
     "conditions": [],
@@ -162,6 +171,137 @@
           }
         ],
         "operation": "<="
+      }
+    ],
+    "overwriteBonuses": [
+      {
+        "class": "MemberCountBonus",
+        "endAt": "2025-09-16 20:00:00",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "startAt": null,
+        "isDisplay": false,
+        "iconAddress": "",
+        "isAppendBonus": false,
+        "unconditionStockIds": [
+          12641,
+          12651,
+          12661
+        ]
+      },
+      {
+        "rank": 5,
+        "class": "RankCountBonus",
+        "endAt": "2025-09-16 20:00:00",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "startAt": null,
+        "isDisplay": false,
+        "operation": "<=",
+        "iconAddress": "",
+        "isAppendBonus": false,
+        "unconditionStockIds": [
+          12641,
+          12651,
+          12661
+        ]
+      },
+      {
+        "class": "StockCountBonus",
+        "endAt": "2025-09-16 20:00:00",
+        "stocks": [
+          12641,
+          12651,
+          12661
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 20
+          },
+          {
+            "count": 2,
+            "upwardRate": 40
+          },
+          {
+            "count": 3,
+            "upwardRate": 60
+          }
+        ],
+        "startAt": null,
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_ITEM_BONUS",
+        "iconAddress": "icon_salesBonus_add_reward",
+        "isAppendBonus": true,
+        "unconditionStockIds": [
+          12641,
+          12651,
+          12661
+        ]
       }
     ]
   },
@@ -187,6 +327,15 @@
         "rewardType": 6,
         "objectId": 0,
         "objectValue": 800
+      },
+      {
+        "salesId": 10102,
+        "rewardType": 3,
+        "objectId": 249,
+        "objectValue": 28,
+        "startAt": null,
+        "endAt": "2025-09-16 20:00:00",
+        "isAddReward": true
       }
     ],
     "conditions": [],
@@ -328,6 +477,137 @@
           }
         ],
         "operation": "<="
+      }
+    ],
+    "overwriteBonuses": [
+      {
+        "class": "MemberCountBonus",
+        "endAt": "2025-09-16 20:00:00",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "startAt": null,
+        "isDisplay": false,
+        "iconAddress": "",
+        "isAppendBonus": false,
+        "unconditionStockIds": [
+          12641,
+          12651,
+          12661
+        ]
+      },
+      {
+        "rank": 5,
+        "class": "RankCountBonus",
+        "endAt": "2025-09-16 20:00:00",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "startAt": null,
+        "isDisplay": false,
+        "operation": "<=",
+        "iconAddress": "",
+        "isAppendBonus": false,
+        "unconditionStockIds": [
+          12641,
+          12651,
+          12661
+        ]
+      },
+      {
+        "class": "StockCountBonus",
+        "endAt": "2025-09-16 20:00:00",
+        "stocks": [
+          12641,
+          12651,
+          12661
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 20
+          },
+          {
+            "count": 2,
+            "upwardRate": 40
+          },
+          {
+            "count": 3,
+            "upwardRate": 60
+          }
+        ],
+        "startAt": null,
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_ITEM_BONUS",
+        "iconAddress": "icon_salesBonus_add_reward",
+        "isAppendBonus": true,
+        "unconditionStockIds": [
+          12641,
+          12651,
+          12661
+        ]
       }
     ]
   },
@@ -353,6 +633,15 @@
         "rewardType": 6,
         "objectId": 0,
         "objectValue": 1600
+      },
+      {
+        "salesId": 10103,
+        "rewardType": 3,
+        "objectId": 249,
+        "objectValue": 56,
+        "startAt": null,
+        "endAt": "2025-09-16 20:00:00",
+        "isAddReward": true
       }
     ],
     "conditions": [],
@@ -494,6 +783,137 @@
           }
         ],
         "operation": "<="
+      }
+    ],
+    "overwriteBonuses": [
+      {
+        "class": "MemberCountBonus",
+        "endAt": "2025-09-16 20:00:00",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "startAt": null,
+        "isDisplay": false,
+        "iconAddress": "",
+        "isAppendBonus": false,
+        "unconditionStockIds": [
+          12641,
+          12651,
+          12661
+        ]
+      },
+      {
+        "rank": 5,
+        "class": "RankCountBonus",
+        "endAt": "2025-09-16 20:00:00",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "startAt": null,
+        "isDisplay": false,
+        "operation": "<=",
+        "iconAddress": "",
+        "isAppendBonus": false,
+        "unconditionStockIds": [
+          12641,
+          12651,
+          12661
+        ]
+      },
+      {
+        "class": "StockCountBonus",
+        "endAt": "2025-09-16 20:00:00",
+        "stocks": [
+          12641,
+          12651,
+          12661
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 20
+          },
+          {
+            "count": 2,
+            "upwardRate": 40
+          },
+          {
+            "count": 3,
+            "upwardRate": 60
+          }
+        ],
+        "startAt": null,
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_ITEM_BONUS",
+        "iconAddress": "icon_salesBonus_add_reward",
+        "isAppendBonus": true,
+        "unconditionStockIds": [
+          12641,
+          12651,
+          12661
+        ]
       }
     ]
   },
@@ -519,6 +939,15 @@
         "rewardType": 6,
         "objectId": 0,
         "objectValue": 3200
+      },
+      {
+        "salesId": 10104,
+        "rewardType": 3,
+        "objectId": 249,
+        "objectValue": 112,
+        "startAt": null,
+        "endAt": "2025-09-16 20:00:00",
+        "isAddReward": true
       }
     ],
     "conditions": [],
@@ -660,6 +1089,137 @@
           }
         ],
         "operation": "<="
+      }
+    ],
+    "overwriteBonuses": [
+      {
+        "class": "MemberCountBonus",
+        "endAt": "2025-09-16 20:00:00",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "startAt": null,
+        "isDisplay": false,
+        "iconAddress": "",
+        "isAppendBonus": false,
+        "unconditionStockIds": [
+          12641,
+          12651,
+          12661
+        ]
+      },
+      {
+        "rank": 5,
+        "class": "RankCountBonus",
+        "endAt": "2025-09-16 20:00:00",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "startAt": null,
+        "isDisplay": false,
+        "operation": "<=",
+        "iconAddress": "",
+        "isAppendBonus": false,
+        "unconditionStockIds": [
+          12641,
+          12651,
+          12661
+        ]
+      },
+      {
+        "class": "StockCountBonus",
+        "endAt": "2025-09-16 20:00:00",
+        "stocks": [
+          12641,
+          12651,
+          12661
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 20
+          },
+          {
+            "count": 2,
+            "upwardRate": 40
+          },
+          {
+            "count": 3,
+            "upwardRate": 60
+          }
+        ],
+        "startAt": null,
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_ITEM_BONUS",
+        "iconAddress": "icon_salesBonus_add_reward",
+        "isAppendBonus": true,
+        "unconditionStockIds": [
+          12641,
+          12651,
+          12661
+        ]
       }
     ]
   },
@@ -685,6 +1245,15 @@
         "rewardType": 6,
         "objectId": 0,
         "objectValue": 2400
+      },
+      {
+        "salesId": 10105,
+        "rewardType": 3,
+        "objectId": 249,
+        "objectValue": 84,
+        "startAt": null,
+        "endAt": "2025-09-16 20:00:00",
+        "isAddReward": true
       }
     ],
     "conditions": [],
@@ -828,6 +1397,137 @@
         ],
         "isDisplay": false,
         "operation": "<="
+      }
+    ],
+    "overwriteBonuses": [
+      {
+        "class": "MemberCountBonus",
+        "endAt": "2025-09-16 20:00:00",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "startAt": null,
+        "isDisplay": false,
+        "iconAddress": "",
+        "isAppendBonus": false,
+        "unconditionStockIds": [
+          12641,
+          12651,
+          12661
+        ]
+      },
+      {
+        "rank": 5,
+        "class": "RankCountBonus",
+        "endAt": "2025-09-16 20:00:00",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "startAt": null,
+        "isDisplay": false,
+        "operation": "<=",
+        "iconAddress": "",
+        "isAppendBonus": false,
+        "unconditionStockIds": [
+          12641,
+          12651,
+          12661
+        ]
+      },
+      {
+        "class": "StockCountBonus",
+        "endAt": "2025-09-16 20:00:00",
+        "stocks": [
+          12641,
+          12651,
+          12661
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 20
+          },
+          {
+            "count": 2,
+            "upwardRate": 40
+          },
+          {
+            "count": 3,
+            "upwardRate": 60
+          }
+        ],
+        "startAt": null,
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_ITEM_BONUS",
+        "iconAddress": "icon_salesBonus_add_reward",
+        "isAppendBonus": true,
+        "unconditionStockIds": [
+          12641,
+          12651,
+          12661
+        ]
       }
     ]
   },
@@ -853,6 +1553,15 @@
         "rewardType": 6,
         "objectId": 0,
         "objectValue": 4800
+      },
+      {
+        "salesId": 10106,
+        "rewardType": 3,
+        "objectId": 249,
+        "objectValue": 168,
+        "startAt": null,
+        "endAt": "2025-09-16 20:00:00",
+        "isAddReward": true
       }
     ],
     "conditions": [],
@@ -996,6 +1705,137 @@
         ],
         "isDisplay": false,
         "operation": "<="
+      }
+    ],
+    "overwriteBonuses": [
+      {
+        "class": "MemberCountBonus",
+        "endAt": "2025-09-16 20:00:00",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "startAt": null,
+        "isDisplay": false,
+        "iconAddress": "",
+        "isAppendBonus": false,
+        "unconditionStockIds": [
+          12641,
+          12651,
+          12661
+        ]
+      },
+      {
+        "rank": 5,
+        "class": "RankCountBonus",
+        "endAt": "2025-09-16 20:00:00",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "startAt": null,
+        "isDisplay": false,
+        "operation": "<=",
+        "iconAddress": "",
+        "isAppendBonus": false,
+        "unconditionStockIds": [
+          12641,
+          12651,
+          12661
+        ]
+      },
+      {
+        "class": "StockCountBonus",
+        "endAt": "2025-09-16 20:00:00",
+        "stocks": [
+          12641,
+          12651,
+          12661
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 20
+          },
+          {
+            "count": 2,
+            "upwardRate": 40
+          },
+          {
+            "count": 3,
+            "upwardRate": 60
+          }
+        ],
+        "startAt": null,
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_ITEM_BONUS",
+        "iconAddress": "icon_salesBonus_add_reward",
+        "isAppendBonus": true,
+        "unconditionStockIds": [
+          12641,
+          12651,
+          12661
+        ]
       }
     ]
   },
@@ -1021,6 +1861,15 @@
         "rewardType": 6,
         "objectId": 0,
         "objectValue": 160
+      },
+      {
+        "salesId": 10301,
+        "rewardType": 3,
+        "objectId": 249,
+        "objectValue": 14,
+        "startAt": null,
+        "endAt": "2025-09-16 20:00:00",
+        "isAddReward": true
       }
     ],
     "conditions": [],
@@ -1162,6 +2011,137 @@
           }
         ],
         "operation": "<="
+      }
+    ],
+    "overwriteBonuses": [
+      {
+        "class": "MemberCountBonus",
+        "endAt": "2025-09-16 20:00:00",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "startAt": null,
+        "isDisplay": false,
+        "iconAddress": "",
+        "isAppendBonus": false,
+        "unconditionStockIds": [
+          12641,
+          12651,
+          12661
+        ]
+      },
+      {
+        "rank": 5,
+        "class": "RankCountBonus",
+        "endAt": "2025-09-16 20:00:00",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "startAt": null,
+        "isDisplay": false,
+        "operation": "<=",
+        "iconAddress": "",
+        "isAppendBonus": false,
+        "unconditionStockIds": [
+          12641,
+          12651,
+          12661
+        ]
+      },
+      {
+        "class": "StockCountBonus",
+        "endAt": "2025-09-16 20:00:00",
+        "stocks": [
+          12641,
+          12651,
+          12661
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 20
+          },
+          {
+            "count": 2,
+            "upwardRate": 40
+          },
+          {
+            "count": 3,
+            "upwardRate": 60
+          }
+        ],
+        "startAt": null,
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_ITEM_BONUS",
+        "iconAddress": "icon_salesBonus_add_reward",
+        "isAppendBonus": true,
+        "unconditionStockIds": [
+          12641,
+          12651,
+          12661
+        ]
       }
     ]
   },
@@ -1187,6 +2167,15 @@
         "rewardType": 6,
         "objectId": 0,
         "objectValue": 320
+      },
+      {
+        "salesId": 10302,
+        "rewardType": 3,
+        "objectId": 249,
+        "objectValue": 28,
+        "startAt": null,
+        "endAt": "2025-09-16 20:00:00",
+        "isAddReward": true
       }
     ],
     "conditions": [],
@@ -1328,6 +2317,137 @@
           }
         ],
         "operation": "<="
+      }
+    ],
+    "overwriteBonuses": [
+      {
+        "class": "MemberCountBonus",
+        "endAt": "2025-09-16 20:00:00",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "startAt": null,
+        "isDisplay": false,
+        "iconAddress": "",
+        "isAppendBonus": false,
+        "unconditionStockIds": [
+          12641,
+          12651,
+          12661
+        ]
+      },
+      {
+        "rank": 5,
+        "class": "RankCountBonus",
+        "endAt": "2025-09-16 20:00:00",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "startAt": null,
+        "isDisplay": false,
+        "operation": "<=",
+        "iconAddress": "",
+        "isAppendBonus": false,
+        "unconditionStockIds": [
+          12641,
+          12651,
+          12661
+        ]
+      },
+      {
+        "class": "StockCountBonus",
+        "endAt": "2025-09-16 20:00:00",
+        "stocks": [
+          12641,
+          12651,
+          12661
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 20
+          },
+          {
+            "count": 2,
+            "upwardRate": 40
+          },
+          {
+            "count": 3,
+            "upwardRate": 60
+          }
+        ],
+        "startAt": null,
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_ITEM_BONUS",
+        "iconAddress": "icon_salesBonus_add_reward",
+        "isAppendBonus": true,
+        "unconditionStockIds": [
+          12641,
+          12651,
+          12661
+        ]
       }
     ]
   },
@@ -1353,6 +2473,15 @@
         "rewardType": 6,
         "objectId": 0,
         "objectValue": 640
+      },
+      {
+        "salesId": 10303,
+        "rewardType": 3,
+        "objectId": 249,
+        "objectValue": 56,
+        "startAt": null,
+        "endAt": "2025-09-16 20:00:00",
+        "isAddReward": true
       }
     ],
     "conditions": [],
@@ -1494,6 +2623,137 @@
           }
         ],
         "operation": "<="
+      }
+    ],
+    "overwriteBonuses": [
+      {
+        "class": "MemberCountBonus",
+        "endAt": "2025-09-16 20:00:00",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "startAt": null,
+        "isDisplay": false,
+        "iconAddress": "",
+        "isAppendBonus": false,
+        "unconditionStockIds": [
+          12641,
+          12651,
+          12661
+        ]
+      },
+      {
+        "rank": 5,
+        "class": "RankCountBonus",
+        "endAt": "2025-09-16 20:00:00",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "startAt": null,
+        "isDisplay": false,
+        "operation": "<=",
+        "iconAddress": "",
+        "isAppendBonus": false,
+        "unconditionStockIds": [
+          12641,
+          12651,
+          12661
+        ]
+      },
+      {
+        "class": "StockCountBonus",
+        "endAt": "2025-09-16 20:00:00",
+        "stocks": [
+          12641,
+          12651,
+          12661
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 20
+          },
+          {
+            "count": 2,
+            "upwardRate": 40
+          },
+          {
+            "count": 3,
+            "upwardRate": 60
+          }
+        ],
+        "startAt": null,
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_ITEM_BONUS",
+        "iconAddress": "icon_salesBonus_add_reward",
+        "isAppendBonus": true,
+        "unconditionStockIds": [
+          12641,
+          12651,
+          12661
+        ]
       }
     ]
   },
@@ -1519,6 +2779,15 @@
         "rewardType": 6,
         "objectId": 0,
         "objectValue": 1280
+      },
+      {
+        "salesId": 10304,
+        "rewardType": 3,
+        "objectId": 249,
+        "objectValue": 112,
+        "startAt": null,
+        "endAt": "2025-09-16 20:00:00",
+        "isAddReward": true
       }
     ],
     "conditions": [],
@@ -1660,6 +2929,137 @@
           }
         ],
         "operation": "<="
+      }
+    ],
+    "overwriteBonuses": [
+      {
+        "class": "MemberCountBonus",
+        "endAt": "2025-09-16 20:00:00",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "startAt": null,
+        "isDisplay": false,
+        "iconAddress": "",
+        "isAppendBonus": false,
+        "unconditionStockIds": [
+          12641,
+          12651,
+          12661
+        ]
+      },
+      {
+        "rank": 5,
+        "class": "RankCountBonus",
+        "endAt": "2025-09-16 20:00:00",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "startAt": null,
+        "isDisplay": false,
+        "operation": "<=",
+        "iconAddress": "",
+        "isAppendBonus": false,
+        "unconditionStockIds": [
+          12641,
+          12651,
+          12661
+        ]
+      },
+      {
+        "class": "StockCountBonus",
+        "endAt": "2025-09-16 20:00:00",
+        "stocks": [
+          12641,
+          12651,
+          12661
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 20
+          },
+          {
+            "count": 2,
+            "upwardRate": 40
+          },
+          {
+            "count": 3,
+            "upwardRate": 60
+          }
+        ],
+        "startAt": null,
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_ITEM_BONUS",
+        "iconAddress": "icon_salesBonus_add_reward",
+        "isAppendBonus": true,
+        "unconditionStockIds": [
+          12641,
+          12651,
+          12661
+        ]
       }
     ]
   },
@@ -1685,6 +3085,15 @@
         "rewardType": 6,
         "objectId": 0,
         "objectValue": 960
+      },
+      {
+        "salesId": 10305,
+        "rewardType": 3,
+        "objectId": 249,
+        "objectValue": 84,
+        "startAt": null,
+        "endAt": "2025-09-16 20:00:00",
+        "isAddReward": true
       }
     ],
     "conditions": [],
@@ -1828,6 +3237,137 @@
         ],
         "isDisplay": false,
         "operation": "<="
+      }
+    ],
+    "overwriteBonuses": [
+      {
+        "class": "MemberCountBonus",
+        "endAt": "2025-09-16 20:00:00",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "startAt": null,
+        "isDisplay": false,
+        "iconAddress": "",
+        "isAppendBonus": false,
+        "unconditionStockIds": [
+          12641,
+          12651,
+          12661
+        ]
+      },
+      {
+        "rank": 5,
+        "class": "RankCountBonus",
+        "endAt": "2025-09-16 20:00:00",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "startAt": null,
+        "isDisplay": false,
+        "operation": "<=",
+        "iconAddress": "",
+        "isAppendBonus": false,
+        "unconditionStockIds": [
+          12641,
+          12651,
+          12661
+        ]
+      },
+      {
+        "class": "StockCountBonus",
+        "endAt": "2025-09-16 20:00:00",
+        "stocks": [
+          12641,
+          12651,
+          12661
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 20
+          },
+          {
+            "count": 2,
+            "upwardRate": 40
+          },
+          {
+            "count": 3,
+            "upwardRate": 60
+          }
+        ],
+        "startAt": null,
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_ITEM_BONUS",
+        "iconAddress": "icon_salesBonus_add_reward",
+        "isAppendBonus": true,
+        "unconditionStockIds": [
+          12641,
+          12651,
+          12661
+        ]
       }
     ]
   },
@@ -1853,6 +3393,15 @@
         "rewardType": 6,
         "objectId": 0,
         "objectValue": 1920
+      },
+      {
+        "salesId": 10306,
+        "rewardType": 3,
+        "objectId": 249,
+        "objectValue": 168,
+        "startAt": null,
+        "endAt": "2025-09-16 20:00:00",
+        "isAddReward": true
       }
     ],
     "conditions": [],
@@ -1996,6 +3545,137 @@
         ],
         "isDisplay": false,
         "operation": "<="
+      }
+    ],
+    "overwriteBonuses": [
+      {
+        "class": "MemberCountBonus",
+        "endAt": "2025-09-16 20:00:00",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "startAt": null,
+        "isDisplay": false,
+        "iconAddress": "",
+        "isAppendBonus": false,
+        "unconditionStockIds": [
+          12641,
+          12651,
+          12661
+        ]
+      },
+      {
+        "rank": 5,
+        "class": "RankCountBonus",
+        "endAt": "2025-09-16 20:00:00",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "startAt": null,
+        "isDisplay": false,
+        "operation": "<=",
+        "iconAddress": "",
+        "isAppendBonus": false,
+        "unconditionStockIds": [
+          12641,
+          12651,
+          12661
+        ]
+      },
+      {
+        "class": "StockCountBonus",
+        "endAt": "2025-09-16 20:00:00",
+        "stocks": [
+          12641,
+          12651,
+          12661
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 20
+          },
+          {
+            "count": 2,
+            "upwardRate": 40
+          },
+          {
+            "count": 3,
+            "upwardRate": 60
+          }
+        ],
+        "startAt": null,
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_ITEM_BONUS",
+        "iconAddress": "icon_salesBonus_add_reward",
+        "isAppendBonus": true,
+        "unconditionStockIds": [
+          12641,
+          12651,
+          12661
+        ]
       }
     ]
   },
@@ -2021,6 +3701,15 @@
         "rewardType": 6,
         "objectId": 0,
         "objectValue": 160
+      },
+      {
+        "salesId": 10401,
+        "rewardType": 3,
+        "objectId": 249,
+        "objectValue": 14,
+        "startAt": null,
+        "endAt": "2025-09-16 20:00:00",
+        "isAddReward": true
       }
     ],
     "conditions": [],
@@ -2162,6 +3851,137 @@
           }
         ],
         "operation": "<="
+      }
+    ],
+    "overwriteBonuses": [
+      {
+        "class": "MemberCountBonus",
+        "endAt": "2025-09-16 20:00:00",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "startAt": null,
+        "isDisplay": false,
+        "iconAddress": "",
+        "isAppendBonus": false,
+        "unconditionStockIds": [
+          12641,
+          12651,
+          12661
+        ]
+      },
+      {
+        "rank": 5,
+        "class": "RankCountBonus",
+        "endAt": "2025-09-16 20:00:00",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "startAt": null,
+        "isDisplay": false,
+        "operation": "<=",
+        "iconAddress": "",
+        "isAppendBonus": false,
+        "unconditionStockIds": [
+          12641,
+          12651,
+          12661
+        ]
+      },
+      {
+        "class": "StockCountBonus",
+        "endAt": "2025-09-16 20:00:00",
+        "stocks": [
+          12641,
+          12651,
+          12661
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 20
+          },
+          {
+            "count": 2,
+            "upwardRate": 40
+          },
+          {
+            "count": 3,
+            "upwardRate": 60
+          }
+        ],
+        "startAt": null,
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_ITEM_BONUS",
+        "iconAddress": "icon_salesBonus_add_reward",
+        "isAppendBonus": true,
+        "unconditionStockIds": [
+          12641,
+          12651,
+          12661
+        ]
       }
     ]
   },
@@ -2187,6 +4007,15 @@
         "rewardType": 6,
         "objectId": 0,
         "objectValue": 320
+      },
+      {
+        "salesId": 10402,
+        "rewardType": 3,
+        "objectId": 249,
+        "objectValue": 28,
+        "startAt": null,
+        "endAt": "2025-09-16 20:00:00",
+        "isAddReward": true
       }
     ],
     "conditions": [],
@@ -2328,6 +4157,137 @@
           }
         ],
         "operation": "<="
+      }
+    ],
+    "overwriteBonuses": [
+      {
+        "class": "MemberCountBonus",
+        "endAt": "2025-09-16 20:00:00",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "startAt": null,
+        "isDisplay": false,
+        "iconAddress": "",
+        "isAppendBonus": false,
+        "unconditionStockIds": [
+          12641,
+          12651,
+          12661
+        ]
+      },
+      {
+        "rank": 5,
+        "class": "RankCountBonus",
+        "endAt": "2025-09-16 20:00:00",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "startAt": null,
+        "isDisplay": false,
+        "operation": "<=",
+        "iconAddress": "",
+        "isAppendBonus": false,
+        "unconditionStockIds": [
+          12641,
+          12651,
+          12661
+        ]
+      },
+      {
+        "class": "StockCountBonus",
+        "endAt": "2025-09-16 20:00:00",
+        "stocks": [
+          12641,
+          12651,
+          12661
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 20
+          },
+          {
+            "count": 2,
+            "upwardRate": 40
+          },
+          {
+            "count": 3,
+            "upwardRate": 60
+          }
+        ],
+        "startAt": null,
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_ITEM_BONUS",
+        "iconAddress": "icon_salesBonus_add_reward",
+        "isAppendBonus": true,
+        "unconditionStockIds": [
+          12641,
+          12651,
+          12661
+        ]
       }
     ]
   },
@@ -2353,6 +4313,15 @@
         "rewardType": 6,
         "objectId": 0,
         "objectValue": 640
+      },
+      {
+        "salesId": 10403,
+        "rewardType": 3,
+        "objectId": 249,
+        "objectValue": 56,
+        "startAt": null,
+        "endAt": "2025-09-16 20:00:00",
+        "isAddReward": true
       }
     ],
     "conditions": [],
@@ -2494,6 +4463,137 @@
           }
         ],
         "operation": "<="
+      }
+    ],
+    "overwriteBonuses": [
+      {
+        "class": "MemberCountBonus",
+        "endAt": "2025-09-16 20:00:00",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "startAt": null,
+        "isDisplay": false,
+        "iconAddress": "",
+        "isAppendBonus": false,
+        "unconditionStockIds": [
+          12641,
+          12651,
+          12661
+        ]
+      },
+      {
+        "rank": 5,
+        "class": "RankCountBonus",
+        "endAt": "2025-09-16 20:00:00",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "startAt": null,
+        "isDisplay": false,
+        "operation": "<=",
+        "iconAddress": "",
+        "isAppendBonus": false,
+        "unconditionStockIds": [
+          12641,
+          12651,
+          12661
+        ]
+      },
+      {
+        "class": "StockCountBonus",
+        "endAt": "2025-09-16 20:00:00",
+        "stocks": [
+          12641,
+          12651,
+          12661
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 20
+          },
+          {
+            "count": 2,
+            "upwardRate": 40
+          },
+          {
+            "count": 3,
+            "upwardRate": 60
+          }
+        ],
+        "startAt": null,
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_ITEM_BONUS",
+        "iconAddress": "icon_salesBonus_add_reward",
+        "isAppendBonus": true,
+        "unconditionStockIds": [
+          12641,
+          12651,
+          12661
+        ]
       }
     ]
   },
@@ -2519,6 +4619,15 @@
         "rewardType": 6,
         "objectId": 0,
         "objectValue": 1280
+      },
+      {
+        "salesId": 10404,
+        "rewardType": 3,
+        "objectId": 249,
+        "objectValue": 112,
+        "startAt": null,
+        "endAt": "2025-09-16 20:00:00",
+        "isAddReward": true
       }
     ],
     "conditions": [],
@@ -2661,6 +4770,137 @@
         ],
         "operation": "<="
       }
+    ],
+    "overwriteBonuses": [
+      {
+        "class": "MemberCountBonus",
+        "endAt": "2025-09-16 20:00:00",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "startAt": null,
+        "isDisplay": false,
+        "iconAddress": "",
+        "isAppendBonus": false,
+        "unconditionStockIds": [
+          12641,
+          12651,
+          12661
+        ]
+      },
+      {
+        "rank": 5,
+        "class": "RankCountBonus",
+        "endAt": "2025-09-16 20:00:00",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "startAt": null,
+        "isDisplay": false,
+        "operation": "<=",
+        "iconAddress": "",
+        "isAppendBonus": false,
+        "unconditionStockIds": [
+          12641,
+          12651,
+          12661
+        ]
+      },
+      {
+        "class": "StockCountBonus",
+        "endAt": "2025-09-16 20:00:00",
+        "stocks": [
+          12641,
+          12651,
+          12661
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 20
+          },
+          {
+            "count": 2,
+            "upwardRate": 40
+          },
+          {
+            "count": 3,
+            "upwardRate": 60
+          }
+        ],
+        "startAt": null,
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_ITEM_BONUS",
+        "iconAddress": "icon_salesBonus_add_reward",
+        "isAppendBonus": true,
+        "unconditionStockIds": [
+          12641,
+          12651,
+          12661
+        ]
+      }
     ]
   },
   "10405": {
@@ -2685,6 +4925,15 @@
         "rewardType": 6,
         "objectId": 0,
         "objectValue": 960
+      },
+      {
+        "salesId": 10405,
+        "rewardType": 3,
+        "objectId": 249,
+        "objectValue": 84,
+        "startAt": null,
+        "endAt": "2025-09-16 20:00:00",
+        "isAddReward": true
       }
     ],
     "conditions": [],
@@ -2828,6 +5077,137 @@
         ],
         "isDisplay": false,
         "operation": "<="
+      }
+    ],
+    "overwriteBonuses": [
+      {
+        "class": "MemberCountBonus",
+        "endAt": "2025-09-16 20:00:00",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "startAt": null,
+        "isDisplay": false,
+        "iconAddress": "",
+        "isAppendBonus": false,
+        "unconditionStockIds": [
+          12641,
+          12651,
+          12661
+        ]
+      },
+      {
+        "rank": 5,
+        "class": "RankCountBonus",
+        "endAt": "2025-09-16 20:00:00",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "startAt": null,
+        "isDisplay": false,
+        "operation": "<=",
+        "iconAddress": "",
+        "isAppendBonus": false,
+        "unconditionStockIds": [
+          12641,
+          12651,
+          12661
+        ]
+      },
+      {
+        "class": "StockCountBonus",
+        "endAt": "2025-09-16 20:00:00",
+        "stocks": [
+          12641,
+          12651,
+          12661
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 20
+          },
+          {
+            "count": 2,
+            "upwardRate": 40
+          },
+          {
+            "count": 3,
+            "upwardRate": 60
+          }
+        ],
+        "startAt": null,
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_ITEM_BONUS",
+        "iconAddress": "icon_salesBonus_add_reward",
+        "isAppendBonus": true,
+        "unconditionStockIds": [
+          12641,
+          12651,
+          12661
+        ]
       }
     ]
   },
@@ -2853,6 +5233,15 @@
         "rewardType": 6,
         "objectId": 0,
         "objectValue": 1920
+      },
+      {
+        "salesId": 10406,
+        "rewardType": 3,
+        "objectId": 249,
+        "objectValue": 168,
+        "startAt": null,
+        "endAt": "2025-09-16 20:00:00",
+        "isAddReward": true
       }
     ],
     "conditions": [],
@@ -2996,6 +5385,137 @@
         ],
         "isDisplay": false,
         "operation": "<="
+      }
+    ],
+    "overwriteBonuses": [
+      {
+        "class": "MemberCountBonus",
+        "endAt": "2025-09-16 20:00:00",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "startAt": null,
+        "isDisplay": false,
+        "iconAddress": "",
+        "isAppendBonus": false,
+        "unconditionStockIds": [
+          12641,
+          12651,
+          12661
+        ]
+      },
+      {
+        "rank": 5,
+        "class": "RankCountBonus",
+        "endAt": "2025-09-16 20:00:00",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "startAt": null,
+        "isDisplay": false,
+        "operation": "<=",
+        "iconAddress": "",
+        "isAppendBonus": false,
+        "unconditionStockIds": [
+          12641,
+          12651,
+          12661
+        ]
+      },
+      {
+        "class": "StockCountBonus",
+        "endAt": "2025-09-16 20:00:00",
+        "stocks": [
+          12641,
+          12651,
+          12661
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 20
+          },
+          {
+            "count": 2,
+            "upwardRate": 40
+          },
+          {
+            "count": 3,
+            "upwardRate": 60
+          }
+        ],
+        "startAt": null,
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_ITEM_BONUS",
+        "iconAddress": "icon_salesBonus_add_reward",
+        "isAppendBonus": true,
+        "unconditionStockIds": [
+          12641,
+          12651,
+          12661
+        ]
       }
     ]
   },
@@ -3126,7 +5646,8 @@
         ],
         "description": "SALES_BONUS_DESCRIPTION_TEST_EVENT"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "20102": {
     "salesId": 20102,
@@ -3255,7 +5776,8 @@
         ],
         "description": "SALES_BONUS_DESCRIPTION_TEST_EVENT"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "20103": {
     "salesId": 20103,
@@ -3384,7 +5906,8 @@
         ],
         "description": "SALES_BONUS_DESCRIPTION_TEST_EVENT"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "20104": {
     "salesId": 20104,
@@ -3513,7 +6036,8 @@
         ],
         "description": "SALES_BONUS_DESCRIPTION_TEST_EVENT"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "20201": {
     "salesId": 20201,
@@ -3642,7 +6166,8 @@
         ],
         "description": "SALES_BONUS_DESCRIPTION_TEST_EVENT"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "20202": {
     "salesId": 20202,
@@ -3771,7 +6296,8 @@
         ],
         "description": "SALES_BONUS_DESCRIPTION_TEST_EVENT"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "20203": {
     "salesId": 20203,
@@ -3900,7 +6426,8 @@
         ],
         "description": "SALES_BONUS_DESCRIPTION_TEST_EVENT"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "20204": {
     "salesId": 20204,
@@ -4029,7 +6556,8 @@
         ],
         "description": "SALES_BONUS_DESCRIPTION_TEST_EVENT"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "20301": {
     "salesId": 20301,
@@ -4169,7 +6697,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "20302": {
     "salesId": 20302,
@@ -4309,7 +6838,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "20303": {
     "salesId": 20303,
@@ -4449,7 +6979,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "20304": {
     "salesId": 20304,
@@ -4589,7 +7120,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "20401": {
     "salesId": 20401,
@@ -4734,7 +7266,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "20402": {
     "salesId": 20402,
@@ -4879,7 +7412,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "20403": {
     "salesId": 20403,
@@ -5024,7 +7558,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "20404": {
     "salesId": 20404,
@@ -5169,7 +7704,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "20501": {
     "salesId": 20501,
@@ -5314,7 +7850,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "20502": {
     "salesId": 20502,
@@ -5459,7 +7996,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "20503": {
     "salesId": 20503,
@@ -5604,7 +8142,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "20504": {
     "salesId": 20504,
@@ -5749,7 +8288,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "20601": {
     "salesId": 20601,
@@ -5873,7 +8413,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "20602": {
     "salesId": 20602,
@@ -5997,7 +8538,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "20603": {
     "salesId": 20603,
@@ -6121,7 +8663,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "20604": {
     "salesId": 20604,
@@ -6245,7 +8788,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "20701": {
     "salesId": 20701,
@@ -6365,7 +8909,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "20702": {
     "salesId": 20702,
@@ -6485,7 +9030,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "20703": {
     "salesId": 20703,
@@ -6605,7 +9151,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "20704": {
     "salesId": 20704,
@@ -6725,7 +9272,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "20801": {
     "salesId": 20801,
@@ -6846,7 +9394,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "20802": {
     "salesId": 20802,
@@ -6967,7 +9516,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "20803": {
     "salesId": 20803,
@@ -7088,7 +9638,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "20804": {
     "salesId": 20804,
@@ -7209,7 +9760,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "20901": {
     "salesId": 20901,
@@ -7325,7 +9877,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "20902": {
     "salesId": 20902,
@@ -7441,7 +9994,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "20903": {
     "salesId": 20903,
@@ -7557,7 +10111,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "20904": {
     "salesId": 20904,
@@ -7673,7 +10228,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "21001": {
     "salesId": 21001,
@@ -7813,7 +10369,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "21002": {
     "salesId": 21002,
@@ -7953,7 +10510,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "21003": {
     "salesId": 21003,
@@ -8093,7 +10651,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "21004": {
     "salesId": 21004,
@@ -8233,7 +10792,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "21101": {
     "salesId": 21101,
@@ -8349,7 +10909,8 @@
         ],
         "isDisplay": false
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "21102": {
     "salesId": 21102,
@@ -8465,7 +11026,8 @@
         ],
         "isDisplay": false
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "21103": {
     "salesId": 21103,
@@ -8581,7 +11143,8 @@
         ],
         "isDisplay": false
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "21104": {
     "salesId": 21104,
@@ -8697,7 +11260,8 @@
         ],
         "isDisplay": false
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "21201": {
     "salesId": 21201,
@@ -8826,7 +11390,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "21202": {
     "salesId": 21202,
@@ -8955,7 +11520,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "21203": {
     "salesId": 21203,
@@ -9084,7 +11650,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "21204": {
     "salesId": 21204,
@@ -9213,7 +11780,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "21301": {
     "salesId": 21301,
@@ -9329,7 +11897,8 @@
         ],
         "isDisplay": false
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "21302": {
     "salesId": 21302,
@@ -9445,7 +12014,8 @@
         ],
         "isDisplay": false
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "21303": {
     "salesId": 21303,
@@ -9561,7 +12131,8 @@
         ],
         "isDisplay": false
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "21304": {
     "salesId": 21304,
@@ -9677,7 +12248,8 @@
         ],
         "isDisplay": false
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "21401": {
     "salesId": 21401,
@@ -9801,7 +12373,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "21402": {
     "salesId": 21402,
@@ -9925,7 +12498,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "21403": {
     "salesId": 21403,
@@ -10049,7 +12623,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "21404": {
     "salesId": 21404,
@@ -10173,7 +12748,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "21501": {
     "salesId": 21501,
@@ -10289,7 +12865,8 @@
         ],
         "isDisplay": false
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "21502": {
     "salesId": 21502,
@@ -10405,7 +12982,8 @@
         ],
         "isDisplay": false
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "21503": {
     "salesId": 21503,
@@ -10521,7 +13099,8 @@
         ],
         "isDisplay": false
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "21504": {
     "salesId": 21504,
@@ -10637,7 +13216,8 @@
         ],
         "isDisplay": false
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "21601": {
     "salesId": 21601,
@@ -10758,7 +13338,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "21602": {
     "salesId": 21602,
@@ -10879,7 +13460,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "21603": {
     "salesId": 21603,
@@ -11000,7 +13582,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "21604": {
     "salesId": 21604,
@@ -11121,7 +13704,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "21701": {
     "salesId": 21701,
@@ -11241,7 +13825,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "21702": {
     "salesId": 21702,
@@ -11361,7 +13946,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "21703": {
     "salesId": 21703,
@@ -11481,7 +14067,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "21704": {
     "salesId": 21704,
@@ -11601,7 +14188,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "21705": {
     "salesId": 21705,
@@ -11721,7 +14309,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "21706": {
     "salesId": 21706,
@@ -11841,7 +14430,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "21801": {
     "salesId": 21801,
@@ -11957,7 +14547,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "21802": {
     "salesId": 21802,
@@ -12073,7 +14664,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "21803": {
     "salesId": 21803,
@@ -12189,7 +14781,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "21804": {
     "salesId": 21804,
@@ -12305,7 +14898,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "21805": {
     "salesId": 21805,
@@ -12421,7 +15015,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "21806": {
     "salesId": 21806,
@@ -12537,7 +15132,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "21901": {
     "salesId": 21901,
@@ -12653,7 +15249,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "21902": {
     "salesId": 21902,
@@ -12769,7 +15366,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "21903": {
     "salesId": 21903,
@@ -12885,7 +15483,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "21904": {
     "salesId": 21904,
@@ -13001,7 +15600,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "21905": {
     "salesId": 21905,
@@ -13117,7 +15717,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "21906": {
     "salesId": 21906,
@@ -13233,7 +15834,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "22001": {
     "salesId": 22001,
@@ -13354,7 +15956,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "22002": {
     "salesId": 22002,
@@ -13475,7 +16078,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "22003": {
     "salesId": 22003,
@@ -13596,7 +16200,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "22004": {
     "salesId": 22004,
@@ -13717,7 +16322,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "22005": {
     "salesId": 22005,
@@ -13838,7 +16444,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "22006": {
     "salesId": 22006,
@@ -13959,7 +16566,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "22101": {
     "salesId": 22101,
@@ -14075,7 +16683,8 @@
         ],
         "isDisplay": false
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "22102": {
     "salesId": 22102,
@@ -14191,7 +16800,8 @@
         ],
         "isDisplay": false
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "22103": {
     "salesId": 22103,
@@ -14307,7 +16917,8 @@
         ],
         "isDisplay": false
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "22104": {
     "salesId": 22104,
@@ -14423,7 +17034,8 @@
         ],
         "isDisplay": false
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "22105": {
     "salesId": 22105,
@@ -14539,7 +17151,8 @@
         ],
         "isDisplay": false
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "22106": {
     "salesId": 22106,
@@ -14655,7 +17268,8 @@
         ],
         "isDisplay": false
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "22201": {
     "salesId": 22201,
@@ -14771,7 +17385,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "22202": {
     "salesId": 22202,
@@ -14887,7 +17502,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "22203": {
     "salesId": 22203,
@@ -15003,7 +17619,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "22204": {
     "salesId": 22204,
@@ -15119,7 +17736,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "22205": {
     "salesId": 22205,
@@ -15235,7 +17853,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "22206": {
     "salesId": 22206,
@@ -15351,7 +17970,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "22301": {
     "salesId": 22301,
@@ -15467,7 +18087,8 @@
         ],
         "isDisplay": false
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "22302": {
     "salesId": 22302,
@@ -15583,7 +18204,8 @@
         ],
         "isDisplay": false
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "22303": {
     "salesId": 22303,
@@ -15699,7 +18321,8 @@
         ],
         "isDisplay": false
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "22304": {
     "salesId": 22304,
@@ -15815,7 +18438,8 @@
         ],
         "isDisplay": false
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "22305": {
     "salesId": 22305,
@@ -15931,7 +18555,8 @@
         ],
         "isDisplay": false
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "22306": {
     "salesId": 22306,
@@ -16047,7 +18672,8 @@
         ],
         "isDisplay": false
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "22401": {
     "salesId": 22401,
@@ -16163,7 +18789,8 @@
         ],
         "isDisplay": false
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "22402": {
     "salesId": 22402,
@@ -16279,7 +18906,8 @@
         ],
         "isDisplay": false
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "22403": {
     "salesId": 22403,
@@ -16395,7 +19023,8 @@
         ],
         "isDisplay": false
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "22404": {
     "salesId": 22404,
@@ -16511,7 +19140,8 @@
         ],
         "isDisplay": false
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "22405": {
     "salesId": 22405,
@@ -16627,7 +19257,8 @@
         ],
         "isDisplay": false
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "22406": {
     "salesId": 22406,
@@ -16743,7 +19374,8 @@
         ],
         "isDisplay": false
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "22501": {
     "salesId": 22501,
@@ -16864,7 +19496,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "22502": {
     "salesId": 22502,
@@ -16985,7 +19618,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "22503": {
     "salesId": 22503,
@@ -17106,7 +19740,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "22504": {
     "salesId": 22504,
@@ -17227,7 +19862,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "22505": {
     "salesId": 22505,
@@ -17348,7 +19984,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "22506": {
     "salesId": 22506,
@@ -17469,7 +20106,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "22601": {
     "salesId": 22601,
@@ -17585,7 +20223,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "22602": {
     "salesId": 22602,
@@ -17701,7 +20340,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "22603": {
     "salesId": 22603,
@@ -17817,7 +20457,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "22604": {
     "salesId": 22604,
@@ -17933,7 +20574,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "22605": {
     "salesId": 22605,
@@ -18049,7 +20691,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "22606": {
     "salesId": 22606,
@@ -18165,7 +20808,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "22701": {
     "salesId": 22701,
@@ -18281,7 +20925,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "22702": {
     "salesId": 22702,
@@ -18397,7 +21042,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "22703": {
     "salesId": 22703,
@@ -18513,7 +21159,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "22704": {
     "salesId": 22704,
@@ -18629,7 +21276,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "22705": {
     "salesId": 22705,
@@ -18745,7 +21393,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "22706": {
     "salesId": 22706,
@@ -18861,7 +21510,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "22801": {
     "salesId": 22801,
@@ -18977,7 +21627,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "22802": {
     "salesId": 22802,
@@ -19093,7 +21744,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "22803": {
     "salesId": 22803,
@@ -19209,7 +21861,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "22804": {
     "salesId": 22804,
@@ -19325,7 +21978,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "22805": {
     "salesId": 22805,
@@ -19441,7 +22095,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "22806": {
     "salesId": 22806,
@@ -19557,7 +22212,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "22901": {
     "salesId": 22901,
@@ -19678,7 +22334,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "22902": {
     "salesId": 22902,
@@ -19799,7 +22456,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "22903": {
     "salesId": 22903,
@@ -19920,7 +22578,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "22904": {
     "salesId": 22904,
@@ -20041,7 +22700,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "22905": {
     "salesId": 22905,
@@ -20162,7 +22822,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "22906": {
     "salesId": 22906,
@@ -20283,7 +22944,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "23001": {
     "salesId": 23001,
@@ -20404,7 +23066,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "23002": {
     "salesId": 23002,
@@ -20525,7 +23188,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "23003": {
     "salesId": 23003,
@@ -20646,7 +23310,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "23004": {
     "salesId": 23004,
@@ -20767,7 +23432,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "23005": {
     "salesId": 23005,
@@ -20888,7 +23554,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "23006": {
     "salesId": 23006,
@@ -21009,7 +23676,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "23101": {
     "salesId": 23101,
@@ -21130,7 +23798,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "23102": {
     "salesId": 23102,
@@ -21251,7 +23920,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "23103": {
     "salesId": 23103,
@@ -21372,7 +24042,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "23104": {
     "salesId": 23104,
@@ -21493,7 +24164,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "23105": {
     "salesId": 23105,
@@ -21614,7 +24286,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "23106": {
     "salesId": 23106,
@@ -21735,7 +24408,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "23201": {
     "salesId": 23201,
@@ -21851,7 +24525,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "23202": {
     "salesId": 23202,
@@ -21967,7 +24642,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "23203": {
     "salesId": 23203,
@@ -22083,7 +24759,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "23204": {
     "salesId": 23204,
@@ -22199,7 +24876,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "23205": {
     "salesId": 23205,
@@ -22315,7 +24993,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "23206": {
     "salesId": 23206,
@@ -22431,7 +25110,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "23301": {
     "salesId": 23301,
@@ -22547,7 +25227,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "23302": {
     "salesId": 23302,
@@ -22663,7 +25344,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "23303": {
     "salesId": 23303,
@@ -22779,7 +25461,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "23304": {
     "salesId": 23304,
@@ -22895,7 +25578,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "23305": {
     "salesId": 23305,
@@ -23011,7 +25695,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "23306": {
     "salesId": 23306,
@@ -23127,7 +25812,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "23401": {
     "salesId": 23401,
@@ -23243,7 +25929,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "23402": {
     "salesId": 23402,
@@ -23359,7 +26046,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "23403": {
     "salesId": 23403,
@@ -23475,7 +26163,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "23404": {
     "salesId": 23404,
@@ -23591,7 +26280,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "23405": {
     "salesId": 23405,
@@ -23707,7 +26397,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "23406": {
     "salesId": 23406,
@@ -23823,7 +26514,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "23501": {
     "salesId": 23501,
@@ -23944,7 +26636,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "23502": {
     "salesId": 23502,
@@ -24065,7 +26758,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "23503": {
     "salesId": 23503,
@@ -24186,7 +26880,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "23504": {
     "salesId": 23504,
@@ -24307,7 +27002,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "23505": {
     "salesId": 23505,
@@ -24428,7 +27124,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "23506": {
     "salesId": 23506,
@@ -24549,7 +27246,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "23601": {
     "salesId": 23601,
@@ -24665,7 +27363,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "23602": {
     "salesId": 23602,
@@ -24781,7 +27480,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "23603": {
     "salesId": 23603,
@@ -24897,7 +27597,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "23604": {
     "salesId": 23604,
@@ -25013,7 +27714,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "23605": {
     "salesId": 23605,
@@ -25129,7 +27831,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "23606": {
     "salesId": 23606,
@@ -25245,7 +27948,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "23701": {
     "salesId": 23701,
@@ -25361,7 +28065,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "23702": {
     "salesId": 23702,
@@ -25477,7 +28182,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "23703": {
     "salesId": 23703,
@@ -25593,7 +28299,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "23704": {
     "salesId": 23704,
@@ -25709,7 +28416,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "23705": {
     "salesId": 23705,
@@ -25825,7 +28533,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "23706": {
     "salesId": 23706,
@@ -25941,7 +28650,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "23801": {
     "salesId": 23801,
@@ -26062,7 +28772,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "23802": {
     "salesId": 23802,
@@ -26183,7 +28894,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "23803": {
     "salesId": 23803,
@@ -26304,7 +29016,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "23804": {
     "salesId": 23804,
@@ -26425,7 +29138,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "23805": {
     "salesId": 23805,
@@ -26546,7 +29260,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "23806": {
     "salesId": 23806,
@@ -26667,7 +29382,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "23901": {
     "salesId": 23901,
@@ -26783,7 +29499,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "23902": {
     "salesId": 23902,
@@ -26899,7 +29616,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "23903": {
     "salesId": 23903,
@@ -27015,7 +29733,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "23904": {
     "salesId": 23904,
@@ -27131,7 +29850,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "23905": {
     "salesId": 23905,
@@ -27247,7 +29967,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "23906": {
     "salesId": 23906,
@@ -27363,7 +30084,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "24001": {
     "salesId": 24001,
@@ -27484,7 +30206,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "24002": {
     "salesId": 24002,
@@ -27605,7 +30328,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "24003": {
     "salesId": 24003,
@@ -27726,7 +30450,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "24004": {
     "salesId": 24004,
@@ -27847,7 +30572,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "24005": {
     "salesId": 24005,
@@ -27968,7 +30694,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "24006": {
     "salesId": 24006,
@@ -28089,7 +30816,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "24101": {
     "salesId": 24101,
@@ -28205,7 +30933,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "24102": {
     "salesId": 24102,
@@ -28321,7 +31050,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "24103": {
     "salesId": 24103,
@@ -28437,7 +31167,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "24104": {
     "salesId": 24104,
@@ -28553,7 +31284,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "24105": {
     "salesId": 24105,
@@ -28669,7 +31401,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "24106": {
     "salesId": 24106,
@@ -28785,7 +31518,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "24201": {
     "salesId": 24201,
@@ -28906,7 +31640,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "24202": {
     "salesId": 24202,
@@ -29027,7 +31762,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "24203": {
     "salesId": 24203,
@@ -29148,7 +31884,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "24204": {
     "salesId": 24204,
@@ -29269,7 +32006,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "24205": {
     "salesId": 24205,
@@ -29390,7 +32128,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "24206": {
     "salesId": 24206,
@@ -29511,7 +32250,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "24301": {
     "salesId": 24301,
@@ -29627,7 +32367,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "24302": {
     "salesId": 24302,
@@ -29743,7 +32484,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "24303": {
     "salesId": 24303,
@@ -29859,7 +32601,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "24304": {
     "salesId": 24304,
@@ -29975,7 +32718,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "24305": {
     "salesId": 24305,
@@ -30091,7 +32835,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "24306": {
     "salesId": 24306,
@@ -30207,7 +32952,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "24401": {
     "salesId": 24401,
@@ -30323,7 +33069,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "24402": {
     "salesId": 24402,
@@ -30439,7 +33186,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "24403": {
     "salesId": 24403,
@@ -30555,7 +33303,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "24404": {
     "salesId": 24404,
@@ -30671,7 +33420,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "24405": {
     "salesId": 24405,
@@ -30787,7 +33537,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "24406": {
     "salesId": 24406,
@@ -30903,7 +33654,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "24501": {
     "salesId": 24501,
@@ -31019,7 +33771,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "24502": {
     "salesId": 24502,
@@ -31135,7 +33888,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "24503": {
     "salesId": 24503,
@@ -31251,7 +34005,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "24504": {
     "salesId": 24504,
@@ -31367,7 +34122,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "24505": {
     "salesId": 24505,
@@ -31483,7 +34239,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "24506": {
     "salesId": 24506,
@@ -31599,7 +34356,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "24601": {
     "salesId": 24601,
@@ -31715,7 +34473,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "24602": {
     "salesId": 24602,
@@ -31831,7 +34590,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "24603": {
     "salesId": 24603,
@@ -31947,7 +34707,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "24604": {
     "salesId": 24604,
@@ -32063,7 +34824,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "24605": {
     "salesId": 24605,
@@ -32179,7 +34941,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "24606": {
     "salesId": 24606,
@@ -32295,7 +35058,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "24701": {
     "salesId": 24701,
@@ -32411,7 +35175,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "24702": {
     "salesId": 24702,
@@ -32527,7 +35292,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "24703": {
     "salesId": 24703,
@@ -32643,7 +35409,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "24704": {
     "salesId": 24704,
@@ -32759,7 +35526,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "24705": {
     "salesId": 24705,
@@ -32875,7 +35643,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "24706": {
     "salesId": 24706,
@@ -32991,7 +35760,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "24801": {
     "salesId": 24801,
@@ -33107,7 +35877,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "24802": {
     "salesId": 24802,
@@ -33223,7 +35994,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "24803": {
     "salesId": 24803,
@@ -33339,7 +36111,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "24804": {
     "salesId": 24804,
@@ -33455,7 +36228,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "24805": {
     "salesId": 24805,
@@ -33571,7 +36345,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "24806": {
     "salesId": 24806,
@@ -33687,7 +36462,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "24901": {
     "salesId": 24901,
@@ -33803,7 +36579,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "24902": {
     "salesId": 24902,
@@ -33919,7 +36696,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "24903": {
     "salesId": 24903,
@@ -34035,7 +36813,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "24904": {
     "salesId": 24904,
@@ -34151,7 +36930,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "24905": {
     "salesId": 24905,
@@ -34267,7 +37047,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "24906": {
     "salesId": 24906,
@@ -34383,7 +37164,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "25001": {
     "salesId": 25001,
@@ -34499,7 +37281,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "25002": {
     "salesId": 25002,
@@ -34615,7 +37398,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "25003": {
     "salesId": 25003,
@@ -34731,7 +37515,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "25004": {
     "salesId": 25004,
@@ -34847,7 +37632,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "25005": {
     "salesId": 25005,
@@ -34963,7 +37749,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "25006": {
     "salesId": 25006,
@@ -35079,7 +37866,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "25007": {
     "salesId": 25007,
@@ -35200,7 +37988,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "25008": {
     "salesId": 25008,
@@ -35321,7 +38110,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "25009": {
     "salesId": 25009,
@@ -35442,7 +38232,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "25010": {
     "salesId": 25010,
@@ -35563,7 +38354,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "25011": {
     "salesId": 25011,
@@ -35684,7 +38476,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "25012": {
     "salesId": 25012,
@@ -35805,7 +38598,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "25201": {
     "salesId": 25201,
@@ -35926,7 +38720,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "25202": {
     "salesId": 25202,
@@ -36047,7 +38842,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "25203": {
     "salesId": 25203,
@@ -36168,7 +38964,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "25204": {
     "salesId": 25204,
@@ -36289,7 +39086,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "25205": {
     "salesId": 25205,
@@ -36410,7 +39208,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "25206": {
     "salesId": 25206,
@@ -36531,7 +39330,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "25301": {
     "salesId": 25301,
@@ -36647,7 +39447,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "25302": {
     "salesId": 25302,
@@ -36763,7 +39564,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "25303": {
     "salesId": 25303,
@@ -36879,7 +39681,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "25304": {
     "salesId": 25304,
@@ -36995,7 +39798,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "25305": {
     "salesId": 25305,
@@ -37111,7 +39915,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "25306": {
     "salesId": 25306,
@@ -37227,7 +40032,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "25401": {
     "salesId": 25401,
@@ -37343,7 +40149,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "25402": {
     "salesId": 25402,
@@ -37459,7 +40266,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "25403": {
     "salesId": 25403,
@@ -37575,7 +40383,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "25404": {
     "salesId": 25404,
@@ -37691,7 +40500,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "25405": {
     "salesId": 25405,
@@ -37807,7 +40617,8 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   },
   "25406": {
     "salesId": 25406,
@@ -37923,6 +40734,7 @@
         "isDisplay": true,
         "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
       }
-    ]
+    ],
+    "overwriteBonuses": []
   }
 }
