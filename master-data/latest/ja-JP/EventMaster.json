@@ -1537,7 +1537,7 @@
   },
   "17": {
     "eventId": 17,
-    "chapterId": 104,
+    "chapterId": 999,
     "lookBackChapterId": 0,
     "baseResourceName": "2107Main4",
     "questSelectPrefabAddress": "",
@@ -2557,7 +2557,7 @@
   },
   "24": {
     "eventId": 24,
-    "chapterId": 105,
+    "chapterId": 999,
     "lookBackChapterId": 0,
     "baseResourceName": "2112main05",
     "questSelectPrefabAddress": "",
@@ -4395,7 +4395,7 @@
   },
   "36": {
     "eventId": 36,
-    "chapterId": 106,
+    "chapterId": 999,
     "lookBackChapterId": 0,
     "baseResourceName": "2206main21",
     "questSelectPrefabAddress": "",
@@ -9096,7 +9096,7 @@
   },
   "63": {
     "eventId": 63,
-    "chapterId": 107,
+    "chapterId": 999,
     "lookBackChapterId": 0,
     "baseResourceName": "2309main22",
     "questSelectPrefabAddress": "",
@@ -21779,7 +21779,7 @@
     "questSelectPrefabAddress": "",
     "startAt": "2025-08-28 00:00:00",
     "endAt": "2025-09-23 14:00:00",
-    "canRemember": 1,
+    "canRemember": 0,
     "eventPortalJson": {
       "bg": "ui_bg_sprite_event_Main23",
       "bgm": "bgm_main2-3_adv",
@@ -21809,7 +21809,7 @@
       "storeId": 85,
       "questInfos": [
         {
-          "type": 1,
+          "type": 5,
           "chapterId": 108,
           "buttonType": 0
         },
@@ -21817,6 +21817,41 @@
           "type": 6,
           "chapterId": 1200,
           "buttonType": 1
+        },
+        {
+          "type": 0,
+          "chapterId": 101,
+          "buttonType": 3
+        },
+        {
+          "type": 0,
+          "chapterId": 102,
+          "buttonType": 3
+        },
+        {
+          "type": 0,
+          "chapterId": 103,
+          "buttonType": 3
+        },
+        {
+          "type": 0,
+          "chapterId": 104,
+          "buttonType": 3
+        },
+        {
+          "type": 0,
+          "chapterId": 105,
+          "buttonType": 3
+        },
+        {
+          "type": 0,
+          "chapterId": 106,
+          "buttonType": 3
+        },
+        {
+          "type": 0,
+          "chapterId": 107,
+          "buttonType": 3
         }
       ],
       "tutorialKey": "Main23",
@@ -22032,11 +22067,7 @@
     },
     "roguePortalJson": null,
     "pastPortalJson": null,
-    "summary": {
-      "description": "UI_EVENT_SUMMARY_2506LASTRESORT",
-      "mainChapterId": 107,
-      "relationEventIds": []
-    },
+    "summary": null,
     "questBonusJsons": [
       {
         "type": 3,
