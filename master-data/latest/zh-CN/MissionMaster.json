@@ -62442,7 +62442,7 @@
     "missionId": 22363,
     "missionCategory": 2,
     "missionGroupId": 1201,
-    "missionTextKey": "MISSION_21552_LABEL",
+    "missionTextKey": "MISSION_22071_LABEL",
     "count": 2,
     "sortWeight": 1000,
     "startAt": null,
@@ -62468,7 +62468,7 @@
     "missionId": 22364,
     "missionCategory": 2,
     "missionGroupId": 1201,
-    "missionTextKey": "MISSION_21553_LABEL",
+    "missionTextKey": "MISSION_22364_LABEL",
     "count": 4,
     "sortWeight": 1000,
     "startAt": null,
@@ -62869,6 +62869,58 @@
         "rewardType": 3,
         "objectId": 59,
         "objectValue": 20,
+        "bonus": 100,
+        "fixAddValue": 0,
+        "isAddDrop": false,
+        "isAddReward": false
+      }
+    ],
+    "sceneCategory": 7,
+    "overwriteRewards": []
+  },
+  "22373": {
+    "missionId": 22373,
+    "missionCategory": 2,
+    "missionGroupId": 1201,
+    "missionTextKey": "MISSION_22373_LABEL",
+    "count": 1,
+    "sortWeight": 900,
+    "startAt": "2025-09-04 15:00:00",
+    "endAt": "2025-09-23 14:00:00",
+    "receiveConditions": [],
+    "displayConditions": [],
+    "bannerAddress": "",
+    "rewards": [
+      {
+        "rewardType": 15,
+        "objectId": 37,
+        "objectValue": 1,
+        "bonus": 100,
+        "fixAddValue": 0,
+        "isAddDrop": false,
+        "isAddReward": false
+      }
+    ],
+    "sceneCategory": 7,
+    "overwriteRewards": []
+  },
+  "22374": {
+    "missionId": 22374,
+    "missionCategory": 2,
+    "missionGroupId": 1201,
+    "missionTextKey": "MISSION_22374_LABEL",
+    "count": 1,
+    "sortWeight": 900,
+    "startAt": "2025-09-04 15:00:00",
+    "endAt": "2025-09-23 14:00:00",
+    "receiveConditions": [],
+    "displayConditions": [],
+    "bannerAddress": "",
+    "rewards": [
+      {
+        "rewardType": 15,
+        "objectId": 38,
+        "objectValue": 1,
         "bonus": 100,
         "fixAddValue": 0,
         "isAddDrop": false,

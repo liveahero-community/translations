@@ -493,6 +493,34 @@
       }
     ]
   },
+  "37": {
+    "nickNameId": 37,
+    "nickNameType": 2,
+    "rarity": 1,
+    "category": 2,
+    "nickNameTextKey": "NICK_NAME_37",
+    "getConditionDescription": "NICK_NAME_DESCRIPTION_37",
+    "conditions": [
+      {
+        "class": "MissionClear",
+        "missionId": 22373
+      }
+    ]
+  },
+  "38": {
+    "nickNameId": 38,
+    "nickNameType": 2,
+    "rarity": 3,
+    "category": 2,
+    "nickNameTextKey": "NICK_NAME_38",
+    "getConditionDescription": "NICK_NAME_DESCRIPTION_38",
+    "conditions": [
+      {
+        "class": "MissionClear",
+        "missionId": 22374
+      }
+    ]
+  },
   "110011": {
     "nickNameId": 110011,
     "nickNameType": 1,
