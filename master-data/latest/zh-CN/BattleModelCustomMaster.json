@@ -9064,5 +9064,105 @@
       "effectAddress": "TurnObject_Blooming",
       "targetStockId": 12661
     }
+  },
+  "1012": {
+    "itemId": 11140201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att_1",
+      "targetStockId": 11402,
+      "attachmentName": "att_1"
+    }
+  },
+  "1013": {
+    "itemId": 11140201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att_2",
+      "targetStockId": 11402,
+      "attachmentName": "att_2"
+    }
+  },
+  "1014": {
+    "itemId": 11140201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att_3",
+      "targetStockId": 11402,
+      "attachmentName": "att_3"
+    }
+  },
+  "1015": {
+    "itemId": 11210101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att1/a",
+      "targetStockId": 12101,
+      "attachmentName": "att1/a"
+    }
+  },
+  "1016": {
+    "itemId": 11210101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att1/b",
+      "targetStockId": 12101,
+      "attachmentName": "att1/b"
+    }
+  },
+  "1017": {
+    "itemId": 11210101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att1/c",
+      "targetStockId": 12101,
+      "attachmentName": "att1/c"
+    }
+  },
+  "1018": {
+    "itemId": 11210101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": true,
+      "slotName": "ori/hair",
+      "targetStockId": 12101,
+      "attachmentName": "ori/hair"
+    }
+  },
+  "1019": {
+    "itemId": 11210101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": true,
+      "slotName": "ori/hair1",
+      "targetStockId": 12101,
+      "attachmentName": "ori/hair1"
+    }
+  },
+  "1020": {
+    "itemId": 11211101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att/floatring_A",
+      "targetStockId": 12111,
+      "attachmentName": "att/floatring_A"
+    }
+  },
+  "1021": {
+    "itemId": 11211101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att/floatring_B",
+      "targetStockId": 12111,
+      "attachmentName": "att/floatring_B"
+    }
   }
 }

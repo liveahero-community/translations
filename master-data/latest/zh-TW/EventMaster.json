@@ -15241,12 +15241,12 @@
   "101": {
     "eventId": 101,
     "chapterId": 1132,
-    "lookBackChapterId": 533,
+    "lookBackChapterId": 0,
     "baseResourceName": "Rookies2408",
     "questSelectPrefabAddress": "",
     "startAt": null,
     "endAt": "2024-09-26 14:00:00",
-    "canRemember": 1,
+    "canRemember": 0,
     "eventPortalJson": {
       "bg": "ui_bg_sprite_event_Rookies2408",
       "bgm": "bgm_rookies_adv",
@@ -22345,5 +22345,473 @@
     "pastPortalJson": null,
     "summary": null,
     "questBonusJsons": []
+  },
+  "141": {
+    "eventId": 141,
+    "chapterId": 1203,
+    "lookBackChapterId": 0,
+    "baseResourceName": "RookiesRevival2509",
+    "questSelectPrefabAddress": "",
+    "startAt": "2025-09-18 14:00:00",
+    "endAt": "2025-10-07 14:00:00",
+    "canRemember": 0,
+    "eventPortalJson": {
+      "bg": "ui_bg_sprite_event_Rookies2408",
+      "bgm": "bgm_rookies_adv",
+      "logo": "RookiesRevival2509_title",
+      "terms": [
+        {
+          "keys": [
+            "UI_MAIN_QUEST",
+            "UI_EPILOGUE_QUEST",
+            "UI_MISSION",
+            "UI_EXCHANGE"
+          ],
+          "endAt": "2025-10-07 14:00:00"
+        },
+        {
+          "keys": [
+            "UI_FREE_QUEST",
+            "UI_SALES"
+          ],
+          "endAt": "2025-09-30 14:00:00"
+        }
+      ],
+      "gachaId": 161,
+      "storeId": 86,
+      "questInfos": [
+        {
+          "type": 5,
+          "chapterId": 1203,
+          "buttonType": 0
+        },
+        {
+          "type": 6,
+          "chapterId": 1204,
+          "buttonType": 1
+        },
+        {
+          "type": 7,
+          "chapterId": 1205,
+          "buttonType": 0
+        }
+      ],
+      "tutorialKey": "RookiesRevival2509",
+      "eventItemIds": [
+        214
+      ],
+      "missionViews": [
+        {
+          "skinId": 0,
+          "stockId": 11402,
+          "cardType": 1,
+          "serifKinds": [
+            29
+          ],
+          "visualType": 1,
+          "serifEntity": [
+            {
+              "priority": 0,
+              "serifKind": 29,
+              "conditions": []
+            },
+            {
+              "priority": 1,
+              "serifKind": 30,
+              "conditions": [
+                {
+                  "class": "MissionClear",
+                  "questId": 0,
+                  "missionIds": [
+                    21922,
+                    21923,
+                    21924,
+                    21925,
+                    21926,
+                    21927,
+                    21928,
+                    21929,
+                    21930,
+                    21931,
+                    21932,
+                    21934,
+                    21935,
+                    21936,
+                    21937,
+                    21938,
+                    21939,
+                    21940,
+                    21941,
+                    21942,
+                    21943
+                  ],
+                  "isCheckClear": true
+                }
+              ]
+            }
+          ],
+          "resourceName": "tsuneakiRookies2408",
+          "characterName": "ロクセイ"
+        },
+        {
+          "skinId": 0,
+          "stockId": 12101,
+          "cardType": 2,
+          "serifKinds": [
+            29
+          ],
+          "visualType": 1,
+          "serifEntity": [
+            {
+              "priority": 0,
+              "serifKind": 29,
+              "conditions": []
+            },
+            {
+              "priority": 1,
+              "serifKind": 30,
+              "conditions": [
+                {
+                  "class": "MissionClear",
+                  "questId": 0,
+                  "missionIds": [
+                    21922,
+                    21923,
+                    21924,
+                    21925,
+                    21926,
+                    21927,
+                    21928,
+                    21929,
+                    21930,
+                    21931,
+                    21932,
+                    21934,
+                    21935,
+                    21936,
+                    21937,
+                    21938,
+                    21939,
+                    21940,
+                    21941,
+                    21942,
+                    21943
+                  ],
+                  "isCheckClear": true
+                }
+              ]
+            }
+          ],
+          "resourceName": "canes",
+          "characterName": "カネス"
+        },
+        {
+          "skinId": 0,
+          "stockId": 12111,
+          "cardType": 2,
+          "serifKinds": [
+            29
+          ],
+          "visualType": 1,
+          "serifEntity": [
+            {
+              "priority": 0,
+              "serifKind": 29,
+              "conditions": []
+            },
+            {
+              "priority": 1,
+              "serifKind": 30,
+              "conditions": [
+                {
+                  "class": "MissionClear",
+                  "questId": 0,
+                  "missionIds": [
+                    21922,
+                    21923,
+                    21924,
+                    21925,
+                    21926,
+                    21927,
+                    21928,
+                    21929,
+                    21930,
+                    21931,
+                    21932,
+                    21934,
+                    21935,
+                    21936,
+                    21937,
+                    21938,
+                    21939,
+                    21940,
+                    21941,
+                    21942,
+                    21943
+                  ],
+                  "isCheckClear": true
+                }
+              ]
+            }
+          ],
+          "resourceName": "sterio",
+          "characterName": "ステリオ"
+        }
+      ],
+      "portalWindow": "EventPortalWindowRookiesRevival2509",
+      "characterViews": [
+        {
+          "skinId": 0,
+          "stockId": 11402,
+          "cardType": 1,
+          "serifKinds": [
+            27,
+            28
+          ],
+          "visualType": 1,
+          "resourceName": "tsuneakiRookies2408",
+          "characterName": "ロクセイ"
+        },
+        {
+          "skinId": 0,
+          "stockId": 12101,
+          "cardType": 2,
+          "serifKinds": [
+            27,
+            28
+          ],
+          "visualType": 1,
+          "resourceName": "canes",
+          "characterName": "カネス"
+        },
+        {
+          "skinId": 0,
+          "stockId": 12111,
+          "cardType": 2,
+          "serifKinds": [
+            27,
+            28
+          ],
+          "visualType": 1,
+          "resourceName": "sterio",
+          "characterName": "ステリオ"
+        }
+      ],
+      "salesRegionIds": [
+        255
+      ],
+      "missionGroupIds": [
+        1203,
+        1204
+      ],
+      "missionCategoryButtonLabels": null
+    },
+    "roguePortalJson": null,
+    "pastPortalJson": null,
+    "summary": {
+      "description": "UI_EVENT_SUMMARY_2408ROOKIES",
+      "mainChapterId": 107,
+      "relationEventIds": [
+        55
+      ]
+    },
+    "questBonusJsons": [
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 214,
+        "bonusValue": 40,
+        "targetStockId": 11402
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 214,
+        "bonusValue": 40,
+        "targetStockId": 12101
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 214,
+        "bonusValue": 30,
+        "targetStockId": 12111
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 214,
+        "bonusValue": 10,
+        "targetStockId": 11401
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 214,
+        "bonusValue": 20,
+        "targetStockId": 12641
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 214,
+        "bonusValue": 20,
+        "targetStockId": 12651
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 214,
+        "bonusValue": 10,
+        "targetStockId": 12661
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 214,
+        "bonusValue": 20,
+        "targetStockId": 10072
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 214,
+        "bonusValue": 20,
+        "targetStockId": 10092
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 214,
+        "bonusValue": 10,
+        "targetStockId": 10751
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 214,
+        "bonusValue": 10,
+        "targetStockId": 10341
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 214,
+        "bonusValue": 10,
+        "targetStockId": 10291
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 214,
+        "bonusValue": 10,
+        "targetStockId": 10211
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 214,
+        "bonusValue": 10,
+        "targetStockId": 10231
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 214,
+        "bonusValue": 10,
+        "targetStockId": 10731
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 214,
+        "bonusValue": 30,
+        "targetStockId": 12111
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 214,
+        "bonusValue": 20,
+        "targetStockId": 12101
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 214,
+        "bonusValue": 10,
+        "targetStockId": 11401
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 214,
+        "bonusValue": 10,
+        "targetStockId": 12661
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 214,
+        "bonusValue": 10,
+        "targetStockId": 12641
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 214,
+        "bonusValue": 10,
+        "targetStockId": 12651
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 214,
+        "bonusValue": 10,
+        "targetStockId": 10751
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 214,
+        "bonusValue": 10,
+        "targetStockId": 10341
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 214,
+        "bonusValue": 10,
+        "targetStockId": 10291
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 214,
+        "bonusValue": 10,
+        "targetStockId": 10211
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 214,
+        "bonusValue": 10,
+        "targetStockId": 10231
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 214,
+        "bonusValue": 10,
+        "targetStockId": 10731
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 214,
+        "bonusValue": 10,
+        "targetStockId": 19991
+      }
+    ]
   }
 }
