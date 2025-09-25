@@ -22365,7 +22365,8 @@
             "UI_MAIN_QUEST",
             "UI_EPILOGUE_QUEST",
             "UI_MISSION",
-            "UI_EXCHANGE"
+            "UI_EXCHANGE",
+            "UI_CHALLENGE_QUEST"
           ],
           "endAt": "2025-10-07 14:00:00"
         },
@@ -22394,6 +22395,11 @@
           "type": 7,
           "chapterId": 1205,
           "buttonType": 0
+        },
+        {
+          "type": 6,
+          "chapterId": 1206,
+          "buttonType": 1
         }
       ],
       "tutorialKey": "RookiesRevival2509",
@@ -22602,7 +22608,8 @@
       ],
       "missionGroupIds": [
         1203,
-        1204
+        1204,
+        1206
       ],
       "missionCategoryButtonLabels": null
     },
