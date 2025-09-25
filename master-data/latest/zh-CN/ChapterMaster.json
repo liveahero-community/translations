@@ -11585,5 +11585,31 @@
     "endAt": "2025-10-07 14:00:00",
     "roguePortalJson": null,
     "executeLimit": null
+  },
+  "1206": {
+    "chapterId": 1206,
+    "chapterGroupId": 0,
+    "groupType": 8,
+    "chapterType": 1,
+    "chapterName": "チャレンジクエスト",
+    "subName": "ルーキーズ・サマーフェスタ",
+    "peepingName": "チャレンジクエスト",
+    "sortWeight": 1000,
+    "bannerResourceName": "ui_banner_questchoice_event_Rookies2408_highdifficult",
+    "bgResourceName": "ui_bg_sprite_quest_highdifficult_Rookies2408",
+    "selectBannerAddress": "banner_chapter_select_challenge",
+    "helpPrefabAddress": "",
+    "questSelectPrefabAddress": "",
+    "storyLibraryPrefabAddress": "",
+    "missionGroupId": 0,
+    "scoreAttackStoreId": 0,
+    "scoreAttackItemIds": null,
+    "conditionChapterId": 0,
+    "conditionChapterButtonLabel": "",
+    "conditionChapterDescription": "",
+    "startAt": "2025-09-25 18:00:00",
+    "endAt": "2025-10-07 14:00:00",
+    "roguePortalJson": null,
+    "executeLimit": null
   }
 }
