@@ -22820,5 +22820,35 @@
         "targetStockId": 19991
       }
     ]
+  },
+  "142": {
+    "eventId": 142,
+    "chapterId": 201,
+    "lookBackChapterId": 0,
+    "baseResourceName": "5thAnniversaryBreed2510",
+    "questSelectPrefabAddress": "",
+    "startAt": "2025-09-18 14:00:02",
+    "endAt": "2025-10-07 14:00:00",
+    "canRemember": 0,
+    "eventPortalJson": null,
+    "roguePortalJson": null,
+    "pastPortalJson": null,
+    "summary": null,
+    "questBonusJsons": []
+  },
+  "144": {
+    "eventId": 144,
+    "chapterId": 1212,
+    "lookBackChapterId": 0,
+    "baseResourceName": "5thAnniversary2510",
+    "questSelectPrefabAddress": "",
+    "startAt": "2025-09-18 14:00:01",
+    "endAt": "2025-11-04 14:00:00",
+    "canRemember": 0,
+    "eventPortalJson": null,
+    "roguePortalJson": null,
+    "pastPortalJson": null,
+    "summary": null,
+    "questBonusJsons": []
   }
 }
