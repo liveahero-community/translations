@@ -41498,5 +41498,767 @@
       }
     ],
     "overwriteBonuses": []
+  },
+  "25601": {
+    "salesId": 25601,
+    "regionId": 256,
+    "salesName": "エキスポ・プロモーション営業（短期）",
+    "iconFilename": "item_Stella2510_exchange01",
+    "startAt": null,
+    "endAt": "2025-10-28 20:00:00",
+    "requiredTime": 7200,
+    "memberLimitNumber": 8,
+    "sortWeight": 1000,
+    "rewards": [
+      {
+        "salesId": 25601,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 280
+      },
+      {
+        "salesId": 25601,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 240
+      },
+      {
+        "salesId": 25601,
+        "rewardType": 3,
+        "objectId": 257,
+        "objectValue": 14
+      },
+      {
+        "salesId": 25601,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 160
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_STELLA_REPORT_1",
+        "condition": null
+      },
+      {
+        "textKey": "SALES_EVENT_STELLA_REPORT_2",
+        "condition": null
+      },
+      {
+        "textKey": "SALES_EVENT_STELLA_REPORT_3",
+        "condition": null
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "endAt": null,
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "startAt": null,
+        "isDisplay": false,
+        "iconAddress": "",
+        "isAppendBonus": false,
+        "unconditionStockIds": []
+      },
+      {
+        "class": "StockCountBonus",
+        "endAt": null,
+        "stocks": [
+          10073,
+          12092,
+          12871
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 10
+          },
+          {
+            "count": 2,
+            "upwardRate": 30
+          },
+          {
+            "count": 3,
+            "upwardRate": 50
+          }
+        ],
+        "startAt": null,
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS",
+        "iconAddress": "",
+        "isAppendBonus": false,
+        "unconditionStockIds": []
+      }
+    ],
+    "overwriteBonuses": []
+  },
+  "25602": {
+    "salesId": 25602,
+    "regionId": 256,
+    "salesName": "エキスポ・プロモーション営業（短中期）",
+    "iconFilename": "item_Stella2510_exchange01",
+    "startAt": null,
+    "endAt": "2025-10-28 20:00:00",
+    "requiredTime": 14400,
+    "memberLimitNumber": 8,
+    "sortWeight": 1000,
+    "rewards": [
+      {
+        "salesId": 25602,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 560
+      },
+      {
+        "salesId": 25602,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 480
+      },
+      {
+        "salesId": 25602,
+        "rewardType": 3,
+        "objectId": 257,
+        "objectValue": 28
+      },
+      {
+        "salesId": 25602,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 320
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_STELLA_REPORT_1",
+        "condition": null
+      },
+      {
+        "textKey": "SALES_EVENT_STELLA_REPORT_2",
+        "condition": null
+      },
+      {
+        "textKey": "SALES_EVENT_STELLA_REPORT_3",
+        "condition": null
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "endAt": null,
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "startAt": null,
+        "isDisplay": false,
+        "iconAddress": "",
+        "isAppendBonus": false,
+        "unconditionStockIds": []
+      },
+      {
+        "class": "StockCountBonus",
+        "endAt": null,
+        "stocks": [
+          10073,
+          12092,
+          12871
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 10
+          },
+          {
+            "count": 2,
+            "upwardRate": 30
+          },
+          {
+            "count": 3,
+            "upwardRate": 50
+          }
+        ],
+        "startAt": null,
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS",
+        "iconAddress": "",
+        "isAppendBonus": false,
+        "unconditionStockIds": []
+      }
+    ],
+    "overwriteBonuses": []
+  },
+  "25603": {
+    "salesId": 25603,
+    "regionId": 256,
+    "salesName": "エキスポ・プロモーション営業（中期）",
+    "iconFilename": "item_Stella2510_exchange01",
+    "startAt": null,
+    "endAt": "2025-10-28 20:00:00",
+    "requiredTime": 28800,
+    "memberLimitNumber": 8,
+    "sortWeight": 1000,
+    "rewards": [
+      {
+        "salesId": 25603,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 1120
+      },
+      {
+        "salesId": 25603,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 960
+      },
+      {
+        "salesId": 25603,
+        "rewardType": 3,
+        "objectId": 257,
+        "objectValue": 56
+      },
+      {
+        "salesId": 25603,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 640
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_STELLA_REPORT_1",
+        "condition": null
+      },
+      {
+        "textKey": "SALES_EVENT_STELLA_REPORT_2",
+        "condition": null
+      },
+      {
+        "textKey": "SALES_EVENT_STELLA_REPORT_3",
+        "condition": null
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "endAt": null,
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "startAt": null,
+        "isDisplay": false,
+        "iconAddress": "",
+        "isAppendBonus": false,
+        "unconditionStockIds": []
+      },
+      {
+        "class": "StockCountBonus",
+        "endAt": null,
+        "stocks": [
+          10073,
+          12092,
+          12871
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 10
+          },
+          {
+            "count": 2,
+            "upwardRate": 30
+          },
+          {
+            "count": 3,
+            "upwardRate": 50
+          }
+        ],
+        "startAt": null,
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS",
+        "iconAddress": "",
+        "isAppendBonus": false,
+        "unconditionStockIds": []
+      }
+    ],
+    "overwriteBonuses": []
+  },
+  "25604": {
+    "salesId": 25604,
+    "regionId": 256,
+    "salesName": "エキスポ・プロモーション営業（中長期）",
+    "iconFilename": "item_Stella2510_exchange01",
+    "startAt": null,
+    "endAt": "2025-10-28 20:00:00",
+    "requiredTime": 43200,
+    "memberLimitNumber": 8,
+    "sortWeight": 1000,
+    "rewards": [
+      {
+        "salesId": 25604,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 1680
+      },
+      {
+        "salesId": 25604,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 1440
+      },
+      {
+        "salesId": 25604,
+        "rewardType": 3,
+        "objectId": 257,
+        "objectValue": 84
+      },
+      {
+        "salesId": 25604,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 960
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_STELLA_REPORT_1",
+        "condition": null
+      },
+      {
+        "textKey": "SALES_EVENT_STELLA_REPORT_2",
+        "condition": null
+      },
+      {
+        "textKey": "SALES_EVENT_STELLA_REPORT_3",
+        "condition": null
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "endAt": null,
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "startAt": null,
+        "isDisplay": false,
+        "iconAddress": "",
+        "isAppendBonus": false,
+        "unconditionStockIds": []
+      },
+      {
+        "class": "StockCountBonus",
+        "endAt": null,
+        "stocks": [
+          10073,
+          12092,
+          12871
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 10
+          },
+          {
+            "count": 2,
+            "upwardRate": 30
+          },
+          {
+            "count": 3,
+            "upwardRate": 50
+          }
+        ],
+        "startAt": null,
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS",
+        "iconAddress": "",
+        "isAppendBonus": false,
+        "unconditionStockIds": []
+      }
+    ],
+    "overwriteBonuses": []
+  },
+  "25605": {
+    "salesId": 25605,
+    "regionId": 256,
+    "salesName": "エキスポ・プロモーション営業（長期）",
+    "iconFilename": "item_Stella2510_exchange01",
+    "startAt": null,
+    "endAt": "2025-10-28 20:00:00",
+    "requiredTime": 57600,
+    "memberLimitNumber": 8,
+    "sortWeight": 1000,
+    "rewards": [
+      {
+        "salesId": 25605,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 2240
+      },
+      {
+        "salesId": 25605,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 1920
+      },
+      {
+        "salesId": 25605,
+        "rewardType": 3,
+        "objectId": 257,
+        "objectValue": 112
+      },
+      {
+        "salesId": 25605,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 1280
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_STELLA_REPORT_1",
+        "condition": null
+      },
+      {
+        "textKey": "SALES_EVENT_STELLA_REPORT_2",
+        "condition": null
+      },
+      {
+        "textKey": "SALES_EVENT_STELLA_REPORT_3",
+        "condition": null
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "endAt": null,
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "startAt": null,
+        "isDisplay": false,
+        "iconAddress": "",
+        "isAppendBonus": false,
+        "unconditionStockIds": []
+      },
+      {
+        "class": "StockCountBonus",
+        "endAt": null,
+        "stocks": [
+          10073,
+          12092,
+          12871
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 10
+          },
+          {
+            "count": 2,
+            "upwardRate": 30
+          },
+          {
+            "count": 3,
+            "upwardRate": 50
+          }
+        ],
+        "startAt": null,
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS",
+        "iconAddress": "",
+        "isAppendBonus": false,
+        "unconditionStockIds": []
+      }
+    ],
+    "overwriteBonuses": []
+  },
+  "25606": {
+    "salesId": 25606,
+    "regionId": 256,
+    "salesName": "エキスポ・プロモーション営業（超長期）",
+    "iconFilename": "item_Stella2510_exchange01",
+    "startAt": null,
+    "endAt": "2025-10-28 20:00:00",
+    "requiredTime": 86400,
+    "memberLimitNumber": 8,
+    "sortWeight": 1000,
+    "rewards": [
+      {
+        "salesId": 25606,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 3360
+      },
+      {
+        "salesId": 25606,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 2880
+      },
+      {
+        "salesId": 25606,
+        "rewardType": 3,
+        "objectId": 257,
+        "objectValue": 168
+      },
+      {
+        "salesId": 25606,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 1920
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_STELLA_REPORT_1",
+        "condition": null
+      },
+      {
+        "textKey": "SALES_EVENT_STELLA_REPORT_2",
+        "condition": null
+      },
+      {
+        "textKey": "SALES_EVENT_STELLA_REPORT_3",
+        "condition": null
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "endAt": null,
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "startAt": null,
+        "isDisplay": false,
+        "iconAddress": "",
+        "isAppendBonus": false,
+        "unconditionStockIds": []
+      },
+      {
+        "class": "StockCountBonus",
+        "endAt": null,
+        "stocks": [
+          10073,
+          12092,
+          12871
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 10
+          },
+          {
+            "count": 2,
+            "upwardRate": 30
+          },
+          {
+            "count": 3,
+            "upwardRate": 50
+          }
+        ],
+        "startAt": null,
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS",
+        "iconAddress": "",
+        "isAppendBonus": false,
+        "unconditionStockIds": []
+      }
+    ],
+    "overwriteBonuses": []
   }
 }

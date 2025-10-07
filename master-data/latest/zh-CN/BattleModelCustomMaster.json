@@ -9164,5 +9164,53 @@
       "targetStockId": 12111,
       "attachmentName": "att/floatring_B"
     }
+  },
+  "1022": {
+    "itemId": 21007301,
+    "customJson": {
+      "class": "CustomPlayTurnEffect",
+      "effectAddress": "blooming_Battlein_Effect",
+      "targetStockId": 10073
+    }
+  },
+  "1023": {
+    "itemId": 21007301,
+    "customJson": {
+      "class": "CustomGetTurnEffect",
+      "effectAddress": "TurnObject_Blooming",
+      "targetStockId": 10073
+    }
+  },
+  "1024": {
+    "itemId": 21209201,
+    "customJson": {
+      "class": "CustomPlayTurnEffect",
+      "effectAddress": "blooming_Battlein_Effect",
+      "targetStockId": 12092
+    }
+  },
+  "1025": {
+    "itemId": 21209201,
+    "customJson": {
+      "class": "CustomGetTurnEffect",
+      "effectAddress": "TurnObject_Blooming",
+      "targetStockId": 12092
+    }
+  },
+  "1026": {
+    "itemId": 21287101,
+    "customJson": {
+      "class": "CustomPlayTurnEffect",
+      "effectAddress": "blooming_Battlein_Effect",
+      "targetStockId": 12871
+    }
+  },
+  "1027": {
+    "itemId": 21287101,
+    "customJson": {
+      "class": "CustomGetTurnEffect",
+      "effectAddress": "TurnObject_Blooming",
+      "targetStockId": 12871
+    }
   }
 }

@@ -1291,5 +1291,33 @@
         ]
       }
     ]
+  },
+  "1082": {
+    "backgroundId": 1082,
+    "iconAddress": "item_icon_bg_japanesestylestage_night",
+    "bgAddress": "bg_japanesestylestage_night",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          1207008
+        ]
+      }
+    ]
+  },
+  "1083": {
+    "backgroundId": 1083,
+    "iconAddress": "item_icon_bg_fairground_night",
+    "bgAddress": "bg_fairground_night",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          1207008
+        ]
+      }
+    ]
   }
 }
