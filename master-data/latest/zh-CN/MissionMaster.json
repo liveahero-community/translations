@@ -64759,6 +64759,474 @@
     "sceneCategory": 7,
     "overwriteRewards": []
   },
+  "22433": {
+    "missionId": 22433,
+    "missionCategory": 2,
+    "missionGroupId": 1213,
+    "missionTextKey": "MISSION_22433_LABEL",
+    "count": 1,
+    "sortWeight": 1000,
+    "startAt": "2025-10-15 13:50:00",
+    "endAt": "2025-11-12 14:00:00",
+    "receiveConditions": [],
+    "displayConditions": [],
+    "bannerAddress": "",
+    "rewards": [
+      {
+        "rewardType": 3,
+        "objectId": 2,
+        "objectValue": 1,
+        "bonus": 100,
+        "fixAddValue": 0,
+        "isAddDrop": false,
+        "isAddReward": false
+      }
+    ],
+    "sceneCategory": 7,
+    "overwriteRewards": []
+  },
+  "22434": {
+    "missionId": 22434,
+    "missionCategory": 2,
+    "missionGroupId": 1213,
+    "missionTextKey": "MISSION_22434_LABEL",
+    "count": 1,
+    "sortWeight": 1000,
+    "startAt": "2025-10-15 13:50:00",
+    "endAt": "2025-11-12 14:00:00",
+    "receiveConditions": [],
+    "displayConditions": [],
+    "bannerAddress": "",
+    "rewards": [
+      {
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 15000,
+        "bonus": 100,
+        "fixAddValue": 0,
+        "isAddDrop": false,
+        "isAddReward": false
+      }
+    ],
+    "sceneCategory": 7,
+    "overwriteRewards": []
+  },
+  "22435": {
+    "missionId": 22435,
+    "missionCategory": 2,
+    "missionGroupId": 1213,
+    "missionTextKey": "MISSION_22435_LABEL",
+    "count": 1,
+    "sortWeight": 1000,
+    "startAt": "2025-10-15 13:50:00",
+    "endAt": "2025-11-12 14:00:00",
+    "receiveConditions": [],
+    "displayConditions": [],
+    "bannerAddress": "",
+    "rewards": [
+      {
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 15000,
+        "bonus": 100,
+        "fixAddValue": 0,
+        "isAddDrop": false,
+        "isAddReward": false
+      }
+    ],
+    "sceneCategory": 7,
+    "overwriteRewards": []
+  },
+  "22436": {
+    "missionId": 22436,
+    "missionCategory": 2,
+    "missionGroupId": 1213,
+    "missionTextKey": "MISSION_22436_LABEL",
+    "count": 1,
+    "sortWeight": 1000,
+    "startAt": "2025-10-15 13:50:00",
+    "endAt": "2025-11-12 14:00:00",
+    "receiveConditions": [],
+    "displayConditions": [],
+    "bannerAddress": "",
+    "rewards": [
+      {
+        "rewardType": 3,
+        "objectId": 30,
+        "objectValue": 750,
+        "bonus": 100,
+        "fixAddValue": 0,
+        "isAddDrop": false,
+        "isAddReward": false
+      }
+    ],
+    "sceneCategory": 7,
+    "overwriteRewards": []
+  },
+  "22437": {
+    "missionId": 22437,
+    "missionCategory": 2,
+    "missionGroupId": 1213,
+    "missionTextKey": "MISSION_22437_LABEL",
+    "count": 1,
+    "sortWeight": 1000,
+    "startAt": "2025-10-15 13:50:00",
+    "endAt": "2025-11-12 14:00:00",
+    "receiveConditions": [],
+    "displayConditions": [],
+    "bannerAddress": "",
+    "rewards": [
+      {
+        "rewardType": 3,
+        "objectId": 2,
+        "objectValue": 1,
+        "bonus": 100,
+        "fixAddValue": 0,
+        "isAddDrop": false,
+        "isAddReward": false
+      }
+    ],
+    "sceneCategory": 7,
+    "overwriteRewards": []
+  },
+  "22438": {
+    "missionId": 22438,
+    "missionCategory": 2,
+    "missionGroupId": 1213,
+    "missionTextKey": "MISSION_22438_LABEL",
+    "count": 1,
+    "sortWeight": 1000,
+    "startAt": "2025-10-15 13:50:00",
+    "endAt": "2025-11-12 14:00:00",
+    "receiveConditions": [],
+    "displayConditions": [],
+    "bannerAddress": "",
+    "rewards": [
+      {
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 10000,
+        "bonus": 100,
+        "fixAddValue": 0,
+        "isAddDrop": false,
+        "isAddReward": false
+      }
+    ],
+    "sceneCategory": 7,
+    "overwriteRewards": []
+  },
+  "22439": {
+    "missionId": 22439,
+    "missionCategory": 2,
+    "missionGroupId": 1213,
+    "missionTextKey": "MISSION_22439_LABEL",
+    "count": 1,
+    "sortWeight": 1000,
+    "startAt": "2025-10-15 13:50:00",
+    "endAt": "2025-11-12 14:00:00",
+    "receiveConditions": [],
+    "displayConditions": [],
+    "bannerAddress": "",
+    "rewards": [
+      {
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 10000,
+        "bonus": 100,
+        "fixAddValue": 0,
+        "isAddDrop": false,
+        "isAddReward": false
+      }
+    ],
+    "sceneCategory": 7,
+    "overwriteRewards": []
+  },
+  "22440": {
+    "missionId": 22440,
+    "missionCategory": 2,
+    "missionGroupId": 1213,
+    "missionTextKey": "MISSION_22440_LABEL",
+    "count": 1,
+    "sortWeight": 1000,
+    "startAt": "2025-10-15 13:50:00",
+    "endAt": "2025-11-12 14:00:00",
+    "receiveConditions": [],
+    "displayConditions": [],
+    "bannerAddress": "",
+    "rewards": [
+      {
+        "rewardType": 3,
+        "objectId": 30,
+        "objectValue": 750,
+        "bonus": 100,
+        "fixAddValue": 0,
+        "isAddDrop": false,
+        "isAddReward": false
+      }
+    ],
+    "sceneCategory": 7,
+    "overwriteRewards": []
+  },
+  "22441": {
+    "missionId": 22441,
+    "missionCategory": 2,
+    "missionGroupId": 1213,
+    "missionTextKey": "MISSION_22441_LABEL",
+    "count": 1,
+    "sortWeight": 1000,
+    "startAt": "2025-10-15 13:50:00",
+    "endAt": "2025-11-12 14:00:00",
+    "receiveConditions": [],
+    "displayConditions": [],
+    "bannerAddress": "",
+    "rewards": [
+      {
+        "rewardType": 3,
+        "objectId": 2,
+        "objectValue": 1,
+        "bonus": 100,
+        "fixAddValue": 0,
+        "isAddDrop": false,
+        "isAddReward": false
+      }
+    ],
+    "sceneCategory": 7,
+    "overwriteRewards": []
+  },
+  "22442": {
+    "missionId": 22442,
+    "missionCategory": 2,
+    "missionGroupId": 1213,
+    "missionTextKey": "MISSION_22442_LABEL",
+    "count": 1,
+    "sortWeight": 1000,
+    "startAt": "2025-10-15 13:50:00",
+    "endAt": "2025-11-12 14:00:00",
+    "receiveConditions": [],
+    "displayConditions": [],
+    "bannerAddress": "",
+    "rewards": [
+      {
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 10000,
+        "bonus": 100,
+        "fixAddValue": 0,
+        "isAddDrop": false,
+        "isAddReward": false
+      }
+    ],
+    "sceneCategory": 7,
+    "overwriteRewards": []
+  },
+  "22443": {
+    "missionId": 22443,
+    "missionCategory": 2,
+    "missionGroupId": 1213,
+    "missionTextKey": "MISSION_22443_LABEL",
+    "count": 1,
+    "sortWeight": 1000,
+    "startAt": "2025-10-15 13:50:00",
+    "endAt": "2025-11-12 14:00:00",
+    "receiveConditions": [],
+    "displayConditions": [],
+    "bannerAddress": "",
+    "rewards": [
+      {
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 10000,
+        "bonus": 100,
+        "fixAddValue": 0,
+        "isAddDrop": false,
+        "isAddReward": false
+      }
+    ],
+    "sceneCategory": 7,
+    "overwriteRewards": []
+  },
+  "22444": {
+    "missionId": 22444,
+    "missionCategory": 2,
+    "missionGroupId": 1213,
+    "missionTextKey": "MISSION_22444_LABEL",
+    "count": 1,
+    "sortWeight": 1000,
+    "startAt": "2025-10-15 13:50:00",
+    "endAt": "2025-11-12 14:00:00",
+    "receiveConditions": [],
+    "displayConditions": [],
+    "bannerAddress": "",
+    "rewards": [
+      {
+        "rewardType": 3,
+        "objectId": 30,
+        "objectValue": 750,
+        "bonus": 100,
+        "fixAddValue": 0,
+        "isAddDrop": false,
+        "isAddReward": false
+      }
+    ],
+    "sceneCategory": 7,
+    "overwriteRewards": []
+  },
+  "22445": {
+    "missionId": 22445,
+    "missionCategory": 2,
+    "missionGroupId": 1213,
+    "missionTextKey": "MISSION_22445_LABEL",
+    "count": 1,
+    "sortWeight": 1000,
+    "startAt": "2025-10-15 13:50:00",
+    "endAt": "2025-11-12 14:00:00",
+    "receiveConditions": [],
+    "displayConditions": [],
+    "bannerAddress": "",
+    "rewards": [
+      {
+        "rewardType": 3,
+        "objectId": 2,
+        "objectValue": 1,
+        "bonus": 100,
+        "fixAddValue": 0,
+        "isAddDrop": false,
+        "isAddReward": false
+      }
+    ],
+    "sceneCategory": 7,
+    "overwriteRewards": []
+  },
+  "22446": {
+    "missionId": 22446,
+    "missionCategory": 2,
+    "missionGroupId": 1213,
+    "missionTextKey": "MISSION_22446_LABEL",
+    "count": 1,
+    "sortWeight": 1000,
+    "startAt": "2025-10-15 13:50:00",
+    "endAt": "2025-11-12 14:00:00",
+    "receiveConditions": [],
+    "displayConditions": [],
+    "bannerAddress": "",
+    "rewards": [
+      {
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 10000,
+        "bonus": 100,
+        "fixAddValue": 0,
+        "isAddDrop": false,
+        "isAddReward": false
+      }
+    ],
+    "sceneCategory": 7,
+    "overwriteRewards": []
+  },
+  "22447": {
+    "missionId": 22447,
+    "missionCategory": 2,
+    "missionGroupId": 1213,
+    "missionTextKey": "MISSION_22447_LABEL",
+    "count": 1,
+    "sortWeight": 1000,
+    "startAt": "2025-10-15 13:50:00",
+    "endAt": "2025-11-12 14:00:00",
+    "receiveConditions": [],
+    "displayConditions": [],
+    "bannerAddress": "",
+    "rewards": [
+      {
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 10000,
+        "bonus": 100,
+        "fixAddValue": 0,
+        "isAddDrop": false,
+        "isAddReward": false
+      }
+    ],
+    "sceneCategory": 7,
+    "overwriteRewards": []
+  },
+  "22448": {
+    "missionId": 22448,
+    "missionCategory": 2,
+    "missionGroupId": 1213,
+    "missionTextKey": "MISSION_22448_LABEL",
+    "count": 1,
+    "sortWeight": 1000,
+    "startAt": "2025-10-15 13:50:00",
+    "endAt": "2025-11-12 14:00:00",
+    "receiveConditions": [],
+    "displayConditions": [],
+    "bannerAddress": "",
+    "rewards": [
+      {
+        "rewardType": 3,
+        "objectId": 30,
+        "objectValue": 750,
+        "bonus": 100,
+        "fixAddValue": 0,
+        "isAddDrop": false,
+        "isAddReward": false
+      }
+    ],
+    "sceneCategory": 7,
+    "overwriteRewards": []
+  },
+  "22449": {
+    "missionId": 22449,
+    "missionCategory": 2,
+    "missionGroupId": 1213,
+    "missionTextKey": "MISSION_22449_LABEL",
+    "count": 1,
+    "sortWeight": 1000,
+    "startAt": "2025-10-15 13:50:00",
+    "endAt": "2025-11-12 14:00:00",
+    "receiveConditions": [],
+    "displayConditions": [],
+    "bannerAddress": "",
+    "rewards": [
+      {
+        "rewardType": 3,
+        "objectId": 2,
+        "objectValue": 1,
+        "bonus": 100,
+        "fixAddValue": 0,
+        "isAddDrop": false,
+        "isAddReward": false
+      }
+    ],
+    "sceneCategory": 7,
+    "overwriteRewards": []
+  },
+  "22450": {
+    "missionId": 22450,
+    "missionCategory": 2,
+    "missionGroupId": 1213,
+    "missionTextKey": "MISSION_22450_LABEL",
+    "count": 1,
+    "sortWeight": 1000,
+    "startAt": "2025-10-15 13:50:00",
+    "endAt": "2025-11-12 14:00:00",
+    "receiveConditions": [],
+    "displayConditions": [],
+    "bannerAddress": "",
+    "rewards": [
+      {
+        "rewardType": 3,
+        "objectId": 59,
+        "objectValue": 30,
+        "bonus": 100,
+        "fixAddValue": 0,
+        "isAddDrop": false,
+        "isAddReward": false
+      }
+    ],
+    "sceneCategory": 7,
+    "overwriteRewards": []
+  },
   "30001": {
     "missionId": 30001,
     "missionCategory": 3,
