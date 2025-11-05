@@ -5201,6 +5201,78 @@
       "isInHome": false
     }
   ],
+  "10652": [
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 4,
+      "faceType": "",
+      "serifKey": "SERIF_VULPECULAMIRRORS2511_PLAYER",
+      "voiceFilename": "",
+      "resourceName": "vulpeculaMirrors2511",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 5,
+      "faceType": "f",
+      "serifKey": "SERIF_VULPECULAMIRRORS2511_HERO",
+      "voiceFilename": "",
+      "resourceName": "vulpeculaMirrors2511",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 12,
+      "faceType": "c",
+      "serifKey": "SERIF_VULPECULAMIRRORS2511_TOUCH",
+      "voiceFilename": "",
+      "resourceName": "vulpeculaMirrors2511",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 27,
+      "faceType": "",
+      "serifKey": "SERIF_VULPECULAMIRRORS2511_EVENTA",
+      "voiceFilename": "",
+      "resourceName": "vulpeculaMirrors2511",
+      "isInHome": false
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 28,
+      "faceType": "e",
+      "serifKey": "SERIF_VULPECULAMIRRORS2511_EVENTB",
+      "voiceFilename": "",
+      "resourceName": "vulpeculaMirrors2511",
+      "isInHome": false
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 29,
+      "faceType": "",
+      "serifKey": "SERIF_VULPECULAMIRRORS2511_EVENTC",
+      "voiceFilename": "",
+      "resourceName": "vulpeculaMirrors2511",
+      "isInHome": false
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 30,
+      "faceType": "c",
+      "serifKey": "SERIF_VULPECULAMIRRORS2511_EVENTD",
+      "voiceFilename": "",
+      "resourceName": "vulpeculaMirrors2511",
+      "isInHome": false
+    }
+  ],
   "10661": [
     {
       "cardType": 1,
@@ -13748,6 +13820,210 @@
       "serifKey": "SERIF_TURBAK_EVENTD",
       "voiceFilename": "",
       "resourceName": "turbak",
+      "isInHome": false
+    }
+  ],
+  "12881": [
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 4,
+      "faceType": "c",
+      "serifKey": "SERIF_GENJI_PLAYER",
+      "voiceFilename": "",
+      "resourceName": "genji",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 5,
+      "faceType": "",
+      "serifKey": "SERIF_GENJI_HERO",
+      "voiceFilename": "",
+      "resourceName": "genji",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 12,
+      "faceType": "b",
+      "serifKey": "SERIF_GENJI_TOUCH",
+      "voiceFilename": "",
+      "resourceName": "genji",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 3,
+      "faceType": "",
+      "serifKey": "SERIF_GENJI_DAILY",
+      "voiceFilename": "",
+      "resourceName": "genji",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 6,
+      "faceType": "c",
+      "serifKey": "SERIF_GENJI_RELATION",
+      "voiceFilename": "",
+      "resourceName": "genji",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 11,
+      "faceType": "e",
+      "serifKey": "SERIF_GENJI_APPRECIATION",
+      "voiceFilename": "",
+      "resourceName": "genji",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 27,
+      "faceType": "",
+      "serifKey": "SERIF_GENJI_EVENTA",
+      "voiceFilename": "",
+      "resourceName": "genji",
+      "isInHome": false
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 28,
+      "faceType": "e",
+      "serifKey": "SERIF_GENJI_EVENTB",
+      "voiceFilename": "",
+      "resourceName": "genji",
+      "isInHome": false
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 29,
+      "faceType": "f",
+      "serifKey": "SERIF_GENJI_EVENTC",
+      "voiceFilename": "",
+      "resourceName": "genji",
+      "isInHome": false
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 30,
+      "faceType": "c",
+      "serifKey": "SERIF_GENJI_EVENTD",
+      "voiceFilename": "",
+      "resourceName": "genji",
+      "isInHome": false
+    }
+  ],
+  "12891": [
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 4,
+      "faceType": "d",
+      "serifKey": "SERIF_FARDEN_PLAYER",
+      "voiceFilename": "",
+      "resourceName": "farden",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 5,
+      "faceType": "f",
+      "serifKey": "SERIF_FARDEN_HERO",
+      "voiceFilename": "",
+      "resourceName": "farden",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 12,
+      "faceType": "c",
+      "serifKey": "SERIF_FARDEN_TOUCH",
+      "voiceFilename": "",
+      "resourceName": "farden",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 3,
+      "faceType": "c",
+      "serifKey": "SERIF_FARDEN_DAILY",
+      "voiceFilename": "",
+      "resourceName": "farden",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 6,
+      "faceType": "f",
+      "serifKey": "SERIF_FARDEN_RELATION",
+      "voiceFilename": "",
+      "resourceName": "farden",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 11,
+      "faceType": "",
+      "serifKey": "SERIF_FARDEN_APPRECIATION",
+      "voiceFilename": "",
+      "resourceName": "farden",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 27,
+      "faceType": "",
+      "serifKey": "SERIF_FARDEN_EVENTA",
+      "voiceFilename": "",
+      "resourceName": "farden",
+      "isInHome": false
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 28,
+      "faceType": "c",
+      "serifKey": "SERIF_FARDEN_EVENTB",
+      "voiceFilename": "",
+      "resourceName": "farden",
+      "isInHome": false
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 29,
+      "faceType": "f",
+      "serifKey": "SERIF_FARDEN_EVENTC",
+      "voiceFilename": "",
+      "resourceName": "farden",
+      "isInHome": false
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 30,
+      "faceType": "c",
+      "serifKey": "SERIF_FARDEN_EVENTD",
+      "voiceFilename": "",
+      "resourceName": "farden",
       "isInHome": false
     }
   ],
