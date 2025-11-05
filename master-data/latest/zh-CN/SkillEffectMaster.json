@@ -79386,7 +79386,7 @@
       "penetrateDeath": false,
       "isCharageEffect": false,
       "elapseTurnTiming": [
-        0
+        1
       ],
       "canDuplicateForce": false,
       "isCountDownEffect": false,
@@ -79433,7 +79433,7 @@
       "isImmediate": false,
       "persistence": false,
       "reaminDeath": false,
-      "canDuplicate": true,
+      "canDuplicate": false,
       "isCountEffect": false,
       "isFieldEffect": false,
       "effectFilename": "",
@@ -79447,7 +79447,7 @@
       "overrideStatusName": "安全帯",
       "notDisplayTeamEdit": false,
       "isOverrideStatusName": true,
-      "overrideStatusDescription": "自身以外の安全帯を所持しているキャラクターが攻撃された時、対象が受けるダメージの50%のダメージを付与者が引き受ける。対象がダメージによって戦闘不能になるダメージを受けた時、引き受けるダメージ量は90%になる。他の安全帯がすでに存在している場合、既に付与されている安全帯は解除される。<br>安全帯が付与されているキャラクターはHPが減少するほどATKが上昇する。（HP1の時、最大+40%）",
+      "overrideStatusDescription": "安全帯を所持しているキャラクターが攻撃された時、対象が受けるダメージの50%のダメージを付与者が引き受ける。対象がダメージによって戦闘不能になるダメージを受けた時、引き受けるダメージ量は90%になる。他の安全帯がすでに存在している場合、既に付与されている安全帯は解除される。<br>安全帯が付与されているキャラクターはHPが減少するほどATKが上昇する。（HP1の時、最大+40%）<br><color=#505050>安全帯の付与者が戦闘不能になった時、解除される。</color>",
       "isDisplayPersistenceStatus": false,
       "isOverrideStatusDescription": true
     }
@@ -80396,7 +80396,6 @@
           }
         }
       ],
-      "trigger": "[{\"value\":0,\"value2\":0,\"includeTemporary\":false,\"element\":0,\"statusId\":0,\"role\":0,\"class\":\"InvokerAliveTrigger\"}]",
       "filename": "",
       "statusId": 1288102,
       "canDispel": false,
@@ -80407,7 +80406,7 @@
       "isDotDamage": false,
       "isImmediate": false,
       "persistence": true,
-      "reaminDeath": true,
+      "reaminDeath": false,
       "canDuplicate": false,
       "isCountEffect": false,
       "isFieldEffect": false,
@@ -81140,7 +81139,7 @@
       "filterIds": [
         4
       ],
-      "parameter": false,
+      "parameter": true,
       "description": "ATK+20%",
       "isCountTurn": false,
       "isDotDamage": false,
@@ -134207,6 +134206,137 @@
       ],
       "parameter": false,
       "description": "フィールド効果307を1ターン短縮",
+      "isCountTurn": false,
+      "isDotDamage": false,
+      "isImmediate": true,
+      "persistence": false,
+      "reaminDeath": false,
+      "canDuplicate": false,
+      "isCountEffect": false,
+      "isFieldEffect": false,
+      "effectFilename": "",
+      "penetrateDeath": false,
+      "isCharageEffect": false,
+      "elapseTurnTiming": [
+        0
+      ],
+      "canDuplicateForce": false,
+      "isCountDownEffect": false,
+      "overrideStatusName": "",
+      "notDisplayTeamEdit": false,
+      "isOverrideStatusName": false,
+      "overrideStatusDescription": "",
+      "isDisplayPersistenceStatus": false,
+      "isOverrideStatusDescription": false
+    }
+  },
+  "6391": {
+    "skillEffectId": 6391,
+    "skillEffectJson": {
+      "turn": 0,
+      "count": 0,
+      "effects": [
+        {
+          "class": "NoneEffect",
+          "parameter": []
+        }
+      ],
+      "filename": "",
+      "statusId": 1288106,
+      "canDispel": false,
+      "filterIds": [],
+      "parameter": false,
+      "description": "ゲンジパッシブ解除カウント用",
+      "isCountTurn": false,
+      "isDotDamage": false,
+      "isImmediate": false,
+      "persistence": true,
+      "reaminDeath": false,
+      "canDuplicate": true,
+      "isCountEffect": false,
+      "isFieldEffect": false,
+      "effectFilename": "",
+      "penetrateDeath": false,
+      "isCharageEffect": false,
+      "elapseTurnTiming": [
+        0
+      ],
+      "canDuplicateForce": false,
+      "isCountDownEffect": false,
+      "overrideStatusName": "",
+      "notDisplayTeamEdit": false,
+      "isOverrideStatusName": false,
+      "overrideStatusDescription": "",
+      "isDisplayPersistenceStatus": false,
+      "isOverrideStatusDescription": false
+    }
+  },
+  "6392": {
+    "skillEffectId": 6392,
+    "skillEffectJson": {
+      "turn": 0,
+      "count": 0,
+      "effects": [
+        {
+          "class": "RemoveSystemEffect",
+          "parameter": {
+            "value": 1,
+            "target": 1288102,
+            "isForce": true
+          }
+        }
+      ],
+      "filename": "b_skill_special",
+      "statusId": 0,
+      "canDispel": false,
+      "filterIds": [],
+      "parameter": false,
+      "description": "システム効果1288102を1つ削除",
+      "isCountTurn": false,
+      "isDotDamage": false,
+      "isImmediate": true,
+      "persistence": false,
+      "reaminDeath": false,
+      "canDuplicate": false,
+      "isCountEffect": false,
+      "isFieldEffect": false,
+      "effectFilename": "",
+      "penetrateDeath": false,
+      "isCharageEffect": false,
+      "elapseTurnTiming": [
+        0
+      ],
+      "canDuplicateForce": false,
+      "isCountDownEffect": false,
+      "overrideStatusName": "",
+      "notDisplayTeamEdit": false,
+      "isOverrideStatusName": false,
+      "overrideStatusDescription": "",
+      "isDisplayPersistenceStatus": false,
+      "isOverrideStatusDescription": false
+    }
+  },
+  "6393": {
+    "skillEffectId": 6393,
+    "skillEffectJson": {
+      "turn": 0,
+      "count": 0,
+      "effects": [
+        {
+          "class": "RemoveSystemEffect",
+          "parameter": {
+            "value": 1,
+            "target": 1288106,
+            "isForce": true
+          }
+        }
+      ],
+      "filename": "b_skill_special",
+      "statusId": 0,
+      "canDispel": false,
+      "filterIds": [],
+      "parameter": false,
+      "description": "システム効果1288106を1つ削除",
       "isCountTurn": false,
       "isDotDamage": false,
       "isImmediate": true,
