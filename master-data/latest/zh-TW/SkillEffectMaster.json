@@ -81384,7 +81384,7 @@
       "overrideStatusName": "時の砂",
       "notDisplayTeamEdit": false,
       "isOverrideStatusName": true,
-      "overrideStatusDescription": "スキルに関連する効果。<br>味方がアクティブスキルで敵を攻撃した時、攻撃対象の中で最もSPDが低い敵と自身のSPDの差の50%のチャージ数を獲得する。<br>黎明のウルペクラの行動順でアクティブスキルで敵を攻撃した時、その2倍のチャージ数を獲得する。<br>味方にSPDアップ効果が付与された時、チャージ数+10。<br>敵にSPDダウン効果が付与された時、チャージ数+10。<br>チャージ数の上限は100。<br>1回の攻撃、もしくはSPD変更効果によるチャージ数の獲得量の上限は30。",
+      "overrideStatusDescription": "スキルに関連する効果。<br>味方がアクティブスキルで敵を攻撃した後、行動終了時に攻撃対象の中で最もSPDが低い敵と自身のSPDの差の50%のチャージ数を獲得する。<br>自身の行動順でアクティブスキルで敵を攻撃した時、その2倍のチャージ数を獲得する。<br>味方にアクティブスキルでSPDアップが付与された時、チャージ数+10。<br>敵にアクティブスキルでSPDダウンが付与された時、チャージ数+10。<br>チャージ数の上限は100。<br>1回の攻撃、もしくはSPD変更効果によるチャージ数の獲得量の上限は30。",
       "isDisplayPersistenceStatus": false,
       "isOverrideStatusDescription": true
     }
