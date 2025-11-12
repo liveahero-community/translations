@@ -11949,5 +11949,31 @@
     "endAt": "2025-12-03 14:00:00",
     "roguePortalJson": null,
     "executeLimit": null
+  },
+  "1219": {
+    "chapterId": 1219,
+    "chapterGroupId": 0,
+    "groupType": 6,
+    "chapterType": 1,
+    "chapterName": "強敵シミュレーター",
+    "subName": "シミュレート・スライム型カイブツ",
+    "peepingName": "スライム型カイブツ",
+    "sortWeight": 900,
+    "bannerResourceName": "ui_banner_questchoice_strongenemy",
+    "bgResourceName": "ui_bg_sprite_strongenemy",
+    "selectBannerAddress": "ui_banner_event_questbanner_campaignLantern_SSS",
+    "helpPrefabAddress": "Spring2504ScoreAttackHelpWindow",
+    "questSelectPrefabAddress": "",
+    "storyLibraryPrefabAddress": "",
+    "missionGroupId": 1219,
+    "scoreAttackStoreId": 0,
+    "scoreAttackItemIds": null,
+    "conditionChapterId": 0,
+    "conditionChapterButtonLabel": "",
+    "conditionChapterDescription": "",
+    "startAt": "2025-11-12 14:00:00",
+    "endAt": "2025-12-10 14:00:00",
+    "roguePortalJson": null,
+    "executeLimit": null
   }
 }
