@@ -1319,5 +1319,33 @@
         ]
       }
     ]
+  },
+  "1084": {
+    "backgroundId": 1084,
+    "iconAddress": "item_icon_bg_cogsdencity_day",
+    "bgAddress": "bg_cogsdencity_day",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          1214011
+        ]
+      }
+    ]
+  },
+  "1085": {
+    "backgroundId": 1085,
+    "iconAddress": "item_icon_bg_cogsdenappearance_day",
+    "bgAddress": "bg_cogsdenappearance_day",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          1214011
+        ]
+      }
+    ]
   }
 }
