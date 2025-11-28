@@ -9260,5 +9260,315 @@
       "effectAddress": "TurnObject_Blooming",
       "targetStockId": 12891
     }
+  },
+  "1034": {
+    "itemId": 11073201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "compass_base",
+      "targetStockId": 10732,
+      "attachmentName": "compass_base"
+    }
+  },
+  "1035": {
+    "itemId": 11073201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "compass_bg",
+      "targetStockId": 10732,
+      "attachmentName": "compass_bg"
+    }
+  },
+  "1036": {
+    "itemId": 11073201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "compass_parts",
+      "targetStockId": 10732,
+      "attachmentName": "compass_parts"
+    }
+  },
+  "1037": {
+    "itemId": 11073201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "compass_fx3",
+      "targetStockId": 10732,
+      "attachmentName": "compass_fx"
+    }
+  },
+  "1038": {
+    "itemId": 11073201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "compass_fx4",
+      "targetStockId": 10732,
+      "attachmentName": "compass_fx"
+    }
+  },
+  "1039": {
+    "itemId": 11073201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "compass_fx6",
+      "targetStockId": 10732,
+      "attachmentName": "compass_fx"
+    }
+  },
+  "1040": {
+    "itemId": 11073201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "compass_fx8",
+      "targetStockId": 10732,
+      "attachmentName": "compass_fx"
+    }
+  },
+  "1041": {
+    "itemId": 11073201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": true,
+      "slotName": "back_device",
+      "targetStockId": 10732,
+      "attachmentName": "back_device"
+    }
+  },
+  "1042": {
+    "itemId": 11073201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": true,
+      "slotName": "device strand",
+      "targetStockId": 10732,
+      "attachmentName": "device strand"
+    }
+  },
+  "1043": {
+    "itemId": 11073201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": true,
+      "slotName": "devise  accessory",
+      "targetStockId": 10732,
+      "attachmentName": "devise  accessory"
+    }
+  },
+  "1044": {
+    "itemId": 11073201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": true,
+      "slotName": "front_device",
+      "targetStockId": 10732,
+      "attachmentName": "front_device"
+    }
+  },
+  "1045": {
+    "itemId": 11191101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att/camera",
+      "targetStockId": 11911,
+      "attachmentName": "att/camera"
+    }
+  },
+  "1046": {
+    "itemId": 11191101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att/head",
+      "targetStockId": 11911,
+      "attachmentName": "att/head"
+    }
+  },
+  "1047": {
+    "itemId": 11191101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att/arm_L",
+      "targetStockId": 11911,
+      "attachmentName": "att/arm_L"
+    }
+  },
+  "1048": {
+    "itemId": 11191101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att/body",
+      "targetStockId": 11911,
+      "attachmentName": "att/body"
+    }
+  },
+  "1049": {
+    "itemId": 11191101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att/foot_L",
+      "targetStockId": 11911,
+      "attachmentName": "att/foot_L"
+    }
+  },
+  "1050": {
+    "itemId": 11191101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att/foot_R",
+      "targetStockId": 11911,
+      "attachmentName": "att/foot_R"
+    }
+  },
+  "1051": {
+    "itemId": 11191101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att/suit",
+      "targetStockId": 11911,
+      "attachmentName": "att/suit"
+    }
+  },
+  "1052": {
+    "itemId": 11191101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att/drone",
+      "targetStockId": 11911,
+      "attachmentName": "att/drone"
+    }
+  },
+  "1053": {
+    "itemId": 11191101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att/propeller",
+      "targetStockId": 11911,
+      "attachmentName": "att/propeller"
+    }
+  },
+  "1054": {
+    "itemId": 11191101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att/hand",
+      "targetStockId": 11911,
+      "attachmentName": "att/hand"
+    }
+  },
+  "1055": {
+    "itemId": 11191101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att/arm_R",
+      "targetStockId": 11911,
+      "attachmentName": "att/arm_R"
+    }
+  },
+  "1056": {
+    "itemId": 11217101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att/body",
+      "targetStockId": 12171,
+      "attachmentName": "att/body"
+    }
+  },
+  "1057": {
+    "itemId": 11217101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att/engine_L",
+      "targetStockId": 12171,
+      "attachmentName": "att/engine_L"
+    }
+  },
+  "1058": {
+    "itemId": 11217101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att/engine_R",
+      "targetStockId": 12171,
+      "attachmentName": "att/engine_R"
+    }
+  },
+  "1059": {
+    "itemId": 11217101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att/front",
+      "targetStockId": 12171,
+      "attachmentName": "att/front"
+    }
+  },
+  "1060": {
+    "itemId": 11217101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att/handle",
+      "targetStockId": 12171,
+      "attachmentName": "att/handle"
+    }
+  },
+  "1061": {
+    "itemId": 11217101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att/mirror_L",
+      "targetStockId": 12171,
+      "attachmentName": "att/mirror_L"
+    }
+  },
+  "1062": {
+    "itemId": 11217101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att/mirror_R",
+      "targetStockId": 12171,
+      "attachmentName": "att/mirror_R"
+    }
+  },
+  "1063": {
+    "itemId": 11217101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att/pedal_L",
+      "targetStockId": 12171,
+      "attachmentName": "att/pedal_L"
+    }
+  },
+  "1064": {
+    "itemId": 11217101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att/pedal_R",
+      "targetStockId": 12171,
+      "attachmentName": "att/pedal_R"
+    }
   }
 }
