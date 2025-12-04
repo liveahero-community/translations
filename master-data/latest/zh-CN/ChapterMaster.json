@@ -12078,5 +12078,31 @@
     "endAt": "2025-12-18 14:00:00",
     "roguePortalJson": null,
     "executeLimit": null
+  },
+  "1223": {
+    "chapterId": 1223,
+    "chapterGroupId": 0,
+    "groupType": 8,
+    "chapterType": 1,
+    "chapterName": "チャレンジクエスト",
+    "subName": "栄光のライジング・ムーン",
+    "peepingName": "チャレンジクエスト",
+    "sortWeight": 1000,
+    "bannerResourceName": "ui_banner_questchoice_event_RisingMoon2410_highdifficult",
+    "bgResourceName": "ui_bg_sprite_quest_highdifficult_RisingMoon2410",
+    "selectBannerAddress": "banner_chapter_select_challenge",
+    "helpPrefabAddress": "",
+    "questSelectPrefabAddress": "",
+    "storyLibraryPrefabAddress": "",
+    "missionGroupId": 0,
+    "scoreAttackStoreId": 0,
+    "scoreAttackItemIds": null,
+    "conditionChapterId": 0,
+    "conditionChapterButtonLabel": "",
+    "conditionChapterDescription": "",
+    "startAt": "2025-12-04 18:00:00",
+    "endAt": "2025-12-18 14:00:00",
+    "roguePortalJson": null,
+    "executeLimit": null
   }
 }
