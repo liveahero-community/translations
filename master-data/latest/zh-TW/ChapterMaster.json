@@ -12104,5 +12104,31 @@
     "endAt": "2025-12-18 14:00:00",
     "roguePortalJson": null,
     "executeLimit": null
+  },
+  "1228": {
+    "chapterId": 1228,
+    "chapterGroupId": 0,
+    "groupType": 6,
+    "chapterType": 1,
+    "chapterName": "強敵シミュレーター",
+    "subName": "激闘！レイバーズサイト",
+    "peepingName": "激闘！レイバーズサイト",
+    "sortWeight": 1000,
+    "bannerResourceName": "ui_banner_questchoice_strongenemy",
+    "bgResourceName": "ui_bg_sprite_strongenemy",
+    "selectBannerAddress": "ui_banner_event_questbanner_2512Laborers",
+    "helpPrefabAddress": "Summer2508ScoreAttackHelpWindow",
+    "questSelectPrefabAddress": "",
+    "storyLibraryPrefabAddress": "",
+    "missionGroupId": 1228,
+    "scoreAttackStoreId": 0,
+    "scoreAttackItemIds": null,
+    "conditionChapterId": 0,
+    "conditionChapterButtonLabel": "",
+    "conditionChapterDescription": "",
+    "startAt": "2025-12-10 14:00:00",
+    "endAt": "2026-01-07 14:00:00",
+    "roguePortalJson": null,
+    "executeLimit": null
   }
 }
