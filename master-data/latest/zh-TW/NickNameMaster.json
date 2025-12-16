@@ -605,6 +605,48 @@
       }
     ]
   },
+  "45": {
+    "nickNameId": 45,
+    "nickNameType": 2,
+    "rarity": 1,
+    "category": 2,
+    "nickNameTextKey": "NICK_NAME_45",
+    "getConditionDescription": "NICK_NAME_DESCRIPTION_45",
+    "conditions": [
+      {
+        "class": "MissionClear",
+        "missionId": 22558
+      }
+    ]
+  },
+  "46": {
+    "nickNameId": 46,
+    "nickNameType": 2,
+    "rarity": 2,
+    "category": 2,
+    "nickNameTextKey": "NICK_NAME_46",
+    "getConditionDescription": "NICK_NAME_DESCRIPTION_46",
+    "conditions": [
+      {
+        "class": "MissionClear",
+        "missionId": 22559
+      }
+    ]
+  },
+  "47": {
+    "nickNameId": 47,
+    "nickNameType": 1,
+    "rarity": 3,
+    "category": 2,
+    "nickNameTextKey": "NICK_NAME_47",
+    "getConditionDescription": "NICK_NAME_DESCRIPTION_47",
+    "conditions": [
+      {
+        "class": "MissionClear",
+        "missionId": 22560
+      }
+    ]
+  },
   "110011": {
     "nickNameId": 110011,
     "nickNameType": 1,
@@ -2845,6 +2887,20 @@
       }
     ]
   },
+  "112112": {
+    "nickNameId": 112112,
+    "nickNameType": 1,
+    "rarity": 2,
+    "category": 3,
+    "nickNameTextKey": "NICK_NAME_112112",
+    "getConditionDescription": "NICK_NAME_DESCRIPTION_112112",
+    "conditions": [
+      {
+        "class": "HeroMaxRank",
+        "heroCardId": 121122
+      }
+    ]
+  },
   "112171": {
     "nickNameId": 112171,
     "nickNameType": 1,
@@ -3052,6 +3108,34 @@
       {
         "class": "HeroMaxRank",
         "heroCardId": 128913
+      }
+    ]
+  },
+  "113011": {
+    "nickNameId": 113011,
+    "nickNameType": 1,
+    "rarity": 2,
+    "category": 3,
+    "nickNameTextKey": "NICK_NAME_113011",
+    "getConditionDescription": "NICK_NAME_DESCRIPTION_113011",
+    "conditions": [
+      {
+        "class": "HeroMaxRank",
+        "heroCardId": 130112
+      }
+    ]
+  },
+  "113021": {
+    "nickNameId": 113021,
+    "nickNameType": 1,
+    "rarity": 2,
+    "category": 3,
+    "nickNameTextKey": "NICK_NAME_113021",
+    "getConditionDescription": "NICK_NAME_DESCRIPTION_113021",
+    "conditions": [
+      {
+        "class": "HeroMaxRank",
+        "heroCardId": 130213
       }
     ]
   },
@@ -4900,6 +4984,34 @@
       {
         "class": "SidekickMaxLevel",
         "sidekickCardId": 128916
+      }
+    ]
+  },
+  "213011": {
+    "nickNameId": 213011,
+    "nickNameType": 2,
+    "rarity": 2,
+    "category": 3,
+    "nickNameTextKey": "NICK_NAME_213011",
+    "getConditionDescription": "NICK_NAME_DESCRIPTION_213011",
+    "conditions": [
+      {
+        "class": "SidekickMaxLevel",
+        "sidekickCardId": 130116
+      }
+    ]
+  },
+  "213021": {
+    "nickNameId": 213021,
+    "nickNameType": 2,
+    "rarity": 2,
+    "category": 3,
+    "nickNameTextKey": "NICK_NAME_213021",
+    "getConditionDescription": "NICK_NAME_DESCRIPTION_213021",
+    "conditions": [
+      {
+        "class": "SidekickMaxLevel",
+        "sidekickCardId": 130216
       }
     ]
   }

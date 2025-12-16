@@ -9570,5 +9570,53 @@
       "targetStockId": 12171,
       "attachmentName": "att/pedal_R"
     }
+  },
+  "1065": {
+    "itemId": 21211201,
+    "customJson": {
+      "class": "CustomPlayTurnEffect",
+      "effectAddress": "blooming_Battlein_Effect",
+      "targetStockId": 12112
+    }
+  },
+  "1066": {
+    "itemId": 21211201,
+    "customJson": {
+      "class": "CustomGetTurnEffect",
+      "effectAddress": "TurnObject_Blooming",
+      "targetStockId": 12112
+    }
+  },
+  "1067": {
+    "itemId": 21301101,
+    "customJson": {
+      "class": "CustomPlayTurnEffect",
+      "effectAddress": "blooming_Battlein_Effect",
+      "targetStockId": 13011
+    }
+  },
+  "1068": {
+    "itemId": 21301101,
+    "customJson": {
+      "class": "CustomGetTurnEffect",
+      "effectAddress": "TurnObject_Blooming",
+      "targetStockId": 13011
+    }
+  },
+  "1069": {
+    "itemId": 21302101,
+    "customJson": {
+      "class": "CustomPlayTurnEffect",
+      "effectAddress": "blooming_Battlein_Effect",
+      "targetStockId": 13021
+    }
+  },
+  "1070": {
+    "itemId": 21302101,
+    "customJson": {
+      "class": "CustomGetTurnEffect",
+      "effectAddress": "TurnObject_Blooming",
+      "targetStockId": 13021
+    }
   }
 }
