@@ -1349,5 +1349,47 @@
         ]
       }
     ]
+  },
+  "1086": {
+    "backgroundId": 1086,
+    "iconAddress": "item_icon_bg_gavlebockenbase_day_base1",
+    "bgAddress": "bg_gavlebockenbase_day_base1",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          1225008
+        ]
+      }
+    ]
+  },
+  "1087": {
+    "backgroundId": 1087,
+    "iconAddress": "item_icon_bg_gavlebockenview_trim",
+    "bgAddress": "bg_gavlebockenview_trim",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          1225008
+        ]
+      }
+    ]
+  },
+  "1088": {
+    "backgroundId": 1088,
+    "iconAddress": "item_icon_bg_gavlebockenview_illumination_character",
+    "bgAddress": "bg_gavlebockenview_illumination_character",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          1225008
+        ]
+      }
+    ]
   }
 }
