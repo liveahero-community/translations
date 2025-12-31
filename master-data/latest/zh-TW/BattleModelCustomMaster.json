@@ -9618,5 +9618,21 @@
       "effectAddress": "TurnObject_Blooming",
       "targetStockId": 13021
     }
+  },
+  "1071": {
+    "itemId": 21303101,
+    "customJson": {
+      "class": "CustomPlayTurnEffect",
+      "effectAddress": "blooming_Battlein_Effect",
+      "targetStockId": 13031
+    }
+  },
+  "1072": {
+    "itemId": 21303101,
+    "customJson": {
+      "class": "CustomGetTurnEffect",
+      "effectAddress": "TurnObject_Blooming",
+      "targetStockId": 13031
+    }
   }
 }
