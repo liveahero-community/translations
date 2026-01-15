@@ -118,5 +118,21 @@
     "helpPrefabAddress": "QuestRewardUpTutorialWindow",
     "startAt": "2025-06-18 00:00:00",
     "endAt": "2025-06-24 00:00:00"
+  },
+  "16": {
+    "rewardUpGroupId": 16,
+    "executeLimit": 3,
+    "labelTextKey": "UI_TODAY_QUEST_REWARD_DOUBLE_COUNT",
+    "helpPrefabAddress": "QuestRewardUpTutorialWindow",
+    "startAt": "2026-01-16 00:00:00",
+    "endAt": "2026-01-22 00:00:00"
+  },
+  "17": {
+    "rewardUpGroupId": 17,
+    "executeLimit": 3,
+    "labelTextKey": "UI_TODAY_QUEST_REWARD_DOUBLE_COUNT",
+    "helpPrefabAddress": "QuestRewardUpTutorialWindow",
+    "startAt": "2026-01-16 00:00:00",
+    "endAt": "2026-01-22 00:00:00"
   }
 }
