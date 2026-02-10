@@ -10184,5 +10184,53 @@
       "targetStockId": 12371,
       "attachmentName": "att1/strap_B"
     }
+  },
+  "1128": {
+    "itemId": 21112201,
+    "customJson": {
+      "class": "CustomPlayTurnEffect",
+      "effectAddress": "blooming_Battlein_Effect",
+      "targetStockId": 11122
+    }
+  },
+  "1129": {
+    "itemId": 21112201,
+    "customJson": {
+      "class": "CustomGetTurnEffect",
+      "effectAddress": "TurnObject_Blooming",
+      "targetStockId": 11122
+    }
+  },
+  "1130": {
+    "itemId": 21189201,
+    "customJson": {
+      "class": "CustomPlayTurnEffect",
+      "effectAddress": "blooming_Battlein_Effect",
+      "targetStockId": 11892
+    }
+  },
+  "1131": {
+    "itemId": 21189201,
+    "customJson": {
+      "class": "CustomGetTurnEffect",
+      "effectAddress": "TurnObject_Blooming",
+      "targetStockId": 11892
+    }
+  },
+  "1132": {
+    "itemId": 21305101,
+    "customJson": {
+      "class": "CustomPlayTurnEffect",
+      "effectAddress": "blooming_Battlein_Effect",
+      "targetStockId": 13051
+    }
+  },
+  "1133": {
+    "itemId": 21305101,
+    "customJson": {
+      "class": "CustomGetTurnEffect",
+      "effectAddress": "TurnObject_Blooming",
+      "targetStockId": 13051
+    }
   }
 }
