@@ -1,0 +1,432 @@
+{
+  "2": {
+    "eventId": 2,
+    "chapterId": 402,
+    "lookBackChapterId": 502,
+    "baseResourceName": "1910akatsuki",
+    "startAt": "2020-10-15 10:00:00",
+    "endAt": "2020-11-13 20:00:00",
+    "canRemember": 1,
+    "eventPortalJson": null,
+    "questBonusJsons": []
+  },
+  "3": {
+    "eventId": 3,
+    "chapterId": 405,
+    "lookBackChapterId": 0,
+    "baseResourceName": "2011_chikyuu",
+    "startAt": "2020-11-11 17:59:00",
+    "endAt": "2020-11-25 18:00:00",
+    "canRemember": 0,
+    "eventPortalJson": null,
+    "questBonusJsons": []
+  },
+  "4": {
+    "eventId": 4,
+    "chapterId": 406,
+    "lookBackChapterId": 0,
+    "baseResourceName": "2011uchuukaizoku",
+    "startAt": "2020-11-27 17:59:00",
+    "endAt": "2020-12-11 18:00:00",
+    "canRemember": 0,
+    "eventPortalJson": null,
+    "questBonusJsons": []
+  },
+  "5": {
+    "eventId": 5,
+    "chapterId": 407,
+    "lookBackChapterId": 505,
+    "baseResourceName": "Xmas2012",
+    "startAt": "2020-12-17 00:00:00",
+    "endAt": "2021-01-06 20:00:00",
+    "canRemember": 1,
+    "eventPortalJson": null,
+    "questBonusJsons": [
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 50,
+        "bonusValue": 40,
+        "targetStockId": 10042
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 50,
+        "bonusValue": 40,
+        "targetStockId": 10511
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 50,
+        "bonusValue": 30,
+        "targetStockId": 10271
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 50,
+        "bonusValue": 20,
+        "targetStockId": 10041
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 50,
+        "bonusValue": 10,
+        "targetStockId": 10011
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 50,
+        "bonusValue": 10,
+        "targetStockId": 10021
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 50,
+        "bonusValue": 10,
+        "targetStockId": 10511
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 50,
+        "bonusValue": 10,
+        "targetStockId": 10271
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 50,
+        "bonusValue": 10,
+        "targetStockId": 19991
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 50,
+        "bonusValue": 10,
+        "targetStockId": 10041
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 50,
+        "bonusValue": 10,
+        "targetStockId": 10011
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 50,
+        "bonusValue": 10,
+        "targetStockId": 10021
+      }
+    ]
+  },
+  "6": {
+    "eventId": 6,
+    "chapterId": 409,
+    "lookBackChapterId": 506,
+    "baseResourceName": "Newyear2101",
+    "startAt": "2020-12-20 00:00:00",
+    "endAt": "2021-01-15 14:00:00",
+    "canRemember": 1,
+    "eventPortalJson": null,
+    "questBonusJsons": []
+  },
+  "7": {
+    "eventId": 7,
+    "chapterId": 410,
+    "lookBackChapterId": 0,
+    "baseResourceName": "ContractWolfmanEarth2101",
+    "startAt": "2021-01-01 00:00:00",
+    "endAt": "2021-02-05 18:00:00",
+    "canRemember": 0,
+    "eventPortalJson": null,
+    "questBonusJsons": []
+  },
+  "8": {
+    "eventId": 8,
+    "chapterId": 412,
+    "lookBackChapterId": 413,
+    "baseResourceName": "Valentine2102",
+    "startAt": "2021-02-01 20:00:00",
+    "endAt": "2021-03-22 20:00:00",
+    "canRemember": 0,
+    "eventPortalJson": {
+      "bg": "ui_bg_sprite_event_Valentine2102",
+      "bgm": "bgm_cyberwars_adv",
+      "logo": "Valentine2102_title",
+      "terms": [
+        {
+          "keys": [
+            "UI_MAIN_QUEST",
+            "UI_EPILOGUE_QUEST",
+            "UI_MISSION",
+            "UI_EXCHANGE"
+          ],
+          "endAt": "2021-03-22 14:00:00"
+        }
+      ],
+      "gachaId": 9,
+      "storeId": 7,
+      "questInfos": [
+        {
+          "type": 5,
+          "chapterId": 412
+        },
+        {
+          "type": 7,
+          "chapterId": 415
+        }
+      ],
+      "tutorialKey": "Valentine2102",
+      "eventItemIds": [
+        57,
+        58
+      ],
+      "characterViews": [
+        {
+          "skinId": 0,
+          "stockId": 10531,
+          "cardType": 2,
+          "serifKinds": [
+            27,
+            28
+          ],
+          "visualType": 1,
+          "resourceName": "hisaki",
+          "characterName": "ヒサキ"
+        }
+      ],
+      "salesRegionIds": [
+        204,
+        205
+      ]
+    },
+    "questBonusJsons": [
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 57,
+        "bonusValue": 40,
+        "targetStockId": 10102
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 57,
+        "bonusValue": 30,
+        "targetStockId": 10122
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 57,
+        "bonusValue": 30,
+        "targetStockId": 10111
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 57,
+        "bonusValue": 20,
+        "targetStockId": 10531
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 57,
+        "bonusValue": 20,
+        "targetStockId": 10511
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 57,
+        "bonusValue": 10,
+        "targetStockId": 10011
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 57,
+        "bonusValue": 20,
+        "targetStockId": 10101
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 57,
+        "bonusValue": 10,
+        "targetStockId": 10431
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 57,
+        "bonusValue": 10,
+        "targetStockId": 10101
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 57,
+        "bonusValue": 10,
+        "targetStockId": 10121
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 57,
+        "bonusValue": 20,
+        "targetStockId": 10111
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 57,
+        "bonusValue": 10,
+        "targetStockId": 10531
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 57,
+        "bonusValue": 10,
+        "targetStockId": 10011
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 57,
+        "bonusValue": 10,
+        "targetStockId": 19991
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 57,
+        "bonusValue": 10,
+        "targetStockId": 10431
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 57,
+        "bonusValue": 10,
+        "targetStockId": 10511
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 58,
+        "bonusValue": 40,
+        "targetStockId": 10102
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 58,
+        "bonusValue": 30,
+        "targetStockId": 10122
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 58,
+        "bonusValue": 30,
+        "targetStockId": 10111
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 58,
+        "bonusValue": 20,
+        "targetStockId": 10531
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 58,
+        "bonusValue": 20,
+        "targetStockId": 10042
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 58,
+        "bonusValue": 20,
+        "targetStockId": 10121
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 58,
+        "bonusValue": 10,
+        "targetStockId": 10271
+      },
+      {
+        "type": 3,
+        "class": "HeroQuestRewardBonus",
+        "objectId": 58,
+        "bonusValue": 10,
+        "targetStockId": 10431
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 58,
+        "bonusValue": 10,
+        "targetStockId": 10101
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 58,
+        "bonusValue": 10,
+        "targetStockId": 10121
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 58,
+        "bonusValue": 20,
+        "targetStockId": 10111
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 58,
+        "bonusValue": 10,
+        "targetStockId": 10531
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 58,
+        "bonusValue": 10,
+        "targetStockId": 10271
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 58,
+        "bonusValue": 10,
+        "targetStockId": 19991
+      },
+      {
+        "type": 3,
+        "class": "SidekickQuestRewardBonus",
+        "objectId": 58,
+        "bonusValue": 10,
+        "targetStockId": 10431
+      }
+    ]
+  }
+}
