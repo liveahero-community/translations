@@ -1393,5 +1393,47 @@
         ]
       }
     ]
+  },
+  "1089": {
+    "backgroundId": 1089,
+    "iconAddress": "item_icon_bg_wonderlandforest_day_half1",
+    "bgAddress": "bg_wonderlandforest_day_half1",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          1239008
+        ]
+      }
+    ]
+  },
+  "1090": {
+    "backgroundId": 1090,
+    "iconAddress": "item_icon_bg_wonderlandforest_day_half2",
+    "bgAddress": "bg_wonderlandforest_day_half2",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          1239008
+        ]
+      }
+    ]
+  },
+  "1091": {
+    "backgroundId": 1091,
+    "iconAddress": "item_icon_bg_culinaryvenue_day",
+    "bgAddress": "bg_culinaryvenue_day",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          1239008
+        ]
+      }
+    ]
   }
 }
