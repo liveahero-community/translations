@@ -12884,5 +12884,31 @@
     "endAt": "2026-03-31 14:00:00",
     "roguePortalJson": null,
     "executeLimit": null
+  },
+  "1249": {
+    "chapterId": 1249,
+    "chapterGroupId": 0,
+    "groupType": 2,
+    "chapterType": 1,
+    "chapterName": "キャンペーンクエスト",
+    "subName": "不思議の星のチョコづくり！",
+    "peepingName": "不思議の星のチョコづくり！",
+    "sortWeight": 1000,
+    "bannerResourceName": "ui_banner_questchoice_event_WonderLand2602_highdifficult",
+    "bgResourceName": "ui_bg_sprite_quest_highdifficult_WonderLand2602",
+    "selectBannerAddress": "",
+    "helpPrefabAddress": "WonderChocolateHighDifficultyHelpWindow",
+    "questSelectPrefabAddress": "",
+    "storyLibraryPrefabAddress": "",
+    "missionGroupId": 0,
+    "scoreAttackStoreId": 0,
+    "scoreAttackItemIds": null,
+    "conditionChapterId": 0,
+    "conditionChapterButtonLabel": "",
+    "conditionChapterDescription": "",
+    "startAt": "2026-03-05 18:00:00",
+    "endAt": "2026-03-19 14:00:00",
+    "roguePortalJson": null,
+    "executeLimit": null
   }
 }
