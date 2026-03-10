@@ -18159,12 +18159,12 @@
   "114": {
     "eventId": 114,
     "chapterId": 1160,
-    "lookBackChapterId": 539,
+    "lookBackChapterId": 0,
     "baseResourceName": "Seekers2502",
     "questSelectPrefabAddress": "",
     "startAt": null,
     "endAt": "2025-03-19 14:00:00",
-    "canRemember": 1,
+    "canRemember": 0,
     "eventPortalJson": {
       "bg": "ui_bg_sprite_event_Seekers2502",
       "bgm": "bgm_seekers_adv",
