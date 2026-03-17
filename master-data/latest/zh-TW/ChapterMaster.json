@@ -13014,5 +13014,31 @@
     "endAt": "2026-03-31 14:00:00",
     "roguePortalJson": null,
     "executeLimit": null
+  },
+  "1253": {
+    "chapterId": 1253,
+    "chapterGroupId": 0,
+    "groupType": 8,
+    "chapterType": 1,
+    "chapterName": "チャレンジクエスト",
+    "subName": "チョコレート・シーカーズ",
+    "peepingName": "チャレンジクエスト",
+    "sortWeight": 1000,
+    "bannerResourceName": "ui_banner_questchoice_event_Seekers2502_highdifficult",
+    "bgResourceName": "ui_bg_sprite_quest_highdifficult_Seekers2502",
+    "selectBannerAddress": "banner_chapter_select_challenge",
+    "helpPrefabAddress": "",
+    "questSelectPrefabAddress": "",
+    "storyLibraryPrefabAddress": "",
+    "missionGroupId": 0,
+    "scoreAttackStoreId": 0,
+    "scoreAttackItemIds": null,
+    "conditionChapterId": 0,
+    "conditionChapterButtonLabel": "",
+    "conditionChapterDescription": "",
+    "startAt": "2026-03-17 18:00:00",
+    "endAt": "2026-03-31 14:00:00",
+    "roguePortalJson": null,
+    "executeLimit": null
   }
 }
