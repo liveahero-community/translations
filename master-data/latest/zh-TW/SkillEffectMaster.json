@@ -351,6 +351,7 @@
       "isFieldEffect": false,
       "effectFilename": "",
       "penetrateDeath": false,
+      "disappearTiming": 17,
       "isCharageEffect": false,
       "elapseTurnTiming": [
         0
@@ -611,6 +612,7 @@
       "isFieldEffect": false,
       "effectFilename": "",
       "penetrateDeath": false,
+      "disappearTiming": 17,
       "isCharageEffect": false,
       "elapseTurnTiming": [
         2
@@ -1316,11 +1318,13 @@
       "isImmediate": true,
       "persistence": false,
       "reaminDeath": false,
+      "addSortOrder": 0,
       "canDuplicate": false,
       "isCountEffect": false,
       "isFieldEffect": false,
       "effectFilename": "",
       "penetrateDeath": false,
+      "disappearTiming": 17,
       "isCharageEffect": false,
       "elapseTurnTiming": [
         0
@@ -4246,11 +4250,13 @@
       "isImmediate": true,
       "persistence": false,
       "reaminDeath": false,
+      "addSortOrder": 0,
       "canDuplicate": false,
       "isCountEffect": false,
       "isFieldEffect": false,
       "effectFilename": "",
       "penetrateDeath": false,
+      "disappearTiming": 17,
       "isCharageEffect": false,
       "elapseTurnTiming": [
         0
@@ -5321,11 +5327,13 @@
       "isImmediate": true,
       "persistence": false,
       "reaminDeath": false,
+      "addSortOrder": 0,
       "canDuplicate": false,
       "isCountEffect": false,
       "isFieldEffect": false,
       "effectFilename": "",
       "penetrateDeath": false,
+      "disappearTiming": 17,
       "isCharageEffect": false,
       "elapseTurnTiming": [
         0
@@ -14476,11 +14484,17 @@
       "parameter": false,
       "description": "HPを基礎ATKの25%回復する",
       "isCountTurn": false,
+      "isDotDamage": false,
       "isImmediate": true,
       "persistence": false,
       "reaminDeath": false,
+      "addSortOrder": 0,
       "canDuplicate": false,
       "isCountEffect": false,
+      "isFieldEffect": false,
+      "effectFilename": "",
+      "penetrateDeath": false,
+      "disappearTiming": 17,
       "isCharageEffect": false,
       "elapseTurnTiming": [
         0
@@ -14488,6 +14502,7 @@
       "canDuplicateForce": false,
       "isCountDownEffect": false,
       "overrideStatusName": "",
+      "notDisplayTeamEdit": false,
       "isOverrideStatusName": false,
       "overrideStatusDescription": "",
       "isDisplayPersistenceStatus": false,
@@ -29135,11 +29150,13 @@
       "isImmediate": true,
       "persistence": false,
       "reaminDeath": false,
+      "addSortOrder": 0,
       "canDuplicate": false,
       "isCountEffect": false,
       "isFieldEffect": false,
       "effectFilename": "",
       "penetrateDeath": false,
+      "disappearTiming": 17,
       "isCharageEffect": false,
       "elapseTurnTiming": [
         0
@@ -154404,7 +154421,7 @@
       "overrideStatusName": "スキル3チャージ",
       "notDisplayTeamEdit": false,
       "isOverrideStatusName": true,
-      "overrideStatusDescription": "チャージ数1につき、スキル3のVie消費量-500。(最大チャージ数10まで)<br><color=#505050>スキル3使用時に解除される。</color>",
+      "overrideStatusDescription": "チャージ数1につき、スキル3のView消費量-500。(最大チャージ数10まで)<br><color=#505050>スキル3使用時に解除される。</color>",
       "isDisplayPersistenceStatus": false,
       "isOverrideStatusDescription": true
     }
@@ -154637,10 +154654,10 @@
       "isCountDownEffect": false,
       "overrideStatusName": "",
       "notDisplayTeamEdit": false,
-      "isOverrideStatusName": true,
+      "isOverrideStatusName": false,
       "overrideStatusDescription": "",
       "isDisplayPersistenceStatus": false,
-      "isOverrideStatusDescription": true
+      "isOverrideStatusDescription": false
     }
   },
   "6636": {
