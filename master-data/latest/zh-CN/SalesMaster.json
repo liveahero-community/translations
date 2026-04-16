@@ -47594,5 +47594,767 @@
       }
     ],
     "overwriteBonuses": []
+  },
+  "26401": {
+    "salesId": 26401,
+    "regionId": 264,
+    "salesName": "宇宙ステーション・ヒーローワーク！（短期）",
+    "iconFilename": "item_Frontier2604_surveydata",
+    "startAt": null,
+    "endAt": "2026-05-07 20:00:00",
+    "requiredTime": 7200,
+    "memberLimitNumber": 8,
+    "sortWeight": 1000,
+    "rewards": [
+      {
+        "salesId": 26401,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 280
+      },
+      {
+        "salesId": 26401,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 240
+      },
+      {
+        "salesId": 26401,
+        "rewardType": 3,
+        "objectId": 277,
+        "objectValue": 30
+      },
+      {
+        "salesId": 26401,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 160
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_FRONTIER2604_REPORT_1",
+        "condition": null
+      },
+      {
+        "textKey": "SALES_EVENT_FRONTIER2604_REPORT_2",
+        "condition": null
+      },
+      {
+        "textKey": "SALES_EVENT_FRONTIER2604_REPORT_3",
+        "condition": null
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "endAt": null,
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "startAt": null,
+        "isDisplay": false,
+        "iconAddress": "",
+        "isAppendBonus": false,
+        "unconditionStockIds": []
+      },
+      {
+        "class": "StockCountBonus",
+        "endAt": null,
+        "stocks": [
+          10253,
+          10342,
+          13161
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 10
+          },
+          {
+            "count": 2,
+            "upwardRate": 30
+          },
+          {
+            "count": 3,
+            "upwardRate": 50
+          }
+        ],
+        "startAt": null,
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS",
+        "iconAddress": "",
+        "isAppendBonus": false,
+        "unconditionStockIds": []
+      }
+    ],
+    "overwriteBonuses": []
+  },
+  "26402": {
+    "salesId": 26402,
+    "regionId": 264,
+    "salesName": "宇宙ステーション・ヒーローワーク！（短中期）",
+    "iconFilename": "item_Frontier2604_surveydata",
+    "startAt": null,
+    "endAt": "2026-05-07 20:00:00",
+    "requiredTime": 14400,
+    "memberLimitNumber": 8,
+    "sortWeight": 1000,
+    "rewards": [
+      {
+        "salesId": 26402,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 560
+      },
+      {
+        "salesId": 26402,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 480
+      },
+      {
+        "salesId": 26402,
+        "rewardType": 3,
+        "objectId": 277,
+        "objectValue": 60
+      },
+      {
+        "salesId": 26402,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 320
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_FRONTIER2604_REPORT_1",
+        "condition": null
+      },
+      {
+        "textKey": "SALES_EVENT_FRONTIER2604_REPORT_2",
+        "condition": null
+      },
+      {
+        "textKey": "SALES_EVENT_FRONTIER2604_REPORT_3",
+        "condition": null
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "endAt": null,
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "startAt": null,
+        "isDisplay": false,
+        "iconAddress": "",
+        "isAppendBonus": false,
+        "unconditionStockIds": []
+      },
+      {
+        "class": "StockCountBonus",
+        "endAt": null,
+        "stocks": [
+          10253,
+          10342,
+          13161
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 10
+          },
+          {
+            "count": 2,
+            "upwardRate": 30
+          },
+          {
+            "count": 3,
+            "upwardRate": 50
+          }
+        ],
+        "startAt": null,
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS",
+        "iconAddress": "",
+        "isAppendBonus": false,
+        "unconditionStockIds": []
+      }
+    ],
+    "overwriteBonuses": []
+  },
+  "26403": {
+    "salesId": 26403,
+    "regionId": 264,
+    "salesName": "宇宙ステーション・ヒーローワーク！（中期）",
+    "iconFilename": "item_Frontier2604_surveydata",
+    "startAt": null,
+    "endAt": "2026-05-07 20:00:00",
+    "requiredTime": 28800,
+    "memberLimitNumber": 8,
+    "sortWeight": 1000,
+    "rewards": [
+      {
+        "salesId": 26403,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 1120
+      },
+      {
+        "salesId": 26403,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 960
+      },
+      {
+        "salesId": 26403,
+        "rewardType": 3,
+        "objectId": 277,
+        "objectValue": 120
+      },
+      {
+        "salesId": 26403,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 640
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_FRONTIER2604_REPORT_1",
+        "condition": null
+      },
+      {
+        "textKey": "SALES_EVENT_FRONTIER2604_REPORT_2",
+        "condition": null
+      },
+      {
+        "textKey": "SALES_EVENT_FRONTIER2604_REPORT_3",
+        "condition": null
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "endAt": null,
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "startAt": null,
+        "isDisplay": false,
+        "iconAddress": "",
+        "isAppendBonus": false,
+        "unconditionStockIds": []
+      },
+      {
+        "class": "StockCountBonus",
+        "endAt": null,
+        "stocks": [
+          10253,
+          10342,
+          13161
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 10
+          },
+          {
+            "count": 2,
+            "upwardRate": 30
+          },
+          {
+            "count": 3,
+            "upwardRate": 50
+          }
+        ],
+        "startAt": null,
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS",
+        "iconAddress": "",
+        "isAppendBonus": false,
+        "unconditionStockIds": []
+      }
+    ],
+    "overwriteBonuses": []
+  },
+  "26404": {
+    "salesId": 26404,
+    "regionId": 264,
+    "salesName": "宇宙ステーション・ヒーローワーク！（中長期）",
+    "iconFilename": "item_Frontier2604_surveydata",
+    "startAt": null,
+    "endAt": "2026-05-07 20:00:00",
+    "requiredTime": 43200,
+    "memberLimitNumber": 8,
+    "sortWeight": 1000,
+    "rewards": [
+      {
+        "salesId": 26404,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 1680
+      },
+      {
+        "salesId": 26404,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 1440
+      },
+      {
+        "salesId": 26404,
+        "rewardType": 3,
+        "objectId": 277,
+        "objectValue": 180
+      },
+      {
+        "salesId": 26404,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 960
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_FRONTIER2604_REPORT_1",
+        "condition": null
+      },
+      {
+        "textKey": "SALES_EVENT_FRONTIER2604_REPORT_2",
+        "condition": null
+      },
+      {
+        "textKey": "SALES_EVENT_FRONTIER2604_REPORT_3",
+        "condition": null
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "endAt": null,
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "startAt": null,
+        "isDisplay": false,
+        "iconAddress": "",
+        "isAppendBonus": false,
+        "unconditionStockIds": []
+      },
+      {
+        "class": "StockCountBonus",
+        "endAt": null,
+        "stocks": [
+          10253,
+          10342,
+          13161
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 10
+          },
+          {
+            "count": 2,
+            "upwardRate": 30
+          },
+          {
+            "count": 3,
+            "upwardRate": 50
+          }
+        ],
+        "startAt": null,
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS",
+        "iconAddress": "",
+        "isAppendBonus": false,
+        "unconditionStockIds": []
+      }
+    ],
+    "overwriteBonuses": []
+  },
+  "26405": {
+    "salesId": 26405,
+    "regionId": 264,
+    "salesName": "宇宙ステーション・ヒーローワーク！（長期）",
+    "iconFilename": "item_Frontier2604_surveydata",
+    "startAt": null,
+    "endAt": "2026-05-07 20:00:00",
+    "requiredTime": 57600,
+    "memberLimitNumber": 8,
+    "sortWeight": 1000,
+    "rewards": [
+      {
+        "salesId": 26405,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 2240
+      },
+      {
+        "salesId": 26405,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 1920
+      },
+      {
+        "salesId": 26405,
+        "rewardType": 3,
+        "objectId": 277,
+        "objectValue": 240
+      },
+      {
+        "salesId": 26405,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 1280
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_FRONTIER2604_REPORT_1",
+        "condition": null
+      },
+      {
+        "textKey": "SALES_EVENT_FRONTIER2604_REPORT_2",
+        "condition": null
+      },
+      {
+        "textKey": "SALES_EVENT_FRONTIER2604_REPORT_3",
+        "condition": null
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "endAt": null,
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "startAt": null,
+        "isDisplay": false,
+        "iconAddress": "",
+        "isAppendBonus": false,
+        "unconditionStockIds": []
+      },
+      {
+        "class": "StockCountBonus",
+        "endAt": null,
+        "stocks": [
+          10253,
+          10342,
+          13161
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 10
+          },
+          {
+            "count": 2,
+            "upwardRate": 30
+          },
+          {
+            "count": 3,
+            "upwardRate": 50
+          }
+        ],
+        "startAt": null,
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS",
+        "iconAddress": "",
+        "isAppendBonus": false,
+        "unconditionStockIds": []
+      }
+    ],
+    "overwriteBonuses": []
+  },
+  "26406": {
+    "salesId": 26406,
+    "regionId": 264,
+    "salesName": "宇宙ステーション・ヒーローワーク！（超長期）",
+    "iconFilename": "item_Frontier2604_surveydata",
+    "startAt": null,
+    "endAt": "2026-05-07 20:00:00",
+    "requiredTime": 86400,
+    "memberLimitNumber": 8,
+    "sortWeight": 1000,
+    "rewards": [
+      {
+        "salesId": 26406,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 3360
+      },
+      {
+        "salesId": 26406,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 2880
+      },
+      {
+        "salesId": 26406,
+        "rewardType": 3,
+        "objectId": 277,
+        "objectValue": 360
+      },
+      {
+        "salesId": 26406,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 1920
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_FRONTIER2604_REPORT_1",
+        "condition": null
+      },
+      {
+        "textKey": "SALES_EVENT_FRONTIER2604_REPORT_2",
+        "condition": null
+      },
+      {
+        "textKey": "SALES_EVENT_FRONTIER2604_REPORT_3",
+        "condition": null
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "endAt": null,
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "startAt": null,
+        "isDisplay": false,
+        "iconAddress": "",
+        "isAppendBonus": false,
+        "unconditionStockIds": []
+      },
+      {
+        "class": "StockCountBonus",
+        "endAt": null,
+        "stocks": [
+          10253,
+          10342,
+          13161
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 10
+          },
+          {
+            "count": 2,
+            "upwardRate": 30
+          },
+          {
+            "count": 3,
+            "upwardRate": 50
+          }
+        ],
+        "startAt": null,
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS",
+        "iconAddress": "",
+        "isAppendBonus": false,
+        "unconditionStockIds": []
+      }
+    ],
+    "overwriteBonuses": []
   }
 }
