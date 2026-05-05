@@ -1457,5 +1457,33 @@
         ]
       }
     ]
+  },
+  "1092": {
+    "backgroundId": 1092,
+    "iconAddress": "item_icon_bg_frontierbridge_fullscreen",
+    "bgAddress": "bg_frontierbridge_fullscreen",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          1256008
+        ]
+      }
+    ]
+  },
+  "1093": {
+    "backgroundId": 1093,
+    "iconAddress": "item_icon_bg_frontierorbit",
+    "bgAddress": "bg_frontierorbit",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          1256008
+        ]
+      }
+    ]
   }
 }
