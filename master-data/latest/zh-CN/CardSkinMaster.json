@@ -857,6 +857,14 @@
       "isDamage": true,
       "skinId": 3,
       "skinName": ""
+    },
+    {
+      "cardType": 1,
+      "visualType": 2,
+      "groupId": 1,
+      "isDamage": false,
+      "skinId": 2,
+      "skinName": ""
     }
   ],
   "10261": [
@@ -1122,6 +1130,16 @@
       "groupId": 1,
       "isDamage": false,
       "skinId": 1,
+      "skinName": ""
+    }
+  ],
+  "10342": [
+    {
+      "cardType": 1,
+      "visualType": 2,
+      "groupId": 1,
+      "isDamage": false,
+      "skinId": 2,
       "skinName": ""
     }
   ],
