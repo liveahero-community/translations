@@ -13898,5 +13898,31 @@
     "endAt": "2026-04-16 14:00:00",
     "roguePortalJson": null,
     "executeLimit": null
+  },
+  "1262": {
+    "chapterId": 1262,
+    "chapterGroupId": 0,
+    "groupType": 2,
+    "chapterType": 1,
+    "chapterName": "キャンペーンクエスト",
+    "subName": "宇宙の孤島にて",
+    "peepingName": "宇宙の孤島にて",
+    "sortWeight": 1000,
+    "bannerResourceName": "ui_banner_questchoice_event_Frontier2604_highdifficult",
+    "bgResourceName": "ui_bg_sprite_quest_highdifficult_Frontier2604",
+    "selectBannerAddress": "",
+    "helpPrefabAddress": "IslandInSpace2605HighDifficultyHelpWindow",
+    "questSelectPrefabAddress": "",
+    "storyLibraryPrefabAddress": "",
+    "missionGroupId": 0,
+    "scoreAttackStoreId": 0,
+    "scoreAttackItemIds": null,
+    "conditionChapterId": 0,
+    "conditionChapterButtonLabel": "",
+    "conditionChapterDescription": "",
+    "startAt": "2026-05-12 18:00:00",
+    "endAt": "2026-05-26 14:00:00",
+    "roguePortalJson": null,
+    "executeLimit": null
   }
 }

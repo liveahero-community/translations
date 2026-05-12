@@ -72054,6 +72054,32 @@
     "sceneCategory": 7,
     "overwriteRewards": []
   },
+  "22689": {
+    "missionId": 22689,
+    "missionCategory": 2,
+    "missionGroupId": 2,
+    "missionTextKey": "MISSION_22689_LABEL",
+    "count": 1,
+    "sortWeight": 900,
+    "startAt": "2026-05-12 17:55:00",
+    "endAt": "2026-06-02 20:00:00",
+    "receiveConditions": [],
+    "displayConditions": [],
+    "bannerAddress": "",
+    "rewards": [
+      {
+        "rewardType": 15,
+        "objectId": 58,
+        "objectValue": 1,
+        "bonus": 100,
+        "fixAddValue": 0,
+        "isAddDrop": false,
+        "isAddReward": false
+      }
+    ],
+    "sceneCategory": 7,
+    "overwriteRewards": []
+  },
   "30001": {
     "missionId": 30001,
     "missionCategory": 3,
