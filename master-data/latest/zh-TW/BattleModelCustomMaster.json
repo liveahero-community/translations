@@ -10850,5 +10850,53 @@
       "targetStockId": 12301,
       "attachmentName": "fish"
     }
+  },
+  "1217": {
+    "itemId": 21021201,
+    "customJson": {
+      "class": "CustomPlayTurnEffect",
+      "effectAddress": "blooming_Battlein_Effect",
+      "targetStockId": 10212
+    }
+  },
+  "1218": {
+    "itemId": 21021201,
+    "customJson": {
+      "class": "CustomGetTurnEffect",
+      "effectAddress": "TurnObject_Blooming",
+      "targetStockId": 10212
+    }
+  },
+  "1219": {
+    "itemId": 21318101,
+    "customJson": {
+      "class": "CustomPlayTurnEffect",
+      "effectAddress": "blooming_Battlein_Effect",
+      "targetStockId": 13181
+    }
+  },
+  "1220": {
+    "itemId": 21318101,
+    "customJson": {
+      "class": "CustomGetTurnEffect",
+      "effectAddress": "TurnObject_Blooming",
+      "targetStockId": 13181
+    }
+  },
+  "1221": {
+    "itemId": 21319101,
+    "customJson": {
+      "class": "CustomPlayTurnEffect",
+      "effectAddress": "blooming_Battlein_Effect",
+      "targetStockId": 13191
+    }
+  },
+  "1222": {
+    "itemId": 21319101,
+    "customJson": {
+      "class": "CustomGetTurnEffect",
+      "effectAddress": "TurnObject_Blooming",
+      "targetStockId": 13191
+    }
   }
 }

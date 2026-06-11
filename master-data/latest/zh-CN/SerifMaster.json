@@ -2335,6 +2335,78 @@
       "isInHome": true
     }
   ],
+  "10212": [
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 4,
+      "faceType": "",
+      "serifKey": "SERIF_LORENMAIN24_PLAYER",
+      "voiceFilename": "",
+      "resourceName": "lorenMain24",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 5,
+      "faceType": "b",
+      "serifKey": "SERIF_LORENMAIN24_HERO",
+      "voiceFilename": "",
+      "resourceName": "lorenMain24",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 12,
+      "faceType": "c",
+      "serifKey": "SERIF_LORENMAIN24_TOUCH",
+      "voiceFilename": "",
+      "resourceName": "lorenMain24",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 27,
+      "faceType": "c",
+      "serifKey": "SERIF_LORENMAIN24_EVENTA",
+      "voiceFilename": "",
+      "resourceName": "lorenMain24",
+      "isInHome": false
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 28,
+      "faceType": "",
+      "serifKey": "SERIF_LORENMAIN24_EVENTB",
+      "voiceFilename": "",
+      "resourceName": "lorenMain24",
+      "isInHome": false
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 29,
+      "faceType": "f",
+      "serifKey": "SERIF_LORENMAIN24_EVENTC",
+      "voiceFilename": "",
+      "resourceName": "lorenMain24",
+      "isInHome": false
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 30,
+      "faceType": "b",
+      "serifKey": "SERIF_LORENMAIN24_EVENTD",
+      "voiceFilename": "",
+      "resourceName": "lorenMain24",
+      "isInHome": false
+    }
+  ],
   "10221": [
     {
       "cardType": 2,
@@ -15394,6 +15466,210 @@
       "serifKey": "SERIF_RETICUL_EVENTE",
       "voiceFilename": "",
       "resourceName": "reticul",
+      "isInHome": false
+    }
+  ],
+  "13181": [
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 4,
+      "faceType": "",
+      "serifKey": "SERIF_XENOAKASHI_PLAYER",
+      "voiceFilename": "",
+      "resourceName": "xenoAkashi",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 5,
+      "faceType": "b",
+      "serifKey": "SERIF_XENOAKASHI_HERO",
+      "voiceFilename": "",
+      "resourceName": "xenoAkashi",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 12,
+      "faceType": "d",
+      "serifKey": "SERIF_XENOAKASHI_TOUCH",
+      "voiceFilename": "",
+      "resourceName": "xenoAkashi",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 3,
+      "faceType": "",
+      "serifKey": "SERIF_XENOAKASHI_DAILY",
+      "voiceFilename": "",
+      "resourceName": "xenoAkashi",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 6,
+      "faceType": "e",
+      "serifKey": "SERIF_XENOAKASHI_RELATION",
+      "voiceFilename": "",
+      "resourceName": "xenoAkashi",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 11,
+      "faceType": "d",
+      "serifKey": "SERIF_XENOAKASHI_APPRECIATION",
+      "voiceFilename": "",
+      "resourceName": "xenoAkashi",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 27,
+      "faceType": "",
+      "serifKey": "SERIF_XENOAKASHI_EVENTA",
+      "voiceFilename": "",
+      "resourceName": "xenoAkashi",
+      "isInHome": false
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 28,
+      "faceType": "d",
+      "serifKey": "SERIF_XENOAKASHI_EVENTB",
+      "voiceFilename": "",
+      "resourceName": "xenoAkashi",
+      "isInHome": false
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 29,
+      "faceType": "",
+      "serifKey": "SERIF_XENOAKASHI_EVENTC",
+      "voiceFilename": "",
+      "resourceName": "xenoAkashi",
+      "isInHome": false
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 30,
+      "faceType": "c",
+      "serifKey": "SERIF_XENOAKASHI_EVENTD",
+      "voiceFilename": "",
+      "resourceName": "xenoAkashi",
+      "isInHome": false
+    }
+  ],
+  "13191": [
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 4,
+      "faceType": "",
+      "serifKey": "SERIF_NORBRAND_PLAYER",
+      "voiceFilename": "",
+      "resourceName": "norbrand",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 5,
+      "faceType": "e",
+      "serifKey": "SERIF_NORBRAND_HERO",
+      "voiceFilename": "",
+      "resourceName": "norbrand",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 12,
+      "faceType": "b",
+      "serifKey": "SERIF_NORBRAND_TOUCH",
+      "voiceFilename": "",
+      "resourceName": "norbrand",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 3,
+      "faceType": "c",
+      "serifKey": "SERIF_NORBRAND_DAILY",
+      "voiceFilename": "",
+      "resourceName": "norbrand",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 6,
+      "faceType": "",
+      "serifKey": "SERIF_NORBRAND_RELATION",
+      "voiceFilename": "",
+      "resourceName": "norbrand",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 11,
+      "faceType": "",
+      "serifKey": "SERIF_NORBRAND_APPRECIATION",
+      "voiceFilename": "",
+      "resourceName": "norbrand",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 27,
+      "faceType": "",
+      "serifKey": "SERIF_NORBRAND_EVENTA",
+      "voiceFilename": "",
+      "resourceName": "norbrand",
+      "isInHome": false
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 28,
+      "faceType": "e",
+      "serifKey": "SERIF_NORBRAND_EVENTB",
+      "voiceFilename": "",
+      "resourceName": "norbrand",
+      "isInHome": false
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 29,
+      "faceType": "",
+      "serifKey": "SERIF_NORBRAND_EVENTC",
+      "voiceFilename": "",
+      "resourceName": "norbrand",
+      "isInHome": false
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 30,
+      "faceType": "c",
+      "serifKey": "SERIF_NORBRAND_EVENTD",
+      "voiceFilename": "",
+      "resourceName": "norbrand",
       "isInHome": false
     }
   ],
