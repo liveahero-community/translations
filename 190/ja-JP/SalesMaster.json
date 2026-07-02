@@ -1,0 +1,7034 @@
+{
+  "10101": {
+    "salesId": 10101,
+    "regionId": 101,
+    "salesName": "成長！EXP営業！（短期）",
+    "iconFilename": "item_exp",
+    "startAt": null,
+    "endAt": null,
+    "requiredTime": 7200,
+    "memberLimitNumber": 8,
+    "rewards": [
+      {
+        "salesId": 10101,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 400
+      },
+      {
+        "salesId": 10101,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 400
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 10101
+      },
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 10101
+      },
+      {
+        "textKey": "SALES_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 10101
+      },
+      {
+        "textKey": "SALES_REPORT_4",
+        "condition": null,
+        "laravelThroughKey": 10101
+      },
+      {
+        "textKey": "SALES_REPORT_5",
+        "condition": null,
+        "laravelThroughKey": 10101
+      },
+      {
+        "textKey": "SALES_REPORT_6",
+        "condition": null,
+        "laravelThroughKey": 10101
+      },
+      {
+        "textKey": "SALES_REPORT_7",
+        "condition": null,
+        "laravelThroughKey": 10101
+      },
+      {
+        "textKey": "SALES_REPORT_8",
+        "condition": null,
+        "laravelThroughKey": 10101
+      },
+      {
+        "textKey": "SALES_REPORT_9",
+        "condition": null,
+        "laravelThroughKey": 10101
+      },
+      {
+        "textKey": "SALES_REPORT_10",
+        "condition": null,
+        "laravelThroughKey": 10101
+      },
+      {
+        "textKey": "SALES_REPORT_11",
+        "condition": null,
+        "laravelThroughKey": 10101
+      },
+      {
+        "textKey": "SALES_REPORT_12",
+        "condition": null,
+        "laravelThroughKey": 10101
+      },
+      {
+        "textKey": "SALES_REPORT_13",
+        "condition": null,
+        "laravelThroughKey": 10101
+      },
+      {
+        "textKey": "SALES_REPORT_14",
+        "condition": null,
+        "laravelThroughKey": 10101
+      },
+      {
+        "textKey": "SALES_REPORT_15",
+        "condition": null,
+        "laravelThroughKey": 10101
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "class": "RankCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "operation": "<="
+      }
+    ]
+  },
+  "10102": {
+    "salesId": 10102,
+    "regionId": 101,
+    "salesName": "成長！EXP営業！（中期）",
+    "iconFilename": "item_exp",
+    "startAt": null,
+    "endAt": null,
+    "requiredTime": 14400,
+    "memberLimitNumber": 8,
+    "rewards": [
+      {
+        "salesId": 10102,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 800
+      },
+      {
+        "salesId": 10102,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 800
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 10102
+      },
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 10102
+      },
+      {
+        "textKey": "SALES_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 10102
+      },
+      {
+        "textKey": "SALES_REPORT_4",
+        "condition": null,
+        "laravelThroughKey": 10102
+      },
+      {
+        "textKey": "SALES_REPORT_5",
+        "condition": null,
+        "laravelThroughKey": 10102
+      },
+      {
+        "textKey": "SALES_REPORT_6",
+        "condition": null,
+        "laravelThroughKey": 10102
+      },
+      {
+        "textKey": "SALES_REPORT_7",
+        "condition": null,
+        "laravelThroughKey": 10102
+      },
+      {
+        "textKey": "SALES_REPORT_8",
+        "condition": null,
+        "laravelThroughKey": 10102
+      },
+      {
+        "textKey": "SALES_REPORT_9",
+        "condition": null,
+        "laravelThroughKey": 10102
+      },
+      {
+        "textKey": "SALES_REPORT_10",
+        "condition": null,
+        "laravelThroughKey": 10102
+      },
+      {
+        "textKey": "SALES_REPORT_11",
+        "condition": null,
+        "laravelThroughKey": 10102
+      },
+      {
+        "textKey": "SALES_REPORT_12",
+        "condition": null,
+        "laravelThroughKey": 10102
+      },
+      {
+        "textKey": "SALES_REPORT_13",
+        "condition": null,
+        "laravelThroughKey": 10102
+      },
+      {
+        "textKey": "SALES_REPORT_14",
+        "condition": null,
+        "laravelThroughKey": 10102
+      },
+      {
+        "textKey": "SALES_REPORT_15",
+        "condition": null,
+        "laravelThroughKey": 10102
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "class": "RankCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "operation": "<="
+      }
+    ]
+  },
+  "10103": {
+    "salesId": 10103,
+    "regionId": 101,
+    "salesName": "成長！EXP営業！（中長期）",
+    "iconFilename": "item_exp",
+    "startAt": null,
+    "endAt": null,
+    "requiredTime": 28800,
+    "memberLimitNumber": 8,
+    "rewards": [
+      {
+        "salesId": 10103,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 1600
+      },
+      {
+        "salesId": 10103,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 1600
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 10103
+      },
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 10103
+      },
+      {
+        "textKey": "SALES_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 10103
+      },
+      {
+        "textKey": "SALES_REPORT_4",
+        "condition": null,
+        "laravelThroughKey": 10103
+      },
+      {
+        "textKey": "SALES_REPORT_5",
+        "condition": null,
+        "laravelThroughKey": 10103
+      },
+      {
+        "textKey": "SALES_REPORT_6",
+        "condition": null,
+        "laravelThroughKey": 10103
+      },
+      {
+        "textKey": "SALES_REPORT_7",
+        "condition": null,
+        "laravelThroughKey": 10103
+      },
+      {
+        "textKey": "SALES_REPORT_8",
+        "condition": null,
+        "laravelThroughKey": 10103
+      },
+      {
+        "textKey": "SALES_REPORT_9",
+        "condition": null,
+        "laravelThroughKey": 10103
+      },
+      {
+        "textKey": "SALES_REPORT_10",
+        "condition": null,
+        "laravelThroughKey": 10103
+      },
+      {
+        "textKey": "SALES_REPORT_11",
+        "condition": null,
+        "laravelThroughKey": 10103
+      },
+      {
+        "textKey": "SALES_REPORT_12",
+        "condition": null,
+        "laravelThroughKey": 10103
+      },
+      {
+        "textKey": "SALES_REPORT_13",
+        "condition": null,
+        "laravelThroughKey": 10103
+      },
+      {
+        "textKey": "SALES_REPORT_14",
+        "condition": null,
+        "laravelThroughKey": 10103
+      },
+      {
+        "textKey": "SALES_REPORT_15",
+        "condition": null,
+        "laravelThroughKey": 10103
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "class": "RankCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "operation": "<="
+      }
+    ]
+  },
+  "10104": {
+    "salesId": 10104,
+    "regionId": 101,
+    "salesName": "成長！EXP営業！（長期）",
+    "iconFilename": "item_exp",
+    "startAt": null,
+    "endAt": null,
+    "requiredTime": 57600,
+    "memberLimitNumber": 8,
+    "rewards": [
+      {
+        "salesId": 10104,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 3200
+      },
+      {
+        "salesId": 10104,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 3200
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 10104
+      },
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 10104
+      },
+      {
+        "textKey": "SALES_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 10104
+      },
+      {
+        "textKey": "SALES_REPORT_4",
+        "condition": null,
+        "laravelThroughKey": 10104
+      },
+      {
+        "textKey": "SALES_REPORT_5",
+        "condition": null,
+        "laravelThroughKey": 10104
+      },
+      {
+        "textKey": "SALES_REPORT_6",
+        "condition": null,
+        "laravelThroughKey": 10104
+      },
+      {
+        "textKey": "SALES_REPORT_7",
+        "condition": null,
+        "laravelThroughKey": 10104
+      },
+      {
+        "textKey": "SALES_REPORT_8",
+        "condition": null,
+        "laravelThroughKey": 10104
+      },
+      {
+        "textKey": "SALES_REPORT_9",
+        "condition": null,
+        "laravelThroughKey": 10104
+      },
+      {
+        "textKey": "SALES_REPORT_10",
+        "condition": null,
+        "laravelThroughKey": 10104
+      },
+      {
+        "textKey": "SALES_REPORT_11",
+        "condition": null,
+        "laravelThroughKey": 10104
+      },
+      {
+        "textKey": "SALES_REPORT_12",
+        "condition": null,
+        "laravelThroughKey": 10104
+      },
+      {
+        "textKey": "SALES_REPORT_13",
+        "condition": null,
+        "laravelThroughKey": 10104
+      },
+      {
+        "textKey": "SALES_REPORT_14",
+        "condition": null,
+        "laravelThroughKey": 10104
+      },
+      {
+        "textKey": "SALES_REPORT_15",
+        "condition": null,
+        "laravelThroughKey": 10104
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "class": "RankCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "operation": "<="
+      }
+    ]
+  },
+  "10301": {
+    "salesId": 10301,
+    "regionId": 103,
+    "salesName": "遠征！ラフ稼ぎ！（短期）",
+    "iconFilename": "item_lah",
+    "startAt": null,
+    "endAt": null,
+    "requiredTime": 7200,
+    "memberLimitNumber": 8,
+    "rewards": [
+      {
+        "salesId": 10301,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 960
+      },
+      {
+        "salesId": 10301,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 160
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 10301
+      },
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 10301
+      },
+      {
+        "textKey": "SALES_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 10301
+      },
+      {
+        "textKey": "SALES_REPORT_4",
+        "condition": null,
+        "laravelThroughKey": 10301
+      },
+      {
+        "textKey": "SALES_REPORT_5",
+        "condition": null,
+        "laravelThroughKey": 10301
+      },
+      {
+        "textKey": "SALES_REPORT_6",
+        "condition": null,
+        "laravelThroughKey": 10301
+      },
+      {
+        "textKey": "SALES_REPORT_7",
+        "condition": null,
+        "laravelThroughKey": 10301
+      },
+      {
+        "textKey": "SALES_REPORT_8",
+        "condition": null,
+        "laravelThroughKey": 10301
+      },
+      {
+        "textKey": "SALES_REPORT_9",
+        "condition": null,
+        "laravelThroughKey": 10301
+      },
+      {
+        "textKey": "SALES_REPORT_10",
+        "condition": null,
+        "laravelThroughKey": 10301
+      },
+      {
+        "textKey": "SALES_REPORT_11",
+        "condition": null,
+        "laravelThroughKey": 10301
+      },
+      {
+        "textKey": "SALES_REPORT_12",
+        "condition": null,
+        "laravelThroughKey": 10301
+      },
+      {
+        "textKey": "SALES_REPORT_13",
+        "condition": null,
+        "laravelThroughKey": 10301
+      },
+      {
+        "textKey": "SALES_REPORT_14",
+        "condition": null,
+        "laravelThroughKey": 10301
+      },
+      {
+        "textKey": "SALES_REPORT_15",
+        "condition": null,
+        "laravelThroughKey": 10301
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "class": "RankCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "operation": "<="
+      }
+    ]
+  },
+  "10302": {
+    "salesId": 10302,
+    "regionId": 103,
+    "salesName": "遠征！ラフ稼ぎ！（中期）",
+    "iconFilename": "item_lah",
+    "startAt": null,
+    "endAt": null,
+    "requiredTime": 14400,
+    "memberLimitNumber": 8,
+    "rewards": [
+      {
+        "salesId": 10302,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 1920
+      },
+      {
+        "salesId": 10302,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 320
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 10302
+      },
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 10302
+      },
+      {
+        "textKey": "SALES_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 10302
+      },
+      {
+        "textKey": "SALES_REPORT_4",
+        "condition": null,
+        "laravelThroughKey": 10302
+      },
+      {
+        "textKey": "SALES_REPORT_5",
+        "condition": null,
+        "laravelThroughKey": 10302
+      },
+      {
+        "textKey": "SALES_REPORT_6",
+        "condition": null,
+        "laravelThroughKey": 10302
+      },
+      {
+        "textKey": "SALES_REPORT_7",
+        "condition": null,
+        "laravelThroughKey": 10302
+      },
+      {
+        "textKey": "SALES_REPORT_8",
+        "condition": null,
+        "laravelThroughKey": 10302
+      },
+      {
+        "textKey": "SALES_REPORT_9",
+        "condition": null,
+        "laravelThroughKey": 10302
+      },
+      {
+        "textKey": "SALES_REPORT_10",
+        "condition": null,
+        "laravelThroughKey": 10302
+      },
+      {
+        "textKey": "SALES_REPORT_11",
+        "condition": null,
+        "laravelThroughKey": 10302
+      },
+      {
+        "textKey": "SALES_REPORT_12",
+        "condition": null,
+        "laravelThroughKey": 10302
+      },
+      {
+        "textKey": "SALES_REPORT_13",
+        "condition": null,
+        "laravelThroughKey": 10302
+      },
+      {
+        "textKey": "SALES_REPORT_14",
+        "condition": null,
+        "laravelThroughKey": 10302
+      },
+      {
+        "textKey": "SALES_REPORT_15",
+        "condition": null,
+        "laravelThroughKey": 10302
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "class": "RankCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "operation": "<="
+      }
+    ]
+  },
+  "10303": {
+    "salesId": 10303,
+    "regionId": 103,
+    "salesName": "遠征！ラフ稼ぎ！（中長期）",
+    "iconFilename": "item_lah",
+    "startAt": null,
+    "endAt": null,
+    "requiredTime": 28800,
+    "memberLimitNumber": 8,
+    "rewards": [
+      {
+        "salesId": 10303,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 3840
+      },
+      {
+        "salesId": 10303,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 640
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 10303
+      },
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 10303
+      },
+      {
+        "textKey": "SALES_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 10303
+      },
+      {
+        "textKey": "SALES_REPORT_4",
+        "condition": null,
+        "laravelThroughKey": 10303
+      },
+      {
+        "textKey": "SALES_REPORT_5",
+        "condition": null,
+        "laravelThroughKey": 10303
+      },
+      {
+        "textKey": "SALES_REPORT_6",
+        "condition": null,
+        "laravelThroughKey": 10303
+      },
+      {
+        "textKey": "SALES_REPORT_7",
+        "condition": null,
+        "laravelThroughKey": 10303
+      },
+      {
+        "textKey": "SALES_REPORT_8",
+        "condition": null,
+        "laravelThroughKey": 10303
+      },
+      {
+        "textKey": "SALES_REPORT_9",
+        "condition": null,
+        "laravelThroughKey": 10303
+      },
+      {
+        "textKey": "SALES_REPORT_10",
+        "condition": null,
+        "laravelThroughKey": 10303
+      },
+      {
+        "textKey": "SALES_REPORT_11",
+        "condition": null,
+        "laravelThroughKey": 10303
+      },
+      {
+        "textKey": "SALES_REPORT_12",
+        "condition": null,
+        "laravelThroughKey": 10303
+      },
+      {
+        "textKey": "SALES_REPORT_13",
+        "condition": null,
+        "laravelThroughKey": 10303
+      },
+      {
+        "textKey": "SALES_REPORT_14",
+        "condition": null,
+        "laravelThroughKey": 10303
+      },
+      {
+        "textKey": "SALES_REPORT_15",
+        "condition": null,
+        "laravelThroughKey": 10303
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "class": "RankCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "operation": "<="
+      }
+    ]
+  },
+  "10304": {
+    "salesId": 10304,
+    "regionId": 103,
+    "salesName": "遠征！ラフ稼ぎ！（長期）",
+    "iconFilename": "item_lah",
+    "startAt": null,
+    "endAt": null,
+    "requiredTime": 57600,
+    "memberLimitNumber": 8,
+    "rewards": [
+      {
+        "salesId": 10304,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 7680
+      },
+      {
+        "salesId": 10304,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 1280
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 10304
+      },
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 10304
+      },
+      {
+        "textKey": "SALES_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 10304
+      },
+      {
+        "textKey": "SALES_REPORT_4",
+        "condition": null,
+        "laravelThroughKey": 10304
+      },
+      {
+        "textKey": "SALES_REPORT_5",
+        "condition": null,
+        "laravelThroughKey": 10304
+      },
+      {
+        "textKey": "SALES_REPORT_6",
+        "condition": null,
+        "laravelThroughKey": 10304
+      },
+      {
+        "textKey": "SALES_REPORT_7",
+        "condition": null,
+        "laravelThroughKey": 10304
+      },
+      {
+        "textKey": "SALES_REPORT_8",
+        "condition": null,
+        "laravelThroughKey": 10304
+      },
+      {
+        "textKey": "SALES_REPORT_9",
+        "condition": null,
+        "laravelThroughKey": 10304
+      },
+      {
+        "textKey": "SALES_REPORT_10",
+        "condition": null,
+        "laravelThroughKey": 10304
+      },
+      {
+        "textKey": "SALES_REPORT_11",
+        "condition": null,
+        "laravelThroughKey": 10304
+      },
+      {
+        "textKey": "SALES_REPORT_12",
+        "condition": null,
+        "laravelThroughKey": 10304
+      },
+      {
+        "textKey": "SALES_REPORT_13",
+        "condition": null,
+        "laravelThroughKey": 10304
+      },
+      {
+        "textKey": "SALES_REPORT_14",
+        "condition": null,
+        "laravelThroughKey": 10304
+      },
+      {
+        "textKey": "SALES_REPORT_15",
+        "condition": null,
+        "laravelThroughKey": 10304
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "class": "RankCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "operation": "<="
+      }
+    ]
+  },
+  "10401": {
+    "salesId": 10401,
+    "regionId": 104,
+    "salesName": "結べ絆！リレーション営業（短期）",
+    "iconFilename": "item_trainingband",
+    "startAt": null,
+    "endAt": null,
+    "requiredTime": 7200,
+    "memberLimitNumber": 8,
+    "rewards": [
+      {
+        "salesId": 10401,
+        "rewardType": 3,
+        "objectId": 30,
+        "objectValue": 640
+      },
+      {
+        "salesId": 10401,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 160
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 10401
+      },
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 10401
+      },
+      {
+        "textKey": "SALES_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 10401
+      },
+      {
+        "textKey": "SALES_REPORT_4",
+        "condition": null,
+        "laravelThroughKey": 10401
+      },
+      {
+        "textKey": "SALES_REPORT_5",
+        "condition": null,
+        "laravelThroughKey": 10401
+      },
+      {
+        "textKey": "SALES_REPORT_6",
+        "condition": null,
+        "laravelThroughKey": 10401
+      },
+      {
+        "textKey": "SALES_REPORT_7",
+        "condition": null,
+        "laravelThroughKey": 10401
+      },
+      {
+        "textKey": "SALES_REPORT_8",
+        "condition": null,
+        "laravelThroughKey": 10401
+      },
+      {
+        "textKey": "SALES_REPORT_9",
+        "condition": null,
+        "laravelThroughKey": 10401
+      },
+      {
+        "textKey": "SALES_REPORT_10",
+        "condition": null,
+        "laravelThroughKey": 10401
+      },
+      {
+        "textKey": "SALES_REPORT_11",
+        "condition": null,
+        "laravelThroughKey": 10401
+      },
+      {
+        "textKey": "SALES_REPORT_12",
+        "condition": null,
+        "laravelThroughKey": 10401
+      },
+      {
+        "textKey": "SALES_REPORT_13",
+        "condition": null,
+        "laravelThroughKey": 10401
+      },
+      {
+        "textKey": "SALES_REPORT_14",
+        "condition": null,
+        "laravelThroughKey": 10401
+      },
+      {
+        "textKey": "SALES_REPORT_15",
+        "condition": null,
+        "laravelThroughKey": 10401
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "class": "RankCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "operation": "<="
+      }
+    ]
+  },
+  "10402": {
+    "salesId": 10402,
+    "regionId": 104,
+    "salesName": "結べ絆！リレーション営業（中期）",
+    "iconFilename": "item_trainingband",
+    "startAt": null,
+    "endAt": null,
+    "requiredTime": 14400,
+    "memberLimitNumber": 8,
+    "rewards": [
+      {
+        "salesId": 10402,
+        "rewardType": 3,
+        "objectId": 30,
+        "objectValue": 1280
+      },
+      {
+        "salesId": 10402,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 320
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 10402
+      },
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 10402
+      },
+      {
+        "textKey": "SALES_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 10402
+      },
+      {
+        "textKey": "SALES_REPORT_4",
+        "condition": null,
+        "laravelThroughKey": 10402
+      },
+      {
+        "textKey": "SALES_REPORT_5",
+        "condition": null,
+        "laravelThroughKey": 10402
+      },
+      {
+        "textKey": "SALES_REPORT_6",
+        "condition": null,
+        "laravelThroughKey": 10402
+      },
+      {
+        "textKey": "SALES_REPORT_7",
+        "condition": null,
+        "laravelThroughKey": 10402
+      },
+      {
+        "textKey": "SALES_REPORT_8",
+        "condition": null,
+        "laravelThroughKey": 10402
+      },
+      {
+        "textKey": "SALES_REPORT_9",
+        "condition": null,
+        "laravelThroughKey": 10402
+      },
+      {
+        "textKey": "SALES_REPORT_10",
+        "condition": null,
+        "laravelThroughKey": 10402
+      },
+      {
+        "textKey": "SALES_REPORT_11",
+        "condition": null,
+        "laravelThroughKey": 10402
+      },
+      {
+        "textKey": "SALES_REPORT_12",
+        "condition": null,
+        "laravelThroughKey": 10402
+      },
+      {
+        "textKey": "SALES_REPORT_13",
+        "condition": null,
+        "laravelThroughKey": 10402
+      },
+      {
+        "textKey": "SALES_REPORT_14",
+        "condition": null,
+        "laravelThroughKey": 10402
+      },
+      {
+        "textKey": "SALES_REPORT_15",
+        "condition": null,
+        "laravelThroughKey": 10402
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "class": "RankCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "operation": "<="
+      }
+    ]
+  },
+  "10403": {
+    "salesId": 10403,
+    "regionId": 104,
+    "salesName": "結べ絆！リレーション営業（中長期）",
+    "iconFilename": "item_trainingband",
+    "startAt": null,
+    "endAt": null,
+    "requiredTime": 28800,
+    "memberLimitNumber": 8,
+    "rewards": [
+      {
+        "salesId": 10403,
+        "rewardType": 3,
+        "objectId": 30,
+        "objectValue": 2560
+      },
+      {
+        "salesId": 10403,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 640
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 10403
+      },
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 10403
+      },
+      {
+        "textKey": "SALES_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 10403
+      },
+      {
+        "textKey": "SALES_REPORT_4",
+        "condition": null,
+        "laravelThroughKey": 10403
+      },
+      {
+        "textKey": "SALES_REPORT_5",
+        "condition": null,
+        "laravelThroughKey": 10403
+      },
+      {
+        "textKey": "SALES_REPORT_6",
+        "condition": null,
+        "laravelThroughKey": 10403
+      },
+      {
+        "textKey": "SALES_REPORT_7",
+        "condition": null,
+        "laravelThroughKey": 10403
+      },
+      {
+        "textKey": "SALES_REPORT_8",
+        "condition": null,
+        "laravelThroughKey": 10403
+      },
+      {
+        "textKey": "SALES_REPORT_9",
+        "condition": null,
+        "laravelThroughKey": 10403
+      },
+      {
+        "textKey": "SALES_REPORT_10",
+        "condition": null,
+        "laravelThroughKey": 10403
+      },
+      {
+        "textKey": "SALES_REPORT_11",
+        "condition": null,
+        "laravelThroughKey": 10403
+      },
+      {
+        "textKey": "SALES_REPORT_12",
+        "condition": null,
+        "laravelThroughKey": 10403
+      },
+      {
+        "textKey": "SALES_REPORT_13",
+        "condition": null,
+        "laravelThroughKey": 10403
+      },
+      {
+        "textKey": "SALES_REPORT_14",
+        "condition": null,
+        "laravelThroughKey": 10403
+      },
+      {
+        "textKey": "SALES_REPORT_15",
+        "condition": null,
+        "laravelThroughKey": 10403
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "class": "RankCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "operation": "<="
+      }
+    ]
+  },
+  "10404": {
+    "salesId": 10404,
+    "regionId": 104,
+    "salesName": "結べ絆！リレーション営業（長期）",
+    "iconFilename": "item_trainingband",
+    "startAt": null,
+    "endAt": null,
+    "requiredTime": 57600,
+    "memberLimitNumber": 8,
+    "rewards": [
+      {
+        "salesId": 10404,
+        "rewardType": 3,
+        "objectId": 30,
+        "objectValue": 5120
+      },
+      {
+        "salesId": 10404,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 1280
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 10404
+      },
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 10404
+      },
+      {
+        "textKey": "SALES_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 10404
+      },
+      {
+        "textKey": "SALES_REPORT_4",
+        "condition": null,
+        "laravelThroughKey": 10404
+      },
+      {
+        "textKey": "SALES_REPORT_5",
+        "condition": null,
+        "laravelThroughKey": 10404
+      },
+      {
+        "textKey": "SALES_REPORT_6",
+        "condition": null,
+        "laravelThroughKey": 10404
+      },
+      {
+        "textKey": "SALES_REPORT_7",
+        "condition": null,
+        "laravelThroughKey": 10404
+      },
+      {
+        "textKey": "SALES_REPORT_8",
+        "condition": null,
+        "laravelThroughKey": 10404
+      },
+      {
+        "textKey": "SALES_REPORT_9",
+        "condition": null,
+        "laravelThroughKey": 10404
+      },
+      {
+        "textKey": "SALES_REPORT_10",
+        "condition": null,
+        "laravelThroughKey": 10404
+      },
+      {
+        "textKey": "SALES_REPORT_11",
+        "condition": null,
+        "laravelThroughKey": 10404
+      },
+      {
+        "textKey": "SALES_REPORT_12",
+        "condition": null,
+        "laravelThroughKey": 10404
+      },
+      {
+        "textKey": "SALES_REPORT_13",
+        "condition": null,
+        "laravelThroughKey": 10404
+      },
+      {
+        "textKey": "SALES_REPORT_14",
+        "condition": null,
+        "laravelThroughKey": 10404
+      },
+      {
+        "textKey": "SALES_REPORT_15",
+        "condition": null,
+        "laravelThroughKey": 10404
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "class": "RankCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "operation": "<="
+      }
+    ]
+  },
+  "20101": {
+    "salesId": 20101,
+    "regionId": 201,
+    "salesName": "出発！聞き込み調査！（短期）",
+    "iconFilename": "item_2010akatsuki_exchange01",
+    "startAt": null,
+    "endAt": "2020-11-06 20:00:00",
+    "requiredTime": 7200,
+    "memberLimitNumber": 8,
+    "rewards": [
+      {
+        "salesId": 20101,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 280
+      },
+      {
+        "salesId": 20101,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 240
+      },
+      {
+        "salesId": 20101,
+        "rewardType": 3,
+        "objectId": 48,
+        "objectValue": 12
+      },
+      {
+        "salesId": 20101,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 160
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_AKATSUKI_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20101
+      },
+      {
+        "textKey": "SALES_EVENT_AKATSUKI_REPORT_2",
+        "condition": null,
+        "laravelThroughKey": 20101
+      },
+      {
+        "textKey": "SALES_EVENT_AKATSUKI_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 20101
+      },
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20101
+      },
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20101
+      },
+      {
+        "textKey": "SALES_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 20101
+      },
+      {
+        "textKey": "SALES_REPORT_4",
+        "condition": null,
+        "laravelThroughKey": 20101
+      },
+      {
+        "textKey": "SALES_REPORT_5",
+        "condition": null,
+        "laravelThroughKey": 20101
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ]
+      },
+      {
+        "class": "StockCountBonus",
+        "stocks": [
+          10071,
+          10331
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 25
+          },
+          {
+            "count": 2,
+            "upwardRate": 50
+          }
+        ],
+        "description": "SALES_BONUS_DESCRIPTION_TEST_EVENT"
+      }
+    ]
+  },
+  "20102": {
+    "salesId": 20102,
+    "regionId": 201,
+    "salesName": "出発！聞き込み調査！（中期）",
+    "iconFilename": "item_2010akatsuki_exchange01",
+    "startAt": null,
+    "endAt": "2020-11-06 20:00:00",
+    "requiredTime": 14400,
+    "memberLimitNumber": 8,
+    "rewards": [
+      {
+        "salesId": 20102,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 560
+      },
+      {
+        "salesId": 20102,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 480
+      },
+      {
+        "salesId": 20102,
+        "rewardType": 3,
+        "objectId": 48,
+        "objectValue": 24
+      },
+      {
+        "salesId": 20102,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 320
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_AKATSUKI_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20102
+      },
+      {
+        "textKey": "SALES_EVENT_AKATSUKI_REPORT_2",
+        "condition": null,
+        "laravelThroughKey": 20102
+      },
+      {
+        "textKey": "SALES_EVENT_AKATSUKI_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 20102
+      },
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20102
+      },
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20102
+      },
+      {
+        "textKey": "SALES_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 20102
+      },
+      {
+        "textKey": "SALES_REPORT_4",
+        "condition": null,
+        "laravelThroughKey": 20102
+      },
+      {
+        "textKey": "SALES_REPORT_5",
+        "condition": null,
+        "laravelThroughKey": 20102
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ]
+      },
+      {
+        "class": "StockCountBonus",
+        "stocks": [
+          10071,
+          10331
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 25
+          },
+          {
+            "count": 2,
+            "upwardRate": 50
+          }
+        ],
+        "description": "SALES_BONUS_DESCRIPTION_TEST_EVENT"
+      }
+    ]
+  },
+  "20103": {
+    "salesId": 20103,
+    "regionId": 201,
+    "salesName": "出発！聞き込み調査！（中長期）",
+    "iconFilename": "item_2010akatsuki_exchange01",
+    "startAt": null,
+    "endAt": "2020-11-06 20:00:00",
+    "requiredTime": 28800,
+    "memberLimitNumber": 8,
+    "rewards": [
+      {
+        "salesId": 20103,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 1120
+      },
+      {
+        "salesId": 20103,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 960
+      },
+      {
+        "salesId": 20103,
+        "rewardType": 3,
+        "objectId": 48,
+        "objectValue": 48
+      },
+      {
+        "salesId": 20103,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 640
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_AKATSUKI_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20103
+      },
+      {
+        "textKey": "SALES_EVENT_AKATSUKI_REPORT_2",
+        "condition": null,
+        "laravelThroughKey": 20103
+      },
+      {
+        "textKey": "SALES_EVENT_AKATSUKI_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 20103
+      },
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20103
+      },
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20103
+      },
+      {
+        "textKey": "SALES_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 20103
+      },
+      {
+        "textKey": "SALES_REPORT_4",
+        "condition": null,
+        "laravelThroughKey": 20103
+      },
+      {
+        "textKey": "SALES_REPORT_5",
+        "condition": null,
+        "laravelThroughKey": 20103
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ]
+      },
+      {
+        "class": "StockCountBonus",
+        "stocks": [
+          10071,
+          10331
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 25
+          },
+          {
+            "count": 2,
+            "upwardRate": 50
+          }
+        ],
+        "description": "SALES_BONUS_DESCRIPTION_TEST_EVENT"
+      }
+    ]
+  },
+  "20104": {
+    "salesId": 20104,
+    "regionId": 201,
+    "salesName": "出発！聞き込み調査！（長期）",
+    "iconFilename": "item_2010akatsuki_exchange01",
+    "startAt": null,
+    "endAt": "2020-11-06 20:00:00",
+    "requiredTime": 57600,
+    "memberLimitNumber": 8,
+    "rewards": [
+      {
+        "salesId": 20104,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 2240
+      },
+      {
+        "salesId": 20104,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 1920
+      },
+      {
+        "salesId": 20104,
+        "rewardType": 3,
+        "objectId": 48,
+        "objectValue": 96
+      },
+      {
+        "salesId": 20104,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 1280
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_AKATSUKI_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20104
+      },
+      {
+        "textKey": "SALES_EVENT_AKATSUKI_REPORT_2",
+        "condition": null,
+        "laravelThroughKey": 20104
+      },
+      {
+        "textKey": "SALES_EVENT_AKATSUKI_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 20104
+      },
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20104
+      },
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20104
+      },
+      {
+        "textKey": "SALES_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 20104
+      },
+      {
+        "textKey": "SALES_REPORT_4",
+        "condition": null,
+        "laravelThroughKey": 20104
+      },
+      {
+        "textKey": "SALES_REPORT_5",
+        "condition": null,
+        "laravelThroughKey": 20104
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ]
+      },
+      {
+        "class": "StockCountBonus",
+        "stocks": [
+          10071,
+          10331
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 25
+          },
+          {
+            "count": 2,
+            "upwardRate": 50
+          }
+        ],
+        "description": "SALES_BONUS_DESCRIPTION_TEST_EVENT"
+      }
+    ]
+  },
+  "20201": {
+    "salesId": 20201,
+    "regionId": 202,
+    "salesName": "発見！事件の痕跡！（短期）",
+    "iconFilename": "item_2010akatsuki_exchange02",
+    "startAt": null,
+    "endAt": "2020-11-06 20:00:00",
+    "requiredTime": 7200,
+    "memberLimitNumber": 8,
+    "rewards": [
+      {
+        "salesId": 20201,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 280
+      },
+      {
+        "salesId": 20201,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 240
+      },
+      {
+        "salesId": 20201,
+        "rewardType": 3,
+        "objectId": 49,
+        "objectValue": 12
+      },
+      {
+        "salesId": 20201,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 160
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_AKATSUKI_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20201
+      },
+      {
+        "textKey": "SALES_EVENT_AKATSUKI_REPORT_2",
+        "condition": null,
+        "laravelThroughKey": 20201
+      },
+      {
+        "textKey": "SALES_EVENT_AKATSUKI_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 20201
+      },
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20201
+      },
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20201
+      },
+      {
+        "textKey": "SALES_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 20201
+      },
+      {
+        "textKey": "SALES_REPORT_4",
+        "condition": null,
+        "laravelThroughKey": 20201
+      },
+      {
+        "textKey": "SALES_REPORT_5",
+        "condition": null,
+        "laravelThroughKey": 20201
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ]
+      },
+      {
+        "class": "StockCountBonus",
+        "stocks": [
+          10071,
+          10331
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 25
+          },
+          {
+            "count": 2,
+            "upwardRate": 50
+          }
+        ],
+        "description": "SALES_BONUS_DESCRIPTION_TEST_EVENT"
+      }
+    ]
+  },
+  "20202": {
+    "salesId": 20202,
+    "regionId": 202,
+    "salesName": "発見！事件の痕跡！（中期）",
+    "iconFilename": "item_2010akatsuki_exchange02",
+    "startAt": null,
+    "endAt": "2020-11-06 20:00:00",
+    "requiredTime": 14400,
+    "memberLimitNumber": 8,
+    "rewards": [
+      {
+        "salesId": 20202,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 560
+      },
+      {
+        "salesId": 20202,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 480
+      },
+      {
+        "salesId": 20202,
+        "rewardType": 3,
+        "objectId": 49,
+        "objectValue": 24
+      },
+      {
+        "salesId": 20202,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 320
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_AKATSUKI_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20202
+      },
+      {
+        "textKey": "SALES_EVENT_AKATSUKI_REPORT_2",
+        "condition": null,
+        "laravelThroughKey": 20202
+      },
+      {
+        "textKey": "SALES_EVENT_AKATSUKI_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 20202
+      },
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20202
+      },
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20202
+      },
+      {
+        "textKey": "SALES_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 20202
+      },
+      {
+        "textKey": "SALES_REPORT_4",
+        "condition": null,
+        "laravelThroughKey": 20202
+      },
+      {
+        "textKey": "SALES_REPORT_5",
+        "condition": null,
+        "laravelThroughKey": 20202
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ]
+      },
+      {
+        "class": "StockCountBonus",
+        "stocks": [
+          10071,
+          10331
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 25
+          },
+          {
+            "count": 2,
+            "upwardRate": 50
+          }
+        ],
+        "description": "SALES_BONUS_DESCRIPTION_TEST_EVENT"
+      }
+    ]
+  },
+  "20203": {
+    "salesId": 20203,
+    "regionId": 202,
+    "salesName": "発見！事件の痕跡！（中長期）",
+    "iconFilename": "item_2010akatsuki_exchange02",
+    "startAt": null,
+    "endAt": "2020-11-06 20:00:00",
+    "requiredTime": 28800,
+    "memberLimitNumber": 8,
+    "rewards": [
+      {
+        "salesId": 20203,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 1120
+      },
+      {
+        "salesId": 20203,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 960
+      },
+      {
+        "salesId": 20203,
+        "rewardType": 3,
+        "objectId": 49,
+        "objectValue": 48
+      },
+      {
+        "salesId": 20203,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 640
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_AKATSUKI_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20203
+      },
+      {
+        "textKey": "SALES_EVENT_AKATSUKI_REPORT_2",
+        "condition": null,
+        "laravelThroughKey": 20203
+      },
+      {
+        "textKey": "SALES_EVENT_AKATSUKI_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 20203
+      },
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20203
+      },
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20203
+      },
+      {
+        "textKey": "SALES_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 20203
+      },
+      {
+        "textKey": "SALES_REPORT_4",
+        "condition": null,
+        "laravelThroughKey": 20203
+      },
+      {
+        "textKey": "SALES_REPORT_5",
+        "condition": null,
+        "laravelThroughKey": 20203
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ]
+      },
+      {
+        "class": "StockCountBonus",
+        "stocks": [
+          10071,
+          10331
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 25
+          },
+          {
+            "count": 2,
+            "upwardRate": 50
+          }
+        ],
+        "description": "SALES_BONUS_DESCRIPTION_TEST_EVENT"
+      }
+    ]
+  },
+  "20204": {
+    "salesId": 20204,
+    "regionId": 202,
+    "salesName": "発見！事件の痕跡！（長期）",
+    "iconFilename": "item_2010akatsuki_exchange02",
+    "startAt": null,
+    "endAt": "2020-11-06 20:00:00",
+    "requiredTime": 57600,
+    "memberLimitNumber": 8,
+    "rewards": [
+      {
+        "salesId": 20204,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 2240
+      },
+      {
+        "salesId": 20204,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 1920
+      },
+      {
+        "salesId": 20204,
+        "rewardType": 3,
+        "objectId": 49,
+        "objectValue": 96
+      },
+      {
+        "salesId": 20204,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 1280
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_AKATSUKI_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20204
+      },
+      {
+        "textKey": "SALES_EVENT_AKATSUKI_REPORT_2",
+        "condition": null,
+        "laravelThroughKey": 20204
+      },
+      {
+        "textKey": "SALES_EVENT_AKATSUKI_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 20204
+      },
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20204
+      },
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20204
+      },
+      {
+        "textKey": "SALES_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 20204
+      },
+      {
+        "textKey": "SALES_REPORT_4",
+        "condition": null,
+        "laravelThroughKey": 20204
+      },
+      {
+        "textKey": "SALES_REPORT_5",
+        "condition": null,
+        "laravelThroughKey": 20204
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ]
+      },
+      {
+        "class": "StockCountBonus",
+        "stocks": [
+          10071,
+          10331
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 25
+          },
+          {
+            "count": 2,
+            "upwardRate": 50
+          }
+        ],
+        "description": "SALES_BONUS_DESCRIPTION_TEST_EVENT"
+      }
+    ]
+  },
+  "20301": {
+    "salesId": 20301,
+    "regionId": 203,
+    "salesName": "歳末ファンミーティング！（短期）",
+    "iconFilename": "item_Xmas2012_exchange",
+    "startAt": "2020-12-18 00:00:00",
+    "endAt": "2021-01-06 20:00:00",
+    "requiredTime": 7200,
+    "memberLimitNumber": 8,
+    "rewards": [
+      {
+        "salesId": 20301,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 280
+      },
+      {
+        "salesId": 20301,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 240
+      },
+      {
+        "salesId": 20301,
+        "rewardType": 3,
+        "objectId": 50,
+        "objectValue": 14
+      },
+      {
+        "salesId": 20301,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 160
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_XMAS2012_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20301
+      },
+      {
+        "textKey": "SALES_EVENT_XMAS2012_REPORT_2",
+        "condition": null,
+        "laravelThroughKey": 20301
+      },
+      {
+        "textKey": "SALES_EVENT_XMAS2012_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 20301
+      },
+      {
+        "textKey": "SALES_EVENT_XMAS2012_REPORT_4",
+        "condition": null,
+        "laravelThroughKey": 20301
+      },
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20301
+      },
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20301
+      },
+      {
+        "textKey": "SALES_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 20301
+      },
+      {
+        "textKey": "SALES_REPORT_4",
+        "condition": null,
+        "laravelThroughKey": 20301
+      },
+      {
+        "textKey": "SALES_REPORT_5",
+        "condition": null,
+        "laravelThroughKey": 20301
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": false
+      },
+      {
+        "class": "StockCountBonus",
+        "stocks": [
+          10042,
+          10511,
+          10271
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 10
+          },
+          {
+            "count": 2,
+            "upwardRate": 30
+          },
+          {
+            "count": 3,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
+      }
+    ]
+  },
+  "20302": {
+    "salesId": 20302,
+    "regionId": 203,
+    "salesName": "歳末ファンミーティング！（中期）",
+    "iconFilename": "item_Xmas2012_exchange",
+    "startAt": "2020-12-18 00:00:00",
+    "endAt": "2021-01-06 20:00:00",
+    "requiredTime": 14400,
+    "memberLimitNumber": 8,
+    "rewards": [
+      {
+        "salesId": 20302,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 560
+      },
+      {
+        "salesId": 20302,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 480
+      },
+      {
+        "salesId": 20302,
+        "rewardType": 3,
+        "objectId": 50,
+        "objectValue": 28
+      },
+      {
+        "salesId": 20302,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 320
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_XMAS2012_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20302
+      },
+      {
+        "textKey": "SALES_EVENT_XMAS2012_REPORT_2",
+        "condition": null,
+        "laravelThroughKey": 20302
+      },
+      {
+        "textKey": "SALES_EVENT_XMAS2012_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 20302
+      },
+      {
+        "textKey": "SALES_EVENT_XMAS2012_REPORT_4",
+        "condition": null,
+        "laravelThroughKey": 20302
+      },
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20302
+      },
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20302
+      },
+      {
+        "textKey": "SALES_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 20302
+      },
+      {
+        "textKey": "SALES_REPORT_4",
+        "condition": null,
+        "laravelThroughKey": 20302
+      },
+      {
+        "textKey": "SALES_REPORT_5",
+        "condition": null,
+        "laravelThroughKey": 20302
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": false
+      },
+      {
+        "class": "StockCountBonus",
+        "stocks": [
+          10042,
+          10511,
+          10271
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 10
+          },
+          {
+            "count": 2,
+            "upwardRate": 30
+          },
+          {
+            "count": 3,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
+      }
+    ]
+  },
+  "20303": {
+    "salesId": 20303,
+    "regionId": 203,
+    "salesName": "歳末ファンミーティング！（中長期）",
+    "iconFilename": "item_Xmas2012_exchange",
+    "startAt": "2020-12-18 00:00:00",
+    "endAt": "2021-01-06 20:00:00",
+    "requiredTime": 28800,
+    "memberLimitNumber": 8,
+    "rewards": [
+      {
+        "salesId": 20303,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 1120
+      },
+      {
+        "salesId": 20303,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 960
+      },
+      {
+        "salesId": 20303,
+        "rewardType": 3,
+        "objectId": 50,
+        "objectValue": 56
+      },
+      {
+        "salesId": 20303,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 640
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_XMAS2012_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20303
+      },
+      {
+        "textKey": "SALES_EVENT_XMAS2012_REPORT_2",
+        "condition": null,
+        "laravelThroughKey": 20303
+      },
+      {
+        "textKey": "SALES_EVENT_XMAS2012_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 20303
+      },
+      {
+        "textKey": "SALES_EVENT_XMAS2012_REPORT_4",
+        "condition": null,
+        "laravelThroughKey": 20303
+      },
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20303
+      },
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20303
+      },
+      {
+        "textKey": "SALES_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 20303
+      },
+      {
+        "textKey": "SALES_REPORT_4",
+        "condition": null,
+        "laravelThroughKey": 20303
+      },
+      {
+        "textKey": "SALES_REPORT_5",
+        "condition": null,
+        "laravelThroughKey": 20303
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": false
+      },
+      {
+        "class": "StockCountBonus",
+        "stocks": [
+          10042,
+          10511,
+          10271
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 10
+          },
+          {
+            "count": 2,
+            "upwardRate": 30
+          },
+          {
+            "count": 3,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
+      }
+    ]
+  },
+  "20304": {
+    "salesId": 20304,
+    "regionId": 203,
+    "salesName": "歳末ファンミーティング！（長期）",
+    "iconFilename": "item_Xmas2012_exchange",
+    "startAt": "2020-12-18 00:00:00",
+    "endAt": "2021-01-06 20:00:00",
+    "requiredTime": 57600,
+    "memberLimitNumber": 8,
+    "rewards": [
+      {
+        "salesId": 20304,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 2240
+      },
+      {
+        "salesId": 20304,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 1920
+      },
+      {
+        "salesId": 20304,
+        "rewardType": 3,
+        "objectId": 50,
+        "objectValue": 112
+      },
+      {
+        "salesId": 20304,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 1280
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_XMAS2012_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20304
+      },
+      {
+        "textKey": "SALES_EVENT_XMAS2012_REPORT_2",
+        "condition": null,
+        "laravelThroughKey": 20304
+      },
+      {
+        "textKey": "SALES_EVENT_XMAS2012_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 20304
+      },
+      {
+        "textKey": "SALES_EVENT_XMAS2012_REPORT_4",
+        "condition": null,
+        "laravelThroughKey": 20304
+      },
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20304
+      },
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20304
+      },
+      {
+        "textKey": "SALES_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 20304
+      },
+      {
+        "textKey": "SALES_REPORT_4",
+        "condition": null,
+        "laravelThroughKey": 20304
+      },
+      {
+        "textKey": "SALES_REPORT_5",
+        "condition": null,
+        "laravelThroughKey": 20304
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": false
+      },
+      {
+        "class": "StockCountBonus",
+        "stocks": [
+          10042,
+          10511,
+          10271
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 10
+          },
+          {
+            "count": 2,
+            "upwardRate": 30
+          },
+          {
+            "count": 3,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
+      }
+    ]
+  },
+  "20401": {
+    "salesId": 20401,
+    "regionId": 204,
+    "salesName": "情報収集指令！（短期）",
+    "iconFilename": "item_Valentine2102_exchange01",
+    "startAt": null,
+    "endAt": "2021-03-15 20:00:00",
+    "requiredTime": 7200,
+    "memberLimitNumber": 8,
+    "rewards": [
+      {
+        "salesId": 20401,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 280
+      },
+      {
+        "salesId": 20401,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 240
+      },
+      {
+        "salesId": 20401,
+        "rewardType": 3,
+        "objectId": 57,
+        "objectValue": 14
+      },
+      {
+        "salesId": 20401,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 160
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_CYBERWARS_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20401
+      },
+      {
+        "textKey": "SALES_EVENT_CYBERWARS_REPORT_2",
+        "condition": null,
+        "laravelThroughKey": 20401
+      },
+      {
+        "textKey": "SALES_EVENT_CYBERWARS_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 20401
+      },
+      {
+        "textKey": "SALES_EVENT_CYBERWARS_REPORT_4",
+        "condition": null,
+        "laravelThroughKey": 20401
+      },
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20401
+      },
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20401
+      },
+      {
+        "textKey": "SALES_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 20401
+      },
+      {
+        "textKey": "SALES_REPORT_4",
+        "condition": null,
+        "laravelThroughKey": 20401
+      },
+      {
+        "textKey": "SALES_REPORT_5",
+        "condition": null,
+        "laravelThroughKey": 20401
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": false
+      },
+      {
+        "class": "StockCountBonus",
+        "stocks": [
+          10102,
+          10122,
+          10111,
+          10531
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 10
+          },
+          {
+            "count": 2,
+            "upwardRate": 30
+          },
+          {
+            "count": 3,
+            "upwardRate": 50
+          },
+          {
+            "count": 4,
+            "upwardRate": 70
+          }
+        ],
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
+      }
+    ]
+  },
+  "20402": {
+    "salesId": 20402,
+    "regionId": 204,
+    "salesName": "情報収集指令！（中期）",
+    "iconFilename": "item_Valentine2102_exchange01",
+    "startAt": null,
+    "endAt": "2021-03-15 20:00:00",
+    "requiredTime": 14400,
+    "memberLimitNumber": 8,
+    "rewards": [
+      {
+        "salesId": 20402,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 560
+      },
+      {
+        "salesId": 20402,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 480
+      },
+      {
+        "salesId": 20402,
+        "rewardType": 3,
+        "objectId": 57,
+        "objectValue": 28
+      },
+      {
+        "salesId": 20402,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 320
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_CYBERWARS_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20402
+      },
+      {
+        "textKey": "SALES_EVENT_CYBERWARS_REPORT_2",
+        "condition": null,
+        "laravelThroughKey": 20402
+      },
+      {
+        "textKey": "SALES_EVENT_CYBERWARS_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 20402
+      },
+      {
+        "textKey": "SALES_EVENT_CYBERWARS_REPORT_4",
+        "condition": null,
+        "laravelThroughKey": 20402
+      },
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20402
+      },
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20402
+      },
+      {
+        "textKey": "SALES_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 20402
+      },
+      {
+        "textKey": "SALES_REPORT_4",
+        "condition": null,
+        "laravelThroughKey": 20402
+      },
+      {
+        "textKey": "SALES_REPORT_5",
+        "condition": null,
+        "laravelThroughKey": 20402
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": false
+      },
+      {
+        "class": "StockCountBonus",
+        "stocks": [
+          10102,
+          10122,
+          10111,
+          10531
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 10
+          },
+          {
+            "count": 2,
+            "upwardRate": 30
+          },
+          {
+            "count": 3,
+            "upwardRate": 50
+          },
+          {
+            "count": 4,
+            "upwardRate": 70
+          }
+        ],
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
+      }
+    ]
+  },
+  "20403": {
+    "salesId": 20403,
+    "regionId": 204,
+    "salesName": "情報収集指令！（中長期）",
+    "iconFilename": "item_Valentine2102_exchange01",
+    "startAt": null,
+    "endAt": "2021-03-15 20:00:00",
+    "requiredTime": 28800,
+    "memberLimitNumber": 8,
+    "rewards": [
+      {
+        "salesId": 20403,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 1120
+      },
+      {
+        "salesId": 20403,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 960
+      },
+      {
+        "salesId": 20403,
+        "rewardType": 3,
+        "objectId": 57,
+        "objectValue": 56
+      },
+      {
+        "salesId": 20403,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 640
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_CYBERWARS_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20403
+      },
+      {
+        "textKey": "SALES_EVENT_CYBERWARS_REPORT_2",
+        "condition": null,
+        "laravelThroughKey": 20403
+      },
+      {
+        "textKey": "SALES_EVENT_CYBERWARS_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 20403
+      },
+      {
+        "textKey": "SALES_EVENT_CYBERWARS_REPORT_4",
+        "condition": null,
+        "laravelThroughKey": 20403
+      },
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20403
+      },
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20403
+      },
+      {
+        "textKey": "SALES_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 20403
+      },
+      {
+        "textKey": "SALES_REPORT_4",
+        "condition": null,
+        "laravelThroughKey": 20403
+      },
+      {
+        "textKey": "SALES_REPORT_5",
+        "condition": null,
+        "laravelThroughKey": 20403
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": false
+      },
+      {
+        "class": "StockCountBonus",
+        "stocks": [
+          10102,
+          10122,
+          10111,
+          10531
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 10
+          },
+          {
+            "count": 2,
+            "upwardRate": 30
+          },
+          {
+            "count": 3,
+            "upwardRate": 50
+          },
+          {
+            "count": 4,
+            "upwardRate": 70
+          }
+        ],
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
+      }
+    ]
+  },
+  "20404": {
+    "salesId": 20404,
+    "regionId": 204,
+    "salesName": "情報収集指令！（長期）",
+    "iconFilename": "item_Valentine2102_exchange01",
+    "startAt": null,
+    "endAt": "2021-03-15 20:00:00",
+    "requiredTime": 57600,
+    "memberLimitNumber": 8,
+    "rewards": [
+      {
+        "salesId": 20404,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 2240
+      },
+      {
+        "salesId": 20404,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 1920
+      },
+      {
+        "salesId": 20404,
+        "rewardType": 3,
+        "objectId": 57,
+        "objectValue": 112
+      },
+      {
+        "salesId": 20404,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 1280
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_CYBERWARS_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20404
+      },
+      {
+        "textKey": "SALES_EVENT_CYBERWARS_REPORT_2",
+        "condition": null,
+        "laravelThroughKey": 20404
+      },
+      {
+        "textKey": "SALES_EVENT_CYBERWARS_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 20404
+      },
+      {
+        "textKey": "SALES_EVENT_CYBERWARS_REPORT_4",
+        "condition": null,
+        "laravelThroughKey": 20404
+      },
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20404
+      },
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20404
+      },
+      {
+        "textKey": "SALES_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 20404
+      },
+      {
+        "textKey": "SALES_REPORT_4",
+        "condition": null,
+        "laravelThroughKey": 20404
+      },
+      {
+        "textKey": "SALES_REPORT_5",
+        "condition": null,
+        "laravelThroughKey": 20404
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": false
+      },
+      {
+        "class": "StockCountBonus",
+        "stocks": [
+          10102,
+          10122,
+          10111,
+          10531
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 10
+          },
+          {
+            "count": 2,
+            "upwardRate": 30
+          },
+          {
+            "count": 3,
+            "upwardRate": 50
+          },
+          {
+            "count": 4,
+            "upwardRate": 70
+          }
+        ],
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
+      }
+    ]
+  },
+  "20501": {
+    "salesId": 20501,
+    "regionId": 205,
+    "salesName": "資材調達指令！（短期）",
+    "iconFilename": "item_Valentine2102_exchange02",
+    "startAt": "2021-03-01 18:00:00",
+    "endAt": "2021-03-15 20:00:00",
+    "requiredTime": 7200,
+    "memberLimitNumber": 8,
+    "rewards": [
+      {
+        "salesId": 20501,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 280
+      },
+      {
+        "salesId": 20501,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 240
+      },
+      {
+        "salesId": 20501,
+        "rewardType": 3,
+        "objectId": 58,
+        "objectValue": 14
+      },
+      {
+        "salesId": 20501,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 160
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_CYBERWARS_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20501
+      },
+      {
+        "textKey": "SALES_EVENT_CYBERWARS_REPORT_2",
+        "condition": null,
+        "laravelThroughKey": 20501
+      },
+      {
+        "textKey": "SALES_EVENT_CYBERWARS_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 20501
+      },
+      {
+        "textKey": "SALES_EVENT_CYBERWARS_REPORT_4",
+        "condition": null,
+        "laravelThroughKey": 20501
+      },
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20501
+      },
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20501
+      },
+      {
+        "textKey": "SALES_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 20501
+      },
+      {
+        "textKey": "SALES_REPORT_4",
+        "condition": null,
+        "laravelThroughKey": 20501
+      },
+      {
+        "textKey": "SALES_REPORT_5",
+        "condition": null,
+        "laravelThroughKey": 20501
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": false
+      },
+      {
+        "class": "StockCountBonus",
+        "stocks": [
+          10102,
+          10122,
+          10111,
+          10531
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 10
+          },
+          {
+            "count": 2,
+            "upwardRate": 30
+          },
+          {
+            "count": 3,
+            "upwardRate": 50
+          },
+          {
+            "count": 4,
+            "upwardRate": 70
+          }
+        ],
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
+      }
+    ]
+  },
+  "20502": {
+    "salesId": 20502,
+    "regionId": 205,
+    "salesName": "資材調達指令！（中期）",
+    "iconFilename": "item_Valentine2102_exchange02",
+    "startAt": "2021-03-01 18:00:00",
+    "endAt": "2021-03-15 20:00:00",
+    "requiredTime": 14400,
+    "memberLimitNumber": 8,
+    "rewards": [
+      {
+        "salesId": 20502,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 560
+      },
+      {
+        "salesId": 20502,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 480
+      },
+      {
+        "salesId": 20502,
+        "rewardType": 3,
+        "objectId": 58,
+        "objectValue": 28
+      },
+      {
+        "salesId": 20502,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 320
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_CYBERWARS_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20502
+      },
+      {
+        "textKey": "SALES_EVENT_CYBERWARS_REPORT_2",
+        "condition": null,
+        "laravelThroughKey": 20502
+      },
+      {
+        "textKey": "SALES_EVENT_CYBERWARS_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 20502
+      },
+      {
+        "textKey": "SALES_EVENT_CYBERWARS_REPORT_4",
+        "condition": null,
+        "laravelThroughKey": 20502
+      },
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20502
+      },
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20502
+      },
+      {
+        "textKey": "SALES_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 20502
+      },
+      {
+        "textKey": "SALES_REPORT_4",
+        "condition": null,
+        "laravelThroughKey": 20502
+      },
+      {
+        "textKey": "SALES_REPORT_5",
+        "condition": null,
+        "laravelThroughKey": 20502
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": false
+      },
+      {
+        "class": "StockCountBonus",
+        "stocks": [
+          10102,
+          10122,
+          10111,
+          10531
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 10
+          },
+          {
+            "count": 2,
+            "upwardRate": 30
+          },
+          {
+            "count": 3,
+            "upwardRate": 50
+          },
+          {
+            "count": 4,
+            "upwardRate": 70
+          }
+        ],
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
+      }
+    ]
+  },
+  "20503": {
+    "salesId": 20503,
+    "regionId": 205,
+    "salesName": "資材調達指令！（中長期）",
+    "iconFilename": "item_Valentine2102_exchange02",
+    "startAt": "2021-03-01 18:00:00",
+    "endAt": "2021-03-15 20:00:00",
+    "requiredTime": 28800,
+    "memberLimitNumber": 8,
+    "rewards": [
+      {
+        "salesId": 20503,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 1120
+      },
+      {
+        "salesId": 20503,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 960
+      },
+      {
+        "salesId": 20503,
+        "rewardType": 3,
+        "objectId": 58,
+        "objectValue": 56
+      },
+      {
+        "salesId": 20503,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 640
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_CYBERWARS_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20503
+      },
+      {
+        "textKey": "SALES_EVENT_CYBERWARS_REPORT_2",
+        "condition": null,
+        "laravelThroughKey": 20503
+      },
+      {
+        "textKey": "SALES_EVENT_CYBERWARS_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 20503
+      },
+      {
+        "textKey": "SALES_EVENT_CYBERWARS_REPORT_4",
+        "condition": null,
+        "laravelThroughKey": 20503
+      },
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20503
+      },
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20503
+      },
+      {
+        "textKey": "SALES_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 20503
+      },
+      {
+        "textKey": "SALES_REPORT_4",
+        "condition": null,
+        "laravelThroughKey": 20503
+      },
+      {
+        "textKey": "SALES_REPORT_5",
+        "condition": null,
+        "laravelThroughKey": 20503
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": false
+      },
+      {
+        "class": "StockCountBonus",
+        "stocks": [
+          10102,
+          10122,
+          10111,
+          10531
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 10
+          },
+          {
+            "count": 2,
+            "upwardRate": 30
+          },
+          {
+            "count": 3,
+            "upwardRate": 50
+          },
+          {
+            "count": 4,
+            "upwardRate": 70
+          }
+        ],
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
+      }
+    ]
+  },
+  "20504": {
+    "salesId": 20504,
+    "regionId": 205,
+    "salesName": "資材調達指令！（長期）",
+    "iconFilename": "item_Valentine2102_exchange02",
+    "startAt": "2021-03-01 18:00:00",
+    "endAt": "2021-03-15 20:00:00",
+    "requiredTime": 57600,
+    "memberLimitNumber": 8,
+    "rewards": [
+      {
+        "salesId": 20504,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 2240
+      },
+      {
+        "salesId": 20504,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 1920
+      },
+      {
+        "salesId": 20504,
+        "rewardType": 3,
+        "objectId": 58,
+        "objectValue": 112
+      },
+      {
+        "salesId": 20504,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 1280
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_CYBERWARS_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20504
+      },
+      {
+        "textKey": "SALES_EVENT_CYBERWARS_REPORT_2",
+        "condition": null,
+        "laravelThroughKey": 20504
+      },
+      {
+        "textKey": "SALES_EVENT_CYBERWARS_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 20504
+      },
+      {
+        "textKey": "SALES_EVENT_CYBERWARS_REPORT_4",
+        "condition": null,
+        "laravelThroughKey": 20504
+      },
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20504
+      },
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20504
+      },
+      {
+        "textKey": "SALES_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 20504
+      },
+      {
+        "textKey": "SALES_REPORT_4",
+        "condition": null,
+        "laravelThroughKey": 20504
+      },
+      {
+        "textKey": "SALES_REPORT_5",
+        "condition": null,
+        "laravelThroughKey": 20504
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": false
+      },
+      {
+        "class": "StockCountBonus",
+        "stocks": [
+          10102,
+          10122,
+          10111,
+          10531
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 10
+          },
+          {
+            "count": 2,
+            "upwardRate": 30
+          },
+          {
+            "count": 3,
+            "upwardRate": 50
+          },
+          {
+            "count": 4,
+            "upwardRate": 70
+          }
+        ],
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
+      }
+    ]
+  },
+  "20601": {
+    "salesId": 20601,
+    "regionId": 206,
+    "salesName": "ダンジョンを探索せよ！（短期）",
+    "iconFilename": "item_Ruins2104_exchange01",
+    "startAt": null,
+    "endAt": "2021-05-14 20:00:00",
+    "requiredTime": 7200,
+    "memberLimitNumber": 8,
+    "rewards": [
+      {
+        "salesId": 20601,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 280
+      },
+      {
+        "salesId": 20601,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 240
+      },
+      {
+        "salesId": 20601,
+        "rewardType": 3,
+        "objectId": 64,
+        "objectValue": 14
+      },
+      {
+        "salesId": 20601,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 160
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_RUINS_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20601
+      },
+      {
+        "textKey": "SALES_EVENT_RUINS_REPORT_2",
+        "condition": null,
+        "laravelThroughKey": 20601
+      },
+      {
+        "textKey": "SALES_EVENT_RUINS_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 20601
+      },
+      {
+        "textKey": "SALES_EVENT_RUINS_REPORT_4",
+        "condition": null,
+        "laravelThroughKey": 20601
+      },
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20601
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": false
+      },
+      {
+        "class": "StockCountBonus",
+        "stocks": [
+          10142,
+          10611,
+          10621
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 10
+          },
+          {
+            "count": 2,
+            "upwardRate": 30
+          },
+          {
+            "count": 3,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
+      }
+    ]
+  },
+  "20602": {
+    "salesId": 20602,
+    "regionId": 206,
+    "salesName": "ダンジョンを探索せよ！（中期）",
+    "iconFilename": "item_Ruins2104_exchange01",
+    "startAt": null,
+    "endAt": "2021-05-14 20:00:00",
+    "requiredTime": 14400,
+    "memberLimitNumber": 8,
+    "rewards": [
+      {
+        "salesId": 20602,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 560
+      },
+      {
+        "salesId": 20602,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 480
+      },
+      {
+        "salesId": 20602,
+        "rewardType": 3,
+        "objectId": 64,
+        "objectValue": 28
+      },
+      {
+        "salesId": 20602,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 320
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_RUINS_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20602
+      },
+      {
+        "textKey": "SALES_EVENT_RUINS_REPORT_2",
+        "condition": null,
+        "laravelThroughKey": 20602
+      },
+      {
+        "textKey": "SALES_EVENT_RUINS_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 20602
+      },
+      {
+        "textKey": "SALES_EVENT_RUINS_REPORT_4",
+        "condition": null,
+        "laravelThroughKey": 20602
+      },
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20602
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": false
+      },
+      {
+        "class": "StockCountBonus",
+        "stocks": [
+          10142,
+          10611,
+          10621
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 10
+          },
+          {
+            "count": 2,
+            "upwardRate": 30
+          },
+          {
+            "count": 3,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
+      }
+    ]
+  },
+  "20603": {
+    "salesId": 20603,
+    "regionId": 206,
+    "salesName": "ダンジョンを探索せよ！（中長期）",
+    "iconFilename": "item_Ruins2104_exchange01",
+    "startAt": null,
+    "endAt": "2021-05-14 20:00:00",
+    "requiredTime": 28800,
+    "memberLimitNumber": 8,
+    "rewards": [
+      {
+        "salesId": 20603,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 1120
+      },
+      {
+        "salesId": 20603,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 960
+      },
+      {
+        "salesId": 20603,
+        "rewardType": 3,
+        "objectId": 64,
+        "objectValue": 56
+      },
+      {
+        "salesId": 20603,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 640
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_RUINS_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20603
+      },
+      {
+        "textKey": "SALES_EVENT_RUINS_REPORT_2",
+        "condition": null,
+        "laravelThroughKey": 20603
+      },
+      {
+        "textKey": "SALES_EVENT_RUINS_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 20603
+      },
+      {
+        "textKey": "SALES_EVENT_RUINS_REPORT_4",
+        "condition": null,
+        "laravelThroughKey": 20603
+      },
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20603
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": false
+      },
+      {
+        "class": "StockCountBonus",
+        "stocks": [
+          10142,
+          10611,
+          10621
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 10
+          },
+          {
+            "count": 2,
+            "upwardRate": 30
+          },
+          {
+            "count": 3,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
+      }
+    ]
+  },
+  "20604": {
+    "salesId": 20604,
+    "regionId": 206,
+    "salesName": "ダンジョンを探索せよ！（長期）",
+    "iconFilename": "item_Ruins2104_exchange01",
+    "startAt": null,
+    "endAt": "2021-05-14 20:00:00",
+    "requiredTime": 57600,
+    "memberLimitNumber": 8,
+    "rewards": [
+      {
+        "salesId": 20604,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 2240
+      },
+      {
+        "salesId": 20604,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 1920
+      },
+      {
+        "salesId": 20604,
+        "rewardType": 3,
+        "objectId": 64,
+        "objectValue": 112
+      },
+      {
+        "salesId": 20604,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 1280
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_RUINS_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20604
+      },
+      {
+        "textKey": "SALES_EVENT_RUINS_REPORT_2",
+        "condition": null,
+        "laravelThroughKey": 20604
+      },
+      {
+        "textKey": "SALES_EVENT_RUINS_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 20604
+      },
+      {
+        "textKey": "SALES_EVENT_RUINS_REPORT_4",
+        "condition": null,
+        "laravelThroughKey": 20604
+      },
+      {
+        "textKey": "SALES_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20604
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": false
+      },
+      {
+        "class": "StockCountBonus",
+        "stocks": [
+          10142,
+          10611,
+          10621
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 10
+          },
+          {
+            "count": 2,
+            "upwardRate": 30
+          },
+          {
+            "count": 3,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
+      }
+    ]
+  },
+  "20701": {
+    "salesId": 20701,
+    "regionId": 207,
+    "salesName": "テントテレスを探索せよ！（短期）",
+    "iconFilename": "item_Chasers2105_exchange01",
+    "startAt": null,
+    "endAt": "2021-06-18 20:00:00",
+    "requiredTime": 7200,
+    "memberLimitNumber": 8,
+    "rewards": [
+      {
+        "salesId": 20701,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 280
+      },
+      {
+        "salesId": 20701,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 240
+      },
+      {
+        "salesId": 20701,
+        "rewardType": 3,
+        "objectId": 67,
+        "objectValue": 14
+      },
+      {
+        "salesId": 20701,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 160
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_CHASERS_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20701
+      },
+      {
+        "textKey": "SALES_EVENT_CHASERS_REPORT_2",
+        "condition": null,
+        "laravelThroughKey": 20701
+      },
+      {
+        "textKey": "SALES_EVENT_CHASERS_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 20701
+      },
+      {
+        "textKey": "SALES_EVENT_CHASERS_REPORT_4",
+        "condition": null,
+        "laravelThroughKey": 20701
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": false
+      },
+      {
+        "class": "StockCountBonus",
+        "stocks": [
+          10262,
+          10631,
+          10641
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 10
+          },
+          {
+            "count": 2,
+            "upwardRate": 30
+          },
+          {
+            "count": 3,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
+      }
+    ]
+  },
+  "20702": {
+    "salesId": 20702,
+    "regionId": 207,
+    "salesName": "テントテレスを探索せよ！（中期）",
+    "iconFilename": "item_Chasers2105_exchange01",
+    "startAt": null,
+    "endAt": "2021-06-18 20:00:00",
+    "requiredTime": 14400,
+    "memberLimitNumber": 8,
+    "rewards": [
+      {
+        "salesId": 20702,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 560
+      },
+      {
+        "salesId": 20702,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 480
+      },
+      {
+        "salesId": 20702,
+        "rewardType": 3,
+        "objectId": 67,
+        "objectValue": 28
+      },
+      {
+        "salesId": 20702,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 320
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_CHASERS_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20702
+      },
+      {
+        "textKey": "SALES_EVENT_CHASERS_REPORT_2",
+        "condition": null,
+        "laravelThroughKey": 20702
+      },
+      {
+        "textKey": "SALES_EVENT_CHASERS_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 20702
+      },
+      {
+        "textKey": "SALES_EVENT_CHASERS_REPORT_4",
+        "condition": null,
+        "laravelThroughKey": 20702
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": false
+      },
+      {
+        "class": "StockCountBonus",
+        "stocks": [
+          10262,
+          10631,
+          10641
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 10
+          },
+          {
+            "count": 2,
+            "upwardRate": 30
+          },
+          {
+            "count": 3,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
+      }
+    ]
+  },
+  "20703": {
+    "salesId": 20703,
+    "regionId": 207,
+    "salesName": "テントテレスを探索せよ！（中長期）",
+    "iconFilename": "item_Chasers2105_exchange01",
+    "startAt": null,
+    "endAt": "2021-06-18 20:00:00",
+    "requiredTime": 28800,
+    "memberLimitNumber": 8,
+    "rewards": [
+      {
+        "salesId": 20703,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 1120
+      },
+      {
+        "salesId": 20703,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 960
+      },
+      {
+        "salesId": 20703,
+        "rewardType": 3,
+        "objectId": 67,
+        "objectValue": 56
+      },
+      {
+        "salesId": 20703,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 640
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_CHASERS_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20703
+      },
+      {
+        "textKey": "SALES_EVENT_CHASERS_REPORT_2",
+        "condition": null,
+        "laravelThroughKey": 20703
+      },
+      {
+        "textKey": "SALES_EVENT_CHASERS_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 20703
+      },
+      {
+        "textKey": "SALES_EVENT_CHASERS_REPORT_4",
+        "condition": null,
+        "laravelThroughKey": 20703
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": false
+      },
+      {
+        "class": "StockCountBonus",
+        "stocks": [
+          10262,
+          10631,
+          10641
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 10
+          },
+          {
+            "count": 2,
+            "upwardRate": 30
+          },
+          {
+            "count": 3,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
+      }
+    ]
+  },
+  "20704": {
+    "salesId": 20704,
+    "regionId": 207,
+    "salesName": "テントテレスを探索せよ！（長期）",
+    "iconFilename": "item_Chasers2105_exchange01",
+    "startAt": null,
+    "endAt": "2021-06-18 20:00:00",
+    "requiredTime": 57600,
+    "memberLimitNumber": 8,
+    "rewards": [
+      {
+        "salesId": 20704,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 2240
+      },
+      {
+        "salesId": 20704,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 1920
+      },
+      {
+        "salesId": 20704,
+        "rewardType": 3,
+        "objectId": 67,
+        "objectValue": 112
+      },
+      {
+        "salesId": 20704,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 1280
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_CHASERS_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20704
+      },
+      {
+        "textKey": "SALES_EVENT_CHASERS_REPORT_2",
+        "condition": null,
+        "laravelThroughKey": 20704
+      },
+      {
+        "textKey": "SALES_EVENT_CHASERS_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 20704
+      },
+      {
+        "textKey": "SALES_EVENT_CHASERS_REPORT_4",
+        "condition": null,
+        "laravelThroughKey": 20704
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": false
+      },
+      {
+        "class": "StockCountBonus",
+        "stocks": [
+          10262,
+          10631,
+          10641
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 10
+          },
+          {
+            "count": 2,
+            "upwardRate": 30
+          },
+          {
+            "count": 3,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
+      }
+    ]
+  },
+  "20801": {
+    "salesId": 20801,
+    "regionId": 208,
+    "salesName": "常夏！プールサイドでリゾート営業（短期）",
+    "iconFilename": "item_Summerdive2108_exchange01",
+    "startAt": null,
+    "endAt": "2021-09-13 20:00:00",
+    "requiredTime": 7200,
+    "memberLimitNumber": 8,
+    "rewards": [
+      {
+        "salesId": 20801,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 280
+      },
+      {
+        "salesId": 20801,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 240
+      },
+      {
+        "salesId": 20801,
+        "rewardType": 3,
+        "objectId": 69,
+        "objectValue": 14
+      },
+      {
+        "salesId": 20801,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 160
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_SUMMER_DIVE_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20801
+      },
+      {
+        "textKey": "SALES_EVENT_SUMMER_DIVE_REPORT_2",
+        "condition": null,
+        "laravelThroughKey": 20801
+      },
+      {
+        "textKey": "SALES_EVENT_SUMMER_DIVE_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 20801
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": false
+      },
+      {
+        "class": "StockCountBonus",
+        "stocks": [
+          10012,
+          10192,
+          10171,
+          10731
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 10
+          },
+          {
+            "count": 2,
+            "upwardRate": 30
+          },
+          {
+            "count": 3,
+            "upwardRate": 50
+          },
+          {
+            "count": 4,
+            "upwardRate": 70
+          }
+        ],
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
+      }
+    ]
+  },
+  "20802": {
+    "salesId": 20802,
+    "regionId": 208,
+    "salesName": "常夏！プールサイドでリゾート営業（中期）",
+    "iconFilename": "item_Summerdive2108_exchange01",
+    "startAt": null,
+    "endAt": "2021-09-13 20:00:00",
+    "requiredTime": 14400,
+    "memberLimitNumber": 8,
+    "rewards": [
+      {
+        "salesId": 20802,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 560
+      },
+      {
+        "salesId": 20802,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 480
+      },
+      {
+        "salesId": 20802,
+        "rewardType": 3,
+        "objectId": 69,
+        "objectValue": 28
+      },
+      {
+        "salesId": 20802,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 320
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_SUMMER_DIVE_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20802
+      },
+      {
+        "textKey": "SALES_EVENT_SUMMER_DIVE_REPORT_2",
+        "condition": null,
+        "laravelThroughKey": 20802
+      },
+      {
+        "textKey": "SALES_EVENT_SUMMER_DIVE_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 20802
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": false
+      },
+      {
+        "class": "StockCountBonus",
+        "stocks": [
+          10012,
+          10192,
+          10171,
+          10731
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 10
+          },
+          {
+            "count": 2,
+            "upwardRate": 30
+          },
+          {
+            "count": 3,
+            "upwardRate": 50
+          },
+          {
+            "count": 4,
+            "upwardRate": 70
+          }
+        ],
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
+      }
+    ]
+  },
+  "20803": {
+    "salesId": 20803,
+    "regionId": 208,
+    "salesName": "常夏！プールサイドでリゾート営業（中長期）",
+    "iconFilename": "item_Summerdive2108_exchange01",
+    "startAt": null,
+    "endAt": "2021-09-13 20:00:00",
+    "requiredTime": 28800,
+    "memberLimitNumber": 8,
+    "rewards": [
+      {
+        "salesId": 20803,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 1120
+      },
+      {
+        "salesId": 20803,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 960
+      },
+      {
+        "salesId": 20803,
+        "rewardType": 3,
+        "objectId": 69,
+        "objectValue": 56
+      },
+      {
+        "salesId": 20803,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 640
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_SUMMER_DIVE_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20803
+      },
+      {
+        "textKey": "SALES_EVENT_SUMMER_DIVE_REPORT_2",
+        "condition": null,
+        "laravelThroughKey": 20803
+      },
+      {
+        "textKey": "SALES_EVENT_SUMMER_DIVE_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 20803
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": false
+      },
+      {
+        "class": "StockCountBonus",
+        "stocks": [
+          10012,
+          10192,
+          10171,
+          10731
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 10
+          },
+          {
+            "count": 2,
+            "upwardRate": 30
+          },
+          {
+            "count": 3,
+            "upwardRate": 50
+          },
+          {
+            "count": 4,
+            "upwardRate": 70
+          }
+        ],
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
+      }
+    ]
+  },
+  "20804": {
+    "salesId": 20804,
+    "regionId": 208,
+    "salesName": "常夏！プールサイドでリゾート営業（長期）",
+    "iconFilename": "item_Summerdive2108_exchange01",
+    "startAt": null,
+    "endAt": "2021-09-13 20:00:00",
+    "requiredTime": 57600,
+    "memberLimitNumber": 8,
+    "rewards": [
+      {
+        "salesId": 20804,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 2240
+      },
+      {
+        "salesId": 20804,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 1920
+      },
+      {
+        "salesId": 20804,
+        "rewardType": 3,
+        "objectId": 69,
+        "objectValue": 112
+      },
+      {
+        "salesId": 20804,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 1280
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_SUMMER_DIVE_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20804
+      },
+      {
+        "textKey": "SALES_EVENT_SUMMER_DIVE_REPORT_2",
+        "condition": null,
+        "laravelThroughKey": 20804
+      },
+      {
+        "textKey": "SALES_EVENT_SUMMER_DIVE_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 20804
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": false
+      },
+      {
+        "class": "StockCountBonus",
+        "stocks": [
+          10012,
+          10192,
+          10171,
+          10731
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 10
+          },
+          {
+            "count": 2,
+            "upwardRate": 30
+          },
+          {
+            "count": 3,
+            "upwardRate": 50
+          },
+          {
+            "count": 4,
+            "upwardRate": 70
+          }
+        ],
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
+      }
+    ]
+  },
+  "20901": {
+    "salesId": 20901,
+    "regionId": 209,
+    "salesName": "納涼！夏のヒーロー祭り営業（短期）",
+    "iconFilename": "item_Herofesta2109_exchange01",
+    "startAt": null,
+    "endAt": "2021-10-21 20:00:00",
+    "requiredTime": 7200,
+    "memberLimitNumber": 8,
+    "rewards": [
+      {
+        "salesId": 20901,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 280
+      },
+      {
+        "salesId": 20901,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 240
+      },
+      {
+        "salesId": 20901,
+        "rewardType": 3,
+        "objectId": 71,
+        "objectValue": 14
+      },
+      {
+        "salesId": 20901,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 160
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_HEROFESTA_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20901
+      },
+      {
+        "textKey": "SALES_EVENT_HEROFESTA_REPORT_2",
+        "condition": null,
+        "laravelThroughKey": 20901
+      },
+      {
+        "textKey": "SALES_EVENT_HEROFESTA_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 20901
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": false
+      },
+      {
+        "class": "StockCountBonus",
+        "stocks": [
+          10072,
+          10092,
+          10751
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 10
+          },
+          {
+            "count": 2,
+            "upwardRate": 30
+          },
+          {
+            "count": 3,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
+      }
+    ]
+  },
+  "20902": {
+    "salesId": 20902,
+    "regionId": 209,
+    "salesName": "納涼！夏のヒーロー祭り営業（中期）",
+    "iconFilename": "item_Herofesta2109_exchange01",
+    "startAt": null,
+    "endAt": "2021-10-21 20:00:00",
+    "requiredTime": 14400,
+    "memberLimitNumber": 8,
+    "rewards": [
+      {
+        "salesId": 20902,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 560
+      },
+      {
+        "salesId": 20902,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 480
+      },
+      {
+        "salesId": 20902,
+        "rewardType": 3,
+        "objectId": 71,
+        "objectValue": 28
+      },
+      {
+        "salesId": 20902,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 320
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_HEROFESTA_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20902
+      },
+      {
+        "textKey": "SALES_EVENT_HEROFESTA_REPORT_2",
+        "condition": null,
+        "laravelThroughKey": 20902
+      },
+      {
+        "textKey": "SALES_EVENT_HEROFESTA_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 20902
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": false
+      },
+      {
+        "class": "StockCountBonus",
+        "stocks": [
+          10072,
+          10092,
+          10751
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 10
+          },
+          {
+            "count": 2,
+            "upwardRate": 30
+          },
+          {
+            "count": 3,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
+      }
+    ]
+  },
+  "20903": {
+    "salesId": 20903,
+    "regionId": 209,
+    "salesName": "納涼！夏のヒーロー祭り営業（中長期）",
+    "iconFilename": "item_Herofesta2109_exchange01",
+    "startAt": null,
+    "endAt": "2021-10-21 20:00:00",
+    "requiredTime": 28800,
+    "memberLimitNumber": 8,
+    "rewards": [
+      {
+        "salesId": 20903,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 1120
+      },
+      {
+        "salesId": 20903,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 960
+      },
+      {
+        "salesId": 20903,
+        "rewardType": 3,
+        "objectId": 71,
+        "objectValue": 56
+      },
+      {
+        "salesId": 20903,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 640
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_HEROFESTA_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20903
+      },
+      {
+        "textKey": "SALES_EVENT_HEROFESTA_REPORT_2",
+        "condition": null,
+        "laravelThroughKey": 20903
+      },
+      {
+        "textKey": "SALES_EVENT_HEROFESTA_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 20903
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": false
+      },
+      {
+        "class": "StockCountBonus",
+        "stocks": [
+          10072,
+          10092,
+          10751
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 10
+          },
+          {
+            "count": 2,
+            "upwardRate": 30
+          },
+          {
+            "count": 3,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
+      }
+    ]
+  },
+  "20904": {
+    "salesId": 20904,
+    "regionId": 209,
+    "salesName": "納涼！夏のヒーロー祭り営業（長期）",
+    "iconFilename": "item_Herofesta2109_exchange01",
+    "startAt": null,
+    "endAt": "2021-10-21 20:00:00",
+    "requiredTime": 57600,
+    "memberLimitNumber": 8,
+    "rewards": [
+      {
+        "salesId": 20904,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 2240
+      },
+      {
+        "salesId": 20904,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 1920
+      },
+      {
+        "salesId": 20904,
+        "rewardType": 3,
+        "objectId": 71,
+        "objectValue": 112
+      },
+      {
+        "salesId": 20904,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 1280
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_HEROFESTA_REPORT_1",
+        "condition": null,
+        "laravelThroughKey": 20904
+      },
+      {
+        "textKey": "SALES_EVENT_HEROFESTA_REPORT_2",
+        "condition": null,
+        "laravelThroughKey": 20904
+      },
+      {
+        "textKey": "SALES_EVENT_HEROFESTA_REPORT_3",
+        "condition": null,
+        "laravelThroughKey": 20904
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": false
+      },
+      {
+        "class": "StockCountBonus",
+        "stocks": [
+          10072,
+          10092,
+          10751
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 10
+          },
+          {
+            "count": 2,
+            "upwardRate": 30
+          },
+          {
+            "count": 3,
+            "upwardRate": 50
+          }
+        ],
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS"
+      }
+    ]
+  }
+}

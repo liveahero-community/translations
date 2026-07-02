@@ -1,0 +1,17 @@
+{
+  "1": {
+    "salesSlotBuyId": 1,
+    "condition": {
+      "class": "QuestClear",
+      "questId": 101014
+    }
+  },
+  "2": {
+    "salesSlotBuyId": 2,
+    "condition": {
+      "class": "ItemConsume",
+      "value": 1,
+      "itemId": 47
+    }
+  }
+}
