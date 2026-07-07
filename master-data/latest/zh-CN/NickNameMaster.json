@@ -857,6 +857,48 @@
       }
     ]
   },
+  "63": {
+    "nickNameId": 63,
+    "nickNameType": 2,
+    "rarity": 3,
+    "category": 2,
+    "nickNameTextKey": "NICK_NAME_63",
+    "getConditionDescription": "NICK_NAME_DESCRIPTION_63",
+    "conditions": [
+      {
+        "class": "MissionClear",
+        "missionId": 22741
+      }
+    ]
+  },
+  "64": {
+    "nickNameId": 64,
+    "nickNameType": 1,
+    "rarity": 3,
+    "category": 2,
+    "nickNameTextKey": "NICK_NAME_64",
+    "getConditionDescription": "NICK_NAME_DESCRIPTION_64",
+    "conditions": [
+      {
+        "class": "MissionClear",
+        "missionId": 22742
+      }
+    ]
+  },
+  "65": {
+    "nickNameId": 65,
+    "nickNameType": 2,
+    "rarity": 3,
+    "category": 2,
+    "nickNameTextKey": "NICK_NAME_65",
+    "getConditionDescription": "NICK_NAME_DESCRIPTION_65",
+    "conditions": [
+      {
+        "class": "MissionClear",
+        "missionId": 22743
+      }
+    ]
+  },
   "110011": {
     "nickNameId": 110011,
     "nickNameType": 1,

@@ -14236,5 +14236,31 @@
     "endAt": "2026-06-11 14:00:00",
     "roguePortalJson": null,
     "executeLimit": null
+  },
+  "1272": {
+    "chapterId": 1272,
+    "chapterGroupId": 1272,
+    "groupType": 2,
+    "chapterType": 1,
+    "chapterName": "キャンペーンクエスト",
+    "subName": "強敵襲来SS級",
+    "peepingName": "強敵襲来SS級",
+    "sortWeight": 1000,
+    "bannerResourceName": "ui_banner_questchoice_strongenemy",
+    "bgResourceName": "ui_bg_sprite_strongenemy",
+    "selectBannerAddress": "",
+    "helpPrefabAddress": "CampaignTutorial_HighDificultRevival2607",
+    "questSelectPrefabAddress": "QuestSelectWindow_RankSS_Campaign",
+    "storyLibraryPrefabAddress": "",
+    "missionGroupId": 0,
+    "scoreAttackStoreId": 0,
+    "scoreAttackItemIds": null,
+    "conditionChapterId": 0,
+    "conditionChapterButtonLabel": "",
+    "conditionChapterDescription": "",
+    "startAt": "2026-07-07 18:00:00",
+    "endAt": "2026-07-21 20:00:00",
+    "roguePortalJson": null,
+    "executeLimit": null
   }
 }
