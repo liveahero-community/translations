@@ -49118,5 +49118,767 @@
       }
     ],
     "overwriteBonuses": []
+  },
+  "26601": {
+    "salesId": 26601,
+    "regionId": 266,
+    "salesName": "エノシマ１日観光大使！ （短期）",
+    "iconFilename": "item_LastResort2506_exchange01",
+    "startAt": null,
+    "endAt": "2026-07-23 20:00:00",
+    "requiredTime": 7200,
+    "memberLimitNumber": 8,
+    "sortWeight": 1000,
+    "rewards": [
+      {
+        "salesId": 26601,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 280
+      },
+      {
+        "salesId": 26601,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 240
+      },
+      {
+        "salesId": 26601,
+        "rewardType": 3,
+        "objectId": 245,
+        "objectValue": 14
+      },
+      {
+        "salesId": 26601,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 160
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_LASTRESORT_REPORT_1",
+        "condition": null
+      },
+      {
+        "textKey": "SALES_EVENT_LASTRESORT_REPORT_2",
+        "condition": null
+      },
+      {
+        "textKey": "SALES_EVENT_LASTRESORT_REPORT_3",
+        "condition": null
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "endAt": null,
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "startAt": null,
+        "isDisplay": false,
+        "iconAddress": "",
+        "isAppendBonus": false,
+        "unconditionStockIds": []
+      },
+      {
+        "class": "StockCountBonus",
+        "endAt": null,
+        "stocks": [
+          11902,
+          11922,
+          12611
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 10
+          },
+          {
+            "count": 2,
+            "upwardRate": 30
+          },
+          {
+            "count": 3,
+            "upwardRate": 50
+          }
+        ],
+        "startAt": null,
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS",
+        "iconAddress": "",
+        "isAppendBonus": false,
+        "unconditionStockIds": []
+      }
+    ],
+    "overwriteBonuses": []
+  },
+  "26602": {
+    "salesId": 26602,
+    "regionId": 266,
+    "salesName": "エノシマ１日観光大使！ （短中期）",
+    "iconFilename": "item_LastResort2506_exchange01",
+    "startAt": null,
+    "endAt": "2026-07-23 20:00:00",
+    "requiredTime": 14400,
+    "memberLimitNumber": 8,
+    "sortWeight": 1000,
+    "rewards": [
+      {
+        "salesId": 26602,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 560
+      },
+      {
+        "salesId": 26602,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 480
+      },
+      {
+        "salesId": 26602,
+        "rewardType": 3,
+        "objectId": 245,
+        "objectValue": 28
+      },
+      {
+        "salesId": 26602,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 320
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_LASTRESORT_REPORT_1",
+        "condition": null
+      },
+      {
+        "textKey": "SALES_EVENT_LASTRESORT_REPORT_2",
+        "condition": null
+      },
+      {
+        "textKey": "SALES_EVENT_LASTRESORT_REPORT_3",
+        "condition": null
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "endAt": null,
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "startAt": null,
+        "isDisplay": false,
+        "iconAddress": "",
+        "isAppendBonus": false,
+        "unconditionStockIds": []
+      },
+      {
+        "class": "StockCountBonus",
+        "endAt": null,
+        "stocks": [
+          11902,
+          11922,
+          12611
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 10
+          },
+          {
+            "count": 2,
+            "upwardRate": 30
+          },
+          {
+            "count": 3,
+            "upwardRate": 50
+          }
+        ],
+        "startAt": null,
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS",
+        "iconAddress": "",
+        "isAppendBonus": false,
+        "unconditionStockIds": []
+      }
+    ],
+    "overwriteBonuses": []
+  },
+  "26603": {
+    "salesId": 26603,
+    "regionId": 266,
+    "salesName": "エノシマ１日観光大使！ （中期）",
+    "iconFilename": "item_LastResort2506_exchange01",
+    "startAt": null,
+    "endAt": "2026-07-23 20:00:00",
+    "requiredTime": 28800,
+    "memberLimitNumber": 8,
+    "sortWeight": 1000,
+    "rewards": [
+      {
+        "salesId": 26603,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 1120
+      },
+      {
+        "salesId": 26603,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 960
+      },
+      {
+        "salesId": 26603,
+        "rewardType": 3,
+        "objectId": 245,
+        "objectValue": 56
+      },
+      {
+        "salesId": 26603,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 640
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_LASTRESORT_REPORT_1",
+        "condition": null
+      },
+      {
+        "textKey": "SALES_EVENT_LASTRESORT_REPORT_2",
+        "condition": null
+      },
+      {
+        "textKey": "SALES_EVENT_LASTRESORT_REPORT_3",
+        "condition": null
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "endAt": null,
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "startAt": null,
+        "isDisplay": false,
+        "iconAddress": "",
+        "isAppendBonus": false,
+        "unconditionStockIds": []
+      },
+      {
+        "class": "StockCountBonus",
+        "endAt": null,
+        "stocks": [
+          11902,
+          11922,
+          12611
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 10
+          },
+          {
+            "count": 2,
+            "upwardRate": 30
+          },
+          {
+            "count": 3,
+            "upwardRate": 50
+          }
+        ],
+        "startAt": null,
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS",
+        "iconAddress": "",
+        "isAppendBonus": false,
+        "unconditionStockIds": []
+      }
+    ],
+    "overwriteBonuses": []
+  },
+  "26604": {
+    "salesId": 26604,
+    "regionId": 266,
+    "salesName": "エノシマ１日観光大使！ （中長期）",
+    "iconFilename": "item_LastResort2506_exchange01",
+    "startAt": null,
+    "endAt": "2026-07-23 20:00:00",
+    "requiredTime": 43200,
+    "memberLimitNumber": 8,
+    "sortWeight": 1000,
+    "rewards": [
+      {
+        "salesId": 26604,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 1680
+      },
+      {
+        "salesId": 26604,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 1440
+      },
+      {
+        "salesId": 26604,
+        "rewardType": 3,
+        "objectId": 245,
+        "objectValue": 84
+      },
+      {
+        "salesId": 26604,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 960
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_LASTRESORT_REPORT_1",
+        "condition": null
+      },
+      {
+        "textKey": "SALES_EVENT_LASTRESORT_REPORT_2",
+        "condition": null
+      },
+      {
+        "textKey": "SALES_EVENT_LASTRESORT_REPORT_3",
+        "condition": null
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "endAt": null,
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "startAt": null,
+        "isDisplay": false,
+        "iconAddress": "",
+        "isAppendBonus": false,
+        "unconditionStockIds": []
+      },
+      {
+        "class": "StockCountBonus",
+        "endAt": null,
+        "stocks": [
+          11902,
+          11922,
+          12611
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 10
+          },
+          {
+            "count": 2,
+            "upwardRate": 30
+          },
+          {
+            "count": 3,
+            "upwardRate": 50
+          }
+        ],
+        "startAt": null,
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS",
+        "iconAddress": "",
+        "isAppendBonus": false,
+        "unconditionStockIds": []
+      }
+    ],
+    "overwriteBonuses": []
+  },
+  "26605": {
+    "salesId": 26605,
+    "regionId": 266,
+    "salesName": "エノシマ１日観光大使！ （長期）",
+    "iconFilename": "item_LastResort2506_exchange01",
+    "startAt": null,
+    "endAt": "2026-07-23 20:00:00",
+    "requiredTime": 57600,
+    "memberLimitNumber": 8,
+    "sortWeight": 1000,
+    "rewards": [
+      {
+        "salesId": 26605,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 2240
+      },
+      {
+        "salesId": 26605,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 1920
+      },
+      {
+        "salesId": 26605,
+        "rewardType": 3,
+        "objectId": 245,
+        "objectValue": 112
+      },
+      {
+        "salesId": 26605,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 1280
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_LASTRESORT_REPORT_1",
+        "condition": null
+      },
+      {
+        "textKey": "SALES_EVENT_LASTRESORT_REPORT_2",
+        "condition": null
+      },
+      {
+        "textKey": "SALES_EVENT_LASTRESORT_REPORT_3",
+        "condition": null
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "endAt": null,
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "startAt": null,
+        "isDisplay": false,
+        "iconAddress": "",
+        "isAppendBonus": false,
+        "unconditionStockIds": []
+      },
+      {
+        "class": "StockCountBonus",
+        "endAt": null,
+        "stocks": [
+          11902,
+          11922,
+          12611
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 10
+          },
+          {
+            "count": 2,
+            "upwardRate": 30
+          },
+          {
+            "count": 3,
+            "upwardRate": 50
+          }
+        ],
+        "startAt": null,
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS",
+        "iconAddress": "",
+        "isAppendBonus": false,
+        "unconditionStockIds": []
+      }
+    ],
+    "overwriteBonuses": []
+  },
+  "26606": {
+    "salesId": 26606,
+    "regionId": 266,
+    "salesName": "エノシマ１日観光大使！ （超長期）",
+    "iconFilename": "item_LastResort2506_exchange01",
+    "startAt": null,
+    "endAt": "2026-07-23 20:00:00",
+    "requiredTime": 86400,
+    "memberLimitNumber": 8,
+    "sortWeight": 1000,
+    "rewards": [
+      {
+        "salesId": 26606,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 3360
+      },
+      {
+        "salesId": 26606,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 2880
+      },
+      {
+        "salesId": 26606,
+        "rewardType": 3,
+        "objectId": 245,
+        "objectValue": 168
+      },
+      {
+        "salesId": 26606,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 1920
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_LASTRESORT_REPORT_1",
+        "condition": null
+      },
+      {
+        "textKey": "SALES_EVENT_LASTRESORT_REPORT_2",
+        "condition": null
+      },
+      {
+        "textKey": "SALES_EVENT_LASTRESORT_REPORT_3",
+        "condition": null
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "endAt": null,
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "startAt": null,
+        "isDisplay": false,
+        "iconAddress": "",
+        "isAppendBonus": false,
+        "unconditionStockIds": []
+      },
+      {
+        "class": "StockCountBonus",
+        "endAt": null,
+        "stocks": [
+          11902,
+          11922,
+          12611
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 10
+          },
+          {
+            "count": 2,
+            "upwardRate": 30
+          },
+          {
+            "count": 3,
+            "upwardRate": 50
+          }
+        ],
+        "startAt": null,
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS",
+        "iconAddress": "",
+        "isAppendBonus": false,
+        "unconditionStockIds": []
+      }
+    ],
+    "overwriteBonuses": []
   }
 }
