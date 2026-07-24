@@ -5463,5 +5463,168 @@
         "isAddReward": false
       }
     ]
+  },
+  "137": {
+    "productId": 137,
+    "productName": "jp.co.lifewonders.liveahero.pack131",
+    "startAt": null,
+    "endAt": "2026-08-27 14:00:00",
+    "canPurchaseCount": 1,
+    "price": 4900,
+    "xsollaPrice": 4655,
+    "rewards": [
+      {
+        "rewardType": 3,
+        "objectId": 1,
+        "objectValue": 50,
+        "bonus": 100,
+        "fixAddValue": 0,
+        "isAddDrop": false,
+        "isAddReward": false
+      },
+      {
+        "rewardType": 3,
+        "objectId": 2,
+        "objectValue": 80,
+        "bonus": 100,
+        "fixAddValue": 0,
+        "isAddDrop": false,
+        "isAddReward": false
+      },
+      {
+        "rewardType": 3,
+        "objectId": 10,
+        "objectValue": 4,
+        "bonus": 100,
+        "fixAddValue": 0,
+        "isAddDrop": false,
+        "isAddReward": false
+      }
+    ]
+  },
+  "138": {
+    "productId": 138,
+    "productName": "jp.co.lifewonders.liveahero.pack132",
+    "startAt": null,
+    "endAt": "2026-08-27 14:00:00",
+    "canPurchaseCount": 1,
+    "price": 10000,
+    "xsollaPrice": 9500,
+    "rewards": [
+      {
+        "rewardType": 3,
+        "objectId": 1,
+        "objectValue": 103,
+        "bonus": 100,
+        "fixAddValue": 0,
+        "isAddDrop": false,
+        "isAddReward": false
+      },
+      {
+        "rewardType": 3,
+        "objectId": 2,
+        "objectValue": 97,
+        "bonus": 100,
+        "fixAddValue": 0,
+        "isAddDrop": false,
+        "isAddReward": false
+      },
+      {
+        "rewardType": 3,
+        "objectId": 10,
+        "objectValue": 10,
+        "bonus": 100,
+        "fixAddValue": 0,
+        "isAddDrop": false,
+        "isAddReward": false
+      }
+    ]
+  },
+  "901": {
+    "productId": 901,
+    "productName": "jp.co.lifewonders.liveahero.pack901",
+    "startAt": null,
+    "endAt": null,
+    "canPurchaseCount": 1,
+    "price": 120,
+    "xsollaPrice": 120,
+    "rewards": [
+      {
+        "rewardType": 3,
+        "objectId": 1,
+        "objectValue": 1,
+        "bonus": 100,
+        "fixAddValue": 0,
+        "isAddDrop": false,
+        "isAddReward": false
+      },
+      {
+        "rewardType": 3,
+        "objectId": 2,
+        "objectValue": 49,
+        "bonus": 100,
+        "fixAddValue": 0,
+        "isAddDrop": false,
+        "isAddReward": false
+      }
+    ]
+  },
+  "902": {
+    "productId": 902,
+    "productName": "jp.co.lifewonders.liveahero.price007",
+    "startAt": null,
+    "endAt": null,
+    "canPurchaseCount": 0,
+    "price": 20000,
+    "xsollaPrice": 19000,
+    "rewards": [
+      {
+        "rewardType": 3,
+        "objectId": 1,
+        "objectValue": 206,
+        "bonus": 100,
+        "fixAddValue": 0,
+        "isAddDrop": false,
+        "isAddReward": false
+      },
+      {
+        "rewardType": 3,
+        "objectId": 2,
+        "objectValue": 144,
+        "bonus": 100,
+        "fixAddValue": 0,
+        "isAddDrop": false,
+        "isAddReward": false
+      }
+    ]
+  },
+  "903": {
+    "productId": 903,
+    "productName": "jp.co.lifewonders.liveahero.price008",
+    "startAt": null,
+    "endAt": null,
+    "canPurchaseCount": 0,
+    "price": 30000,
+    "xsollaPrice": 28500,
+    "rewards": [
+      {
+        "rewardType": 3,
+        "objectId": 1,
+        "objectValue": 309,
+        "bonus": 100,
+        "fixAddValue": 0,
+        "isAddDrop": false,
+        "isAddReward": false
+      },
+      {
+        "rewardType": 3,
+        "objectId": 2,
+        "objectValue": 216,
+        "bonus": 100,
+        "fixAddValue": 0,
+        "isAddDrop": false,
+        "isAddReward": false
+      }
+    ]
   }
 }
