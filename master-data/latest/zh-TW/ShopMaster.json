@@ -601,6 +601,28 @@
       "conditions": null,
       "products": [
         {
+          "productId": 220656,
+          "storeId": 3,
+          "storeProductNo": 0,
+          "sortWeight": 900,
+          "exchangeLimit": 0,
+          "startAt": null,
+          "endAt": null,
+          "resetType": 0,
+          "resetDetail": null,
+          "product": {
+            "rewardType": 3,
+            "objectId": 40,
+            "objectValue": 1
+          },
+          "currency": {
+            "currencyType": 3,
+            "objectId": 74,
+            "objectValue": 5
+          },
+          "condition": []
+        },
+        {
           "productId": 110011,
           "storeId": 3,
           "storeProductNo": 110011,
@@ -8746,28 +8768,6 @@
               "stockId": 0
             }
           ]
-        },
-        {
-          "productId": 220656,
-          "storeId": 3,
-          "storeProductNo": 0,
-          "sortWeight": 900,
-          "exchangeLimit": 0,
-          "startAt": null,
-          "endAt": null,
-          "resetType": 0,
-          "resetDetail": null,
-          "product": {
-            "rewardType": 3,
-            "objectId": 40,
-            "objectValue": 1
-          },
-          "currency": {
-            "currencyType": 3,
-            "objectId": 74,
-            "objectValue": 5
-          },
-          "condition": []
         }
       ],
       "characters": []
@@ -14090,7 +14090,7 @@
           "productId": 4104675,
           "storeId": 104,
           "storeProductNo": 0,
-          "sortWeight": 1000,
+          "sortWeight": 800,
           "exchangeLimit": 5,
           "startAt": null,
           "endAt": "2026-08-27 14:00:00",
@@ -14421,7 +14421,7 @@
           "storeId": 104,
           "storeProductNo": 15,
           "sortWeight": 1000,
-          "exchangeLimit": 92,
+          "exchangeLimit": 46,
           "startAt": null,
           "endAt": "2026-08-27 14:00:00",
           "resetType": 0,
@@ -14443,7 +14443,7 @@
           "storeId": 104,
           "storeProductNo": 16,
           "sortWeight": 1000,
-          "exchangeLimit": 46,
+          "exchangeLimit": 22,
           "startAt": null,
           "endAt": "2026-08-27 14:00:00",
           "resetType": 0,
@@ -14465,7 +14465,7 @@
           "storeId": 104,
           "storeProductNo": 17,
           "sortWeight": 1000,
-          "exchangeLimit": 20,
+          "exchangeLimit": 10,
           "startAt": null,
           "endAt": "2026-08-27 14:00:00",
           "resetType": 0,
@@ -14487,7 +14487,7 @@
           "storeId": 104,
           "storeProductNo": 18,
           "sortWeight": 1000,
-          "exchangeLimit": 92,
+          "exchangeLimit": 46,
           "startAt": null,
           "endAt": "2026-08-27 14:00:00",
           "resetType": 0,
@@ -14509,7 +14509,7 @@
           "storeId": 104,
           "storeProductNo": 19,
           "sortWeight": 1000,
-          "exchangeLimit": 46,
+          "exchangeLimit": 22,
           "startAt": null,
           "endAt": "2026-08-27 14:00:00",
           "resetType": 0,
@@ -14531,7 +14531,7 @@
           "storeId": 104,
           "storeProductNo": 20,
           "sortWeight": 1000,
-          "exchangeLimit": 20,
+          "exchangeLimit": 10,
           "startAt": null,
           "endAt": "2026-08-27 14:00:00",
           "resetType": 0,
@@ -14553,7 +14553,7 @@
           "storeId": 104,
           "storeProductNo": 21,
           "sortWeight": 1000,
-          "exchangeLimit": 20,
+          "exchangeLimit": 92,
           "startAt": null,
           "endAt": "2026-08-27 14:00:00",
           "resetType": 0,
@@ -14566,7 +14566,7 @@
           "currency": {
             "currencyType": 3,
             "objectId": 289,
-            "objectValue": 100
+            "objectValue": 25
           },
           "condition": []
         },
@@ -14575,7 +14575,7 @@
           "storeId": 104,
           "storeProductNo": 22,
           "sortWeight": 1000,
-          "exchangeLimit": 92,
+          "exchangeLimit": 44,
           "startAt": null,
           "endAt": "2026-08-27 14:00:00",
           "resetType": 0,
@@ -14588,7 +14588,7 @@
           "currency": {
             "currencyType": 3,
             "objectId": 289,
-            "objectValue": 25
+            "objectValue": 50
           },
           "condition": []
         },
@@ -14597,7 +14597,7 @@
           "storeId": 104,
           "storeProductNo": 23,
           "sortWeight": 1000,
-          "exchangeLimit": 44,
+          "exchangeLimit": 20,
           "startAt": null,
           "endAt": "2026-08-27 14:00:00",
           "resetType": 0,
@@ -14610,7 +14610,7 @@
           "currency": {
             "currencyType": 3,
             "objectId": 289,
-            "objectValue": 50
+            "objectValue": 100
           },
           "condition": []
         },
@@ -14662,7 +14662,7 @@
           "productId": 4104701,
           "storeId": 104,
           "storeProductNo": 26,
-          "sortWeight": 1000,
+          "sortWeight": 900,
           "exchangeLimit": 1,
           "startAt": null,
           "endAt": "2026-08-27 14:00:00",
@@ -14684,7 +14684,7 @@
           "productId": 4104702,
           "storeId": 104,
           "storeProductNo": 27,
-          "sortWeight": 1000,
+          "sortWeight": 900,
           "exchangeLimit": 50,
           "startAt": null,
           "endAt": "2026-08-27 14:00:00",
@@ -14706,7 +14706,7 @@
           "productId": 4104703,
           "storeId": 104,
           "storeProductNo": 28,
-          "sortWeight": 1000,
+          "sortWeight": 900,
           "exchangeLimit": 1,
           "startAt": null,
           "endAt": "2026-08-27 14:00:00",
@@ -14728,7 +14728,7 @@
           "productId": 4104704,
           "storeId": 104,
           "storeProductNo": 29,
-          "sortWeight": 1000,
+          "sortWeight": 900,
           "exchangeLimit": 1,
           "startAt": null,
           "endAt": "2026-08-27 14:00:00",
@@ -14750,7 +14750,7 @@
           "productId": 4104705,
           "storeId": 104,
           "storeProductNo": 30,
-          "sortWeight": 1000,
+          "sortWeight": 900,
           "exchangeLimit": 1,
           "startAt": null,
           "endAt": "2026-08-27 14:00:00",
