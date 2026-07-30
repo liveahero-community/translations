@@ -7401,6 +7401,78 @@
       "isInHome": false
     }
   ],
+  "11132": [
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 4,
+      "faceType": "",
+      "serifKey": "SERIF_ROIKERMONTAGE2607_PLAYER",
+      "voiceFilename": "",
+      "resourceName": "roikerMontage2607",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 5,
+      "faceType": "c",
+      "serifKey": "SERIF_ROIKERMONTAGE2607_HERO",
+      "voiceFilename": "",
+      "resourceName": "roikerMontage2607",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 12,
+      "faceType": "h",
+      "serifKey": "SERIF_ROIKERMONTAGE2607_TOUCH",
+      "voiceFilename": "",
+      "resourceName": "roikerMontage2607",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 27,
+      "faceType": "",
+      "serifKey": "SERIF_ROIKERMONTAGE2607_EVENTA",
+      "voiceFilename": "",
+      "resourceName": "roikerMontage2607",
+      "isInHome": false
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 28,
+      "faceType": "e",
+      "serifKey": "SERIF_ROIKERMONTAGE2607_EVENTB",
+      "voiceFilename": "",
+      "resourceName": "roikerMontage2607",
+      "isInHome": false
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 29,
+      "faceType": "f",
+      "serifKey": "SERIF_ROIKERMONTAGE2607_EVENTC",
+      "voiceFilename": "",
+      "resourceName": "roikerMontage2607",
+      "isInHome": false
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 30,
+      "faceType": "c",
+      "serifKey": "SERIF_ROIKERMONTAGE2607_EVENTD",
+      "voiceFilename": "",
+      "resourceName": "roikerMontage2607",
+      "isInHome": false
+    }
+  ],
   "11141": [
     {
       "cardType": 2,
@@ -15670,6 +15742,312 @@
       "serifKey": "SERIF_NORBRAND_EVENTD",
       "voiceFilename": "",
       "resourceName": "norbrand",
+      "isInHome": false
+    }
+  ],
+  "13261": [
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 4,
+      "faceType": "c",
+      "serifKey": "SERIF_SHIRATORI_PLAYER",
+      "voiceFilename": "",
+      "resourceName": "shiratori",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 5,
+      "faceType": "d",
+      "serifKey": "SERIF_SHIRATORI_HERO",
+      "voiceFilename": "",
+      "resourceName": "shiratori",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 12,
+      "faceType": "b",
+      "serifKey": "SERIF_SHIRATORI_TOUCH",
+      "voiceFilename": "",
+      "resourceName": "shiratori",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 3,
+      "faceType": "e",
+      "serifKey": "SERIF_SHIRATORI_DAILY",
+      "voiceFilename": "",
+      "resourceName": "shiratori",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 6,
+      "faceType": "",
+      "serifKey": "SERIF_SHIRATORI_RELATION",
+      "voiceFilename": "",
+      "resourceName": "shiratori",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 11,
+      "faceType": "c",
+      "serifKey": "SERIF_SHIRATORI_APPRECIATION",
+      "voiceFilename": "",
+      "resourceName": "shiratori",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 27,
+      "faceType": "",
+      "serifKey": "SERIF_SHIRATORI_EVENTA",
+      "voiceFilename": "",
+      "resourceName": "shiratori",
+      "isInHome": false
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 28,
+      "faceType": "e",
+      "serifKey": "SERIF_SHIRATORI_EVENTB",
+      "voiceFilename": "",
+      "resourceName": "shiratori",
+      "isInHome": false
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 29,
+      "faceType": "f",
+      "serifKey": "SERIF_SHIRATORI_EVENTC",
+      "voiceFilename": "",
+      "resourceName": "shiratori",
+      "isInHome": false
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 30,
+      "faceType": "c",
+      "serifKey": "SERIF_SHIRATORI_EVENTD",
+      "voiceFilename": "",
+      "resourceName": "shiratori",
+      "isInHome": false
+    }
+  ],
+  "13271": [
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 4,
+      "faceType": "h",
+      "serifKey": "SERIF_YVAGA_PLAYER",
+      "voiceFilename": "",
+      "resourceName": "yvaga",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 5,
+      "faceType": "e",
+      "serifKey": "SERIF_YVAGA_HERO",
+      "voiceFilename": "",
+      "resourceName": "yvaga",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 12,
+      "faceType": "b",
+      "serifKey": "SERIF_YVAGA_TOUCH",
+      "voiceFilename": "",
+      "resourceName": "yvaga",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 3,
+      "faceType": "",
+      "serifKey": "SERIF_YVAGA_DAILY",
+      "voiceFilename": "",
+      "resourceName": "yvaga",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 6,
+      "faceType": "h",
+      "serifKey": "SERIF_YVAGA_RELATION",
+      "voiceFilename": "",
+      "resourceName": "yvaga",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 11,
+      "faceType": "c",
+      "serifKey": "SERIF_YVAGA_APPRECIATION",
+      "voiceFilename": "",
+      "resourceName": "yvaga",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 27,
+      "faceType": "g",
+      "serifKey": "SERIF_YVAGA_EVENTA",
+      "voiceFilename": "",
+      "resourceName": "yvaga",
+      "isInHome": false
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 28,
+      "faceType": "",
+      "serifKey": "SERIF_YVAGA_EVENTB",
+      "voiceFilename": "",
+      "resourceName": "yvaga",
+      "isInHome": false
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 29,
+      "faceType": "c",
+      "serifKey": "SERIF_YVAGA_EVENTC",
+      "voiceFilename": "",
+      "resourceName": "yvaga",
+      "isInHome": false
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 30,
+      "faceType": "h",
+      "serifKey": "SERIF_YVAGA_EVENTD",
+      "voiceFilename": "",
+      "resourceName": "yvaga",
+      "isInHome": false
+    }
+  ],
+  "13281": [
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 4,
+      "faceType": "",
+      "serifKey": "SERIF_RUCHBATH_PLAYER",
+      "voiceFilename": "",
+      "resourceName": "ruchbath",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 5,
+      "faceType": "e",
+      "serifKey": "SERIF_RUCHBATH_HERO",
+      "voiceFilename": "",
+      "resourceName": "ruchbath",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 12,
+      "faceType": "b",
+      "serifKey": "SERIF_RUCHBATH_TOUCH",
+      "voiceFilename": "",
+      "resourceName": "ruchbath",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 3,
+      "faceType": "",
+      "serifKey": "SERIF_RUCHBATH_DAILY",
+      "voiceFilename": "",
+      "resourceName": "ruchbath",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 6,
+      "faceType": "e",
+      "serifKey": "SERIF_RUCHBATH_RELATION",
+      "voiceFilename": "",
+      "resourceName": "ruchbath",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 11,
+      "faceType": "c",
+      "serifKey": "SERIF_RUCHBATH_APPRECIATION",
+      "voiceFilename": "",
+      "resourceName": "ruchbath",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 27,
+      "faceType": "",
+      "serifKey": "SERIF_RUCHBATH_EVENTA",
+      "voiceFilename": "",
+      "resourceName": "ruchbath",
+      "isInHome": false
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 28,
+      "faceType": "c",
+      "serifKey": "SERIF_RUCHBATH_EVENTB",
+      "voiceFilename": "",
+      "resourceName": "ruchbath",
+      "isInHome": false
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 29,
+      "faceType": "f",
+      "serifKey": "SERIF_RUCHBATH_EVENTC",
+      "voiceFilename": "",
+      "resourceName": "ruchbath",
+      "isInHome": false
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 30,
+      "faceType": "c",
+      "serifKey": "SERIF_RUCHBATH_EVENTD",
+      "voiceFilename": "",
+      "resourceName": "ruchbath",
       "isInHome": false
     }
   ],

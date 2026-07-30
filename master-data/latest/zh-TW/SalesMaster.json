@@ -49880,5 +49880,797 @@
       }
     ],
     "overwriteBonuses": []
+  },
+  "26701": {
+    "salesId": 26701,
+    "regionId": 267,
+    "salesName": "常夏の楽園でヒーローサイン会！（短期）",
+    "iconFilename": "item_Montage2607_exchange01",
+    "startAt": null,
+    "endAt": "2026-08-20 20:00:00",
+    "requiredTime": 7200,
+    "memberLimitNumber": 8,
+    "sortWeight": 1000,
+    "rewards": [
+      {
+        "salesId": 26701,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 280
+      },
+      {
+        "salesId": 26701,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 240
+      },
+      {
+        "salesId": 26701,
+        "rewardType": 3,
+        "objectId": 289,
+        "objectValue": 14
+      },
+      {
+        "salesId": 26701,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 160
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_MONTAGE2607_REPORT_1",
+        "condition": null
+      },
+      {
+        "textKey": "SALES_EVENT_MONTAGE2607_REPORT_2",
+        "condition": null
+      },
+      {
+        "textKey": "SALES_EVENT_MONTAGE2607_REPORT_3",
+        "condition": null
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "endAt": null,
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "startAt": null,
+        "isDisplay": false,
+        "iconAddress": "",
+        "isAppendBonus": false,
+        "unconditionStockIds": []
+      },
+      {
+        "class": "StockCountBonus",
+        "endAt": null,
+        "stocks": [
+          11132,
+          13261,
+          13271,
+          13281
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 10
+          },
+          {
+            "count": 2,
+            "upwardRate": 30
+          },
+          {
+            "count": 3,
+            "upwardRate": 50
+          },
+          {
+            "count": 3,
+            "upwardRate": 70
+          }
+        ],
+        "startAt": null,
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS",
+        "iconAddress": "",
+        "isAppendBonus": false,
+        "unconditionStockIds": []
+      }
+    ],
+    "overwriteBonuses": []
+  },
+  "26702": {
+    "salesId": 26702,
+    "regionId": 267,
+    "salesName": "常夏の楽園でヒーローサイン会！（短中期）",
+    "iconFilename": "item_Montage2607_exchange01",
+    "startAt": null,
+    "endAt": "2026-08-20 20:00:00",
+    "requiredTime": 14400,
+    "memberLimitNumber": 8,
+    "sortWeight": 1000,
+    "rewards": [
+      {
+        "salesId": 26702,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 560
+      },
+      {
+        "salesId": 26702,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 480
+      },
+      {
+        "salesId": 26702,
+        "rewardType": 3,
+        "objectId": 289,
+        "objectValue": 28
+      },
+      {
+        "salesId": 26702,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 320
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_MONTAGE2607_REPORT_1",
+        "condition": null
+      },
+      {
+        "textKey": "SALES_EVENT_MONTAGE2607_REPORT_2",
+        "condition": null
+      },
+      {
+        "textKey": "SALES_EVENT_MONTAGE2607_REPORT_3",
+        "condition": null
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "endAt": null,
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "startAt": null,
+        "isDisplay": false,
+        "iconAddress": "",
+        "isAppendBonus": false,
+        "unconditionStockIds": []
+      },
+      {
+        "class": "StockCountBonus",
+        "endAt": null,
+        "stocks": [
+          11132,
+          13261,
+          13271,
+          13281
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 10
+          },
+          {
+            "count": 2,
+            "upwardRate": 30
+          },
+          {
+            "count": 3,
+            "upwardRate": 50
+          },
+          {
+            "count": 3,
+            "upwardRate": 70
+          }
+        ],
+        "startAt": null,
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS",
+        "iconAddress": "",
+        "isAppendBonus": false,
+        "unconditionStockIds": []
+      }
+    ],
+    "overwriteBonuses": []
+  },
+  "26703": {
+    "salesId": 26703,
+    "regionId": 267,
+    "salesName": "常夏の楽園でヒーローサイン会！（中期）",
+    "iconFilename": "item_Montage2607_exchange01",
+    "startAt": null,
+    "endAt": "2026-08-20 20:00:00",
+    "requiredTime": 28800,
+    "memberLimitNumber": 8,
+    "sortWeight": 1000,
+    "rewards": [
+      {
+        "salesId": 26703,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 1120
+      },
+      {
+        "salesId": 26703,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 960
+      },
+      {
+        "salesId": 26703,
+        "rewardType": 3,
+        "objectId": 289,
+        "objectValue": 56
+      },
+      {
+        "salesId": 26703,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 640
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_MONTAGE2607_REPORT_1",
+        "condition": null
+      },
+      {
+        "textKey": "SALES_EVENT_MONTAGE2607_REPORT_2",
+        "condition": null
+      },
+      {
+        "textKey": "SALES_EVENT_MONTAGE2607_REPORT_3",
+        "condition": null
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "endAt": null,
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "startAt": null,
+        "isDisplay": false,
+        "iconAddress": "",
+        "isAppendBonus": false,
+        "unconditionStockIds": []
+      },
+      {
+        "class": "StockCountBonus",
+        "endAt": null,
+        "stocks": [
+          11132,
+          13261,
+          13271,
+          13281
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 10
+          },
+          {
+            "count": 2,
+            "upwardRate": 30
+          },
+          {
+            "count": 3,
+            "upwardRate": 50
+          },
+          {
+            "count": 3,
+            "upwardRate": 70
+          }
+        ],
+        "startAt": null,
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS",
+        "iconAddress": "",
+        "isAppendBonus": false,
+        "unconditionStockIds": []
+      }
+    ],
+    "overwriteBonuses": []
+  },
+  "26704": {
+    "salesId": 26704,
+    "regionId": 267,
+    "salesName": "常夏の楽園でヒーローサイン会！（中長期）",
+    "iconFilename": "item_Montage2607_exchange01",
+    "startAt": null,
+    "endAt": "2026-08-20 20:00:00",
+    "requiredTime": 43200,
+    "memberLimitNumber": 8,
+    "sortWeight": 1000,
+    "rewards": [
+      {
+        "salesId": 26704,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 1680
+      },
+      {
+        "salesId": 26704,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 1440
+      },
+      {
+        "salesId": 26704,
+        "rewardType": 3,
+        "objectId": 289,
+        "objectValue": 84
+      },
+      {
+        "salesId": 26704,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 960
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_MONTAGE2607_REPORT_1",
+        "condition": null
+      },
+      {
+        "textKey": "SALES_EVENT_MONTAGE2607_REPORT_2",
+        "condition": null
+      },
+      {
+        "textKey": "SALES_EVENT_MONTAGE2607_REPORT_3",
+        "condition": null
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "endAt": null,
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "startAt": null,
+        "isDisplay": false,
+        "iconAddress": "",
+        "isAppendBonus": false,
+        "unconditionStockIds": []
+      },
+      {
+        "class": "StockCountBonus",
+        "endAt": null,
+        "stocks": [
+          11132,
+          13261,
+          13271,
+          13281
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 10
+          },
+          {
+            "count": 2,
+            "upwardRate": 30
+          },
+          {
+            "count": 3,
+            "upwardRate": 50
+          },
+          {
+            "count": 3,
+            "upwardRate": 70
+          }
+        ],
+        "startAt": null,
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS",
+        "iconAddress": "",
+        "isAppendBonus": false,
+        "unconditionStockIds": []
+      }
+    ],
+    "overwriteBonuses": []
+  },
+  "26705": {
+    "salesId": 26705,
+    "regionId": 267,
+    "salesName": "常夏の楽園でヒーローサイン会！（長期）",
+    "iconFilename": "item_Montage2607_exchange01",
+    "startAt": null,
+    "endAt": "2026-08-20 20:00:00",
+    "requiredTime": 57600,
+    "memberLimitNumber": 8,
+    "sortWeight": 1000,
+    "rewards": [
+      {
+        "salesId": 26705,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 2240
+      },
+      {
+        "salesId": 26705,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 1920
+      },
+      {
+        "salesId": 26705,
+        "rewardType": 3,
+        "objectId": 289,
+        "objectValue": 112
+      },
+      {
+        "salesId": 26705,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 1280
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_MONTAGE2607_REPORT_1",
+        "condition": null
+      },
+      {
+        "textKey": "SALES_EVENT_MONTAGE2607_REPORT_2",
+        "condition": null
+      },
+      {
+        "textKey": "SALES_EVENT_MONTAGE2607_REPORT_3",
+        "condition": null
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "endAt": null,
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "startAt": null,
+        "isDisplay": false,
+        "iconAddress": "",
+        "isAppendBonus": false,
+        "unconditionStockIds": []
+      },
+      {
+        "class": "StockCountBonus",
+        "endAt": null,
+        "stocks": [
+          11132,
+          13261,
+          13271,
+          13281
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 10
+          },
+          {
+            "count": 2,
+            "upwardRate": 30
+          },
+          {
+            "count": 3,
+            "upwardRate": 50
+          },
+          {
+            "count": 3,
+            "upwardRate": 70
+          }
+        ],
+        "startAt": null,
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS",
+        "iconAddress": "",
+        "isAppendBonus": false,
+        "unconditionStockIds": []
+      }
+    ],
+    "overwriteBonuses": []
+  },
+  "26706": {
+    "salesId": 26706,
+    "regionId": 267,
+    "salesName": "常夏の楽園でヒーローサイン会！（超長期）",
+    "iconFilename": "item_Montage2607_exchange01",
+    "startAt": null,
+    "endAt": "2026-08-20 20:00:00",
+    "requiredTime": 86400,
+    "memberLimitNumber": 8,
+    "sortWeight": 1000,
+    "rewards": [
+      {
+        "salesId": 26706,
+        "rewardType": 3,
+        "objectId": 11,
+        "objectValue": 3360
+      },
+      {
+        "salesId": 26706,
+        "rewardType": 3,
+        "objectId": 35,
+        "objectValue": 2880
+      },
+      {
+        "salesId": 26706,
+        "rewardType": 3,
+        "objectId": 289,
+        "objectValue": 168
+      },
+      {
+        "salesId": 26706,
+        "rewardType": 6,
+        "objectId": 0,
+        "objectValue": 1920
+      }
+    ],
+    "conditions": [],
+    "reports": [
+      {
+        "textKey": "SALES_EVENT_MONTAGE2607_REPORT_1",
+        "condition": null
+      },
+      {
+        "textKey": "SALES_EVENT_MONTAGE2607_REPORT_2",
+        "condition": null
+      },
+      {
+        "textKey": "SALES_EVENT_MONTAGE2607_REPORT_3",
+        "condition": null
+      }
+    ],
+    "bonuses": [
+      {
+        "class": "MemberCountBonus",
+        "endAt": null,
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 5
+          },
+          {
+            "count": 2,
+            "upwardRate": 10
+          },
+          {
+            "count": 3,
+            "upwardRate": 15
+          },
+          {
+            "count": 4,
+            "upwardRate": 20
+          },
+          {
+            "count": 5,
+            "upwardRate": 25
+          },
+          {
+            "count": 6,
+            "upwardRate": 30
+          },
+          {
+            "count": 7,
+            "upwardRate": 40
+          },
+          {
+            "count": 8,
+            "upwardRate": 50
+          }
+        ],
+        "startAt": null,
+        "isDisplay": false,
+        "iconAddress": "",
+        "isAppendBonus": false,
+        "unconditionStockIds": []
+      },
+      {
+        "class": "StockCountBonus",
+        "endAt": null,
+        "stocks": [
+          11132,
+          13261,
+          13271,
+          13281
+        ],
+        "values": [
+          {
+            "count": 1,
+            "upwardRate": 10
+          },
+          {
+            "count": 2,
+            "upwardRate": 30
+          },
+          {
+            "count": 3,
+            "upwardRate": 50
+          },
+          {
+            "count": 3,
+            "upwardRate": 70
+          }
+        ],
+        "startAt": null,
+        "isDisplay": true,
+        "description": "SALES_BONUS_DESCRIPTION_EVENT_BONUS",
+        "iconAddress": "",
+        "isAppendBonus": false,
+        "unconditionStockIds": []
+      }
+    ],
+    "overwriteBonuses": []
   }
 }
