@@ -41,19 +41,19 @@
   },
   "6": {
     "statusId": 6,
-    "statusName": "无敌",
+    "statusName": "無敵",
     "isGoodStatus": 1,
     "statusType": 1,
     "limitCount": -1,
-    "description": "相手からのダメージを无効化する。"
+    "description": "相手からのダメージを無効化する。"
   },
   "7": {
     "statusId": 7,
-    "statusName": "幸运",
+    "statusName": "幸運",
     "isGoodStatus": 1,
     "statusType": 1,
     "limitCount": -1,
-    "description": "スキルの効果発动率+20%"
+    "description": "スキルの効果発動率+20%"
   },
   "8": {
     "statusId": 8,
@@ -61,15 +61,15 @@
     "isGoodStatus": 1,
     "statusType": 1,
     "limitCount": -1,
-    "description": "ViewPowerを消费するスキルのView消费量が半分になる。"
+    "description": "ViewPowerを消費するスキルのView消費量が半分になる。"
   },
   "9": {
     "statusId": 9,
-    "statusName": "复活",
+    "statusName": "復活",
     "isGoodStatus": 1,
     "statusType": 1,
     "limitCount": -1,
-    "description": "死亡时に复活する。"
+    "description": "死亡時に復活する。"
   },
   "10": {
     "statusId": 10,
@@ -77,7 +77,7 @@
     "isGoodStatus": 1,
     "statusType": 1,
     "limitCount": -1,
-    "description": "ターン终了时にHP最大値の10%回复する。"
+    "description": "ターン終了時にHP最大値の10%回復する。"
   },
   "11": {
     "statusId": 11,
@@ -125,15 +125,15 @@
     "isGoodStatus": 0,
     "statusType": 0,
     "limitCount": -1,
-    "description": "确率で発动する効果の発动率が20%下がる。"
+    "description": "確率で発動する効果の発動率が20%下がる。"
   },
   "17": {
     "statusId": 17,
-    "statusName": "过消费",
+    "statusName": "過消費",
     "isGoodStatus": 0,
     "statusType": 0,
     "limitCount": -1,
-    "description": "ViewPowerを消费するスキルのView消费量が2倍になる。"
+    "description": "ViewPowerを消費するスキルのView消費量が2倍になる。"
   },
   "18": {
     "statusId": 18,
@@ -141,15 +141,15 @@
     "isGoodStatus": 0,
     "statusType": 0,
     "limitCount": -1,
-    "description": "ターン终了时にHP最大値の5%のダメージを受ける。"
+    "description": "ターン終了時にHP最大値の5%のダメージを受ける。"
   },
   "19": {
     "statusId": 19,
-    "statusName": "火伤",
+    "statusName": "火傷",
     "isGoodStatus": 0,
     "statusType": 0,
     "limitCount": -1,
-    "description": "ターン终了时にHP最大値の10%のダメージを受ける。"
+    "description": "ターン終了時にHP最大値の10%のダメージを受ける。"
   },
   "20": {
     "statusId": 20,
@@ -165,7 +165,7 @@
     "isGoodStatus": 1,
     "statusType": 1,
     "limitCount": -1,
-    "description": "デバフが付与される确率が20%减少する。"
+    "description": "デバフが付与される確率が20%減少する。"
   },
   "22": {
     "statusId": 22,
@@ -177,11 +177,11 @@
   },
   "23": {
     "statusId": 23,
-    "statusName": "火事场力",
+    "statusName": "火事場力",
     "isGoodStatus": 1,
     "statusType": 1,
     "limitCount": -1,
-    "description": "HPが减れば减るほど攻撃力が上升する。"
+    "description": "HPが減れば減るほど攻撃力が上昇する。"
   },
   "24": {
     "statusId": 24,
@@ -189,7 +189,7 @@
     "isGoodStatus": 1,
     "statusType": 2,
     "limitCount": -1,
-    "description": "自身の行动顺を现时点での最后にする。"
+    "description": "自身の行動順を現時点での最後にする。"
   },
   "25": {
     "statusId": 25,
@@ -197,11 +197,11 @@
     "isGoodStatus": 1,
     "statusType": 1,
     "limitCount": -1,
-    "description": "相手とSPDが离れてる程攻撃力が増加。"
+    "description": "相手とSPDが離れてる程攻撃力が増加。"
   },
   "26": {
     "statusId": 26,
-    "statusName": "ダメージ集约",
+    "statusName": "ダメージ集約",
     "isGoodStatus": 1,
     "statusType": 1,
     "limitCount": -1,
@@ -213,7 +213,7 @@
     "isGoodStatus": 1,
     "statusType": 2,
     "limitCount": -1,
-    "description": "バトル中に永続的に発动する効果。"
+    "description": "バトル中に永続的に発動する効果。"
   },
   "28": {
     "statusId": 28,
@@ -221,7 +221,7 @@
     "isGoodStatus": 1,
     "statusType": 2,
     "limitCount": -1,
-    "description": "イベントにより発动する効果。"
+    "description": "イベントにより発動する効果。"
   },
   "29": {
     "statusId": 29,
@@ -237,7 +237,7 @@
     "isGoodStatus": 1,
     "statusType": 2,
     "limitCount": -1,
-    "description": "アイテムによって発动する効果。"
+    "description": "アイテムによって発動する効果。"
   },
   "31": {
     "statusId": 31,
@@ -245,7 +245,7 @@
     "isGoodStatus": 1,
     "statusType": 2,
     "limitCount": -1,
-    "description": "アイテムによってHPが上升する。"
+    "description": "アイテムによってHPが上昇する。"
   },
   "32": {
     "statusId": 32,
@@ -253,15 +253,15 @@
     "isGoodStatus": 1,
     "statusType": 2,
     "limitCount": -1,
-    "description": "アイテムによってATKが上升する。"
+    "description": "アイテムによってATKが上昇する。"
   },
   "33": {
     "statusId": 33,
-    "statusName": "アイテム効果：被ダメージ减少",
+    "statusName": "アイテム効果：被ダメージ減少",
     "isGoodStatus": 1,
     "statusType": 2,
     "limitCount": -1,
-    "description": "アイテムによって被ダメージが减少する。"
+    "description": "アイテムによって被ダメージが減少する。"
   },
   "34": {
     "statusId": 34,
@@ -269,7 +269,7 @@
     "isGoodStatus": 0,
     "statusType": 0,
     "limitCount": 5,
-    "description": "ダメージを受けたときに炸裂の作成者のATK基础値の40%のダメージを受ける。"
+    "description": "ダメージを受けたときに炸裂の作成者のATK基礎値の40%のダメージを受ける。"
   },
   "35": {
     "statusId": 35,
@@ -277,15 +277,15 @@
     "isGoodStatus": 1,
     "statusType": 1,
     "limitCount": -1,
-    "description": "特定のスキルに関连する効果。"
+    "description": "特定のスキルに関連する効果。"
   },
   "36": {
     "statusId": 36,
-    "statusName": "View消费-3000",
+    "statusName": "View消費-3000",
     "isGoodStatus": 1,
     "statusType": 1,
     "limitCount": -1,
-    "description": "ViewPowerを消费するスキルのView消费量が3000减少する。"
+    "description": "ViewPowerを消費するスキルのView消費量が3000減少する。"
   },
   "37": {
     "statusId": 37,
@@ -293,31 +293,31 @@
     "isGoodStatus": 1,
     "statusType": 2,
     "limitCount": -1,
-    "description": "クエストボーナスによってATKが上升する。"
+    "description": "クエストボーナスによってATKが上昇する。"
   },
   "38": {
     "statusId": 38,
-    "statusName": "View消费-2000",
+    "statusName": "View消費-2000",
     "isGoodStatus": 1,
     "statusType": 1,
     "limitCount": -1,
-    "description": "ViewPowerを消费するスキルのView消费量が2000减少する。"
+    "description": "ViewPowerを消費するスキルのView消費量が2000減少する。"
   },
   "39": {
     "statusId": 39,
-    "statusName": "View消费+4000",
+    "statusName": "View消費+4000",
     "isGoodStatus": 0,
     "statusType": 0,
     "limitCount": -1,
-    "description": "ViewPowerを消费するスキルのView消费量が4000増加する。"
+    "description": "ViewPowerを消費するスキルのView消費量が4000増加する。"
   },
   "40": {
     "statusId": 40,
-    "statusName": "行动停止",
+    "statusName": "行動停止",
     "isGoodStatus": 0,
     "statusType": 0,
     "limitCount": -1,
-    "description": "行动が出来なくなる。"
+    "description": "行動が出来なくなる。"
   },
   "41": {
     "statusId": 41,
@@ -349,7 +349,7 @@
     "isGoodStatus": 1,
     "statusType": 1,
     "limitCount": -1,
-    "description": "デバフが付与される确率が100%减少する"
+    "description": "デバフが付与される確率が100%減少する"
   },
   "45": {
     "statusId": 45,
@@ -365,7 +365,7 @@
     "isGoodStatus": 1,
     "statusType": 1,
     "limitCount": -1,
-    "description": "デバフが付与される确率が100%减少する"
+    "description": "デバフが付与される確率が100%減少する"
   },
   "47": {
     "statusId": 47,
@@ -377,7 +377,7 @@
   },
   "48": {
     "statusId": 48,
-    "statusName": "无効",
+    "statusName": "無効",
     "isGoodStatus": 1,
     "statusType": 1,
     "limitCount": -1,
@@ -389,11 +389,11 @@
     "isGoodStatus": 1,
     "statusType": 1,
     "limitCount": -1,
-    "description": "SPDが+5される。 ViewPowerを消费するスキルのView消费量が2000减少する。スキルによる解除不可。"
+    "description": "SPDが+5される。 ViewPowerを消費するスキルのView消費量が2000減少する。スキルによる解除不可。"
   },
   "50": {
     "statusId": 50,
-    "statusName": "标的",
+    "statusName": "標的",
     "isGoodStatus": 0,
     "statusType": 0,
     "limitCount": -1,
@@ -401,11 +401,11 @@
   },
   "51": {
     "statusId": 51,
-    "statusName": "View消费-18000",
+    "statusName": "View消費-18000",
     "isGoodStatus": 1,
     "statusType": 1,
     "limitCount": -1,
-    "description": "ViewPowerを消费するスキルのView消费量が18000减少する。"
+    "description": "ViewPowerを消費するスキルのView消費量が18000減少する。"
   },
   "52": {
     "statusId": 52,
@@ -413,15 +413,15 @@
     "isGoodStatus": 1,
     "statusType": 1,
     "limitCount": -1,
-    "description": "デバフが付与される确率が10%减少する"
+    "description": "デバフが付与される確率が10%減少する"
   },
   "53": {
     "statusId": 53,
-    "statusName": "热狂",
+    "statusName": "熱狂",
     "isGoodStatus": 1,
     "statusType": 2,
     "limitCount": -1,
-    "description": "特定のスキルに関连する効果。"
+    "description": "特定のスキルに関連する効果。"
   },
   "54": {
     "statusId": 54,
@@ -433,7 +433,7 @@
   },
   "55": {
     "statusId": 55,
-    "statusName": "View减少",
+    "statusName": "View減少",
     "isGoodStatus": 0,
     "statusType": 0,
     "limitCount": -1,
@@ -445,7 +445,7 @@
     "isGoodStatus": 1,
     "statusType": 1,
     "limitCount": -1,
-    "description": "特定のスキルに関连する効果。"
+    "description": "特定のスキルに関連する効果。"
   },
   "57": {
     "statusId": 57,
@@ -457,11 +457,11 @@
   },
   "58": {
     "statusId": 58,
-    "statusName": "View消费+1000",
+    "statusName": "View消費+1000",
     "isGoodStatus": 0,
     "statusType": 0,
     "limitCount": -1,
-    "description": "ViewPowerを消费するスキルのView消费量が1000増加する。"
+    "description": "ViewPowerを消費するスキルのView消費量が1000増加する。"
   },
   "59": {
     "statusId": 59,
@@ -469,7 +469,7 @@
     "isGoodStatus": 1,
     "statusType": 1,
     "limitCount": -1,
-    "description": "デバフが付与される确率が数値%减少する"
+    "description": "デバフが付与される確率が数値%減少する"
   },
   "60": {
     "statusId": 60,
@@ -481,27 +481,27 @@
   },
   "61": {
     "statusId": 61,
-    "statusName": "View消费量减少",
+    "statusName": "View消費量減少",
     "isGoodStatus": 1,
     "statusType": 1,
     "limitCount": -1,
-    "description": "ViewPowerを消费するスキルのView消费量が减少する。スキルによる解除不可。"
+    "description": "ViewPowerを消費するスキルのView消費量が減少する。スキルによる解除不可。"
   },
   "62": {
     "statusId": 62,
-    "statusName": "View消费量増加",
+    "statusName": "View消費量増加",
     "isGoodStatus": 0,
     "statusType": 0,
     "limitCount": -1,
-    "description": "ViewPowerを消费するスキルのView消费量が増加する。スキルによる解除不可。"
+    "description": "ViewPowerを消費するスキルのView消費量が増加する。スキルによる解除不可。"
   },
   "63": {
     "statusId": 63,
-    "statusName": "View消费量减少",
+    "statusName": "View消費量減少",
     "isGoodStatus": 0,
     "statusType": 0,
     "limitCount": -1,
-    "description": "ViewPowerを消费するスキルのView消费量が减少する。スキルによる解除不可。"
+    "description": "ViewPowerを消費するスキルのView消費量が減少する。スキルによる解除不可。"
   },
   "64": {
     "statusId": 64,
@@ -585,11 +585,11 @@
   },
   "74": {
     "statusId": 74,
-    "statusName": "View消费量减少",
+    "statusName": "View消費量減少",
     "isGoodStatus": 1,
     "statusType": 1,
     "limitCount": -1,
-    "description": "ViewPowerを消费するスキルのView消费量が减少する。"
+    "description": "ViewPowerを消費するスキルのView消費量が減少する。"
   },
   "75": {
     "statusId": 75,
@@ -613,7 +613,7 @@
     "isGoodStatus": 2,
     "statusType": 2,
     "limitCount": -1,
-    "description": "1ターンに2回行动を行う。スキルによる解除不可。"
+    "description": "1ターンに2回行動を行う。スキルによる解除不可。"
   },
   "78": {
     "statusId": 78,
@@ -621,19 +621,19 @@
     "isGoodStatus": 1,
     "statusType": 1,
     "limitCount": -1,
-    "description": "ATKが2倍になる。ターン终了时にHP最大値の15%のダメージを受ける。行动がオート行动になる。"
+    "description": "ATKが2倍になる。ターン終了時にHP最大値の15%のダメージを受ける。行動がオート行動になる。"
   },
   "79": {
     "statusId": 79,
-    "statusName": "ATKアップ(重复不可)",
+    "statusName": "ATKアップ(重複不可)",
     "isGoodStatus": 2,
     "statusType": 2,
     "limitCount": -1,
-    "description": "ATKが数値だけ上升する。この効果が重复した场合、効果量が多い方を优先する。"
+    "description": "ATKが数値だけ上昇する。この効果が重複した場合、効果量が多い方を優先する。"
   },
   "80": {
     "statusId": 80,
-    "statusName": "强化コア",
+    "statusName": "強化コア",
     "isGoodStatus": 2,
     "statusType": 2,
     "limitCount": -1,
@@ -641,7 +641,7 @@
   },
   "81": {
     "statusId": 81,
-    "statusName": "无効",
+    "statusName": "無効",
     "isGoodStatus": 2,
     "statusType": 2,
     "limitCount": -1,
@@ -649,11 +649,11 @@
   },
   "82": {
     "statusId": 82,
-    "statusName": "协奏",
+    "statusName": "協奏",
     "isGoodStatus": 1,
     "statusType": 1,
     "limitCount": -1,
-    "description": "View获得スキルで获得するViewPowerが1.5倍。"
+    "description": "View獲得スキルで獲得するViewPowerが1.5倍。"
   },
   "83": {
     "statusId": 83,
@@ -673,11 +673,11 @@
   },
   "85": {
     "statusId": 85,
-    "statusName": "軽减",
+    "statusName": "軽減",
     "isGoodStatus": 2,
     "statusType": 2,
     "limitCount": -1,
-    "description": "軽减効果"
+    "description": "軽減効果"
   },
   "86": {
     "statusId": 86,
@@ -697,11 +697,11 @@
   },
   "88": {
     "statusId": 88,
-    "statusName": "重复不可効果",
+    "statusName": "重複不可効果",
     "isGoodStatus": 2,
     "statusType": 2,
     "limitCount": -1,
-    "description": "バフ・デバフの重复不可効果"
+    "description": "バフ・デバフの重複不可効果"
   },
   "92": {
     "statusId": 92,
@@ -713,11 +713,11 @@
   },
   "93": {
     "statusId": 93,
-    "statusName": "View消费-8000",
+    "statusName": "View消費-8000",
     "isGoodStatus": 1,
     "statusType": 1,
     "limitCount": -1,
-    "description": "ViewPowerを消费するスキルのView消费量が8000减少する。スキルによる解除不可。"
+    "description": "ViewPowerを消費するスキルのView消費量が8000減少する。スキルによる解除不可。"
   },
   "94": {
     "statusId": 94,
@@ -785,7 +785,7 @@
   },
   "104": {
     "statusId": 104,
-    "statusName": "昂扬状态",
+    "statusName": "昂揚状態",
     "isGoodStatus": 2,
     "statusType": 2,
     "limitCount": -1,
@@ -793,7 +793,7 @@
   },
   "105": {
     "statusId": 105,
-    "statusName": "兴奋状态",
+    "statusName": "興奮状態",
     "isGoodStatus": 2,
     "statusType": 2,
     "limitCount": -1,
@@ -801,7 +801,7 @@
   },
   "106": {
     "statusId": 106,
-    "statusName": "兴奋疲れ",
+    "statusName": "興奮疲れ",
     "isGoodStatus": 2,
     "statusType": 2,
     "limitCount": -1,
@@ -809,7 +809,7 @@
   },
   "107": {
     "statusId": 107,
-    "statusName": "ヒーロースーツ损伤",
+    "statusName": "ヒーロースーツ損傷",
     "isGoodStatus": 2,
     "statusType": 2,
     "limitCount": -1,
@@ -817,7 +817,7 @@
   },
   "108": {
     "statusId": 108,
-    "statusName": "攻めの极意",
+    "statusName": "攻めの極意",
     "isGoodStatus": 2,
     "statusType": 2,
     "limitCount": -1,
@@ -825,15 +825,15 @@
   },
   "109": {
     "statusId": 109,
-    "statusName": "映えの极意",
+    "statusName": "映えの極意",
     "isGoodStatus": 2,
     "statusType": 2,
     "limitCount": -1,
-    "description": "ViewPowerを消费するスキルのView消费量が6000减少する。"
+    "description": "ViewPowerを消費するスキルのView消費量が6000減少する。"
   },
   "110": {
     "statusId": 110,
-    "statusName": "速さの极意",
+    "statusName": "速さの極意",
     "isGoodStatus": 2,
     "statusType": 2,
     "limitCount": -1,
@@ -841,7 +841,7 @@
   },
   "111": {
     "statusId": 111,
-    "statusName": "护りの极意",
+    "statusName": "護りの極意",
     "isGoodStatus": 2,
     "statusType": 2,
     "limitCount": -1,
@@ -877,7 +877,7 @@
     "isGoodStatus": 2,
     "statusType": 2,
     "limitCount": -1,
-    "description": "この状态変化をスキルによって解除した时、行动によるViewPowerを获得できない。"
+    "description": "この状態変化をスキルによって解除した時、行動によるViewPowerを獲得できない。"
   },
   "116": {
     "statusId": 116,
@@ -893,7 +893,7 @@
     "isGoodStatus": 2,
     "statusType": 2,
     "limitCount": -1,
-    "description": "相手よりSpdが高い场合に、Spd差に応じて攻撃时にクリティカルが発动。発动时、ダメージが1.3倍になる。"
+    "description": "相手よりSpdが高い場合に、Spd差に応じて攻撃時にクリティカルが発動。発動時、ダメージが1.3倍になる。"
   },
   "118": {
     "statusId": 118,
@@ -901,11 +901,11 @@
     "isGoodStatus": 2,
     "statusType": 2,
     "limitCount": -1,
-    "description": "Spd差に応じた确率で、攻撃时にクリティカルが発动。発动时、ダメージが1.3倍になる。"
+    "description": "Spd差に応じた確率で、攻撃時にクリティカルが発動。発動時、ダメージが1.3倍になる。"
   },
   "119": {
     "statusId": 119,
-    "statusName": "粘质武装",
+    "statusName": "粘質武装",
     "isGoodStatus": 2,
     "statusType": 2,
     "limitCount": -1,
@@ -913,7 +913,7 @@
   },
   "120": {
     "statusId": 120,
-    "statusName": "武装解除状态",
+    "statusName": "武装解除状態",
     "isGoodStatus": 0,
     "statusType": 0,
     "limitCount": -1,
@@ -925,23 +925,23 @@
     "isGoodStatus": 2,
     "statusType": 2,
     "limitCount": -1,
-    "description": "相手からのダメージを无効化する。"
+    "description": "相手からのダメージを無効化する。"
   },
   "122": {
     "statusId": 122,
-    "statusName": "强制干渉",
+    "statusName": "強制干渉",
     "isGoodStatus": 2,
     "statusType": 2,
     "limitCount": -1,
-    "description": "スキル「干渉防御」によるダメージ制限を缓和する。"
+    "description": "スキル「干渉防御」によるダメージ制限を緩和する。"
   },
   "123": {
     "statusId": 123,
-    "statusName": "照准",
+    "statusName": "照準",
     "isGoodStatus": 0,
     "statusType": 0,
     "limitCount": -1,
-    "description": "相手からのダメージが1.3倍になる。オート行动时、相手から狙われやすくなる。"
+    "description": "相手からのダメージが1.3倍になる。オート行動時、相手から狙われやすくなる。"
   },
   "124": {
     "statusId": 124,
@@ -949,15 +949,15 @@
     "isGoodStatus": 1,
     "statusType": 1,
     "limitCount": -1,
-    "description": "相手からのダメージを无効化する。"
+    "description": "相手からのダメージを無効化する。"
   },
   "125": {
     "statusId": 125,
-    "statusName": "泛用エネミー用デバフ",
+    "statusName": "汎用エネミー用デバフ",
     "isGoodStatus": 0,
     "statusType": 0,
     "limitCount": -1,
-    "description": "泛用エネミー用デバフ"
+    "description": "汎用エネミー用デバフ"
   },
   "126": {
     "statusId": 126,
@@ -1073,11 +1073,11 @@
   },
   "140": {
     "statusId": 140,
-    "statusName": "二撃必杀",
+    "statusName": "二撃必殺",
     "isGoodStatus": 2,
     "statusType": 2,
     "limitCount": -1,
-    "description": "この状态変化を付与したキャラクターが、再び同じ相手を攻撃した时、与えるダメージが3倍になる。"
+    "description": "この状態変化を付与したキャラクターが、再び同じ相手を攻撃した時、与えるダメージが3倍になる。"
   },
   "141": {
     "statusId": 141,
@@ -1109,7 +1109,7 @@
     "isGoodStatus": 2,
     "statusType": 2,
     "limitCount": -1,
-    "description": "特定のスキルに関连する効果。"
+    "description": "特定のスキルに関連する効果。"
   },
   "145": {
     "statusId": 145,
@@ -1121,11 +1121,11 @@
   },
   "146": {
     "statusId": 146,
-    "statusName": "回复无効",
+    "statusName": "回復無効",
     "isGoodStatus": 0,
     "statusType": 0,
     "limitCount": -1,
-    "description": "HPが回复できなくなる。"
+    "description": "HPが回復できなくなる。"
   },
   "147": {
     "statusId": 147,
@@ -1133,7 +1133,7 @@
     "isGoodStatus": 2,
     "statusType": 2,
     "limitCount": -1,
-    "description": "特定のスキルに関连する効果。"
+    "description": "特定のスキルに関連する効果。"
   },
   "148": {
     "statusId": 148,
@@ -1141,7 +1141,7 @@
     "isGoodStatus": 2,
     "statusType": 2,
     "limitCount": -1,
-    "description": "死亡时に敌全体に、それぞれのHP最大値の30%のダメージを与える。"
+    "description": "死亡時に敵全体に、それぞれのHP最大値の30%のダメージを与える。"
   },
   "149": {
     "statusId": 149,
@@ -1161,11 +1161,11 @@
   },
   "151": {
     "statusId": 151,
-    "statusName": "観测集中",
+    "statusName": "観測集中",
     "isGoodStatus": 1,
     "statusType": 1,
     "limitCount": -1,
-    "description": "スキルを発动するViewが不足している场合、数値だけViewを获得できる"
+    "description": "スキルを発動するViewが不足している場合、数値だけViewを獲得できる"
   },
   "152": {
     "statusId": 152,
@@ -1173,7 +1173,7 @@
     "isGoodStatus": 1,
     "statusType": 1,
     "limitCount": -1,
-    "description": "カウントが0になった时、永続するATK+10%を付与。<br><color=#505050>行动终了时にカウント减少。<br>ターン数延长の効果を受けない。</color>"
+    "description": "カウントが0になった時、永続するATK+10%を付与。<br><color=#505050>行動終了時にカウント減少。<br>ターン数延長の効果を受けない。</color>"
   },
   "153": {
     "statusId": 153,
@@ -1181,15 +1181,15 @@
     "isGoodStatus": 1,
     "statusType": 1,
     "limitCount": -1,
-    "description": "カウントが0になった时、永続する被ダメージ-10%を付与。<br><color=#505050>行动终了时にカウント减少。<br>ターン数延长の効果を受けない。</color>"
+    "description": "カウントが0になった時、永続する被ダメージ-10%を付与。<br><color=#505050>行動終了時にカウント減少。<br>ターン数延長の効果を受けない。</color>"
   },
   "154": {
     "statusId": 154,
-    "statusName": "発明品:回复",
+    "statusName": "発明品:回復",
     "isGoodStatus": 1,
     "statusType": 1,
     "limitCount": -1,
-    "description": "カウントが0になった时、HPを最大値の20%回复する。<br><color=#505050>行动终了时にカウント减少。<br>ターン数延长の効果を受けない。</color>"
+    "description": "カウントが0になった時、HPを最大値の20%回復する。<br><color=#505050>行動終了時にカウント減少。<br>ターン数延長の効果を受けない。</color>"
   },
   "155": {
     "statusId": 155,
@@ -1197,15 +1197,15 @@
     "isGoodStatus": 2,
     "statusType": 2,
     "limitCount": -1,
-    "description": "<size=17>自身以外のランダムな味方が、同じ攻撃対象にスキル1を使用する。そのスキルが味方を対象とする场合は、ランダムな味方を対象とする。追撃の対象が戦闘不能の场合は発动しない。同タイミングでの同一キャラクターの追撃は复数回発动しない。</size>"
+    "description": "<size=17>自身以外のランダムな味方が、同じ攻撃対象にスキル1を使用する。そのスキルが味方を対象とする場合は、ランダムな味方を対象とする。追撃の対象が戦闘不能の場合は発動しない。同タイミングでの同一キャラクターの追撃は複数回発動しない。</size>"
   },
   "156": {
     "statusId": 156,
-    "statusName": "回复スキル",
+    "statusName": "回復スキル",
     "isGoodStatus": 2,
     "statusType": 2,
     "limitCount": -1,
-    "description": "自身の基础ATKに応じて回复量が変化する、味方のHPを回复するスキル"
+    "description": "自身の基礎ATKに応じて回復量が変化する、味方のHPを回復するスキル"
   },
   "157": {
     "statusId": 157,
@@ -1213,19 +1213,19 @@
     "isGoodStatus": 1,
     "statusType": 2,
     "limitCount": -1,
-    "description": "相手からのダメージを无効化する。"
+    "description": "相手からのダメージを無効化する。"
   },
   "158": {
     "statusId": 158,
-    "statusName": "诱発",
+    "statusName": "誘発",
     "isGoodStatus": 2,
     "statusType": 2,
     "limitCount": -1,
-    "description": "指定した味方が、ランダムな敌にスキルで指定された行动を行う。行动が味方を対象とする场合、ランダムな味方に対して行动する。同タイミングでの同一キャラクターの追撃は复数回発动しない。"
+    "description": "指定した味方が、ランダムな敵にスキルで指定された行動を行う。行動が味方を対象とする場合、ランダムな味方に対して行動する。同タイミングでの同一キャラクターの追撃は複数回発動しない。"
   },
   "159": {
     "statusId": 159,
-    "statusName": "特别ガジェット",
+    "statusName": "特別ガジェット",
     "isGoodStatus": 2,
     "statusType": 2,
     "limitCount": -1,
@@ -1249,11 +1249,11 @@
   },
   "162": {
     "statusId": 162,
-    "statusName": "ダメージ无効",
+    "statusName": "ダメージ無効",
     "isGoodStatus": 2,
     "statusType": 2,
     "limitCount": -1,
-    "description": "相手からのダメージを无効化する。<br><color=#505050>强制出撃のセンセチアのスキル3使用时に解除される。</color>"
+    "description": "相手からのダメージを無効化する。<br><color=#505050>強制出撃のセンセチアのスキル3使用時に解除される。</color>"
   },
   "163": {
     "statusId": 163,
@@ -1261,15 +1261,15 @@
     "isGoodStatus": 2,
     "statusType": 2,
     "limitCount": -1,
-    "description": "ターン开始时にViewを10000获得。"
+    "description": "ターン開始時にViewを10000獲得。"
   },
   "164": {
     "statusId": 164,
-    "statusName": "回复量低下10%",
+    "statusName": "回復量低下10%",
     "isGoodStatus": 0,
     "statusType": 2,
     "limitCount": -1,
-    "description": "HP回复の効果が10%减少する。"
+    "description": "HP回復の効果が10%減少する。"
   },
   "165": {
     "statusId": 165,
@@ -1277,7 +1277,7 @@
     "isGoodStatus": 1,
     "statusType": 2,
     "limitCount": -1,
-    "description": "ターン终了时にHPを最大値の30%回复する。"
+    "description": "ターン終了時にHPを最大値の30%回復する。"
   },
   "166": {
     "statusId": 166,
@@ -1289,7 +1289,7 @@
   },
   "167": {
     "statusId": 167,
-    "statusName": "View消费-50%",
+    "statusName": "View消費-50%",
     "isGoodStatus": 2,
     "statusType": 2,
     "limitCount": -1,
@@ -1305,7 +1305,7 @@
   },
   "169": {
     "statusId": 169,
-    "statusName": "デバフ时弱体",
+    "statusName": "デバフ時弱体",
     "isGoodStatus": 2,
     "statusType": 2,
     "limitCount": -1,
@@ -1313,7 +1313,7 @@
   },
   "170": {
     "statusId": 170,
-    "statusName": "View消费+50%",
+    "statusName": "View消費+50%",
     "isGoodStatus": 2,
     "statusType": 2,
     "limitCount": -1,
@@ -1321,7 +1321,7 @@
   },
   "171": {
     "statusId": 171,
-    "statusName": "HP回复量50%减少",
+    "statusName": "HP回復量50%減少",
     "isGoodStatus": 2,
     "statusType": 2,
     "limitCount": -1,
@@ -1329,7 +1329,7 @@
   },
   "172": {
     "statusId": 172,
-    "statusName": "バフ时强化",
+    "statusName": "バフ時強化",
     "isGoodStatus": 2,
     "statusType": 2,
     "limitCount": -1,
@@ -1337,7 +1337,7 @@
   },
   "173": {
     "statusId": 173,
-    "statusName": "毎ターンHP减少",
+    "statusName": "毎ターンHP減少",
     "isGoodStatus": 2,
     "statusType": 2,
     "limitCount": -1,
@@ -1345,7 +1345,7 @@
   },
   "174": {
     "statusId": 174,
-    "statusName": "コンボ3以下の时ATK-50%",
+    "statusName": "コンボ3以下の時ATK-50%",
     "isGoodStatus": 2,
     "statusType": 2,
     "limitCount": -1,
@@ -1353,7 +1353,7 @@
   },
   "175": {
     "statusId": 175,
-    "statusName": "View消费2倍",
+    "statusName": "View消費2倍",
     "isGoodStatus": 2,
     "statusType": 2,
     "limitCount": -1,
@@ -1361,7 +1361,7 @@
   },
   "176": {
     "statusId": 176,
-    "statusName": "未行动时弱体",
+    "statusName": "未行動時弱体",
     "isGoodStatus": 2,
     "statusType": 2,
     "limitCount": -1,
@@ -1393,7 +1393,7 @@
   },
   "180": {
     "statusId": 180,
-    "statusName": "毎ターンHP回复",
+    "statusName": "毎ターンHP回復",
     "isGoodStatus": 2,
     "statusType": 2,
     "limitCount": -1,
@@ -1401,7 +1401,7 @@
   },
   "181": {
     "statusId": 181,
-    "statusName": "View消费量-3000",
+    "statusName": "View消費量-3000",
     "isGoodStatus": 2,
     "statusType": 2,
     "limitCount": -1,
@@ -1409,7 +1409,7 @@
   },
   "182": {
     "statusId": 182,
-    "statusName": "火事场力",
+    "statusName": "火事場力",
     "isGoodStatus": 2,
     "statusType": 2,
     "limitCount": -1,
@@ -1425,7 +1425,7 @@
   },
   "184": {
     "statusId": 184,
-    "statusName": "View消费量-10000",
+    "statusName": "View消費量-10000",
     "isGoodStatus": 2,
     "statusType": 2,
     "limitCount": -1,
@@ -1437,11 +1437,11 @@
     "isGoodStatus": 2,
     "statusType": 2,
     "limitCount": -1,
-    "description": "解除された次のターンの间、解除された覇気の数×10%ATKを上升(最大100%)。"
+    "description": "解除された次のターンの間、解除された覇気の数×10%ATKを上昇(最大100%)。"
   },
   "186": {
     "statusId": 186,
-    "statusName": "ATK上升",
+    "statusName": "ATK上昇",
     "isGoodStatus": 2,
     "statusType": 2,
     "limitCount": -1,
@@ -1449,7 +1449,7 @@
   },
   "187": {
     "statusId": 187,
-    "statusName": "View消费量+5000",
+    "statusName": "View消費量+5000",
     "isGoodStatus": 2,
     "statusType": 2,
     "limitCount": -1,
@@ -1465,11 +1465,11 @@
   },
   "189": {
     "statusId": 189,
-    "statusName": "オート行动",
+    "statusName": "オート行動",
     "isGoodStatus": 2,
     "statusType": 2,
     "limitCount": -1,
-    "description": "オートバトル时と同様の行动を行う。この行动时の発动スキルや発动対象の选択は装备スキルの影响を受ける。"
+    "description": "オートバトル時と同様の行動を行う。この行動時の発動スキルや発動対象の選択は装備スキルの影響を受ける。"
   },
   "190": {
     "statusId": 190,
@@ -1481,7 +1481,7 @@
   },
   "191": {
     "statusId": 191,
-    "statusName": "上书き用システム効果",
+    "statusName": "",
     "isGoodStatus": 1,
     "statusType": 2,
     "limitCount": -1,
@@ -1497,7 +1497,7 @@
   },
   "193": {
     "statusId": 193,
-    "statusName": "バフターン延长",
+    "statusName": "バフターン延長",
     "isGoodStatus": 2,
     "statusType": 2,
     "limitCount": -1,
@@ -1505,7 +1505,7 @@
   },
   "194": {
     "statusId": 194,
-    "statusName": "デバフターン延长",
+    "statusName": "デバフターン延長",
     "isGoodStatus": 2,
     "statusType": 2,
     "limitCount": -1,
@@ -1521,11 +1521,11 @@
   },
   "196": {
     "statusId": 196,
-    "statusName": "HP回复量+50%",
+    "statusName": "HP回復量+50%",
     "isGoodStatus": 2,
     "statusType": 2,
     "limitCount": -1,
-    "description": "自身のスキルによるHP回复量+50%。(クエストボーナス)"
+    "description": "自身のスキルによるHP回復量+50%。(クエストボーナス)"
   },
   "197": {
     "statusId": 197,
@@ -1533,15 +1533,15 @@
     "isGoodStatus": 2,
     "statusType": 2,
     "limitCount": -1,
-    "description": "サイドキックの基础HP+1000&基础ATK+500。被ダメージ-250。(クエストボーナス)"
+    "description": "サイドキックの基礎HP+1000&基礎ATK+500。被ダメージ-250。(クエストボーナス)"
   },
   "198": {
     "statusId": 198,
-    "statusName": "ブレイク状态",
+    "statusName": "ブレイク状態",
     "isGoodStatus": 0,
     "statusType": 0,
     "limitCount": -1,
-    "description": "相手からのダメージが2倍になる。ターン経过で解除される。"
+    "description": "相手からのダメージが2倍になる。ターン経過で解除される。"
   },
   "199": {
     "statusId": 199,
@@ -1565,31 +1565,31 @@
     "isGoodStatus": 2,
     "statusType": 2,
     "limitCount": -1,
-    "description": "攻撃対象と自身のSPDの差1につき、与えるダメージが2%上升する。(クエストボーナス)"
+    "description": "攻撃対象と自身のSPDの差1につき、与えるダメージが2%上昇する。(クエストボーナス)"
   },
   "202": {
     "statusId": 202,
-    "statusName": "强化无効",
+    "statusName": "強化無効",
     "isGoodStatus": 0,
     "statusType": 0,
     "limitCount": -1,
-    "description": "付与されたバフが无効化される。"
+    "description": "付与されたバフが無効化される。"
   },
   "203": {
     "statusId": 203,
-    "statusName": "View获得量上升",
+    "statusName": "View獲得量上昇",
     "isGoodStatus": 2,
     "statusType": 2,
     "limitCount": -1,
-    "description": "自身のスキルによるView获得量+100%。(クエストボーナス)"
+    "description": "自身のスキルによるView獲得量+100%。(クエストボーナス)"
   },
   "204": {
     "statusId": 204,
-    "statusName": "View消费量减少",
+    "statusName": "View消費量減少",
     "isGoodStatus": 2,
     "statusType": 2,
     "limitCount": -1,
-    "description": "ViewPowerを消费するスキルのView消费量が半分になる。（クエストボーナス）"
+    "description": "ViewPowerを消費するスキルのView消費量が半分になる。（クエストボーナス）"
   },
   "205": {
     "statusId": 205,
@@ -1621,11 +1621,11 @@
     "isGoodStatus": 2,
     "statusType": 2,
     "limitCount": -1,
-    "description": "解除された次のターン开始时、解除された酩酊の数×1000の値のView消费量减少を付与。(最大5000)。バフでもデバフでも无い状态。"
+    "description": "解除された次のターン開始時、解除された酩酊の数×1000の値のView消費量減少を付与。(最大5000)。バフでもデバフでも無い状態。"
   },
   "209": {
     "statusId": 209,
-    "statusName": "View消费量减少",
+    "statusName": "View消費量減少",
     "isGoodStatus": 2,
     "statusType": 2,
     "limitCount": -1,
@@ -1673,11 +1673,11 @@
   },
   "215": {
     "statusId": 215,
-    "statusName": "奋起",
+    "statusName": "奮起",
     "isGoodStatus": 2,
     "statusType": 2,
     "limitCount": -1,
-    "description": "スキル3のView消费量が1000减少する。"
+    "description": "スキル3のView消費量が1000減少する。"
   },
   "216": {
     "statusId": 216,
@@ -1721,11 +1721,11 @@
   },
   "221": {
     "statusId": 221,
-    "statusName": "钢拳",
+    "statusName": "鋼拳",
     "isGoodStatus": 2,
     "statusType": 2,
     "limitCount": -1,
-    "description": "特定のスキルに関连する効果。"
+    "description": "特定のスキルに関連する効果。"
   },
   "222": {
     "statusId": 222,
@@ -1741,7 +1741,7 @@
     "isGoodStatus": 2,
     "statusType": 2,
     "limitCount": -1,
-    "description": "デバフが付与される确率が数値%减少する。"
+    "description": "デバフが付与される確率が数値%減少する。"
   },
   "224": {
     "statusId": 224,
@@ -1749,7 +1749,7 @@
     "isGoodStatus": 2,
     "statusType": 2,
     "limitCount": -1,
-    "description": "复数付与された场合一番高い効果のみ适用される。"
+    "description": "複数付与された場合一番高い効果のみ適用される。"
   },
   "225": {
     "statusId": 225,
@@ -1765,7 +1765,7 @@
     "isGoodStatus": 0,
     "statusType": 0,
     "limitCount": -1,
-    "description": "そのターン、スキルを発动できない。"
+    "description": "そのターン、スキルを発動できない。"
   },
   "227": {
     "statusId": 227,
@@ -1869,7 +1869,7 @@
     "isGoodStatus": 1,
     "statusType": 1,
     "limitCount": -1,
-    "description": "被ダメージ后に自身のHPを付与キャラクターの基础ATKの50%だけ回复する。戦闘不能になるダメージを受けた时は発动しない。"
+    "description": "被ダメージ後に自身のHPを付与キャラクターの基礎ATKの50%だけ回復する。戦闘不能になるダメージを受けた時は発動しない。"
   },
   "240": {
     "statusId": 240,
@@ -1961,11 +1961,11 @@
   },
   "251": {
     "statusId": 251,
-    "statusName": "バフ増强",
+    "statusName": "バフ増強",
     "isGoodStatus": 2,
     "statusType": 2,
     "limitCount": -1,
-    "description": "<size=18>同种のバフを重ね挂けした际、重复せずに既に付与されているバフの効果量が上升する。バフのターン数は付与されたターン数でリセットされる。</size>"
+    "description": "<size=18>同種のバフを重ね掛けした際、重複せずに既に付与されているバフの効果量が上昇する。バフのターン数は付与されたターン数でリセットされる。</size>"
   },
   "252": {
     "statusId": 252,
@@ -2033,11 +2033,11 @@
   },
   "260": {
     "statusId": 260,
-    "statusName": "View冻结4000",
+    "statusName": "View凍結4000",
     "isGoodStatus": 1,
     "statusType": 1,
     "limitCount": -1,
-    "description": "场のキャラクターの行动终了时にViewを4000に変更する。"
+    "description": "場のキャラクターの行動終了時にViewを4000に変更する。"
   },
   "261": {
     "statusId": 261,
@@ -2069,7 +2069,7 @@
     "isGoodStatus": 1,
     "statusType": 1,
     "limitCount": -1,
-    "description": "自身が使用するスキルのHP回复量が1.5倍になる。"
+    "description": "自身が使用するスキルのHP回復量が1.5倍になる。"
   },
   "265": {
     "statusId": 265,
@@ -2077,7 +2077,7 @@
     "isGoodStatus": 0,
     "statusType": 0,
     "limitCount": -1,
-    "description": "行动がオート行动になる。"
+    "description": "行動がオート行動になる。"
   },
   "266": {
     "statusId": 266,
@@ -2097,7 +2097,7 @@
   },
   "268": {
     "statusId": 268,
-    "statusName": "眩晕",
+    "statusName": "眩暈",
     "isGoodStatus": 0,
     "statusType": 0,
     "limitCount": -1,
@@ -2149,7 +2149,7 @@
     "isGoodStatus": 1,
     "statusType": 1,
     "limitCount": -1,
-    "description": "自身のViewの30%分、Atkが上升。最小で+500、最大で+1500まで上升する。"
+    "description": "自身のViewの30%分、Atkが上昇。最小で+500、最大で+1500まで上昇する。"
   },
   "275": {
     "statusId": 275,
@@ -2157,7 +2157,7 @@
     "isGoodStatus": 1,
     "statusType": 1,
     "limitCount": -1,
-    "description": "被ダメージ时、受けるダメージをバリア値だけ軽减する。<br><color=#505050>バリア値が无くなった时、解除される。</color>"
+    "description": "被ダメージ時、受けるダメージをバリア値だけ軽減する。<br><color=#505050>バリア値が無くなった時、解除される。</color>"
   },
   "276": {
     "statusId": 276,
@@ -2197,7 +2197,7 @@
     "isGoodStatus": 1,
     "statusType": 1,
     "limitCount": -1,
-    "description": "ダメージを受けた后、自身のスキル1で反撃する。"
+    "description": "ダメージを受けた後、自身のスキル1で反撃する。"
   },
   "281": {
     "statusId": 281,
@@ -2217,7 +2217,7 @@
   },
   "283": {
     "statusId": 283,
-    "statusName": "毒无効",
+    "statusName": "毒無効",
     "isGoodStatus": 2,
     "statusType": 2,
     "limitCount": -1,
@@ -2225,7 +2225,7 @@
   },
   "284": {
     "statusId": 284,
-    "statusName": "火伤抵抗",
+    "statusName": "火傷抵抗",
     "isGoodStatus": 2,
     "statusType": 2,
     "limitCount": -1,
@@ -2233,7 +2233,7 @@
   },
   "285": {
     "statusId": 285,
-    "statusName": "火伤无効",
+    "statusName": "火傷無効",
     "isGoodStatus": 2,
     "statusType": 2,
     "limitCount": -1,
@@ -2249,7 +2249,7 @@
   },
   "287": {
     "statusId": 287,
-    "statusName": "沈黙无効",
+    "statusName": "沈黙無効",
     "isGoodStatus": 2,
     "statusType": 2,
     "limitCount": -1,
@@ -2257,7 +2257,7 @@
   },
   "288": {
     "statusId": 288,
-    "statusName": "过消费抵抗",
+    "statusName": "過消費抵抗",
     "isGoodStatus": 2,
     "statusType": 2,
     "limitCount": -1,
@@ -2265,7 +2265,7 @@
   },
   "289": {
     "statusId": 289,
-    "statusName": "过消费无効",
+    "statusName": "過消費無効",
     "isGoodStatus": 2,
     "statusType": 2,
     "limitCount": -1,
@@ -2281,7 +2281,7 @@
   },
   "291": {
     "statusId": 291,
-    "statusName": "リジェネ无効",
+    "statusName": "リジェネ無効",
     "isGoodStatus": 2,
     "statusType": 2,
     "limitCount": -1,
@@ -2297,7 +2297,7 @@
   },
   "293": {
     "statusId": 293,
-    "statusName": "ATKダウン无効",
+    "statusName": "ATKダウン無効",
     "isGoodStatus": 2,
     "statusType": 2,
     "limitCount": -1,
@@ -2309,7 +2309,7 @@
     "isGoodStatus": 0,
     "statusType": 0,
     "limitCount": -1,
-    "description": "スキルの対象が反転する。行动がオート行动になる。"
+    "description": "スキルの対象が反転する。行動がオート行動になる。"
   },
   "295": {
     "statusId": 295,
@@ -2333,7 +2333,7 @@
     "isGoodStatus": 1,
     "statusType": 1,
     "limitCount": -1,
-    "description": "View基础値+500。"
+    "description": "View基礎値+500。"
   },
   "298": {
     "statusId": 298,
@@ -2341,7 +2341,7 @@
     "isGoodStatus": 1,
     "statusType": 1,
     "limitCount": -1,
-    "description": "ATKが1.2倍になる。バフ重复无効のクエストでも重复する。"
+    "description": "ATKが1.2倍になる。バフ重複無効のクエストでも重複する。"
   },
   "299": {
     "statusId": 299,
@@ -2353,7 +2353,7 @@
   },
   "300": {
     "statusId": 300,
-    "statusName": "指令断绝",
+    "statusName": "指令断絶",
     "isGoodStatus": 0,
     "statusType": 0,
     "limitCount": -1,
@@ -2433,7 +2433,7 @@
   },
   "310": {
     "statusId": 310,
-    "statusName": "诱导",
+    "statusName": "誘導",
     "isGoodStatus": 0,
     "statusType": 0,
     "limitCount": -1,
@@ -2445,7 +2445,7 @@
     "isGoodStatus": 1,
     "statusType": 1,
     "limitCount": -1,
-    "description": "チャージ数1につき、ATK+10%。(最大チャージ数8まで)<br><color=#505050>剣舞が付与されている味方が敌に攻撃する度に、味方全体の剣舞のチャージ数+1。スキルを発动する度に、味方全体の剣舞のチャージ数-1。<br>ターン终了时に解除される。</color>"
+    "description": "チャージ数1につき、ATK1.1倍。(最大1.8倍まで。チャージ数8で最大値に到達)<br><color=#505050>剣舞が付与されている味方が敵にアクティブスキルで攻撃する度に、味方全体の剣舞のチャージ数+1。<br>行動終了時に味方全体の剣舞のチャージ数-1。<br>ターン終了時に解除される。</color>"
   },
   "312": {
     "statusId": 312,
@@ -2477,7 +2477,7 @@
     "isGoodStatus": 1,
     "statusType": 2,
     "limitCount": -1,
-    "description": "<size=17>対象が、発动者と同じ攻撃対象にスキル1を使用する。そのスキルが味方を対象とする场合は、ランダムな味方を対象とする。追撃の対象が戦闘不能の场合は発动しない。同タイミングでの同一キャラクターの追撃は复数回発动しない。</size>"
+    "description": "<size=17>対象が、発動者と同じ攻撃対象にスキル1を使用する。そのスキルが味方を対象とする場合は、ランダムな味方を対象とする。追撃の対象が戦闘不能の場合は発動しない。同タイミングでの同一キャラクターの追撃は複数回発動しない。</size>"
   },
   "317": {
     "statusId": 317,
@@ -2497,11 +2497,11 @@
   },
   "320": {
     "statusId": 320,
-    "statusName": "回数弱体无効",
+    "statusName": "回数弱体無効",
     "isGoodStatus": 1,
     "statusType": 1,
     "limitCount": -1,
-    "description": "相手からデバフが付与される确率が100%减少する。"
+    "description": "相手からデバフが付与される確率が100%減少する。"
   },
   "324": {
     "statusId": 324,
@@ -2549,7 +2549,7 @@
     "isGoodStatus": 1,
     "statusType": 1,
     "limitCount": -1,
-    "description": "敌味方の行动终了时または连続行动时に、自身のHPが最大でない场合、付与したキャラクターの基础ATKの15%HPを回复する。"
+    "description": "敵味方の行動終了時または連続行動時に、自身のHPが最大でない場合、付与したキャラクターの基礎ATKの15%HPを回復する。"
   },
   "330": {
     "statusId": 330,
@@ -2557,7 +2557,7 @@
     "isGoodStatus": 1,
     "statusType": 1,
     "limitCount": 3,
-    "description": "ATKが1.2倍になる。バフ重复无効のクエストでも3つまで重复する。"
+    "description": "ATKが1.2倍になる。バフ重複無効のクエストでも3つまで重複する。"
   },
   "331": {
     "statusId": 331,
@@ -2749,7 +2749,7 @@
     "isGoodStatus": 1,
     "statusType": 2,
     "limitCount": -1,
-    "description": "オート行动时、相手から狙われやすくなる。"
+    "description": "オート行動時、相手から狙われやすくなる。"
   },
   "1007302": {
     "statusId": 1007302,
@@ -2869,7 +2869,7 @@
     "isGoodStatus": 2,
     "statusType": 2,
     "limitCount": -1,
-    "description": "付与したキャラクター以外からダメージを受けた时、付与したキャラクターがスキル1で追撃をする。"
+    "description": "付与したキャラクター以外からダメージを受けた時、付与したキャラクターがスキル1で追撃をする。"
   },
   "1010203": {
     "statusId": 1010203,
@@ -2989,7 +2989,7 @@
     "isGoodStatus": 2,
     "statusType": 2,
     "limitCount": -1,
-    "description": "特定のスキルに関连する効果。カウントが0になった时、解除される。<br><color=#505050>ダメージを受けた时にカウント减少。</color>"
+    "description": "特定のスキルに関連する効果。カウントが0になった時、解除される。<br><color=#505050>ダメージを受けた時にカウント減少。</color>"
   },
   "1015204": {
     "statusId": 1015204,
@@ -3233,11 +3233,11 @@
   },
   "1022202": {
     "statusId": 1022202,
-    "statusName": "糸鸣",
+    "statusName": "糸鳴",
     "isGoodStatus": 0,
     "statusType": 0,
     "limitCount": -1,
-    "description": "行动を行う前に、付与したヒーローから诱い打ちを受ける。最大チャージ数5まで。この状态変化のチャージ数はデバフ个数として扱われる。<br><color=#505050>行动开始时に解除。</color>"
+    "description": "行動を行う前に、付与したヒーローから誘い打ちを受ける。最大チャージ数5まで。この状態変化のチャージ数はデバフ個数として扱われる。<br><color=#505050>行動開始時に解除。</color>"
   },
   "1022203": {
     "statusId": 1022203,
@@ -3325,7 +3325,7 @@
     "isGoodStatus": 1,
     "statusType": 2,
     "limitCount": 3,
-    "description": "SPDが+10される。3个まで重复する。"
+    "description": "SPDが+10される。3個まで重複する。"
   },
   "1025303": {
     "statusId": 1025303,
@@ -3369,11 +3369,11 @@
   },
   "1025308": {
     "statusId": 1025308,
-    "statusName": "召唤・ジェミニ",
+    "statusName": "召喚・ジェミニ",
     "isGoodStatus": 1,
     "statusType": 2,
     "limitCount": -1,
-    "description": "この状态変化が付与されている间、ジェミニを召唤する。<br>ジェミニは行动时にスキルを発动し、ランダムな敌に2回水属性の60%ダメージを与える。スキル発动后、ジェミニのSPDが50以上ある场合、SPDを50减少し再行动する。SPDが50未満の场合、残りターンが减少。<br>味方の行动终了时、ジェミニはその味方の行动终了直前のSPD-100のSPDを获得する。（获得するSPDは0以下にはならない。）味方がSPD操作役割の场合、获得するSPDは50%増加。1人の味方によるSPDの获得は1ターンに3回まで。2回目、3回目の获得量はそれぞれ获得値の50%、25%になる。<br>ジェミニのATKは召唤者のATKを引継ぎ、更に召唤者のSPDの変动量×2.5%される。<br>ジェミニはフィールドに1人しか存在できない。"
+    "description": "この状態変化が付与されている間、ジェミニを召喚する。<br>ジェミニは行動時にスキルを発動し、ランダムな敵に2回水属性の60%ダメージを与える。スキル発動後、ジェミニのSPDが50以上ある場合、SPDを50減少し再行動する。SPDが50未満の場合、残りターンが減少。<br>味方の行動終了時、ジェミニはその味方の行動終了直前のSPD-100のSPDを獲得する。（獲得するSPDは0以下にはならない。）味方がSPD操作役割の場合、獲得するSPDは50%増加。1人の味方によるSPDの獲得は1ターンに3回まで。2回目、3回目の獲得量はそれぞれ獲得値の50%、25%になる。<br>ジェミニのATKは召喚者のATKを引継ぎ、更に召喚者のSPDの変動量×2.5%される。<br>ジェミニはフィールドに1人しか存在できない。<br><color=#505050>既に召喚が付与されている対象には、新たな召喚は付与されない。</color>"
   },
   "1025309": {
     "statusId": 1025309,
@@ -3557,7 +3557,7 @@
     "isGoodStatus": 2,
     "statusType": 2,
     "limitCount": -1,
-    "description": "特定のスキルに関连する効果。<br><color=#505050>星影のモノマサ以外の味方がダメージを与える度にチャージ数が増加する。<br>スキル3使用后にチャージ数が1になる。</color>"
+    "description": "特定のスキルに関連する効果。<br><color=#505050>星影のモノマサ以外の味方がダメージを与える度にチャージ数が増加する。<br>スキル3使用後にチャージ数が1になる。</color>"
   },
   "1031202": {
     "statusId": 1031202,
@@ -3625,7 +3625,7 @@
   },
   "1033101": {
     "statusId": 1033101,
-    "statusName": "阳光",
+    "statusName": "陽光",
     "isGoodStatus": 2,
     "statusType": 2,
     "limitCount": -1,
@@ -3633,7 +3633,7 @@
   },
   "1033102": {
     "statusId": 1033102,
-    "statusName": "新绿",
+    "statusName": "新緑",
     "isGoodStatus": 1,
     "statusType": 1,
     "limitCount": -1,
@@ -3649,11 +3649,11 @@
   },
   "1034102": {
     "statusId": 1034102,
-    "statusName": "连続跳跃",
+    "statusName": "連続跳躍",
     "isGoodStatus": 2,
     "statusType": 2,
     "limitCount": -1,
-    "description": "チャージ数1につき、SPDが+1される。（最大チャージ数50まで）<br><color=#505050>SPDアップが付与された时にチャージ数が増加する。</color>"
+    "description": "チャージ数1につき、SPDが+1される。（最大チャージ数50まで）<br><color=#505050>SPDアップが付与された時にチャージ数が増加する。</color>"
   },
   "1034201": {
     "statusId": 1034201,
@@ -3917,7 +3917,7 @@
     "isGoodStatus": 2,
     "statusType": 2,
     "limitCount": -1,
-    "description": "自身と、役割が「View获得」の味方はそれぞれのViewの40%分、ATKが上升。最小で+500、最大で+3000まで上升する。この効果は重复しない。"
+    "description": "自身と、役割が「View獲得」の味方はそれぞれのViewの40%分、ATKが上昇。最小で+500、最大で+3000まで上昇する。この効果は重複しない。"
   },
   "1064205": {
     "statusId": 1064205,
@@ -3933,7 +3933,7 @@
     "isGoodStatus": 2,
     "statusType": 2,
     "limitCount": -1,
-    "description": "敌単体に130%ダメージ+対象以外の敌に50%ダメージ。敌全体に1ターンの间眩晕を付与。"
+    "description": "敵単体に130%ダメージ+対象以外の敵に50%ダメージ。敵全体に1ターンの間眩暈を付与。"
   },
   "1065202": {
     "statusId": 1065202,
@@ -4301,7 +4301,7 @@
     "isGoodStatus": 2,
     "statusType": 2,
     "limitCount": -1,
-    "description": "チャージ数1につき、ATK+5%。(最大チャージ数5まで)<br><color=#505050>特定のスキルによりチャージ数が増加する。ターン终了时にチャージ数が减少する。</color>"
+    "description": "チャージ数1につき、ATK+5%。(最大チャージ数5まで)<br><color=#505050>特定のスキルによりチャージ数が増加する。ターン終了時にチャージ数が減少する。</color>"
   },
   "1101202": {
     "statusId": 1101202,
@@ -4669,7 +4669,7 @@
     "isGoodStatus": 1,
     "statusType": 1,
     "limitCount": -1,
-    "description": "ViewPowerを消费するスキルのView消费量が半分になる。バフ重复无効のクエストでも重复する。<br><color=#505050>行动终了时に1つ解除</color>"
+    "description": "ViewPowerを消費するスキルのView消費量が半分になる。バフ重複無効のクエストでも重複する。<br><color=#505050>行動終了時に1つ解除</color>"
   },
   "1122201": {
     "statusId": 1122201,
@@ -4705,7 +4705,7 @@
   },
   "1122205": {
     "statusId": 1122205,
-    "statusName": "减速",
+    "statusName": "減速",
     "isGoodStatus": 2,
     "statusType": 2,
     "limitCount": -1,
@@ -4841,7 +4841,7 @@
   },
   "1140203": {
     "statusId": 1140203,
-    "statusName": "水块圧缩",
+    "statusName": "水塊圧縮",
     "isGoodStatus": 2,
     "statusType": 2,
     "limitCount": -1,
@@ -4865,11 +4865,11 @@
   },
   "1140206": {
     "statusId": 1140206,
-    "statusName": "水块圧缩",
+    "statusName": "水塊圧縮",
     "isGoodStatus": 2,
     "statusType": 2,
     "limitCount": -1,
-    "description": "自身のバフカウントを0にする。1回の行动の间消费したバフカウント×15%ATKが上升。もう1度行动する。"
+    "description": "自身のバフカウントを0にする。1回の行動の間消費したバフカウント×15%ATKが上昇。もう1度行動する。"
   },
   "1160101": {
     "statusId": 1160101,
@@ -4885,7 +4885,7 @@
     "isGoodStatus": 0,
     "statusType": 0,
     "limitCount": -1,
-    "description": "猛撃のオブシディウス以外のキャラクターからダメージを受けた时＆デバフが付与された时にチャージ数+1。役割が「弱体化」のキャラクターの行动でチャージ数が増える场合は、チャージ数+2に増加。最大チャージ数20まで。この状态変化のチャージ数はデバフ个数として扱われる。"
+    "description": "猛撃のオブシディウス以外のキャラクターからダメージを受けた時＆デバフが付与された時にチャージ数+1。役割が「弱体化」のキャラクターの行動でチャージ数が増える場合は、チャージ数+2に増加。最大チャージ数20まで。この状態変化のチャージ数はデバフ個数として扱われる。"
   },
   "1160202": {
     "statusId": 1160202,
@@ -4909,7 +4909,7 @@
     "isGoodStatus": 2,
     "statusType": 2,
     "limitCount": -1,
-    "description": "ターン终了时、弾痕が付与されている敌に40～230%のダメージを与え、弾痕を全て解除(弾痕のチャージ数に応じて威力上升)。この行动でView、コンボ数は増加しない。"
+    "description": "ターン終了時、弾痕が付与されている敵に40～230%のダメージを与え、弾痕を全て解除(弾痕のチャージ数に応じて威力上昇)。この行動でView、コンボ数は増加しない。"
   },
   "1160205": {
     "statusId": 1160205,
@@ -4965,7 +4965,7 @@
     "isGoodStatus": 1,
     "statusType": 2,
     "limitCount": -1,
-    "description": "特定のスキルに関连する効果。最大カウント数は6。"
+    "description": "特定のスキルに関連する効果。最大カウント数は6。"
   },
   "1168203": {
     "statusId": 1168203,
@@ -5029,7 +5029,7 @@
     "isGoodStatus": 0,
     "statusType": 0,
     "limitCount": -1,
-    "description": "ターン终了时にHP最大値の20%のダメージを受ける。デバフ重复无効のクエストでも重复する。"
+    "description": "ターン終了時にHP最大値の20%のダメージを受ける。デバフ重複無効のクエストでも重複する。"
   },
   "1169102": {
     "statusId": 1169102,
@@ -5105,11 +5105,11 @@
   },
   "1189102": {
     "statusId": 1189102,
-    "statusName": "誓约",
+    "statusName": "誓約",
     "isGoodStatus": 2,
     "statusType": 2,
     "limitCount": -1,
-    "description": "サイドキックスキルを除いた自身のスキルのView消费量が5%减少。"
+    "description": "サイドキックスキルを除いた自身のスキルのView消費量が5%減少。"
   },
   "1189103": {
     "statusId": 1189103,
@@ -5129,11 +5129,11 @@
   },
   "1189201": {
     "statusId": 1189201,
-    "statusName": "奋励",
+    "statusName": "奮励",
     "isGoodStatus": 1,
     "statusType": 3,
     "limitCount": -1,
-    "description": "味方全体のATK+20%。このフィールド効果が存在する间、味方全体はこの効果のターン数と同ターン数のバフが1つ付与されているとみなされる。延长时の最大ターン数は2まで。"
+    "description": "味方全体のATK+20%。このフィールド効果が存在する間、味方全体はこの効果のターン数と同ターン数のバフが1つ付与されているとみなされる。延長時の最大ターン数は2まで。"
   },
   "1189202": {
     "statusId": 1189202,
@@ -5149,7 +5149,7 @@
     "isGoodStatus": 1,
     "statusType": 2,
     "limitCount": -1,
-    "description": "ヒーロースキル発动后、この状态変化を解除して、もう1度行动をする。（1ターンに1回まで。再行动时、View・コンボを获得できない。）"
+    "description": "ヒーロースキル発動後、この状態変化を解除して、もう1度行動をする。（1ターンに1回まで。再行動時、View・コンボを獲得できない。）"
   },
   "1189205": {
     "statusId": 1189205,
@@ -5209,11 +5209,11 @@
   },
   "1189214": {
     "statusId": 1189214,
-    "statusName": "向导",
+    "statusName": "嚮導",
     "isGoodStatus": 1,
     "statusType": 1,
     "limitCount": -1,
-    "description": "行动开始前にスキル2を発动する。行动选択を行える状况で、スキルが発动できる场合のみ発动可能。"
+    "description": "行動開始前にスキル2を発動する。行動選択を行える状況で、スキルが発動できる場合のみ発動可能。"
   },
   "1189215": {
     "statusId": 1189215,
@@ -5233,7 +5233,7 @@
   },
   "1190101": {
     "statusId": 1190101,
-    "statusName": "施锭",
+    "statusName": "施錠",
     "isGoodStatus": 0,
     "statusType": 0,
     "limitCount": -1,
@@ -5305,7 +5305,7 @@
   },
   "1191101": {
     "statusId": 1191101,
-    "statusName": "执着",
+    "statusName": "執着",
     "isGoodStatus": 2,
     "statusType": 2,
     "limitCount": -1,
@@ -5317,7 +5317,7 @@
     "isGoodStatus": 2,
     "statusType": 2,
     "limitCount": -1,
-    "description": "スキル1が崩骸に强化される。"
+    "description": "スキル1が崩骸に強化される。"
   },
   "1191103": {
     "statusId": 1191103,
@@ -5409,11 +5409,11 @@
   },
   "1199101": {
     "statusId": 1199101,
-    "statusName": "锻錬",
+    "statusName": "鍛錬",
     "isGoodStatus": 2,
     "statusType": 2,
     "limitCount": -1,
-    "description": "チャージ数2につき、味方全体のATK+5%。（最大チャージ数8まで）<br><color=#505050>ダメージを受けた时にチャージ数が増加する。行动终了时にチャージ数が减少する。</color>"
+    "description": "チャージ数2につき、味方全体のATK+5%。（最大チャージ数8まで）<br><color=#505050>ダメージを受けた時にチャージ数が増加する。行動終了時にチャージ数が減少する。</color>"
   },
   "1199102": {
     "statusId": 1199102,
@@ -5509,7 +5509,7 @@
     "isGoodStatus": 2,
     "statusType": 2,
     "limitCount": -1,
-    "description": "自身が使用するスキルのHP回复量増加。"
+    "description": "自身が使用するスキルのHP回復量増加。"
   },
   "1207105": {
     "statusId": 1207105,
@@ -5677,7 +5677,7 @@
     "isGoodStatus": 1,
     "statusType": 1,
     "limitCount": -1,
-    "description": "スキルの効果発动率+10%"
+    "description": "スキルの効果発動率+10%"
   },
   "1211104": {
     "statusId": 1211104,
@@ -5741,7 +5741,7 @@
     "isGoodStatus": 2,
     "statusType": 2,
     "limitCount": -1,
-    "description": "チャージ数1につきATKを2.5%上升。条件によりチャージ数が増加していく(最大で6まで)。"
+    "description": "チャージ数1につきATKを2.5%上昇。条件によりチャージ数が増加していく(最大で6まで)。"
   },
   "1211112": {
     "statusId": 1211112,
@@ -5925,7 +5925,7 @@
     "isGoodStatus": 2,
     "statusType": 2,
     "limitCount": -1,
-    "description": "ViewPowerを消费するスキルのView消费量が10%减少する。この効果を付与したキャラクターの行动终了时に、付与されたキャラクターが未行动だった场合、1回の行动の间SPDアップを付与。<br><color=#505050>付与したキャラクターが戦闘不能になった时に解除される。</color>"
+    "description": "ViewPowerを消費するスキルのView消費量が10%減少する。この効果を付与したキャラクターの行動終了時に、付与されたキャラクターが未行動だった場合、1回の行動の間SPDアップを付与。<br><color=#505050>付与したキャラクターが戦闘不能になった時に解除される。</color>"
   },
   "1217102": {
     "statusId": 1217102,
@@ -6201,7 +6201,7 @@
   },
   "1255102": {
     "statusId": 1255102,
-    "statusName": "咏唱",
+    "statusName": "詠唱",
     "isGoodStatus": 1,
     "statusType": 1,
     "limitCount": -1,
@@ -6557,7 +6557,7 @@
     "isGoodStatus": 1,
     "statusType": 2,
     "limitCount": 5,
-    "description": "ATK+10%（5个まで重复可能）"
+    "description": "ATK+10%（5個まで重複可能）"
   },
   "1288102": {
     "statusId": 1288102,
@@ -6597,15 +6597,15 @@
     "isGoodStatus": 1,
     "statusType": 2,
     "limitCount": -1,
-    "description": "行动开始时、デバフが付与されている场合、デバフを1つ解除。"
+    "description": "行動開始時、デバフが付与されている場合、デバフを1つ解除。"
   },
   "1289102": {
     "statusId": 1289102,
-    "statusName": "絵本の住人【鸟】",
+    "statusName": "絵本の住人【鳥】",
     "isGoodStatus": 1,
     "statusType": 2,
     "limitCount": -1,
-    "description": "行动开始时、ATKアップが付与されていない场合、1回の行动の间ATKアップを付与。"
+    "description": "行動開始時、ATKアップが付与されていない場合、1回の行動の間ATKアップを付与。"
   },
   "1289103": {
     "statusId": 1289103,
@@ -6613,7 +6613,7 @@
     "isGoodStatus": 1,
     "statusType": 2,
     "limitCount": -1,
-    "description": "行动开始时、Viewを5000获得。"
+    "description": "行動開始時、Viewを5000獲得。"
   },
   "1289104": {
     "statusId": 1289104,
@@ -6865,7 +6865,7 @@
   },
   "1316102": {
     "statusId": 1316102,
-    "statusName": "减速信号",
+    "statusName": "減速信号",
     "isGoodStatus": 1,
     "statusType": 2,
     "limitCount": -1,
@@ -6949,7 +6949,7 @@
     "isGoodStatus": 1,
     "statusType": 1,
     "limitCount": -1,
-    "description": "<size=17>⇌アカシのスキルにより武装効果が発动した时、スキル1を発动する。敌にダメージを与えるスキルを発动した时、1回の行动の间属性に応じた炸裂を付与する。ATKが、付与した⇌アカシの基础ATK未満の场合、この状态変化を持つキャラクターのATKが⇌アカシの基础ATKと同じ値になる。付与时、自身以外の⇌アカシが付与した味方全体の武装を全て解除する。<br><color=#505050>武装効果発动时、または敌にダメージを与えた时に解除される。</color></size>"
+    "description": "<size=17>⇌アカシのスキルにより武装効果が発動した時、スキル1を発動する。敵にダメージを与えるスキルを発動した時、1回の行動の間属性に応じた炸裂を付与する。ATKが、付与した⇌アカシの基礎ATK未満の場合、この状態変化を持つキャラクターのATKが⇌アカシの基礎ATKと同じ値になる。付与時、自身以外の⇌アカシが付与した味方全体の武装を全て解除する。<br><color=#505050>武装効果発動時、または敵にダメージを与えた時に解除される。</color></size>"
   },
   "1318102": {
     "statusId": 1318102,
@@ -7089,11 +7089,11 @@
   },
   "1319102": {
     "statusId": 1319102,
-    "statusName": "棘の铠",
+    "statusName": "棘の鎧",
     "isGoodStatus": 1,
     "statusType": 2,
     "limitCount": -1,
-    "description": "<size=17>敌からダメージを受けた时、攻撃してきた対象に2回の行动の间炸裂を付与。<br>攻撃してきた対象に付与されているデバフの数に応じて炸裂の个数が増加する。（デバフ1つにつき炸裂の个数+1。1回の発动で最大3个まで付与）<br>付与する炸裂はこの状态変化が付与されているキャラクターの属性とATKを参照する。</size>"
+    "description": "<size=17>敵からダメージを受けた時、攻撃してきた対象に2回の行動の間炸裂を付与。<br>攻撃してきた対象に付与されているデバフの数に応じて炸裂の個数が増加する。（デバフ1つにつき炸裂の個数+1。1回の発動で最大3個まで付与）<br>付与する炸裂はこの状態変化が付与されているキャラクターの属性とATKを参照する。</size>"
   },
   "1319103": {
     "statusId": 1319103,
@@ -7173,7 +7173,7 @@
     "isGoodStatus": 1,
     "statusType": 2,
     "limitCount": -1,
-    "description": "この状态変化が付与されている间、シラトリによる成り代わりの対象にできない。"
+    "description": "この状態変化が付与されている間、シラトリによる成り代わりの対象にできない。"
   },
   "1326104": {
     "statusId": 1326104,
@@ -7357,7 +7357,7 @@
     "isGoodStatus": 2,
     "statusType": 2,
     "limitCount": -1,
-    "description": "味方全体のATKが数値だけ上升する。この効果が重复した场合、効果量が多い方を优先する。"
+    "description": "味方全体のATKが数値だけ上昇する。この効果が重複した場合、効果量が多い方を優先する。"
   },
   "3199101": {
     "statusId": 3199101,
@@ -7509,7 +7509,7 @@
     "isGoodStatus": 2,
     "statusType": 2,
     "limitCount": -1,
-    "description": "基础HP+3000&基础ATK+1000。被ダメージ-250。"
+    "description": "基礎HP+3000&基礎ATK+1000。被ダメージ-250。"
   },
   "10331021": {
     "statusId": 10331021,
@@ -7613,23 +7613,23 @@
     "isGoodStatus": 1,
     "statusType": 2,
     "limitCount": -1,
-    "description": "特定のスキルに関连する効果。<br><color=#505050>スキル3使用后に解除される。</color>"
+    "description": "特定のスキルに関連する効果。<br><color=#505050>スキル3使用後に解除される。</color>"
   },
   "12481072": {
     "statusId": 12481072,
-    "statusName": "强袭弾",
+    "statusName": "強襲弾",
     "isGoodStatus": 1,
     "statusType": 2,
     "limitCount": -1,
-    "description": "特定のスキルに関连する効果。<br><color=#505050>スキル3使用后に解除される。</color>"
+    "description": "特定のスキルに関連する効果。<br><color=#505050>スキル3使用後に解除される。</color>"
   },
   "12481073": {
     "statusId": 12481073,
-    "statusName": "治愈弾",
+    "statusName": "治癒弾",
     "isGoodStatus": 1,
     "statusType": 2,
     "limitCount": -1,
-    "description": "特定のスキルに関连する効果。<br><color=#505050>スキル3使用后に解除される。</color>"
+    "description": "特定のスキルに関連する効果。<br><color=#505050>スキル3使用後に解除される。</color>"
   },
   "12481074": {
     "statusId": 12481074,
@@ -7637,23 +7637,23 @@
     "isGoodStatus": 1,
     "statusType": 2,
     "limitCount": -1,
-    "description": "特定のスキルに関连する効果。<br><color=#505050>スキル3使用后に解除される。</color>"
+    "description": "特定のスキルに関連する効果。<br><color=#505050>スキル3使用後に解除される。</color>"
   },
   "12481075": {
     "statusId": 12481075,
-    "statusName": "连双弾",
+    "statusName": "連双弾",
     "isGoodStatus": 1,
     "statusType": 2,
     "limitCount": -1,
-    "description": "特定のスキルに関连する効果。<br><color=#505050>スキル3使用后に解除される。</color>"
+    "description": "特定のスキルに関連する効果。<br><color=#505050>スキル3使用後に解除される。</color>"
   },
   "12481076": {
     "statusId": 12481076,
-    "statusName": "裂伤弾",
+    "statusName": "裂傷弾",
     "isGoodStatus": 1,
     "statusType": 2,
     "limitCount": -1,
-    "description": "特定のスキルに関连する効果。<br><color=#505050>スキル3使用后に解除される。</color>"
+    "description": "特定のスキルに関連する効果。<br><color=#505050>スキル3使用後に解除される。</color>"
   },
   "12481081": {
     "statusId": 12481081,
@@ -7661,23 +7661,23 @@
     "isGoodStatus": 1,
     "statusType": 2,
     "limitCount": -1,
-    "description": "特定のスキルに関连する効果。<br><color=#505050>スキル3使用后に解除される。</color>"
+    "description": "特定のスキルに関連する効果。<br><color=#505050>スキル3使用後に解除される。</color>"
   },
   "12481082": {
     "statusId": 12481082,
-    "statusName": "强袭弾",
+    "statusName": "強襲弾",
     "isGoodStatus": 1,
     "statusType": 2,
     "limitCount": -1,
-    "description": "特定のスキルに関连する効果。<br><color=#505050>スキル3使用后に解除される。</color>"
+    "description": "特定のスキルに関連する効果。<br><color=#505050>スキル3使用後に解除される。</color>"
   },
   "12481083": {
     "statusId": 12481083,
-    "statusName": "治愈弾",
+    "statusName": "治癒弾",
     "isGoodStatus": 1,
     "statusType": 2,
     "limitCount": -1,
-    "description": "特定のスキルに関连する効果。<br><color=#505050>スキル3使用后に解除される。</color>"
+    "description": "特定のスキルに関連する効果。<br><color=#505050>スキル3使用後に解除される。</color>"
   },
   "12481084": {
     "statusId": 12481084,
@@ -7685,23 +7685,23 @@
     "isGoodStatus": 1,
     "statusType": 2,
     "limitCount": -1,
-    "description": "特定のスキルに関连する効果。<br><color=#505050>スキル3使用后に解除される。</color>"
+    "description": "特定のスキルに関連する効果。<br><color=#505050>スキル3使用後に解除される。</color>"
   },
   "12481085": {
     "statusId": 12481085,
-    "statusName": "连双弾",
+    "statusName": "連双弾",
     "isGoodStatus": 1,
     "statusType": 2,
     "limitCount": -1,
-    "description": "特定のスキルに関连する効果。<br><color=#505050>スキル3使用后に解除される。</color>"
+    "description": "特定のスキルに関連する効果。<br><color=#505050>スキル3使用後に解除される。</color>"
   },
   "12481086": {
     "statusId": 12481086,
-    "statusName": "裂伤弾",
+    "statusName": "裂傷弾",
     "isGoodStatus": 1,
     "statusType": 2,
     "limitCount": -1,
-    "description": "特定のスキルに関连する効果。<br><color=#505050>スキル3使用后に解除される。</color>"
+    "description": "特定のスキルに関連する効果。<br><color=#505050>スキル3使用後に解除される。</color>"
   },
   "12481091": {
     "statusId": 12481091,
@@ -7709,23 +7709,23 @@
     "isGoodStatus": 1,
     "statusType": 2,
     "limitCount": -1,
-    "description": "特定のスキルに関连する効果。<br><color=#505050>スキル3使用后に解除される。</color>"
+    "description": "特定のスキルに関連する効果。<br><color=#505050>スキル3使用後に解除される。</color>"
   },
   "12481092": {
     "statusId": 12481092,
-    "statusName": "强袭弾",
+    "statusName": "強襲弾",
     "isGoodStatus": 1,
     "statusType": 2,
     "limitCount": -1,
-    "description": "特定のスキルに関连する効果。<br><color=#505050>スキル3使用后に解除される。</color>"
+    "description": "特定のスキルに関連する効果。<br><color=#505050>スキル3使用後に解除される。</color>"
   },
   "12481093": {
     "statusId": 12481093,
-    "statusName": "治愈弾",
+    "statusName": "治癒弾",
     "isGoodStatus": 1,
     "statusType": 2,
     "limitCount": -1,
-    "description": "特定のスキルに関连する効果。<br><color=#505050>スキル3使用后に解除される。</color>"
+    "description": "特定のスキルに関連する効果。<br><color=#505050>スキル3使用後に解除される。</color>"
   },
   "12481094": {
     "statusId": 12481094,
@@ -7733,31 +7733,31 @@
     "isGoodStatus": 1,
     "statusType": 2,
     "limitCount": -1,
-    "description": "特定のスキルに関连する効果。<br><color=#505050>スキル3使用后に解除される。</color>"
+    "description": "特定のスキルに関連する効果。<br><color=#505050>スキル3使用後に解除される。</color>"
   },
   "12481095": {
     "statusId": 12481095,
-    "statusName": "连双弾",
+    "statusName": "連双弾",
     "isGoodStatus": 1,
     "statusType": 2,
     "limitCount": -1,
-    "description": "特定のスキルに関连する効果。<br><color=#505050>スキル3使用后に解除される。</color>"
+    "description": "特定のスキルに関連する効果。<br><color=#505050>スキル3使用後に解除される。</color>"
   },
   "12481096": {
     "statusId": 12481096,
-    "statusName": "裂伤弾",
+    "statusName": "裂傷弾",
     "isGoodStatus": 1,
     "statusType": 2,
     "limitCount": -1,
-    "description": "特定のスキルに関连する効果。<br><color=#505050>スキル3使用后に解除される。</color>"
+    "description": "特定のスキルに関連する効果。<br><color=#505050>スキル3使用後に解除される。</color>"
   },
   "80000001": {
     "statusId": 80000001,
-    "statusName": "连続",
+    "statusName": "連続",
     "isGoodStatus": 1,
     "statusType": 2,
     "limitCount": -1,
-    "description": "アクティブスキルで攻撃する度に连続のカウントが减少し、カウントが0になると再行动する。"
+    "description": "アクティブスキルで攻撃する度に連続のカウントが減少し、カウントが0になると再行動する。"
   },
   "80000002": {
     "statusId": 80000002,
@@ -7825,7 +7825,7 @@
   },
   "90000701": {
     "statusId": 90000701,
-    "statusName": "先阵を切る",
+    "statusName": "先陣を切る",
     "isGoodStatus": 2,
     "statusType": 2,
     "limitCount": -1,
