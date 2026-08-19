@@ -3765,6 +3765,86 @@
       "skinId": 2,
       "skinName": "",
       "unlockConditions": null
+    },
+    {
+      "cardType": 1,
+      "visualType": 1,
+      "groupId": 1,
+      "isDamage": false,
+      "skinId": 2,
+      "skinName": "",
+      "unlockConditions": [
+        {
+          "class": "AnyQuestClear",
+          "questIds": [
+            1278008
+          ]
+        }
+      ]
+    },
+    {
+      "cardType": 1,
+      "visualType": 1,
+      "groupId": 1,
+      "isDamage": true,
+      "skinId": 3,
+      "skinName": "",
+      "unlockConditions": [
+        {
+          "class": "AnyQuestClear",
+          "questIds": [
+            1278008
+          ]
+        }
+      ]
+    },
+    {
+      "cardType": 1,
+      "visualType": 2,
+      "groupId": 1,
+      "isDamage": false,
+      "skinId": 2,
+      "skinName": "",
+      "unlockConditions": [
+        {
+          "class": "AnyQuestClear",
+          "questIds": [
+            1278008
+          ]
+        }
+      ]
+    },
+    {
+      "cardType": 1,
+      "visualType": 2,
+      "groupId": 1,
+      "isDamage": true,
+      "skinId": 3,
+      "skinName": "",
+      "unlockConditions": [
+        {
+          "class": "AnyQuestClear",
+          "questIds": [
+            1278008
+          ]
+        }
+      ]
+    },
+    {
+      "cardType": 2,
+      "visualType": 1,
+      "groupId": 3,
+      "isDamage": false,
+      "skinId": 3,
+      "skinName": "",
+      "unlockConditions": [
+        {
+          "class": "AnyQuestClear",
+          "questIds": [
+            1278008
+          ]
+        }
+      ]
     }
   ]
 }

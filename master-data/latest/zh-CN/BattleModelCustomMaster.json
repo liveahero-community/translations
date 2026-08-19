@@ -11262,5 +11262,95 @@
       "effectAddress": "TurnObject_Blooming",
       "targetStockId": 13281
     }
+  },
+  "1270": {
+    "itemId": 11328101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att_angel_A",
+      "targetStockId": 13281,
+      "attachmentName": "att/angel_A"
+    }
+  },
+  "1271": {
+    "itemId": 11328101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att_angel_B",
+      "targetStockId": 13281,
+      "attachmentName": "att/angel_B"
+    }
+  },
+  "1272": {
+    "itemId": 11328101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att_angel_C",
+      "targetStockId": 13281,
+      "attachmentName": "att/angel_C"
+    }
+  },
+  "1273": {
+    "itemId": 11328101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att_eye1",
+      "targetStockId": 13281,
+      "attachmentName": "att/angel_eye1"
+    }
+  },
+  "1274": {
+    "itemId": 11328101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": true,
+      "slotName": "ori_eye1",
+      "targetStockId": 13281,
+      "attachmentName": "eye1"
+    }
+  },
+  "1275": {
+    "itemId": 11328101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": true,
+      "slotName": "ori_helmet",
+      "targetStockId": 13281,
+      "attachmentName": "ori_helmet"
+    }
+  },
+  "1276": {
+    "itemId": 11328101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": true,
+      "slotName": "ori_helmetback",
+      "targetStockId": 13281,
+      "attachmentName": "ori_helmetback"
+    }
+  },
+  "1277": {
+    "itemId": 11328101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": true,
+      "slotName": "ori_left_helmetaccessory",
+      "targetStockId": 13281,
+      "attachmentName": "ori_left_helmetaccessory"
+    }
+  },
+  "1278": {
+    "itemId": 11328101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": true,
+      "slotName": "ori_rgiht_helmetaccessory",
+      "targetStockId": 13281,
+      "attachmentName": "ori_rgiht_helmetaccessory"
+    }
   }
 }
