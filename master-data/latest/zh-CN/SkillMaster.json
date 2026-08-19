@@ -437183,14 +437183,14 @@
   },
   "4334101": {
     "skillId": 4334101,
-    "skillName": "縺ｫ縺偵※",
+    "skillName": "𦈐ｫ𦈐侦※",
     "skillIndex": 0,
     "useView": 0,
     "targetFlag": 2,
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "敵単体に80%ダメージ。1回の行動の間モザイクを付与。<style=\"改行\"></style>1ターンの間毒を付与。（敵専用）",
+    "description": "敌単体に80%ダメージ。1回の行动の间モザイクを付与。<style=\"改行\"></style>1ターンの间毒を付与。（敌専用）",
     "shortenDescription": "",
     "cutin": [
       {
@@ -437298,14 +437298,14 @@
   },
   "4334102": {
     "skillId": 4334102,
-    "skillName": "縺薙％縺九ｉ蜃ｺ縺溘＞",
+    "skillName": "𦈐薙％𦈐九ｉ蜃ｺ𦈐溘＞",
     "skillIndex": 1,
     "useView": 3000,
     "targetFlag": 4,
     "resourceName": "b_skill_debuffAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵全体に1回の行動の間ATKダウンを付与。<style=\"改行\"></style>1ターンの間火傷を付与。2ターンの間眩暈を付与。（敵専用）",
+    "description": "敌全体に1回の行动の间ATKダウンを付与。<style=\"改行\"></style>1ターンの间火伤を付与。2ターンの间眩晕を付与。（敌専用）",
     "shortenDescription": "",
     "cutin": [
       {
@@ -437413,14 +437413,14 @@
   },
   "4334103": {
     "skillId": 4334103,
-    "skillName": "縺｡縺九ｈ繧九↑",
+    "skillName": "𦈐｡𦈐九ｈ繧九↑",
     "skillIndex": 2,
     "useView": 6000,
     "targetFlag": 4,
     "resourceName": "b_skill_damageAll",
     "subResourceName": "s_skill_debuffAll",
     "timing": 0,
-    "description": "敵全体に対象の現在HPが多いほど威力が上昇する貫通ダメージ。（敵専用）",
+    "description": "敌全体に対象の现在HPが多いほど威力が上升する贯通ダメージ。（敌専用）",
     "shortenDescription": "",
     "cutin": [
       {
@@ -573052,14 +573052,14 @@
   },
   "6334103": {
     "skillId": 6334103,
-    "skillName": "逕溘″縺溘＞",
+    "skillName": "迳溘″𦈐溘＞",
     "skillIndex": 0,
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "b_skill_special",
     "subResourceName": "",
     "timing": 1,
-    "description": "1回のスキル発動、もしくは継続ダメージから受けるダメージを合計5000に制限。<style=\"改行\"></style>ターン経過毎にダメージ上限が5000ずつ緩和される。",
+    "description": "1回のスキル発动、もしくは継続ダメージから受けるダメージを合计5000に制限。<style=\"改行\"></style>ターン経过毎にダメージ上限が5000ずつ缓和される。",
     "shortenDescription": "",
     "cutin": [],
     "isEquip": true,
