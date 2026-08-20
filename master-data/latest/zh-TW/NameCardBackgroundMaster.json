@@ -1491,5 +1491,33 @@
         ]
       }
     ]
+  },
+  "1094": {
+    "backgroundId": 1094,
+    "iconAddress": "item_icon_bg_archipelagoplain_day",
+    "bgAddress": "bg_archipelagoplain_day",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          1278009
+        ]
+      }
+    ]
+  },
+  "1095": {
+    "backgroundId": 1095,
+    "iconAddress": "item_icon_bg_archipelagohotel_day",
+    "bgAddress": "bg_archipelagohotel_day",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          1278009
+        ]
+      }
+    ]
   }
 }
