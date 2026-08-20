@@ -2054,6 +2054,15 @@
       "skinId": 2,
       "skinName": "",
       "unlockConditions": null
+    },
+    {
+      "cardType": 1,
+      "visualType": 2,
+      "groupId": 1,
+      "isDamage": false,
+      "skinId": 2,
+      "skinName": "",
+      "unlockConditions": null
     }
   ],
   "11141": [
@@ -3836,6 +3845,22 @@
       "groupId": 3,
       "isDamage": false,
       "skinId": 3,
+      "skinName": "",
+      "unlockConditions": [
+        {
+          "class": "AnyQuestClear",
+          "questIds": [
+            1278008
+          ]
+        }
+      ]
+    },
+    {
+      "cardType": 1,
+      "visualType": 2,
+      "groupId": 2,
+      "isDamage": false,
+      "skinId": 4,
       "skinName": "",
       "unlockConditions": [
         {
