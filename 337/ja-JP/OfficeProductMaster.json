@@ -1,0 +1,1113 @@
+{
+  "1": {
+    "officeProductId": 1,
+    "productName": "営業課・人員拡充の稟議Ⅰ",
+    "bannerDescription": "営業に同行できるサイドキックを1名になる。<br>オフィスの改善度が<color=orange>3</color>上がる。",
+    "productDescription": "営業に同行できるサイドキックを1名になる。<br>オフィスの改善度が<color=orange>3</color>上がる。",
+    "sortWeight": 1000,
+    "productType": 1,
+    "exchangeLimit": 1,
+    "startAt": null,
+    "endAt": null,
+    "resetType": 0,
+    "resetDetail": null,
+    "rewards": [],
+    "currencies": [
+      {
+        "currencyType": 3,
+        "objectId": 78,
+        "objectValue": 50
+      }
+    ],
+    "extensions": [
+      {
+        "officeExtensionId": 1
+      },
+      {
+        "officeExtensionId": 11
+      }
+    ],
+    "condition": []
+  },
+  "2": {
+    "officeProductId": 2,
+    "productName": "営業課・人員拡充の稟議Ⅱ",
+    "bannerDescription": "営業に同行できるサイドキックが2名になる。<br>オフィスの改善度が<color=orange>3</color>上がる。",
+    "productDescription": "営業に同行できるサイドキックが2名になる。<br>オフィスの改善度が<color=orange>3</color>上がる。",
+    "sortWeight": 1000,
+    "productType": 1,
+    "exchangeLimit": 1,
+    "startAt": null,
+    "endAt": null,
+    "resetType": 0,
+    "resetDetail": null,
+    "rewards": [],
+    "currencies": [
+      {
+        "currencyType": 3,
+        "objectId": 78,
+        "objectValue": 100
+      }
+    ],
+    "extensions": [
+      {
+        "officeExtensionId": 2
+      },
+      {
+        "officeExtensionId": 12
+      }
+    ],
+    "condition": [
+      {
+        "class": "OfficeExtensionCondition",
+        "itemId": 0,
+        "stockId": 0,
+        "cardType": 0,
+        "officeLv": 0,
+        "officeProductId": 1,
+        "isAscendingOrder": true,
+        "relationProductIds": []
+      }
+    ]
+  },
+  "3": {
+    "officeProductId": 3,
+    "productName": "営業課・人員拡充の稟議Ⅲ",
+    "bannerDescription": "営業に同行できるサイドキックが3名になる。<br>オフィスの改善度が<color=orange>3</color>上がる。",
+    "productDescription": "営業に同行できるサイドキックが3名になる。<br>オフィスの改善度が<color=orange>3</color>上がる。",
+    "sortWeight": 1000,
+    "productType": 1,
+    "exchangeLimit": 1,
+    "startAt": null,
+    "endAt": null,
+    "resetType": 0,
+    "resetDetail": null,
+    "rewards": [],
+    "currencies": [
+      {
+        "currencyType": 3,
+        "objectId": 78,
+        "objectValue": 110
+      },
+      {
+        "currencyType": 3,
+        "objectId": 79,
+        "objectValue": 10
+      }
+    ],
+    "extensions": [
+      {
+        "officeExtensionId": 3
+      },
+      {
+        "officeExtensionId": 13
+      }
+    ],
+    "condition": [
+      {
+        "class": "OfficeExtensionCondition",
+        "itemId": 0,
+        "stockId": 0,
+        "cardType": 0,
+        "officeLv": 0,
+        "officeProductId": 2,
+        "isAscendingOrder": true,
+        "relationProductIds": []
+      }
+    ]
+  },
+  "4": {
+    "officeProductId": 4,
+    "productName": "営業課・人員拡充の稟議Ⅳ",
+    "bannerDescription": "営業に同行できるサイドキックが4名になる。<br>オフィスの改善度が<color=orange>3</color>上がる。",
+    "productDescription": "営業に同行できるサイドキックが4名になる。<br>オフィスの改善度が<color=orange>3</color>上がる。",
+    "sortWeight": 1000,
+    "productType": 1,
+    "exchangeLimit": 1,
+    "startAt": null,
+    "endAt": null,
+    "resetType": 0,
+    "resetDetail": null,
+    "rewards": [],
+    "currencies": [
+      {
+        "currencyType": 3,
+        "objectId": 78,
+        "objectValue": 120
+      },
+      {
+        "currencyType": 3,
+        "objectId": 79,
+        "objectValue": 10
+      }
+    ],
+    "extensions": [
+      {
+        "officeExtensionId": 4
+      },
+      {
+        "officeExtensionId": 14
+      }
+    ],
+    "condition": [
+      {
+        "class": "OfficeExtensionCondition",
+        "itemId": 0,
+        "stockId": 0,
+        "cardType": 0,
+        "officeLv": 0,
+        "officeProductId": 3,
+        "isAscendingOrder": true,
+        "relationProductIds": []
+      }
+    ]
+  },
+  "5": {
+    "officeProductId": 5,
+    "productName": "営業課・人員拡充の稟議Ⅴ",
+    "bannerDescription": "営業に同行できるサイドキックが5名になる。<br>オフィスの改善度が<color=orange>3</color>上がる。",
+    "productDescription": "営業に同行できるサイドキックが5名になる。<br>オフィスの改善度が<color=orange>3</color>上がる。",
+    "sortWeight": 1000,
+    "productType": 1,
+    "exchangeLimit": 1,
+    "startAt": null,
+    "endAt": null,
+    "resetType": 0,
+    "resetDetail": null,
+    "rewards": [],
+    "currencies": [
+      {
+        "currencyType": 3,
+        "objectId": 78,
+        "objectValue": 130
+      },
+      {
+        "currencyType": 3,
+        "objectId": 79,
+        "objectValue": 10
+      }
+    ],
+    "extensions": [
+      {
+        "officeExtensionId": 5
+      },
+      {
+        "officeExtensionId": 15
+      }
+    ],
+    "condition": [
+      {
+        "class": "OfficeExtensionCondition",
+        "itemId": 0,
+        "stockId": 0,
+        "cardType": 0,
+        "officeLv": 0,
+        "officeProductId": 4,
+        "isAscendingOrder": true,
+        "relationProductIds": []
+      }
+    ]
+  },
+  "6": {
+    "officeProductId": 6,
+    "productName": "営業課・人員拡充の稟議Ⅵ",
+    "bannerDescription": "営業に同行できるサイドキックが6名になる。<br>オフィスの改善度が<color=orange>3</color>上がる。",
+    "productDescription": "営業に同行できるサイドキックが6名になる。<br>オフィスの改善度が<color=orange>3</color>上がる。",
+    "sortWeight": 1000,
+    "productType": 1,
+    "exchangeLimit": 1,
+    "startAt": null,
+    "endAt": null,
+    "resetType": 0,
+    "resetDetail": null,
+    "rewards": [],
+    "currencies": [
+      {
+        "currencyType": 3,
+        "objectId": 78,
+        "objectValue": 140
+      },
+      {
+        "currencyType": 3,
+        "objectId": 79,
+        "objectValue": 10
+      }
+    ],
+    "extensions": [
+      {
+        "officeExtensionId": 6
+      },
+      {
+        "officeExtensionId": 16
+      }
+    ],
+    "condition": [
+      {
+        "class": "OfficeExtensionCondition",
+        "itemId": 0,
+        "stockId": 0,
+        "cardType": 0,
+        "officeLv": 0,
+        "officeProductId": 5,
+        "isAscendingOrder": true,
+        "relationProductIds": []
+      }
+    ]
+  },
+  "7": {
+    "officeProductId": 7,
+    "productName": "営業課・人員拡充の稟議Ⅶ",
+    "bannerDescription": "営業に同行できるサイドキックが7名になる。<br>オフィスの改善度が<color=orange>3</color>上がる。",
+    "productDescription": "営業に同行できるサイドキックが7名になる。<br>オフィスの改善度が<color=orange>3</color>上がる。",
+    "sortWeight": 1000,
+    "productType": 1,
+    "exchangeLimit": 1,
+    "startAt": null,
+    "endAt": null,
+    "resetType": 0,
+    "resetDetail": null,
+    "rewards": [],
+    "currencies": [
+      {
+        "currencyType": 3,
+        "objectId": 78,
+        "objectValue": 150
+      },
+      {
+        "currencyType": 3,
+        "objectId": 79,
+        "objectValue": 10
+      }
+    ],
+    "extensions": [
+      {
+        "officeExtensionId": 7
+      },
+      {
+        "officeExtensionId": 17
+      }
+    ],
+    "condition": [
+      {
+        "class": "OfficeExtensionCondition",
+        "itemId": 0,
+        "stockId": 0,
+        "cardType": 0,
+        "officeLv": 0,
+        "officeProductId": 6,
+        "isAscendingOrder": true,
+        "relationProductIds": []
+      }
+    ]
+  },
+  "8": {
+    "officeProductId": 8,
+    "productName": "営業課・人員拡充の稟議Ⅷ",
+    "bannerDescription": "営業に同行できるサイドキックが8名になる。<br>オフィスの改善度が<color=orange>3</color>上がる。",
+    "productDescription": "営業に同行できるサイドキックが8名になる。<br>オフィスの改善度が<color=orange>3</color>上がる。",
+    "sortWeight": 1000,
+    "productType": 1,
+    "exchangeLimit": 1,
+    "startAt": null,
+    "endAt": null,
+    "resetType": 0,
+    "resetDetail": null,
+    "rewards": [],
+    "currencies": [
+      {
+        "currencyType": 3,
+        "objectId": 78,
+        "objectValue": 160
+      },
+      {
+        "currencyType": 3,
+        "objectId": 79,
+        "objectValue": 10
+      }
+    ],
+    "extensions": [
+      {
+        "officeExtensionId": 8
+      },
+      {
+        "officeExtensionId": 18
+      }
+    ],
+    "condition": [
+      {
+        "class": "OfficeExtensionCondition",
+        "itemId": 0,
+        "stockId": 0,
+        "cardType": 0,
+        "officeLv": 0,
+        "officeProductId": 7,
+        "isAscendingOrder": true,
+        "relationProductIds": []
+      }
+    ]
+  },
+  "9": {
+    "officeProductId": 9,
+    "productName": "営業課・人員拡充の稟議Ⅸ",
+    "bannerDescription": "営業に同行できるサイドキックが9名になる。<br>オフィスの改善度が<color=orange>3</color>上がる。",
+    "productDescription": "営業に同行できるサイドキックが9名になる。<br>オフィスの改善度が<color=orange>3</color>上がる。",
+    "sortWeight": 1000,
+    "productType": 1,
+    "exchangeLimit": 1,
+    "startAt": null,
+    "endAt": null,
+    "resetType": 0,
+    "resetDetail": null,
+    "rewards": [],
+    "currencies": [
+      {
+        "currencyType": 3,
+        "objectId": 78,
+        "objectValue": 180
+      },
+      {
+        "currencyType": 3,
+        "objectId": 79,
+        "objectValue": 10
+      }
+    ],
+    "extensions": [
+      {
+        "officeExtensionId": 9
+      },
+      {
+        "officeExtensionId": 19
+      }
+    ],
+    "condition": [
+      {
+        "class": "OfficeExtensionCondition",
+        "itemId": 0,
+        "stockId": 0,
+        "cardType": 0,
+        "officeLv": 0,
+        "officeProductId": 8,
+        "isAscendingOrder": true,
+        "relationProductIds": []
+      }
+    ]
+  },
+  "10": {
+    "officeProductId": 10,
+    "productName": "営業課・人員拡充の稟議Ⅹ",
+    "bannerDescription": "営業に同行できるサイドキックが10名になる。<br>オフィスの改善度が<color=orange>3</color>上がる。",
+    "productDescription": "営業に同行できるサイドキックが10名になる。<br>オフィスの改善度が<color=orange>3</color>上がる。",
+    "sortWeight": 1000,
+    "productType": 1,
+    "exchangeLimit": 1,
+    "startAt": null,
+    "endAt": null,
+    "resetType": 0,
+    "resetDetail": null,
+    "rewards": [],
+    "currencies": [
+      {
+        "currencyType": 3,
+        "objectId": 78,
+        "objectValue": 200
+      },
+      {
+        "currencyType": 3,
+        "objectId": 79,
+        "objectValue": 10
+      }
+    ],
+    "extensions": [
+      {
+        "officeExtensionId": 10
+      },
+      {
+        "officeExtensionId": 20
+      }
+    ],
+    "condition": [
+      {
+        "class": "OfficeExtensionCondition",
+        "itemId": 0,
+        "stockId": 0,
+        "cardType": 0,
+        "officeLv": 0,
+        "officeProductId": 9,
+        "isAscendingOrder": true,
+        "relationProductIds": []
+      }
+    ]
+  },
+  "11": {
+    "officeProductId": 11,
+    "productName": "戦闘BGMディスクの購入",
+    "bannerDescription": "オフィスで流せるいつもの戦闘BGMのディスクを購入。<br>オフィスの改善度が<color=orange>1</color>上がる。",
+    "productDescription": "オフィスで流せるいつもの戦闘BGMのディスクを購入。<br>オフィスの改善度が<color=orange>1</color>上がる。",
+    "sortWeight": 1000,
+    "productType": 3,
+    "exchangeLimit": 1,
+    "startAt": null,
+    "endAt": null,
+    "resetType": 0,
+    "resetDetail": null,
+    "rewards": [
+      {
+        "rewardType": 3,
+        "objectId": 94,
+        "objectValue": 1
+      }
+    ],
+    "currencies": [
+      {
+        "currencyType": 3,
+        "objectId": 78,
+        "objectValue": 30
+      }
+    ],
+    "extensions": [
+      {
+        "officeExtensionId": 21
+      }
+    ],
+    "condition": []
+  },
+  "12": {
+    "officeProductId": 12,
+    "productName": "黒の試練BGMディスクの購入",
+    "bannerDescription": "オフィスで流せる第1部4章のBGMのディスクを購入。<br>オフィスの改善度が<color=orange>1</color>上がる。",
+    "productDescription": "オフィスで流せる第1部4章のBGMのディスクを購入。<br>オフィスの改善度が<color=orange>1</color>上がる。",
+    "sortWeight": 1000,
+    "productType": 3,
+    "exchangeLimit": 1,
+    "startAt": null,
+    "endAt": null,
+    "resetType": 0,
+    "resetDetail": null,
+    "rewards": [
+      {
+        "rewardType": 3,
+        "objectId": 95,
+        "objectValue": 1
+      }
+    ],
+    "currencies": [
+      {
+        "currencyType": 3,
+        "objectId": 78,
+        "objectValue": 30
+      }
+    ],
+    "extensions": [
+      {
+        "officeExtensionId": 22
+      }
+    ],
+    "condition": []
+  },
+  "13": {
+    "officeProductId": 13,
+    "productName": "光の道標BGMディスクの購入",
+    "bannerDescription": "オフィスで流せる第1部5章のBGMのディスクを購入。<br>オフィスの改善度が<color=orange>1</color>上がる。",
+    "productDescription": "オフィスで流せる第1部5章のBGMのディスクを購入。<br>オフィスの改善度が<color=orange>1</color>上がる。",
+    "sortWeight": 1000,
+    "productType": 3,
+    "exchangeLimit": 1,
+    "startAt": null,
+    "endAt": null,
+    "resetType": 0,
+    "resetDetail": null,
+    "rewards": [
+      {
+        "rewardType": 3,
+        "objectId": 96,
+        "objectValue": 1
+      }
+    ],
+    "currencies": [
+      {
+        "currencyType": 3,
+        "objectId": 78,
+        "objectValue": 30
+      }
+    ],
+    "extensions": [
+      {
+        "officeExtensionId": 23
+      }
+    ],
+    "condition": []
+  },
+  "14": {
+    "officeProductId": 14,
+    "productName": "光の道標戦闘BGMディスクの購入",
+    "bannerDescription": "オフィスで流せる第1部5章の戦闘BGMのディスクを購入。<br>オフィスの改善度が<color=orange>1</color>上がる。",
+    "productDescription": "オフィスで流せる第1部5章の戦闘BGMのディスクを購入。<br>オフィスの改善度が<color=orange>1</color>上がる。",
+    "sortWeight": 1000,
+    "productType": 3,
+    "exchangeLimit": 1,
+    "startAt": null,
+    "endAt": null,
+    "resetType": 0,
+    "resetDetail": null,
+    "rewards": [
+      {
+        "rewardType": 3,
+        "objectId": 97,
+        "objectValue": 1
+      }
+    ],
+    "currencies": [
+      {
+        "currencyType": 3,
+        "objectId": 78,
+        "objectValue": 30
+      }
+    ],
+    "extensions": [
+      {
+        "officeExtensionId": 24
+      }
+    ],
+    "condition": []
+  },
+  "15": {
+    "officeProductId": 15,
+    "productName": "ゴールデン・スピリッツ戦闘ディスクの購入",
+    "bannerDescription": "オフィスで流せる暁のゴールデン・スピリッツの戦闘BGMのディスクを購入。",
+    "productDescription": "オフィスで流せる暁のゴールデン・スピリッツの戦闘BGMのディスクを購入。",
+    "sortWeight": 1000,
+    "productType": 3,
+    "exchangeLimit": 1,
+    "startAt": null,
+    "endAt": null,
+    "resetType": 0,
+    "resetDetail": null,
+    "rewards": [
+      {
+        "rewardType": 3,
+        "objectId": 98,
+        "objectValue": 1
+      }
+    ],
+    "currencies": [
+      {
+        "currencyType": 3,
+        "objectId": 78,
+        "objectValue": 60
+      }
+    ],
+    "extensions": [],
+    "condition": []
+  },
+  "16": {
+    "officeProductId": 16,
+    "productName": "熱湯戦線ディスクの購入",
+    "bannerDescription": "オフィスで流せる極楽！聖夜の熱湯戦線のBGMのディスクを購入。",
+    "productDescription": "オフィスで流せる極楽！聖夜の熱湯戦線のBGMのディスクを購入。",
+    "sortWeight": 1000,
+    "productType": 3,
+    "exchangeLimit": 1,
+    "startAt": null,
+    "endAt": null,
+    "resetType": 0,
+    "resetDetail": null,
+    "rewards": [
+      {
+        "rewardType": 3,
+        "objectId": 115,
+        "objectValue": 1
+      }
+    ],
+    "currencies": [
+      {
+        "currencyType": 3,
+        "objectId": 78,
+        "objectValue": 60
+      }
+    ],
+    "extensions": [],
+    "condition": []
+  },
+  "17": {
+    "officeProductId": 17,
+    "productName": "熱湯戦線戦闘ディスクの購入",
+    "bannerDescription": "オフィスで流せる極楽！聖夜の熱湯戦線の戦闘BGMのディスクを購入。",
+    "productDescription": "オフィスで流せる極楽！聖夜の熱湯戦線の戦闘BGMのディスクを購入。",
+    "sortWeight": 1000,
+    "productType": 3,
+    "exchangeLimit": 1,
+    "startAt": null,
+    "endAt": null,
+    "resetType": 0,
+    "resetDetail": null,
+    "rewards": [
+      {
+        "rewardType": 3,
+        "objectId": 114,
+        "objectValue": 1
+      }
+    ],
+    "currencies": [
+      {
+        "currencyType": 3,
+        "objectId": 78,
+        "objectValue": 60
+      }
+    ],
+    "extensions": [],
+    "condition": []
+  },
+  "18": {
+    "officeProductId": 18,
+    "productName": "トレーニングルームホログラムの購入",
+    "bannerDescription": "オフィスの背景をトレーニングルームに変更できるホログラムを購入。<br>オフィスの改善度が<color=orange>1</color>上がる。",
+    "productDescription": "オフィスの背景をトレーニングルームに変更できるホログラムを購入。<br>オフィスの改善度が<color=orange>1</color>上がる。",
+    "sortWeight": 1000,
+    "productType": 4,
+    "exchangeLimit": 1,
+    "startAt": null,
+    "endAt": null,
+    "resetType": 0,
+    "resetDetail": null,
+    "rewards": [
+      {
+        "rewardType": 3,
+        "objectId": 100,
+        "objectValue": 1
+      }
+    ],
+    "currencies": [
+      {
+        "currencyType": 3,
+        "objectId": 78,
+        "objectValue": 30
+      }
+    ],
+    "extensions": [
+      {
+        "officeExtensionId": 25
+      }
+    ],
+    "condition": []
+  },
+  "19": {
+    "officeProductId": 19,
+    "productName": "レストランホログラムの購入",
+    "bannerDescription": "オフィスの背景をレストランに変更できるホログラムを購入。<br>オフィスの改善度が<color=orange>1</color>上がる。",
+    "productDescription": "オフィスの背景をレストランに変更できるホログラムを購入。<br>オフィスの改善度が<color=orange>1</color>上がる。",
+    "sortWeight": 1000,
+    "productType": 4,
+    "exchangeLimit": 1,
+    "startAt": null,
+    "endAt": null,
+    "resetType": 0,
+    "resetDetail": null,
+    "rewards": [
+      {
+        "rewardType": 3,
+        "objectId": 101,
+        "objectValue": 1
+      }
+    ],
+    "currencies": [
+      {
+        "currencyType": 3,
+        "objectId": 78,
+        "objectValue": 30
+      }
+    ],
+    "extensions": [
+      {
+        "officeExtensionId": 26
+      }
+    ],
+    "condition": []
+  },
+  "20": {
+    "officeProductId": 20,
+    "productName": "荒野ホログラムの購入",
+    "bannerDescription": "オフィスの背景を荒野ホログラムに変更できるホログラムを購入。",
+    "productDescription": "オフィスの背景を荒野ホログラムに変更できるホログラムを購入。",
+    "sortWeight": 1000,
+    "productType": 4,
+    "exchangeLimit": 1,
+    "startAt": null,
+    "endAt": null,
+    "resetType": 0,
+    "resetDetail": null,
+    "rewards": [
+      {
+        "rewardType": 3,
+        "objectId": 116,
+        "objectValue": 1
+      }
+    ],
+    "currencies": [
+      {
+        "currencyType": 3,
+        "objectId": 78,
+        "objectValue": 60
+      }
+    ],
+    "extensions": [],
+    "condition": []
+  },
+  "21": {
+    "officeProductId": 21,
+    "productName": "温泉ホログラムの購入",
+    "bannerDescription": "オフィスの背景を温泉ホログラムに変更できるホログラムを購入。",
+    "productDescription": "オフィスの背景を温泉ホログラムに変更できるホログラムを購入。",
+    "sortWeight": 1000,
+    "productType": 4,
+    "exchangeLimit": 1,
+    "startAt": null,
+    "endAt": null,
+    "resetType": 0,
+    "resetDetail": null,
+    "rewards": [
+      {
+        "rewardType": 3,
+        "objectId": 102,
+        "objectValue": 1
+      }
+    ],
+    "currencies": [
+      {
+        "currencyType": 3,
+        "objectId": 78,
+        "objectValue": 60
+      }
+    ],
+    "extensions": [],
+    "condition": []
+  },
+  "22": {
+    "officeProductId": 22,
+    "productName": "経験の技術書の購入",
+    "bannerDescription": "「EXPアイテムクエスト」で獲得できるEXPが+3%される「経験の蓄積」を習得できる技術書。",
+    "productDescription": "「EXPアイテムクエスト」で獲得できるEXPが+3%される「経験の蓄積」を習得できる技術書。",
+    "sortWeight": 1000,
+    "productType": 2,
+    "exchangeLimit": 0,
+    "startAt": null,
+    "endAt": null,
+    "resetType": 0,
+    "resetDetail": null,
+    "rewards": [
+      {
+        "rewardType": 3,
+        "objectId": 80,
+        "objectValue": 1
+      }
+    ],
+    "currencies": [
+      {
+        "currencyType": 3,
+        "objectId": 78,
+        "objectValue": 20
+      }
+    ],
+    "extensions": [],
+    "condition": []
+  },
+  "23": {
+    "officeProductId": 23,
+    "productName": "交流の技術書の購入",
+    "bannerDescription": "「トレーニングバンド獲得クエスト」で獲得できるリレーションが+3%される「交流の蓄積」を習得できる技術書。",
+    "productDescription": "「トレーニングバンド獲得クエスト」で獲得できるリレーションが+3%される「交流の蓄積」を習得できる技術書。",
+    "sortWeight": 1000,
+    "productType": 2,
+    "exchangeLimit": 0,
+    "startAt": null,
+    "endAt": null,
+    "resetType": 0,
+    "resetDetail": null,
+    "rewards": [
+      {
+        "rewardType": 3,
+        "objectId": 81,
+        "objectValue": 1
+      }
+    ],
+    "currencies": [
+      {
+        "currencyType": 3,
+        "objectId": 78,
+        "objectValue": 20
+      }
+    ],
+    "extensions": [],
+    "condition": []
+  },
+  "24": {
+    "officeProductId": 24,
+    "productName": "荒稼ぎの技術書の購入",
+    "bannerDescription": "クエストで獲得できるラフが+3%される「荒稼ぎ」を習得できる技術書。",
+    "productDescription": "クエストで獲得できるラフが+3%される「荒稼ぎ」を習得できる技術書。",
+    "sortWeight": 1000,
+    "productType": 2,
+    "exchangeLimit": 0,
+    "startAt": null,
+    "endAt": null,
+    "resetType": 0,
+    "resetDetail": null,
+    "rewards": [
+      {
+        "rewardType": 3,
+        "objectId": 82,
+        "objectValue": 1
+      }
+    ],
+    "currencies": [
+      {
+        "currencyType": 3,
+        "objectId": 78,
+        "objectValue": 20
+      }
+    ],
+    "extensions": [],
+    "condition": []
+  },
+  "25": {
+    "officeProductId": 25,
+    "productName": "社内コミュニケーション充実の稟議",
+    "bannerDescription": "オフィスにいるヒーローからランダムなプレゼントが貰えるようになる。",
+    "productDescription": "オフィスにいるヒーローからランダムなプレゼントが貰えるようになる。",
+    "sortWeight": 900,
+    "productType": 1,
+    "exchangeLimit": 1,
+    "startAt": null,
+    "endAt": null,
+    "resetType": 0,
+    "resetDetail": null,
+    "rewards": [],
+    "currencies": [
+      {
+        "currencyType": 3,
+        "objectId": 78,
+        "objectValue": 0
+      }
+    ],
+    "extensions": [],
+    "condition": [
+      {
+        "class": "OfficeLevelCondition",
+        "itemId": 0,
+        "stockId": 0,
+        "cardType": 0,
+        "officeLv": 2,
+        "officeProductId": 0,
+        "isAscendingOrder": true,
+        "relationProductIds": []
+      }
+    ]
+  },
+  "26": {
+    "officeProductId": 26,
+    "productName": "営業中のサイドキックとの連絡網改善の稟議",
+    "bannerDescription": "営業に出ているヒーローとサイドキックの間でランダムにリレーションが上昇するようになる。",
+    "productDescription": "営業に出ているヒーローとサイドキックの間でランダムにリレーションが上昇するようになる。",
+    "sortWeight": 900,
+    "productType": 1,
+    "exchangeLimit": 1,
+    "startAt": null,
+    "endAt": null,
+    "resetType": 0,
+    "resetDetail": null,
+    "rewards": [],
+    "currencies": [
+      {
+        "currencyType": 3,
+        "objectId": 78,
+        "objectValue": 0
+      }
+    ],
+    "extensions": [],
+    "condition": [
+      {
+        "class": "OfficeLevelCondition",
+        "itemId": 0,
+        "stockId": 0,
+        "cardType": 0,
+        "officeLv": 3,
+        "officeProductId": 0,
+        "isAscendingOrder": true,
+        "relationProductIds": []
+      }
+    ]
+  },
+  "27": {
+    "officeProductId": 27,
+    "productName": "小覚醒石の技術書の購入",
+    "bannerDescription": "「ランクアップアイテムクエスト」でクエストの属性の小覚醒石を消費スタミナ×2%の確率で追加ドロップする「小覚醒石の探索法」を習得できる技術書。",
+    "productDescription": "「ランクアップアイテムクエスト」でクエストの属性の小覚醒石を消費スタミナ×2%の確率で追加ドロップする「小覚醒石の探索法」を習得できる技術書。",
+    "sortWeight": 1000,
+    "productType": 2,
+    "exchangeLimit": 0,
+    "startAt": null,
+    "endAt": null,
+    "resetType": 0,
+    "resetDetail": null,
+    "rewards": [
+      {
+        "rewardType": 3,
+        "objectId": 111,
+        "objectValue": 1
+      }
+    ],
+    "currencies": [
+      {
+        "currencyType": 3,
+        "objectId": 78,
+        "objectValue": 20
+      }
+    ],
+    "extensions": [],
+    "condition": []
+  },
+  "28": {
+    "officeProductId": 28,
+    "productName": "中覚醒石の技術書の購入",
+    "bannerDescription": "「ランクアップアイテムクエスト」でクエストの属性の中覚醒石を消費スタミナ×1%の確率で追加ドロップする「中覚醒石の探索法」を習得できる技術書。",
+    "productDescription": "「ランクアップアイテムクエスト」でクエストの属性の中覚醒石を消費スタミナ×1%の確率で追加ドロップする「中覚醒石の探索法」を習得できる技術書。",
+    "sortWeight": 1000,
+    "productType": 2,
+    "exchangeLimit": 0,
+    "startAt": null,
+    "endAt": null,
+    "resetType": 0,
+    "resetDetail": null,
+    "rewards": [
+      {
+        "rewardType": 3,
+        "objectId": 112,
+        "objectValue": 1
+      }
+    ],
+    "currencies": [
+      {
+        "currencyType": 3,
+        "objectId": 78,
+        "objectValue": 20
+      }
+    ],
+    "extensions": [],
+    "condition": []
+  },
+  "29": {
+    "officeProductId": 29,
+    "productName": "大覚醒石の技術書の購入",
+    "bannerDescription": "「ランクアップアイテムクエスト」でクエストの属性の大覚醒石を消費スタミナ×0.5%の確率で追加ドロップする「大覚醒石の探索法」を習得できる技術書。",
+    "productDescription": "「ランクアップアイテムクエスト」でクエストの属性の大覚醒石を消費スタミナ×0.5%の確率で追加ドロップする「大覚醒石の探索法」を習得できる技術書。",
+    "sortWeight": 1000,
+    "productType": 2,
+    "exchangeLimit": 0,
+    "startAt": null,
+    "endAt": null,
+    "resetType": 0,
+    "resetDetail": null,
+    "rewards": [
+      {
+        "rewardType": 3,
+        "objectId": 113,
+        "objectValue": 1
+      }
+    ],
+    "currencies": [
+      {
+        "currencyType": 3,
+        "objectId": 78,
+        "objectValue": 20
+      }
+    ],
+    "extensions": [],
+    "condition": []
+  },
+  "30": {
+    "officeProductId": 30,
+    "productName": "シルバーメダルの技術書の購入",
+    "bannerDescription": "「メダル獲得クエスト」でシルバーメダルを消費スタミナ×1%の確率で追加ドロップする「シルバーメダルの獲得法」を習得できる技術書。",
+    "productDescription": "「メダル獲得クエスト」でシルバーメダルを消費スタミナ×1%の確率で追加ドロップする「シルバーメダルの獲得法」を習得できる技術書。",
+    "sortWeight": 1000,
+    "productType": 2,
+    "exchangeLimit": 0,
+    "startAt": null,
+    "endAt": null,
+    "resetType": 0,
+    "resetDetail": null,
+    "rewards": [
+      {
+        "rewardType": 3,
+        "objectId": 108,
+        "objectValue": 1
+      }
+    ],
+    "currencies": [
+      {
+        "currencyType": 3,
+        "objectId": 78,
+        "objectValue": 20
+      }
+    ],
+    "extensions": [],
+    "condition": []
+  },
+  "31": {
+    "officeProductId": 31,
+    "productName": "ゴールドメダルの技術書の購入",
+    "bannerDescription": "「メダル獲得クエスト」でゴールドメダルを消費スタミナ×0.2%の確率で追加ドロップする「ゴールドメダルの獲得法」を習得できる技術書。",
+    "productDescription": "「メダル獲得クエスト」でゴールドメダルを消費スタミナ×0.2%の確率で追加ドロップする「ゴールドメダルの獲得法」を習得できる技術書。",
+    "sortWeight": 1000,
+    "productType": 2,
+    "exchangeLimit": 0,
+    "startAt": null,
+    "endAt": null,
+    "resetType": 0,
+    "resetDetail": null,
+    "rewards": [
+      {
+        "rewardType": 3,
+        "objectId": 109,
+        "objectValue": 1
+      }
+    ],
+    "currencies": [
+      {
+        "currencyType": 3,
+        "objectId": 78,
+        "objectValue": 20
+      }
+    ],
+    "extensions": [],
+    "condition": []
+  },
+  "32": {
+    "officeProductId": 32,
+    "productName": "クオーツの技術書の購入",
+    "bannerDescription": "「パラレル・クオーツ獲得クエスト」でパラレル・クオーツを消費スタミナ×0.5%の確率で追加ドロップする「クオーツの探索法」を習得できる技術書。",
+    "productDescription": "「パラレル・クオーツ獲得クエスト」でパラレル・クオーツを消費スタミナ×0.5%の確率で追加ドロップする「クオーツの探索法」を習得できる技術書。",
+    "sortWeight": 1000,
+    "productType": 2,
+    "exchangeLimit": 0,
+    "startAt": null,
+    "endAt": null,
+    "resetType": 0,
+    "resetDetail": null,
+    "rewards": [
+      {
+        "rewardType": 3,
+        "objectId": 110,
+        "objectValue": 1
+      }
+    ],
+    "currencies": [
+      {
+        "currencyType": 3,
+        "objectId": 78,
+        "objectValue": 100
+      }
+    ],
+    "extensions": [],
+    "condition": []
+  }
+}

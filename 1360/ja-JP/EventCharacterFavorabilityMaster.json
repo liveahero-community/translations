@@ -1,0 +1,2027 @@
+{
+  "176": {
+    "eventId": 176,
+    "characters": [
+      {
+        "eventId": 176,
+        "characterId": 113,
+        "stockId": 11132,
+        "chapterId": 1284,
+        "characterNameTextKey": "CARD_NAME_ROIKER",
+        "dicingImageAddress": "fg_roikerMontage2607_h01_skin2",
+        "iconAddress": "icon_roikerMontage2607_h01_skin2",
+        "favIncreaseItems": [
+          {
+            "eventId": 176,
+            "characterId": 113,
+            "nextFavorability": 1,
+            "itemId": 288,
+            "value": 1
+          },
+          {
+            "eventId": 176,
+            "characterId": 113,
+            "nextFavorability": 2,
+            "itemId": 288,
+            "value": 1
+          },
+          {
+            "eventId": 176,
+            "characterId": 113,
+            "nextFavorability": 3,
+            "itemId": 288,
+            "value": 1
+          },
+          {
+            "eventId": 176,
+            "characterId": 113,
+            "nextFavorability": 4,
+            "itemId": 288,
+            "value": 1
+          },
+          {
+            "eventId": 176,
+            "characterId": 113,
+            "nextFavorability": 5,
+            "itemId": 288,
+            "value": 1
+          },
+          {
+            "eventId": 176,
+            "characterId": 113,
+            "nextFavorability": 6,
+            "itemId": 288,
+            "value": 1
+          },
+          {
+            "eventId": 176,
+            "characterId": 113,
+            "nextFavorability": 7,
+            "itemId": 288,
+            "value": 1
+          },
+          {
+            "eventId": 176,
+            "characterId": 113,
+            "nextFavorability": 8,
+            "itemId": 288,
+            "value": 1
+          }
+        ],
+        "favRewards": [
+          {
+            "eventId": 176,
+            "characterId": 113,
+            "favorability": 1,
+            "executors": [
+              {
+                "class": "StartQuest",
+                "questId": 1284001,
+                "bodyTextKey": "",
+                "subjectTextKey": "UI_INTERACT_UP_REWARD_RELEASE_VACATION_QUEST"
+              }
+            ]
+          },
+          {
+            "eventId": 176,
+            "characterId": 113,
+            "favorability": 2,
+            "executors": [
+              {
+                "class": "ReleaseQuestBonus",
+                "questIds": [
+                  1281001,
+                  1282001,
+                  1283001
+                ],
+                "bodyTextKey": "UI_INTERACT_BONUS_SKILL_ROIKER_1",
+                "skillEntries": [
+                  {
+                    "skillId": 209,
+                    "replaceSkillId": 0
+                  }
+                ],
+                "subjectTextKey": "UI_INTERACT_UP_REWARD_GET_QUEST_BONUS"
+              }
+            ]
+          },
+          {
+            "eventId": 176,
+            "characterId": 113,
+            "favorability": 3,
+            "executors": [
+              {
+                "class": "StartQuest",
+                "questId": 1284002,
+                "bodyTextKey": "",
+                "subjectTextKey": "UI_INTERACT_UP_REWARD_RELEASE_VACATION_QUEST"
+              }
+            ]
+          },
+          {
+            "eventId": 176,
+            "characterId": 113,
+            "favorability": 4,
+            "executors": [
+              {
+                "class": "GetBromide",
+                "bromideId": 2113101,
+                "bodyTextKey": "",
+                "subjectTextKey": "UI_INTERACT_UP_REWARD_GET_COLLECT_CARD"
+              }
+            ]
+          },
+          {
+            "eventId": 176,
+            "characterId": 113,
+            "favorability": 5,
+            "executors": [
+              {
+                "class": "StartQuest",
+                "questId": 1284003,
+                "bodyTextKey": "",
+                "subjectTextKey": "UI_INTERACT_UP_REWARD_RELEASE_VACATION_QUEST"
+              }
+            ]
+          },
+          {
+            "eventId": 176,
+            "characterId": 113,
+            "favorability": 6,
+            "executors": [
+              {
+                "class": "ItemGet",
+                "value": 5,
+                "itemId": 4211311,
+                "bodyTextKey": "",
+                "subjectTextKey": "UI_INTERACT_UP_REWARD_UG_COLLECT_CARD"
+              },
+              {
+                "class": "ReleaseQuestBonus",
+                "questIds": [
+                  1281001,
+                  1282001,
+                  1283001
+                ],
+                "bodyTextKey": "UI_INTERACT_BONUS_SKILL_ROIKER_2",
+                "skillEntries": [
+                  {
+                    "skillId": 210,
+                    "replaceSkillId": 209
+                  }
+                ],
+                "subjectTextKey": "UI_INTERACT_UP_REWARD_GET_QUEST_BONUS"
+              }
+            ]
+          },
+          {
+            "eventId": 176,
+            "characterId": 113,
+            "favorability": 7,
+            "executors": [
+              {
+                "class": "ItemGet",
+                "value": 5,
+                "itemId": 4211311,
+                "bodyTextKey": "",
+                "subjectTextKey": "UI_INTERACT_UP_REWARD_UG_COLLECT_CARD"
+              }
+            ]
+          },
+          {
+            "eventId": 176,
+            "characterId": 113,
+            "favorability": 8,
+            "executors": [
+              {
+                "class": "ItemGet",
+                "value": 5,
+                "itemId": 4211311,
+                "bodyTextKey": "",
+                "subjectTextKey": "UI_INTERACT_UP_REWARD_UG_COLLECT_CARD"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "eventId": 176,
+        "characterId": 326,
+        "stockId": 13261,
+        "chapterId": 1285,
+        "characterNameTextKey": "CARD_NAME_SHIRATORI",
+        "dicingImageAddress": "fg_shiratori_s01_skin2",
+        "iconAddress": "icon_shiratori_s01_skin2",
+        "favIncreaseItems": [
+          {
+            "eventId": 176,
+            "characterId": 326,
+            "nextFavorability": 1,
+            "itemId": 288,
+            "value": 1
+          },
+          {
+            "eventId": 176,
+            "characterId": 326,
+            "nextFavorability": 2,
+            "itemId": 288,
+            "value": 1
+          },
+          {
+            "eventId": 176,
+            "characterId": 326,
+            "nextFavorability": 3,
+            "itemId": 288,
+            "value": 1
+          },
+          {
+            "eventId": 176,
+            "characterId": 326,
+            "nextFavorability": 4,
+            "itemId": 288,
+            "value": 1
+          },
+          {
+            "eventId": 176,
+            "characterId": 326,
+            "nextFavorability": 5,
+            "itemId": 288,
+            "value": 1
+          },
+          {
+            "eventId": 176,
+            "characterId": 326,
+            "nextFavorability": 6,
+            "itemId": 288,
+            "value": 1
+          },
+          {
+            "eventId": 176,
+            "characterId": 326,
+            "nextFavorability": 7,
+            "itemId": 288,
+            "value": 1
+          },
+          {
+            "eventId": 176,
+            "characterId": 326,
+            "nextFavorability": 8,
+            "itemId": 288,
+            "value": 1
+          }
+        ],
+        "favRewards": [
+          {
+            "eventId": 176,
+            "characterId": 326,
+            "favorability": 1,
+            "executors": [
+              {
+                "class": "StartQuest",
+                "questId": 1285001,
+                "bodyTextKey": "",
+                "subjectTextKey": "UI_INTERACT_UP_REWARD_RELEASE_VACATION_QUEST"
+              }
+            ]
+          },
+          {
+            "eventId": 176,
+            "characterId": 326,
+            "favorability": 2,
+            "executors": [
+              {
+                "class": "ReleaseQuestBonus",
+                "questIds": [
+                  1281001,
+                  1282001,
+                  1283001
+                ],
+                "bodyTextKey": "UI_INTERACT_BONUS_SKILL_SHIRATORI_1",
+                "skillEntries": [
+                  {
+                    "skillId": 205,
+                    "replaceSkillId": 0
+                  }
+                ],
+                "subjectTextKey": "UI_INTERACT_UP_REWARD_GET_QUEST_BONUS"
+              }
+            ]
+          },
+          {
+            "eventId": 176,
+            "characterId": 326,
+            "favorability": 3,
+            "executors": [
+              {
+                "class": "StartQuest",
+                "questId": 1285002,
+                "bodyTextKey": "",
+                "subjectTextKey": "UI_INTERACT_UP_REWARD_RELEASE_VACATION_QUEST"
+              }
+            ]
+          },
+          {
+            "eventId": 176,
+            "characterId": 326,
+            "favorability": 4,
+            "executors": [
+              {
+                "class": "GetBromide",
+                "bromideId": 2326101,
+                "bodyTextKey": "",
+                "subjectTextKey": "UI_INTERACT_UP_REWARD_GET_COLLECT_CARD"
+              }
+            ]
+          },
+          {
+            "eventId": 176,
+            "characterId": 326,
+            "favorability": 5,
+            "executors": [
+              {
+                "class": "StartQuest",
+                "questId": 1285003,
+                "bodyTextKey": "",
+                "subjectTextKey": "UI_INTERACT_UP_REWARD_RELEASE_VACATION_QUEST"
+              }
+            ]
+          },
+          {
+            "eventId": 176,
+            "characterId": 326,
+            "favorability": 6,
+            "executors": [
+              {
+                "class": "ItemGet",
+                "value": 5,
+                "itemId": 4232611,
+                "bodyTextKey": "",
+                "subjectTextKey": "UI_INTERACT_UP_REWARD_UG_COLLECT_CARD"
+              },
+              {
+                "class": "ReleaseQuestBonus",
+                "questIds": [
+                  1281001,
+                  1282001,
+                  1283001
+                ],
+                "bodyTextKey": "UI_INTERACT_BONUS_SKILL_SHIRATORI_2",
+                "skillEntries": [
+                  {
+                    "skillId": 206,
+                    "replaceSkillId": 205
+                  }
+                ],
+                "subjectTextKey": "UI_INTERACT_UP_REWARD_GET_QUEST_BONUS"
+              }
+            ]
+          },
+          {
+            "eventId": 176,
+            "characterId": 326,
+            "favorability": 7,
+            "executors": [
+              {
+                "class": "ItemGet",
+                "value": 5,
+                "itemId": 4232611,
+                "bodyTextKey": "",
+                "subjectTextKey": "UI_INTERACT_UP_REWARD_UG_COLLECT_CARD"
+              }
+            ]
+          },
+          {
+            "eventId": 176,
+            "characterId": 326,
+            "favorability": 8,
+            "executors": [
+              {
+                "class": "ItemGet",
+                "value": 5,
+                "itemId": 4232611,
+                "bodyTextKey": "",
+                "subjectTextKey": "UI_INTERACT_UP_REWARD_UG_COLLECT_CARD"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "eventId": 176,
+        "characterId": 327,
+        "stockId": 13271,
+        "chapterId": 1286,
+        "characterNameTextKey": "CARD_NAME_YVAGA",
+        "dicingImageAddress": "fg_yvaga_s01_skin2",
+        "iconAddress": "icon_yvaga_s01_skin2",
+        "favIncreaseItems": [
+          {
+            "eventId": 176,
+            "characterId": 327,
+            "nextFavorability": 1,
+            "itemId": 288,
+            "value": 1
+          },
+          {
+            "eventId": 176,
+            "characterId": 327,
+            "nextFavorability": 2,
+            "itemId": 288,
+            "value": 1
+          },
+          {
+            "eventId": 176,
+            "characterId": 327,
+            "nextFavorability": 3,
+            "itemId": 288,
+            "value": 1
+          },
+          {
+            "eventId": 176,
+            "characterId": 327,
+            "nextFavorability": 4,
+            "itemId": 288,
+            "value": 1
+          },
+          {
+            "eventId": 176,
+            "characterId": 327,
+            "nextFavorability": 5,
+            "itemId": 288,
+            "value": 1
+          },
+          {
+            "eventId": 176,
+            "characterId": 327,
+            "nextFavorability": 6,
+            "itemId": 288,
+            "value": 1
+          },
+          {
+            "eventId": 176,
+            "characterId": 327,
+            "nextFavorability": 7,
+            "itemId": 288,
+            "value": 1
+          },
+          {
+            "eventId": 176,
+            "characterId": 327,
+            "nextFavorability": 8,
+            "itemId": 288,
+            "value": 1
+          }
+        ],
+        "favRewards": [
+          {
+            "eventId": 176,
+            "characterId": 327,
+            "favorability": 1,
+            "executors": [
+              {
+                "class": "StartQuest",
+                "questId": 1286001,
+                "bodyTextKey": "",
+                "subjectTextKey": "UI_INTERACT_UP_REWARD_RELEASE_VACATION_QUEST"
+              }
+            ]
+          },
+          {
+            "eventId": 176,
+            "characterId": 327,
+            "favorability": 2,
+            "executors": [
+              {
+                "class": "ReleaseQuestBonus",
+                "questIds": [
+                  1281001,
+                  1282001,
+                  1283001
+                ],
+                "bodyTextKey": "UI_INTERACT_BONUS_SKILL_YVAGA_1",
+                "skillEntries": [
+                  {
+                    "skillId": 203,
+                    "replaceSkillId": 0
+                  }
+                ],
+                "subjectTextKey": "UI_INTERACT_UP_REWARD_GET_QUEST_BONUS"
+              }
+            ]
+          },
+          {
+            "eventId": 176,
+            "characterId": 327,
+            "favorability": 3,
+            "executors": [
+              {
+                "class": "StartQuest",
+                "questId": 1286002,
+                "bodyTextKey": "",
+                "subjectTextKey": "UI_INTERACT_UP_REWARD_RELEASE_VACATION_QUEST"
+              }
+            ]
+          },
+          {
+            "eventId": 176,
+            "characterId": 327,
+            "favorability": 4,
+            "executors": [
+              {
+                "class": "GetBromide",
+                "bromideId": 2327101,
+                "bodyTextKey": "",
+                "subjectTextKey": "UI_INTERACT_UP_REWARD_GET_COLLECT_CARD"
+              }
+            ]
+          },
+          {
+            "eventId": 176,
+            "characterId": 327,
+            "favorability": 5,
+            "executors": [
+              {
+                "class": "StartQuest",
+                "questId": 1286003,
+                "bodyTextKey": "",
+                "subjectTextKey": "UI_INTERACT_UP_REWARD_RELEASE_VACATION_QUEST"
+              }
+            ]
+          },
+          {
+            "eventId": 176,
+            "characterId": 327,
+            "favorability": 6,
+            "executors": [
+              {
+                "class": "ItemGet",
+                "value": 5,
+                "itemId": 4232711,
+                "bodyTextKey": "",
+                "subjectTextKey": "UI_INTERACT_UP_REWARD_UG_COLLECT_CARD"
+              },
+              {
+                "class": "ReleaseQuestBonus",
+                "questIds": [
+                  1281001,
+                  1282001,
+                  1283001
+                ],
+                "bodyTextKey": "UI_INTERACT_BONUS_SKILL_YVAGA_2",
+                "skillEntries": [
+                  {
+                    "skillId": 204,
+                    "replaceSkillId": 203
+                  }
+                ],
+                "subjectTextKey": "UI_INTERACT_UP_REWARD_GET_QUEST_BONUS"
+              }
+            ]
+          },
+          {
+            "eventId": 176,
+            "characterId": 327,
+            "favorability": 7,
+            "executors": [
+              {
+                "class": "ItemGet",
+                "value": 5,
+                "itemId": 4232711,
+                "bodyTextKey": "",
+                "subjectTextKey": "UI_INTERACT_UP_REWARD_UG_COLLECT_CARD"
+              }
+            ]
+          },
+          {
+            "eventId": 176,
+            "characterId": 327,
+            "favorability": 8,
+            "executors": [
+              {
+                "class": "ItemGet",
+                "value": 5,
+                "itemId": 4232711,
+                "bodyTextKey": "",
+                "subjectTextKey": "UI_INTERACT_UP_REWARD_UG_COLLECT_CARD"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "eventId": 176,
+        "characterId": 328,
+        "stockId": 13281,
+        "chapterId": 1287,
+        "characterNameTextKey": "CARD_NAME_RUCHBATH",
+        "dicingImageAddress": "fg_ruchbath_s01_skin2",
+        "iconAddress": "icon_ruchbath_s01_skin2",
+        "favIncreaseItems": [
+          {
+            "eventId": 176,
+            "characterId": 328,
+            "nextFavorability": 1,
+            "itemId": 288,
+            "value": 1
+          },
+          {
+            "eventId": 176,
+            "characterId": 328,
+            "nextFavorability": 2,
+            "itemId": 288,
+            "value": 1
+          },
+          {
+            "eventId": 176,
+            "characterId": 328,
+            "nextFavorability": 3,
+            "itemId": 288,
+            "value": 1
+          },
+          {
+            "eventId": 176,
+            "characterId": 328,
+            "nextFavorability": 4,
+            "itemId": 288,
+            "value": 1
+          },
+          {
+            "eventId": 176,
+            "characterId": 328,
+            "nextFavorability": 5,
+            "itemId": 288,
+            "value": 1
+          },
+          {
+            "eventId": 176,
+            "characterId": 328,
+            "nextFavorability": 6,
+            "itemId": 288,
+            "value": 1
+          },
+          {
+            "eventId": 176,
+            "characterId": 328,
+            "nextFavorability": 7,
+            "itemId": 288,
+            "value": 1
+          },
+          {
+            "eventId": 176,
+            "characterId": 328,
+            "nextFavorability": 8,
+            "itemId": 288,
+            "value": 1
+          }
+        ],
+        "favRewards": [
+          {
+            "eventId": 176,
+            "characterId": 328,
+            "favorability": 1,
+            "executors": [
+              {
+                "class": "StartQuest",
+                "questId": 1287001,
+                "bodyTextKey": "",
+                "subjectTextKey": "UI_INTERACT_UP_REWARD_RELEASE_VACATION_QUEST"
+              }
+            ]
+          },
+          {
+            "eventId": 176,
+            "characterId": 328,
+            "favorability": 2,
+            "executors": [
+              {
+                "class": "ReleaseQuestBonus",
+                "questIds": [
+                  1281001,
+                  1282001,
+                  1283001
+                ],
+                "bodyTextKey": "UI_INTERACT_BONUS_SKILL_RUCHBATH_1",
+                "skillEntries": [
+                  {
+                    "skillId": 207,
+                    "replaceSkillId": 0
+                  }
+                ],
+                "subjectTextKey": "UI_INTERACT_UP_REWARD_GET_QUEST_BONUS"
+              }
+            ]
+          },
+          {
+            "eventId": 176,
+            "characterId": 328,
+            "favorability": 3,
+            "executors": [
+              {
+                "class": "StartQuest",
+                "questId": 1287002,
+                "bodyTextKey": "",
+                "subjectTextKey": "UI_INTERACT_UP_REWARD_RELEASE_VACATION_QUEST"
+              }
+            ]
+          },
+          {
+            "eventId": 176,
+            "characterId": 328,
+            "favorability": 4,
+            "executors": [
+              {
+                "class": "GetBromide",
+                "bromideId": 2328101,
+                "bodyTextKey": "",
+                "subjectTextKey": "UI_INTERACT_UP_REWARD_GET_COLLECT_CARD"
+              }
+            ]
+          },
+          {
+            "eventId": 176,
+            "characterId": 328,
+            "favorability": 5,
+            "executors": [
+              {
+                "class": "StartQuest",
+                "questId": 1287003,
+                "bodyTextKey": "",
+                "subjectTextKey": "UI_INTERACT_UP_REWARD_RELEASE_VACATION_QUEST"
+              }
+            ]
+          },
+          {
+            "eventId": 176,
+            "characterId": 328,
+            "favorability": 6,
+            "executors": [
+              {
+                "class": "ItemGet",
+                "value": 5,
+                "itemId": 4232811,
+                "bodyTextKey": "",
+                "subjectTextKey": "UI_INTERACT_UP_REWARD_UG_COLLECT_CARD"
+              },
+              {
+                "class": "ReleaseQuestBonus",
+                "questIds": [
+                  1281001,
+                  1282001,
+                  1283001
+                ],
+                "bodyTextKey": "UI_INTERACT_BONUS_SKILL_RUCHBATH_2",
+                "skillEntries": [
+                  {
+                    "skillId": 208,
+                    "replaceSkillId": 207
+                  }
+                ],
+                "subjectTextKey": "UI_INTERACT_UP_REWARD_GET_QUEST_BONUS"
+              }
+            ]
+          },
+          {
+            "eventId": 176,
+            "characterId": 328,
+            "favorability": 7,
+            "executors": [
+              {
+                "class": "ItemGet",
+                "value": 5,
+                "itemId": 4232811,
+                "bodyTextKey": "",
+                "subjectTextKey": "UI_INTERACT_UP_REWARD_UG_COLLECT_CARD"
+              }
+            ]
+          },
+          {
+            "eventId": 176,
+            "characterId": 328,
+            "favorability": 8,
+            "executors": [
+              {
+                "class": "ItemGet",
+                "value": 5,
+                "itemId": 4232811,
+                "bodyTextKey": "",
+                "subjectTextKey": "UI_INTERACT_UP_REWARD_UG_COLLECT_CARD"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "eventId": 176,
+        "characterId": 168,
+        "stockId": 11681,
+        "chapterId": 1288,
+        "characterNameTextKey": "CARD_NAME_DANZO",
+        "dicingImageAddress": "fg_danzo_s01_skin1",
+        "iconAddress": "icon_danzo_s01_skin1",
+        "favIncreaseItems": [
+          {
+            "eventId": 176,
+            "characterId": 168,
+            "nextFavorability": 1,
+            "itemId": 288,
+            "value": 1
+          },
+          {
+            "eventId": 176,
+            "characterId": 168,
+            "nextFavorability": 2,
+            "itemId": 288,
+            "value": 1
+          },
+          {
+            "eventId": 176,
+            "characterId": 168,
+            "nextFavorability": 3,
+            "itemId": 288,
+            "value": 1
+          },
+          {
+            "eventId": 176,
+            "characterId": 168,
+            "nextFavorability": 4,
+            "itemId": 288,
+            "value": 1
+          },
+          {
+            "eventId": 176,
+            "characterId": 168,
+            "nextFavorability": 5,
+            "itemId": 288,
+            "value": 1
+          },
+          {
+            "eventId": 176,
+            "characterId": 168,
+            "nextFavorability": 6,
+            "itemId": 288,
+            "value": 1
+          },
+          {
+            "eventId": 176,
+            "characterId": 168,
+            "nextFavorability": 7,
+            "itemId": 288,
+            "value": 1
+          },
+          {
+            "eventId": 176,
+            "characterId": 168,
+            "nextFavorability": 8,
+            "itemId": 288,
+            "value": 1
+          }
+        ],
+        "favRewards": [
+          {
+            "eventId": 176,
+            "characterId": 168,
+            "favorability": 1,
+            "executors": [
+              {
+                "class": "StartQuest",
+                "questId": 1288001,
+                "bodyTextKey": "",
+                "subjectTextKey": "UI_INTERACT_UP_REWARD_RELEASE_VACATION_QUEST"
+              }
+            ]
+          },
+          {
+            "eventId": 176,
+            "characterId": 168,
+            "favorability": 2,
+            "executors": [
+              {
+                "class": "ReleaseQuestBonus",
+                "questIds": [
+                  1281001,
+                  1282001,
+                  1283001
+                ],
+                "bodyTextKey": "UI_INTERACT_BONUS_SKILL_DANZO_1",
+                "skillEntries": [
+                  {
+                    "skillId": 211,
+                    "replaceSkillId": 0
+                  }
+                ],
+                "subjectTextKey": "UI_INTERACT_UP_REWARD_GET_QUEST_BONUS"
+              }
+            ]
+          },
+          {
+            "eventId": 176,
+            "characterId": 168,
+            "favorability": 3,
+            "executors": [
+              {
+                "class": "StartQuest",
+                "questId": 1288002,
+                "bodyTextKey": "",
+                "subjectTextKey": "UI_INTERACT_UP_REWARD_RELEASE_VACATION_QUEST"
+              }
+            ]
+          },
+          {
+            "eventId": 176,
+            "characterId": 168,
+            "favorability": 4,
+            "executors": [
+              {
+                "class": "GetBromide",
+                "bromideId": 2168101,
+                "bodyTextKey": "",
+                "subjectTextKey": "UI_INTERACT_UP_REWARD_GET_COLLECT_CARD"
+              }
+            ]
+          },
+          {
+            "eventId": 176,
+            "characterId": 168,
+            "favorability": 5,
+            "executors": [
+              {
+                "class": "StartQuest",
+                "questId": 1288003,
+                "bodyTextKey": "",
+                "subjectTextKey": "UI_INTERACT_UP_REWARD_RELEASE_VACATION_QUEST"
+              }
+            ]
+          },
+          {
+            "eventId": 176,
+            "characterId": 168,
+            "favorability": 6,
+            "executors": [
+              {
+                "class": "ItemGet",
+                "value": 5,
+                "itemId": 4216811,
+                "bodyTextKey": "",
+                "subjectTextKey": "UI_INTERACT_UP_REWARD_UG_COLLECT_CARD"
+              },
+              {
+                "class": "ReleaseQuestBonus",
+                "questIds": [
+                  1281001,
+                  1282001,
+                  1283001
+                ],
+                "bodyTextKey": "UI_INTERACT_BONUS_SKILL_DANZO_2",
+                "skillEntries": [
+                  {
+                    "skillId": 212,
+                    "replaceSkillId": 211
+                  }
+                ],
+                "subjectTextKey": "UI_INTERACT_UP_REWARD_GET_QUEST_BONUS"
+              }
+            ]
+          },
+          {
+            "eventId": 176,
+            "characterId": 168,
+            "favorability": 7,
+            "executors": [
+              {
+                "class": "ItemGet",
+                "value": 5,
+                "itemId": 4216811,
+                "bodyTextKey": "",
+                "subjectTextKey": "UI_INTERACT_UP_REWARD_UG_COLLECT_CARD"
+              }
+            ]
+          },
+          {
+            "eventId": 176,
+            "characterId": 168,
+            "favorability": 8,
+            "executors": [
+              {
+                "class": "ItemGet",
+                "value": 5,
+                "itemId": 4216811,
+                "bodyTextKey": "",
+                "subjectTextKey": "UI_INTERACT_UP_REWARD_UG_COLLECT_CARD"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "eventId": 176,
+        "characterId": 302,
+        "stockId": 13021,
+        "chapterId": 1289,
+        "characterNameTextKey": "CARD_NAME_RASTABAN",
+        "dicingImageAddress": "fg_rastaban_s01_skin3",
+        "iconAddress": "icon_rastaban_s01_skin3",
+        "favIncreaseItems": [
+          {
+            "eventId": 176,
+            "characterId": 302,
+            "nextFavorability": 1,
+            "itemId": 288,
+            "value": 1
+          },
+          {
+            "eventId": 176,
+            "characterId": 302,
+            "nextFavorability": 2,
+            "itemId": 288,
+            "value": 1
+          },
+          {
+            "eventId": 176,
+            "characterId": 302,
+            "nextFavorability": 3,
+            "itemId": 288,
+            "value": 1
+          },
+          {
+            "eventId": 176,
+            "characterId": 302,
+            "nextFavorability": 4,
+            "itemId": 288,
+            "value": 1
+          },
+          {
+            "eventId": 176,
+            "characterId": 302,
+            "nextFavorability": 5,
+            "itemId": 288,
+            "value": 1
+          },
+          {
+            "eventId": 176,
+            "characterId": 302,
+            "nextFavorability": 6,
+            "itemId": 288,
+            "value": 1
+          },
+          {
+            "eventId": 176,
+            "characterId": 302,
+            "nextFavorability": 7,
+            "itemId": 288,
+            "value": 1
+          },
+          {
+            "eventId": 176,
+            "characterId": 302,
+            "nextFavorability": 8,
+            "itemId": 288,
+            "value": 1
+          }
+        ],
+        "favRewards": [
+          {
+            "eventId": 176,
+            "characterId": 302,
+            "favorability": 1,
+            "executors": [
+              {
+                "class": "StartQuest",
+                "questId": 1289001,
+                "bodyTextKey": "",
+                "subjectTextKey": "UI_INTERACT_UP_REWARD_RELEASE_VACATION_QUEST"
+              }
+            ]
+          },
+          {
+            "eventId": 176,
+            "characterId": 302,
+            "favorability": 2,
+            "executors": [
+              {
+                "class": "ReleaseQuestBonus",
+                "questIds": [
+                  1281001,
+                  1282001,
+                  1283001
+                ],
+                "bodyTextKey": "UI_INTERACT_BONUS_SKILL_RASTABAN_1",
+                "skillEntries": [
+                  {
+                    "skillId": 213,
+                    "replaceSkillId": 0
+                  }
+                ],
+                "subjectTextKey": "UI_INTERACT_UP_REWARD_GET_QUEST_BONUS"
+              }
+            ]
+          },
+          {
+            "eventId": 176,
+            "characterId": 302,
+            "favorability": 3,
+            "executors": [
+              {
+                "class": "StartQuest",
+                "questId": 1289002,
+                "bodyTextKey": "",
+                "subjectTextKey": "UI_INTERACT_UP_REWARD_RELEASE_VACATION_QUEST"
+              }
+            ]
+          },
+          {
+            "eventId": 176,
+            "characterId": 302,
+            "favorability": 4,
+            "executors": [
+              {
+                "class": "GetBromide",
+                "bromideId": 2302101,
+                "bodyTextKey": "",
+                "subjectTextKey": "UI_INTERACT_UP_REWARD_GET_COLLECT_CARD"
+              }
+            ]
+          },
+          {
+            "eventId": 176,
+            "characterId": 302,
+            "favorability": 5,
+            "executors": [
+              {
+                "class": "StartQuest",
+                "questId": 1289003,
+                "bodyTextKey": "",
+                "subjectTextKey": "UI_INTERACT_UP_REWARD_RELEASE_VACATION_QUEST"
+              }
+            ]
+          },
+          {
+            "eventId": 176,
+            "characterId": 302,
+            "favorability": 6,
+            "executors": [
+              {
+                "class": "ItemGet",
+                "value": 5,
+                "itemId": 4230211,
+                "bodyTextKey": "",
+                "subjectTextKey": "UI_INTERACT_UP_REWARD_UG_COLLECT_CARD"
+              },
+              {
+                "class": "ReleaseQuestBonus",
+                "questIds": [
+                  1281001,
+                  1282001,
+                  1283001
+                ],
+                "bodyTextKey": "UI_INTERACT_BONUS_SKILL_RASTABAN_2",
+                "skillEntries": [
+                  {
+                    "skillId": 214,
+                    "replaceSkillId": 213
+                  }
+                ],
+                "subjectTextKey": "UI_INTERACT_UP_REWARD_GET_QUEST_BONUS"
+              }
+            ]
+          },
+          {
+            "eventId": 176,
+            "characterId": 302,
+            "favorability": 7,
+            "executors": [
+              {
+                "class": "ItemGet",
+                "value": 5,
+                "itemId": 4230211,
+                "bodyTextKey": "",
+                "subjectTextKey": "UI_INTERACT_UP_REWARD_UG_COLLECT_CARD"
+              }
+            ]
+          },
+          {
+            "eventId": 176,
+            "characterId": 302,
+            "favorability": 8,
+            "executors": [
+              {
+                "class": "ItemGet",
+                "value": 5,
+                "itemId": 4230211,
+                "bodyTextKey": "",
+                "subjectTextKey": "UI_INTERACT_UP_REWARD_UG_COLLECT_CARD"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "eventId": 176,
+        "characterId": 289,
+        "stockId": 12891,
+        "chapterId": 1290,
+        "characterNameTextKey": "CARD_NAME_FARDEN",
+        "dicingImageAddress": "fg_farden_s01_skin2",
+        "iconAddress": "icon_farden_s01_skin2",
+        "favIncreaseItems": [
+          {
+            "eventId": 176,
+            "characterId": 289,
+            "nextFavorability": 1,
+            "itemId": 288,
+            "value": 1
+          },
+          {
+            "eventId": 176,
+            "characterId": 289,
+            "nextFavorability": 2,
+            "itemId": 288,
+            "value": 1
+          },
+          {
+            "eventId": 176,
+            "characterId": 289,
+            "nextFavorability": 3,
+            "itemId": 288,
+            "value": 1
+          },
+          {
+            "eventId": 176,
+            "characterId": 289,
+            "nextFavorability": 4,
+            "itemId": 288,
+            "value": 1
+          },
+          {
+            "eventId": 176,
+            "characterId": 289,
+            "nextFavorability": 5,
+            "itemId": 288,
+            "value": 1
+          },
+          {
+            "eventId": 176,
+            "characterId": 289,
+            "nextFavorability": 6,
+            "itemId": 288,
+            "value": 1
+          },
+          {
+            "eventId": 176,
+            "characterId": 289,
+            "nextFavorability": 7,
+            "itemId": 288,
+            "value": 1
+          },
+          {
+            "eventId": 176,
+            "characterId": 289,
+            "nextFavorability": 8,
+            "itemId": 288,
+            "value": 1
+          }
+        ],
+        "favRewards": [
+          {
+            "eventId": 176,
+            "characterId": 289,
+            "favorability": 1,
+            "executors": [
+              {
+                "class": "StartQuest",
+                "questId": 1290001,
+                "bodyTextKey": "",
+                "subjectTextKey": "UI_INTERACT_UP_REWARD_RELEASE_VACATION_QUEST"
+              }
+            ]
+          },
+          {
+            "eventId": 176,
+            "characterId": 289,
+            "favorability": 2,
+            "executors": [
+              {
+                "class": "ReleaseQuestBonus",
+                "questIds": [
+                  1281001,
+                  1282001,
+                  1283001
+                ],
+                "bodyTextKey": "UI_INTERACT_BONUS_SKILL_FARDEN_1",
+                "skillEntries": [
+                  {
+                    "skillId": 215,
+                    "replaceSkillId": 0
+                  }
+                ],
+                "subjectTextKey": "UI_INTERACT_UP_REWARD_GET_QUEST_BONUS"
+              }
+            ]
+          },
+          {
+            "eventId": 176,
+            "characterId": 289,
+            "favorability": 3,
+            "executors": [
+              {
+                "class": "StartQuest",
+                "questId": 1290002,
+                "bodyTextKey": "",
+                "subjectTextKey": "UI_INTERACT_UP_REWARD_RELEASE_VACATION_QUEST"
+              }
+            ]
+          },
+          {
+            "eventId": 176,
+            "characterId": 289,
+            "favorability": 4,
+            "executors": [
+              {
+                "class": "GetBromide",
+                "bromideId": 2289101,
+                "bodyTextKey": "",
+                "subjectTextKey": "UI_INTERACT_UP_REWARD_GET_COLLECT_CARD"
+              }
+            ]
+          },
+          {
+            "eventId": 176,
+            "characterId": 289,
+            "favorability": 5,
+            "executors": [
+              {
+                "class": "StartQuest",
+                "questId": 1290003,
+                "bodyTextKey": "",
+                "subjectTextKey": "UI_INTERACT_UP_REWARD_RELEASE_VACATION_QUEST"
+              }
+            ]
+          },
+          {
+            "eventId": 176,
+            "characterId": 289,
+            "favorability": 6,
+            "executors": [
+              {
+                "class": "ItemGet",
+                "value": 5,
+                "itemId": 4228911,
+                "bodyTextKey": "",
+                "subjectTextKey": "UI_INTERACT_UP_REWARD_UG_COLLECT_CARD"
+              },
+              {
+                "class": "ReleaseQuestBonus",
+                "questIds": [
+                  1281001,
+                  1282001,
+                  1283001
+                ],
+                "bodyTextKey": "UI_INTERACT_BONUS_SKILL_FARDEN_2",
+                "skillEntries": [
+                  {
+                    "skillId": 216,
+                    "replaceSkillId": 215
+                  }
+                ],
+                "subjectTextKey": "UI_INTERACT_UP_REWARD_GET_QUEST_BONUS"
+              }
+            ]
+          },
+          {
+            "eventId": 176,
+            "characterId": 289,
+            "favorability": 7,
+            "executors": [
+              {
+                "class": "ItemGet",
+                "value": 5,
+                "itemId": 4228911,
+                "bodyTextKey": "",
+                "subjectTextKey": "UI_INTERACT_UP_REWARD_UG_COLLECT_CARD"
+              }
+            ]
+          },
+          {
+            "eventId": 176,
+            "characterId": 289,
+            "favorability": 8,
+            "executors": [
+              {
+                "class": "ItemGet",
+                "value": 5,
+                "itemId": 4228911,
+                "bodyTextKey": "",
+                "subjectTextKey": "UI_INTERACT_UP_REWARD_UG_COLLECT_CARD"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "eventId": 176,
+        "characterId": 301,
+        "stockId": 13011,
+        "chapterId": 1291,
+        "characterNameTextKey": "CARD_NAME_DENEBORA",
+        "dicingImageAddress": "fg_denebora_s01_skin2",
+        "iconAddress": "icon_denebora_s01_skin2",
+        "favIncreaseItems": [
+          {
+            "eventId": 176,
+            "characterId": 301,
+            "nextFavorability": 1,
+            "itemId": 288,
+            "value": 1
+          },
+          {
+            "eventId": 176,
+            "characterId": 301,
+            "nextFavorability": 2,
+            "itemId": 288,
+            "value": 1
+          },
+          {
+            "eventId": 176,
+            "characterId": 301,
+            "nextFavorability": 3,
+            "itemId": 288,
+            "value": 1
+          },
+          {
+            "eventId": 176,
+            "characterId": 301,
+            "nextFavorability": 4,
+            "itemId": 288,
+            "value": 1
+          },
+          {
+            "eventId": 176,
+            "characterId": 301,
+            "nextFavorability": 5,
+            "itemId": 288,
+            "value": 1
+          },
+          {
+            "eventId": 176,
+            "characterId": 301,
+            "nextFavorability": 6,
+            "itemId": 288,
+            "value": 1
+          },
+          {
+            "eventId": 176,
+            "characterId": 301,
+            "nextFavorability": 7,
+            "itemId": 288,
+            "value": 1
+          },
+          {
+            "eventId": 176,
+            "characterId": 301,
+            "nextFavorability": 8,
+            "itemId": 288,
+            "value": 1
+          }
+        ],
+        "favRewards": [
+          {
+            "eventId": 176,
+            "characterId": 301,
+            "favorability": 1,
+            "executors": [
+              {
+                "class": "StartQuest",
+                "questId": 1291001,
+                "bodyTextKey": "",
+                "subjectTextKey": "UI_INTERACT_UP_REWARD_RELEASE_VACATION_QUEST"
+              }
+            ]
+          },
+          {
+            "eventId": 176,
+            "characterId": 301,
+            "favorability": 2,
+            "executors": [
+              {
+                "class": "ReleaseQuestBonus",
+                "questIds": [
+                  1281001,
+                  1282001,
+                  1283001
+                ],
+                "bodyTextKey": "UI_INTERACT_BONUS_SKILL_DENEBORA_1",
+                "skillEntries": [
+                  {
+                    "skillId": 217,
+                    "replaceSkillId": 0
+                  }
+                ],
+                "subjectTextKey": "UI_INTERACT_UP_REWARD_GET_QUEST_BONUS"
+              }
+            ]
+          },
+          {
+            "eventId": 176,
+            "characterId": 301,
+            "favorability": 3,
+            "executors": [
+              {
+                "class": "StartQuest",
+                "questId": 1291002,
+                "bodyTextKey": "",
+                "subjectTextKey": "UI_INTERACT_UP_REWARD_RELEASE_VACATION_QUEST"
+              }
+            ]
+          },
+          {
+            "eventId": 176,
+            "characterId": 301,
+            "favorability": 4,
+            "executors": [
+              {
+                "class": "GetBromide",
+                "bromideId": 2301101,
+                "bodyTextKey": "",
+                "subjectTextKey": "UI_INTERACT_UP_REWARD_GET_COLLECT_CARD"
+              }
+            ]
+          },
+          {
+            "eventId": 176,
+            "characterId": 301,
+            "favorability": 5,
+            "executors": [
+              {
+                "class": "StartQuest",
+                "questId": 1291003,
+                "bodyTextKey": "",
+                "subjectTextKey": "UI_INTERACT_UP_REWARD_RELEASE_VACATION_QUEST"
+              }
+            ]
+          },
+          {
+            "eventId": 176,
+            "characterId": 301,
+            "favorability": 6,
+            "executors": [
+              {
+                "class": "ItemGet",
+                "value": 5,
+                "itemId": 4230111,
+                "bodyTextKey": "",
+                "subjectTextKey": "UI_INTERACT_UP_REWARD_UG_COLLECT_CARD"
+              },
+              {
+                "class": "ReleaseQuestBonus",
+                "questIds": [
+                  1281001,
+                  1282001,
+                  1283001
+                ],
+                "bodyTextKey": "UI_INTERACT_BONUS_SKILL_DENEBORA_2",
+                "skillEntries": [
+                  {
+                    "skillId": 218,
+                    "replaceSkillId": 217
+                  }
+                ],
+                "subjectTextKey": "UI_INTERACT_UP_REWARD_GET_QUEST_BONUS"
+              }
+            ]
+          },
+          {
+            "eventId": 176,
+            "characterId": 301,
+            "favorability": 7,
+            "executors": [
+              {
+                "class": "ItemGet",
+                "value": 5,
+                "itemId": 4230111,
+                "bodyTextKey": "",
+                "subjectTextKey": "UI_INTERACT_UP_REWARD_UG_COLLECT_CARD"
+              }
+            ]
+          },
+          {
+            "eventId": 176,
+            "characterId": 301,
+            "favorability": 8,
+            "executors": [
+              {
+                "class": "ItemGet",
+                "value": 5,
+                "itemId": 4230111,
+                "bodyTextKey": "",
+                "subjectTextKey": "UI_INTERACT_UP_REWARD_UG_COLLECT_CARD"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "eventId": 176,
+        "characterId": 128,
+        "stockId": 11281,
+        "chapterId": 1292,
+        "characterNameTextKey": "CARD_NAME_PHEIN",
+        "dicingImageAddress": "fg_phein_s01_skin5",
+        "iconAddress": "icon_phein_s01_skin5",
+        "favIncreaseItems": [
+          {
+            "eventId": 176,
+            "characterId": 128,
+            "nextFavorability": 1,
+            "itemId": 288,
+            "value": 1
+          },
+          {
+            "eventId": 176,
+            "characterId": 128,
+            "nextFavorability": 2,
+            "itemId": 288,
+            "value": 1
+          },
+          {
+            "eventId": 176,
+            "characterId": 128,
+            "nextFavorability": 3,
+            "itemId": 288,
+            "value": 1
+          },
+          {
+            "eventId": 176,
+            "characterId": 128,
+            "nextFavorability": 4,
+            "itemId": 288,
+            "value": 1
+          },
+          {
+            "eventId": 176,
+            "characterId": 128,
+            "nextFavorability": 5,
+            "itemId": 288,
+            "value": 1
+          },
+          {
+            "eventId": 176,
+            "characterId": 128,
+            "nextFavorability": 6,
+            "itemId": 288,
+            "value": 1
+          },
+          {
+            "eventId": 176,
+            "characterId": 128,
+            "nextFavorability": 7,
+            "itemId": 288,
+            "value": 1
+          },
+          {
+            "eventId": 176,
+            "characterId": 128,
+            "nextFavorability": 8,
+            "itemId": 288,
+            "value": 1
+          }
+        ],
+        "favRewards": [
+          {
+            "eventId": 176,
+            "characterId": 128,
+            "favorability": 1,
+            "executors": [
+              {
+                "class": "StartQuest",
+                "questId": 1292001,
+                "bodyTextKey": "",
+                "subjectTextKey": "UI_INTERACT_UP_REWARD_RELEASE_VACATION_QUEST"
+              }
+            ]
+          },
+          {
+            "eventId": 176,
+            "characterId": 128,
+            "favorability": 2,
+            "executors": [
+              {
+                "class": "ReleaseQuestBonus",
+                "questIds": [
+                  1281001,
+                  1282001,
+                  1283001
+                ],
+                "bodyTextKey": "UI_INTERACT_BONUS_SKILL_PHEIN_1",
+                "skillEntries": [
+                  {
+                    "skillId": 219,
+                    "replaceSkillId": 0
+                  }
+                ],
+                "subjectTextKey": "UI_INTERACT_UP_REWARD_GET_QUEST_BONUS"
+              }
+            ]
+          },
+          {
+            "eventId": 176,
+            "characterId": 128,
+            "favorability": 3,
+            "executors": [
+              {
+                "class": "StartQuest",
+                "questId": 1292002,
+                "bodyTextKey": "",
+                "subjectTextKey": "UI_INTERACT_UP_REWARD_RELEASE_VACATION_QUEST"
+              }
+            ]
+          },
+          {
+            "eventId": 176,
+            "characterId": 128,
+            "favorability": 4,
+            "executors": [
+              {
+                "class": "GetBromide",
+                "bromideId": 2128101,
+                "bodyTextKey": "",
+                "subjectTextKey": "UI_INTERACT_UP_REWARD_GET_COLLECT_CARD"
+              }
+            ]
+          },
+          {
+            "eventId": 176,
+            "characterId": 128,
+            "favorability": 5,
+            "executors": [
+              {
+                "class": "StartQuest",
+                "questId": 1292003,
+                "bodyTextKey": "",
+                "subjectTextKey": "UI_INTERACT_UP_REWARD_RELEASE_VACATION_QUEST"
+              }
+            ]
+          },
+          {
+            "eventId": 176,
+            "characterId": 128,
+            "favorability": 6,
+            "executors": [
+              {
+                "class": "ItemGet",
+                "value": 5,
+                "itemId": 4212811,
+                "bodyTextKey": "",
+                "subjectTextKey": "UI_INTERACT_UP_REWARD_UG_COLLECT_CARD"
+              },
+              {
+                "class": "ReleaseQuestBonus",
+                "questIds": [
+                  1281001,
+                  1282001,
+                  1283001
+                ],
+                "bodyTextKey": "UI_INTERACT_BONUS_SKILL_PHEIN_2",
+                "skillEntries": [
+                  {
+                    "skillId": 220,
+                    "replaceSkillId": 219
+                  }
+                ],
+                "subjectTextKey": "UI_INTERACT_UP_REWARD_GET_QUEST_BONUS"
+              }
+            ]
+          },
+          {
+            "eventId": 176,
+            "characterId": 128,
+            "favorability": 7,
+            "executors": [
+              {
+                "class": "ItemGet",
+                "value": 5,
+                "itemId": 4212811,
+                "bodyTextKey": "",
+                "subjectTextKey": "UI_INTERACT_UP_REWARD_UG_COLLECT_CARD"
+              }
+            ]
+          },
+          {
+            "eventId": 176,
+            "characterId": 128,
+            "favorability": 8,
+            "executors": [
+              {
+                "class": "ItemGet",
+                "value": 5,
+                "itemId": 4212811,
+                "bodyTextKey": "",
+                "subjectTextKey": "UI_INTERACT_UP_REWARD_UG_COLLECT_CARD"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "eventId": 176,
+        "characterId": 151,
+        "stockId": 11511,
+        "chapterId": 1293,
+        "characterNameTextKey": "CARD_NAME_TABIT",
+        "dicingImageAddress": "fg_tabit_s01_skin1",
+        "iconAddress": "icon_tabit_s01_skin1",
+        "favIncreaseItems": [
+          {
+            "eventId": 176,
+            "characterId": 151,
+            "nextFavorability": 1,
+            "itemId": 288,
+            "value": 1
+          },
+          {
+            "eventId": 176,
+            "characterId": 151,
+            "nextFavorability": 2,
+            "itemId": 288,
+            "value": 1
+          },
+          {
+            "eventId": 176,
+            "characterId": 151,
+            "nextFavorability": 3,
+            "itemId": 288,
+            "value": 1
+          },
+          {
+            "eventId": 176,
+            "characterId": 151,
+            "nextFavorability": 4,
+            "itemId": 288,
+            "value": 1
+          },
+          {
+            "eventId": 176,
+            "characterId": 151,
+            "nextFavorability": 5,
+            "itemId": 288,
+            "value": 1
+          },
+          {
+            "eventId": 176,
+            "characterId": 151,
+            "nextFavorability": 6,
+            "itemId": 288,
+            "value": 1
+          },
+          {
+            "eventId": 176,
+            "characterId": 151,
+            "nextFavorability": 7,
+            "itemId": 288,
+            "value": 1
+          },
+          {
+            "eventId": 176,
+            "characterId": 151,
+            "nextFavorability": 8,
+            "itemId": 288,
+            "value": 1
+          }
+        ],
+        "favRewards": [
+          {
+            "eventId": 176,
+            "characterId": 151,
+            "favorability": 1,
+            "executors": [
+              {
+                "class": "StartQuest",
+                "questId": 1293001,
+                "bodyTextKey": "",
+                "subjectTextKey": "UI_INTERACT_UP_REWARD_RELEASE_VACATION_QUEST"
+              }
+            ]
+          },
+          {
+            "eventId": 176,
+            "characterId": 151,
+            "favorability": 2,
+            "executors": [
+              {
+                "class": "ReleaseQuestBonus",
+                "questIds": [
+                  1281001,
+                  1282001,
+                  1283001
+                ],
+                "bodyTextKey": "UI_INTERACT_BONUS_SKILL_TABIT_1",
+                "skillEntries": [
+                  {
+                    "skillId": 221,
+                    "replaceSkillId": 0
+                  }
+                ],
+                "subjectTextKey": "UI_INTERACT_UP_REWARD_GET_QUEST_BONUS"
+              }
+            ]
+          },
+          {
+            "eventId": 176,
+            "characterId": 151,
+            "favorability": 3,
+            "executors": [
+              {
+                "class": "StartQuest",
+                "questId": 1293002,
+                "bodyTextKey": "",
+                "subjectTextKey": "UI_INTERACT_UP_REWARD_RELEASE_VACATION_QUEST"
+              }
+            ]
+          },
+          {
+            "eventId": 176,
+            "characterId": 151,
+            "favorability": 4,
+            "executors": [
+              {
+                "class": "GetBromide",
+                "bromideId": 2151101,
+                "bodyTextKey": "",
+                "subjectTextKey": "UI_INTERACT_UP_REWARD_GET_COLLECT_CARD"
+              }
+            ]
+          },
+          {
+            "eventId": 176,
+            "characterId": 151,
+            "favorability": 5,
+            "executors": [
+              {
+                "class": "StartQuest",
+                "questId": 1293003,
+                "bodyTextKey": "",
+                "subjectTextKey": "UI_INTERACT_UP_REWARD_RELEASE_VACATION_QUEST"
+              }
+            ]
+          },
+          {
+            "eventId": 176,
+            "characterId": 151,
+            "favorability": 6,
+            "executors": [
+              {
+                "class": "ItemGet",
+                "value": 5,
+                "itemId": 4215111,
+                "bodyTextKey": "",
+                "subjectTextKey": "UI_INTERACT_UP_REWARD_UG_COLLECT_CARD"
+              },
+              {
+                "class": "ReleaseQuestBonus",
+                "questIds": [
+                  1281001,
+                  1282001,
+                  1283001
+                ],
+                "bodyTextKey": "UI_INTERACT_BONUS_SKILL_TABIT_2",
+                "skillEntries": [
+                  {
+                    "skillId": 222,
+                    "replaceSkillId": 221
+                  }
+                ],
+                "subjectTextKey": "UI_INTERACT_UP_REWARD_GET_QUEST_BONUS"
+              }
+            ]
+          },
+          {
+            "eventId": 176,
+            "characterId": 151,
+            "favorability": 7,
+            "executors": [
+              {
+                "class": "ItemGet",
+                "value": 5,
+                "itemId": 4215111,
+                "bodyTextKey": "",
+                "subjectTextKey": "UI_INTERACT_UP_REWARD_UG_COLLECT_CARD"
+              }
+            ]
+          },
+          {
+            "eventId": 176,
+            "characterId": 151,
+            "favorability": 8,
+            "executors": [
+              {
+                "class": "ItemGet",
+                "value": 5,
+                "itemId": 4215111,
+                "bodyTextKey": "",
+                "subjectTextKey": "UI_INTERACT_UP_REWARD_UG_COLLECT_CARD"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
