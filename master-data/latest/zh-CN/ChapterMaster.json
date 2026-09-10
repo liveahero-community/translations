@@ -14964,5 +14964,31 @@
     "endAt": "2026-09-24 14:00:00",
     "roguePortalJson": null,
     "executeLimit": null
+  },
+  "1300": {
+    "chapterId": 1300,
+    "chapterGroupId": 0,
+    "groupType": 2,
+    "chapterType": 1,
+    "chapterName": "キャンペーンクエスト",
+    "subName": "虹、逆巻く時",
+    "peepingName": "虹、逆巻く時",
+    "sortWeight": 1000,
+    "bannerResourceName": "ui_banner_questchoice_event_Rainbow2505_highdifficult",
+    "bgResourceName": "ui_bg_sprite_quest_highdifficult_Rainbow2505",
+    "selectBannerAddress": "",
+    "helpPrefabAddress": "RainbowHighDifficultyHelpWindow",
+    "questSelectPrefabAddress": "",
+    "storyLibraryPrefabAddress": "",
+    "missionGroupId": 0,
+    "scoreAttackStoreId": 0,
+    "scoreAttackItemIds": null,
+    "conditionChapterId": 0,
+    "conditionChapterButtonLabel": "",
+    "conditionChapterDescription": "",
+    "startAt": "2026-09-10 18:00:00",
+    "endAt": "2026-10-01 14:00:00",
+    "roguePortalJson": null,
+    "executeLimit": null
   }
 }
