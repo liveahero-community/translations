@@ -1,0 +1,29 @@
+{
+  "1": {
+    "unexploredId": 1,
+    "unexploredGroupId": 0,
+    "isEasy": false,
+    "bannerAddress": "",
+    "genScore": 50,
+    "middleBossScore": 300,
+    "bossScore": 400
+  },
+  "2": {
+    "unexploredId": 2,
+    "unexploredGroupId": 2,
+    "isEasy": false,
+    "bannerAddress": "ui_banner_event_questbanner_Rogue2307",
+    "genScore": 50,
+    "middleBossScore": 300,
+    "bossScore": 400
+  },
+  "3": {
+    "unexploredId": 3,
+    "unexploredGroupId": 2,
+    "isEasy": true,
+    "bannerAddress": "ui_banner_event_questbanner_RogueEasy2401",
+    "genScore": 25,
+    "middleBossScore": 150,
+    "bossScore": 200
+  }
+}

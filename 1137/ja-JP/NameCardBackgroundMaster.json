@@ -1,0 +1,1351 @@
+{
+  "1": {
+    "backgroundId": 1,
+    "iconAddress": "item_icon_bg_parallelflight",
+    "bgAddress": "bg_parallelflight",
+    "conditions": null
+  },
+  "2": {
+    "backgroundId": 2,
+    "iconAddress": "item_icon_bg_orientcitycenter",
+    "bgAddress": "bg_orientcitycenter",
+    "conditions": null
+  },
+  "3": {
+    "backgroundId": 3,
+    "iconAddress": "item_icon_bg_ethersearcher",
+    "bgAddress": "bg_ethersearcher",
+    "conditions": null
+  },
+  "4": {
+    "backgroundId": 4,
+    "iconAddress": "item_icon_bg_alley_day",
+    "bgAddress": "bg_alley_day",
+    "conditions": null
+  },
+  "5": {
+    "backgroundId": 5,
+    "iconAddress": "item_icon_bg_parallelflight_newoffice_day",
+    "bgAddress": "bg_parallelflight_newoffice_day",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          105013
+        ]
+      }
+    ]
+  },
+  "1001": {
+    "backgroundId": 1001,
+    "iconAddress": "item_icon_bg_wasteland",
+    "bgAddress": "bg_wasteland",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          402013,
+          801013
+        ]
+      }
+    ]
+  },
+  "1002": {
+    "backgroundId": 1002,
+    "iconAddress": "item_icon_bg_hotspringtown_night",
+    "bgAddress": "bg_hotspringtown_night",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          407007,
+          441007,
+          802007
+        ]
+      }
+    ]
+  },
+  "1003": {
+    "backgroundId": 1003,
+    "iconAddress": "item_icon_bg_hotspring_day",
+    "bgAddress": "bg_hotspring_day",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          407007,
+          441007,
+          802007
+        ]
+      }
+    ]
+  },
+  "1004": {
+    "backgroundId": 1004,
+    "iconAddress": "item_icon_bg_launchsite_rocket",
+    "bgAddress": "bg_launchsite_rocket",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          412008,
+          460008,
+          1036008,
+          804008
+        ]
+      }
+    ]
+  },
+  "1005": {
+    "backgroundId": 1005,
+    "iconAddress": "item_icon_bg_laboratory",
+    "bgAddress": "bg_laboratory",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          412008,
+          460008,
+          1036008,
+          804008
+        ]
+      }
+    ]
+  },
+  "1006": {
+    "backgroundId": 1006,
+    "iconAddress": "item_icon_bg_throneroom",
+    "bgAddress": "bg_throneroom",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          421008,
+          468008,
+          807008
+        ]
+      }
+    ]
+  },
+  "1007": {
+    "backgroundId": 1007,
+    "iconAddress": "item_icon_bg_goldencity",
+    "bgAddress": "bg_goldencity",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          421008,
+          468008,
+          807008
+        ]
+      }
+    ]
+  },
+  "1008": {
+    "backgroundId": 1008,
+    "iconAddress": "item_icon_bg_courtyard_day",
+    "bgAddress": "bg_courtyard_day",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          421008,
+          468008,
+          807008
+        ]
+      }
+    ]
+  },
+  "1009": {
+    "backgroundId": 1009,
+    "iconAddress": "item_icon_bg_castletown",
+    "bgAddress": "bg_castletown",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          421008,
+          468008,
+          807008
+        ]
+      }
+    ]
+  },
+  "1010": {
+    "backgroundId": 1010,
+    "iconAddress": "item_icon_bg_detectiveagency_day",
+    "bgAddress": "bg_detectiveagency_day",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          425008,
+          485008,
+          810008
+        ]
+      }
+    ]
+  },
+  "1011": {
+    "backgroundId": 1011,
+    "iconAddress": "item_icon_bg_spacetaxi_sky",
+    "bgAddress": "bg_spacetaxi_sky",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          425008,
+          485008,
+          810008
+        ]
+      }
+    ]
+  },
+  "1012": {
+    "backgroundId": 1012,
+    "iconAddress": "item_icon_bg_memorialstone_day",
+    "bgAddress": "bg_memorialstone_day",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          425008,
+          485008,
+          810008
+        ]
+      }
+    ]
+  },
+  "1013": {
+    "backgroundId": 1013,
+    "iconAddress": "item_icon_bg_decimatedcity_day",
+    "bgAddress": "bg_decimatedcity_day",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          425008,
+          485008,
+          810008
+        ]
+      }
+    ]
+  },
+  "1014": {
+    "backgroundId": 1014,
+    "iconAddress": "item_icon_bg_spacetruck",
+    "bgAddress": "bg_spacetruck",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          425008,
+          485008,
+          810008
+        ]
+      }
+    ]
+  },
+  "1015": {
+    "backgroundId": 1015,
+    "iconAddress": "item_icon_bg_granisland_day",
+    "bgAddress": "bg_granisland_day",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          431008,
+          478008,
+          813008
+        ]
+      }
+    ]
+  },
+  "1016": {
+    "backgroundId": 1016,
+    "iconAddress": "item_icon_bg_attractionarea_day",
+    "bgAddress": "bg_attractionarea_day",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          431008,
+          478008,
+          813008
+        ]
+      }
+    ]
+  },
+  "1017": {
+    "backgroundId": 1017,
+    "iconAddress": "item_icon_bg_stadium_day",
+    "bgAddress": "bg_stadium_day",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          437008,
+          493008,
+          816008
+        ]
+      }
+    ]
+  },
+  "1018": {
+    "backgroundId": 1018,
+    "iconAddress": "item_icon_bg_foodstall_night",
+    "bgAddress": "bg_foodstall_night",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          437008,
+          493008,
+          816008
+        ]
+      }
+    ]
+  },
+  "1019": {
+    "backgroundId": 1019,
+    "iconAddress": "item_icon_bg_festivalstalls_night",
+    "bgAddress": "bg_festivalstalls_night",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          437008,
+          493008,
+          816008
+        ]
+      }
+    ]
+  },
+  "1020": {
+    "backgroundId": 1020,
+    "iconAddress": "item_icon_bg_spaceshipinterior_piano",
+    "bgAddress": "bg_spaceshipinterior_piano",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          445008,
+          1014008,
+          819008
+        ]
+      }
+    ]
+  },
+  "1021": {
+    "backgroundId": 1021,
+    "iconAddress": "item_icon_bg_frigidplanet_building",
+    "bgAddress": "bg_frigidplanet_building",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          445008,
+          1014008,
+          819008
+        ]
+      }
+    ]
+  },
+  "1022": {
+    "backgroundId": 1022,
+    "iconAddress": "item_icon_bg_concertstage_meteor_cannon",
+    "bgAddress": "bg_concertstage_meteor_cannon",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          445008,
+          1014008,
+          819008
+        ]
+      }
+    ]
+  },
+  "1023": {
+    "backgroundId": 1023,
+    "iconAddress": "item_icon_bg_earth_meteorite",
+    "bgAddress": "bg_earth_meteorite",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          445008,
+          1014008,
+          819008
+        ]
+      }
+    ]
+  },
+  "1024": {
+    "backgroundId": 1024,
+    "iconAddress": "item_icon_bg_circus_exterior_day_open",
+    "bgAddress": "bg_circus_exterior_day_open",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          464008,
+          1032008,
+          822008
+        ]
+      }
+    ]
+  },
+  "1025": {
+    "backgroundId": 1025,
+    "iconAddress": "item_icon_bg_circus_interior_open",
+    "bgAddress": "bg_circus_interior_open",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          464008,
+          1032008,
+          822008
+        ]
+      }
+    ]
+  },
+  "1026": {
+    "backgroundId": 1026,
+    "iconAddress": "item_icon_bg_urbanarea_day_festival",
+    "bgAddress": "bg_urbanarea_day_festival",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          474008,
+          1028008,
+          825008
+        ]
+      }
+    ]
+  },
+  "1027": {
+    "backgroundId": 1027,
+    "iconAddress": "item_icon_bg_bigtree_day_bloom",
+    "bgAddress": "bg_bigtree_day_bloom",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          474008,
+          1028008,
+          825008
+        ]
+      }
+    ]
+  },
+  "1028": {
+    "backgroundId": 1028,
+    "iconAddress": "item_icon_bg_deepforest_day",
+    "bgAddress": "bg_deepforest_day",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          474008,
+          1028008,
+          825008
+        ]
+      }
+    ]
+  },
+  "1029": {
+    "backgroundId": 1029,
+    "iconAddress": "item_icon_bg_underwater_day",
+    "bgAddress": "bg_underwater_day",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          489008,
+          1052008,
+          828008
+        ]
+      }
+    ]
+  },
+  "1030": {
+    "backgroundId": 1030,
+    "iconAddress": "item_icon_bg_ancientcity",
+    "bgAddress": "bg_ancientcity",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          489008,
+          1052008,
+          828008
+        ]
+      }
+    ]
+  },
+  "1031": {
+    "backgroundId": 1031,
+    "iconAddress": "item_icon_bg_lakesideresort_day",
+    "bgAddress": "bg_lakesideresort_day",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          489008,
+          1052008,
+          828008
+        ]
+      }
+    ]
+  },
+  "1032": {
+    "backgroundId": 1032,
+    "iconAddress": "item_icon_bg_neoasixs",
+    "bgAddress": "bg_neoasixs",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          1010009,
+          1061009,
+          831009
+        ]
+      }
+    ]
+  },
+  "1033": {
+    "backgroundId": 1033,
+    "iconAddress": "item_icon_bg_capsuleroom",
+    "bgAddress": "bg_capsuleroom",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          1010009,
+          1061009,
+          831009
+        ]
+      }
+    ]
+  },
+  "1034": {
+    "backgroundId": 1034,
+    "iconAddress": "item_icon_bg_christmaseventvenuehalf_night",
+    "bgAddress": "bg_christmaseventvenuehalf_night",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          1022008,
+          1077008,
+          834008
+        ]
+      }
+    ]
+  },
+  "1035": {
+    "backgroundId": 1035,
+    "iconAddress": "item_icon_bg_crystaltower2",
+    "bgAddress": "bg_crystaltower2",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          1022008,
+          1077008,
+          834008
+        ]
+      }
+    ]
+  },
+  "1036": {
+    "backgroundId": 1036,
+    "iconAddress": "item_icon_bg_crystaltowerdeepest",
+    "bgAddress": "bg_crystaltowerdeepest",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          1022008,
+          1077008,
+          834008
+        ]
+      }
+    ]
+  },
+  "1037": {
+    "backgroundId": 1037,
+    "iconAddress": "item_icon_bg_campus_day_chocofes",
+    "bgAddress": "bg_campus_day_chocofes",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          1039008,
+          1089008,
+          837008
+        ]
+      }
+    ]
+  },
+  "1038": {
+    "backgroundId": 1038,
+    "iconAddress": "item_icon_bg_campusrooftop_eventvenue_day",
+    "bgAddress": "bg_campusrooftop_eventvenue_day",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          1039008,
+          1089008,
+          837008
+        ]
+      }
+    ]
+  },
+  "1039": {
+    "backgroundId": 1039,
+    "iconAddress": "item_icon_bg_shinrakuview_day",
+    "bgAddress": "bg_shinrakuview_day",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          1043008,
+          1102008,
+          840008
+        ]
+      }
+    ]
+  },
+  "1040": {
+    "backgroundId": 1040,
+    "iconAddress": "item_icon_bg_shinrakustreet_day",
+    "bgAddress": "bg_shinrakustreet_day",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          1043008,
+          1102008,
+          840008
+        ]
+      }
+    ]
+  },
+  "1041": {
+    "backgroundId": 1041,
+    "iconAddress": "item_icon_bg_shinrakusquare_day_festival",
+    "bgAddress": "bg_shinrakusquare_day_festival",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          1043008,
+          1102008,
+          840008
+        ]
+      }
+    ]
+  },
+  "1042": {
+    "backgroundId": 1042,
+    "iconAddress": "item_icon_bg_shinrakubackstreet_day",
+    "bgAddress": "bg_shinrakubackstreet_day",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          1043008,
+          1102008,
+          840008
+        ]
+      }
+    ]
+  },
+  "1043": {
+    "backgroundId": 1043,
+    "iconAddress": "item_icon_bg_trainlounge_space",
+    "bgAddress": "bg_trainlounge_space",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          1048008,
+          1111008,
+          843008
+        ]
+      }
+    ]
+  },
+  "1044": {
+    "backgroundId": 1044,
+    "iconAddress": "item_icon_bg_galaxyexpress",
+    "bgAddress": "bg_galaxyexpress",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          1048008,
+          1111008,
+          843008
+        ]
+      }
+    ]
+  },
+  "1045": {
+    "backgroundId": 1045,
+    "iconAddress": "item_icon_bg_engineroom",
+    "bgAddress": "bg_engineroom",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          1048008,
+          1111008,
+          843008
+        ]
+      }
+    ]
+  },
+  "1046": {
+    "backgroundId": 1046,
+    "iconAddress": "item_icon_bg_casino",
+    "bgAddress": "bg_casino",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          1048008,
+          1111008,
+          843008
+        ]
+      }
+    ]
+  },
+  "1047": {
+    "backgroundId": 1047,
+    "iconAddress": "item_icon_bg_limestonecave_normal",
+    "bgAddress": "bg_limestonecave_normal",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          1057008,
+          1119008,
+          846008
+        ]
+      }
+    ]
+  },
+  "1048": {
+    "backgroundId": 1048,
+    "iconAddress": "item_icon_bg_cityofwater_urbanarea_day",
+    "bgAddress": "bg_cityofwater_urbanarea_day",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          1057008,
+          1119008,
+          846008
+        ]
+      }
+    ]
+  },
+  "1049": {
+    "backgroundId": 1049,
+    "iconAddress": "item_icon_bg_cityofwater_outdoorbath_day",
+    "bgAddress": "bg_cityofwater_outdoorbath_day",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          1057008,
+          1119008,
+          846008
+        ]
+      }
+    ]
+  },
+  "1050": {
+    "backgroundId": 1050,
+    "iconAddress": "item_icon_bg_uninhabitedisland_base_day_right",
+    "bgAddress": "bg_uninhabitedisland_base_day_right",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          1069008,
+          1128008,
+          849008
+        ]
+      }
+    ]
+  },
+  "1051": {
+    "backgroundId": 1051,
+    "iconAddress": "item_icon_bg_uninhabitedisland_appearance",
+    "bgAddress": "bg_uninhabitedisland_appearance",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          1069008,
+          1128008,
+          849008
+        ]
+      }
+    ]
+  },
+  "1052": {
+    "backgroundId": 1052,
+    "iconAddress": "item_icon_bg_cruiser_day",
+    "bgAddress": "bg_cruiser_day",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          1069008,
+          1128008,
+          849008
+        ]
+      }
+    ]
+  },
+  "1053": {
+    "backgroundId": 1053,
+    "iconAddress": "item_icon_bg_halloweentown_night_decoration",
+    "bgAddress": "bg_halloweentown_night_decoration",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          1073008,
+          1142008,
+          852008
+        ]
+      }
+    ]
+  },
+  "1054": {
+    "backgroundId": 1054,
+    "iconAddress": "item_icon_bg_castlebalcony_night",
+    "bgAddress": "bg_castlebalcony_night",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          1073008,
+          1142008,
+          852008
+        ]
+      }
+    ]
+  },
+  "1055": {
+    "backgroundId": 1055,
+    "iconAddress": "item_icon_bg_satelliteband_day",
+    "bgAddress": "bg_satelliteband_day",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          1082008,
+          1155008
+        ]
+      }
+    ]
+  },
+  "1056": {
+    "backgroundId": 1056,
+    "iconAddress": "item_icon_bg_Christmascityscape_decoration_night",
+    "bgAddress": "bg_Christmascityscape_decoration_night",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          1082008,
+          1155008
+        ]
+      }
+    ]
+  },
+  "1057": {
+    "backgroundId": 1057,
+    "iconAddress": "item_icon_bg_mountainfootvillage_decoration_day",
+    "bgAddress": "bg_mountainfootvillage_decoration_day",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          1097008,
+          1168008
+        ]
+      }
+    ]
+  },
+  "1058": {
+    "backgroundId": 1058,
+    "iconAddress": "item_icon_bg_ophiuchus_exterior_day",
+    "bgAddress": "bg_ophiuchus_exterior_day",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          1106008,
+          1181008
+        ]
+      }
+    ]
+  },
+  "1059": {
+    "backgroundId": 1059,
+    "iconAddress": "item_icon_bg_ophiuchus_dungeon",
+    "bgAddress": "bg_ophiuchus_dungeon",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          1106008,
+          1181008
+        ]
+      }
+    ]
+  },
+  "1060": {
+    "backgroundId": 1060,
+    "iconAddress": "item_icon_bg_ophiuchus_powerhouse_stop",
+    "bgAddress": "bg_ophiuchus_powerhouse_stop",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          1106008,
+          1181008
+        ]
+      }
+    ]
+  },
+  "1061": {
+    "backgroundId": 1061,
+    "iconAddress": "item_icon_bg_rooftopwaterstage_show_night",
+    "bgAddress": "bg_rooftopwaterstage_show_night",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          1123008,
+          1192008
+        ]
+      }
+    ]
+  },
+  "1062": {
+    "backgroundId": 1062,
+    "iconAddress": "item_icon_bg_hotellounge_open",
+    "bgAddress": "bg_hotellounge_open",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          1123008,
+          1192008
+        ]
+      }
+    ]
+  },
+  "1063": {
+    "backgroundId": 1063,
+    "iconAddress": "item_icon_bg_entertainmentcity_night",
+    "bgAddress": "bg_entertainmentcity_night",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          1123008,
+          1192008
+        ]
+      }
+    ]
+  },
+  "1064": {
+    "backgroundId": 1064,
+    "iconAddress": "item_icon_bg_orientcitybeachside_day",
+    "bgAddress": "bg_orientcitybeachside_day",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          1132008,
+          1203008
+        ]
+      }
+    ]
+  },
+  "1065": {
+    "backgroundId": 1065,
+    "iconAddress": "item_icon_bg_hunterstemporaryresidence_day",
+    "bgAddress": "bg_hunterstemporaryresidence_day",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          1132008,
+          1203008
+        ]
+      }
+    ]
+  },
+  "1066": {
+    "backgroundId": 1066,
+    "iconAddress": "item_icon_bg_herofestasite_day",
+    "bgAddress": "bg_herofestasite_day",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          1132008,
+          1203008
+        ]
+      }
+    ]
+  },
+  "1067": {
+    "backgroundId": 1067,
+    "iconAddress": "item_icon_bg_archimedescolony_day",
+    "bgAddress": "bg_archimedescolony_day",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          1137009
+        ]
+      }
+    ]
+  },
+  "1068": {
+    "backgroundId": 1068,
+    "iconAddress": "item_icon_bg_ceremonialhall_day",
+    "bgAddress": "bg_ceremonialhall_day",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          1137009
+        ]
+      }
+    ]
+  },
+  "1069": {
+    "backgroundId": 1069,
+    "iconAddress": "item_icon_bg_warshipdeck_day",
+    "bgAddress": "bg_warshipdeck_day",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          1146008
+        ]
+      }
+    ]
+  },
+  "1070": {
+    "backgroundId": 1070,
+    "iconAddress": "item_icon_bg_MuirauqaIV_ResidentialShip_Asux_day",
+    "bgAddress": "bg_MuirauqaIV_ResidentialShip_Asux_day",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          1146008
+        ]
+      }
+    ]
+  },
+  "1071": {
+    "backgroundId": 1071,
+    "iconAddress": "item_icon_bg_estebolta",
+    "bgAddress": "bg_estebolta",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          1146008
+        ]
+      }
+    ]
+  },
+  "1072": {
+    "backgroundId": 1072,
+    "iconAddress": "item_icon_bg_immigranturbanarea_decorationhouse_tree",
+    "bgAddress": "bg_immigranturbanarea_decorationhouse_tree",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          1150008
+        ]
+      }
+    ]
+  },
+  "1073": {
+    "backgroundId": 1073,
+    "iconAddress": "item_icon_bg_immigrantshipsquare_decoration_tree_night",
+    "bgAddress": "bg_immigrantshipsquare_decoration_tree_night",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          1150008
+        ]
+      }
+    ]
+  },
+  "1074": {
+    "backgroundId": 1074,
+    "iconAddress": "item_icon_bg_desertoasis_decorationhalf2_day",
+    "bgAddress": "bg_desertoasis_decorationhalf2_day",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          1160008
+        ]
+      }
+    ]
+  },
+  "1075": {
+    "backgroundId": 1075,
+    "iconAddress": "item_icon_bg_desertoasis_decorationhalf1_day",
+    "bgAddress": "bg_desertoasis_decorationhalf1_day",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          1160008
+        ]
+      }
+    ]
+  },
+  "1076": {
+    "backgroundId": 1076,
+    "iconAddress": "item_icon_bg_ancientcity_another_throne",
+    "bgAddress": "bg_ancientcity_another_throne",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          1160008
+        ]
+      }
+    ]
+  },
+  "1077": {
+    "backgroundId": 1077,
+    "iconAddress": "item_icon_bg_endangeredworld_day",
+    "bgAddress": "bg_endangeredworld_day",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          1175009
+        ]
+      }
+    ]
+  },
+  "1078": {
+    "backgroundId": 1078,
+    "iconAddress": "item_icon_bg_placeofcollapse",
+    "bgAddress": "bg_placeofcollapse",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          1175009
+        ]
+      }
+    ]
+  },
+  "1079": {
+    "backgroundId": 1079,
+    "iconAddress": "item_icon_bg_enoshimabeach_evening",
+    "bgAddress": "bg_enoshimabeach_evening",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          1185008
+        ]
+      }
+    ]
+  },
+  "1080": {
+    "backgroundId": 1080,
+    "iconAddress": "item_icon_bg_enoshimatown_evening",
+    "bgAddress": "bg_enoshimatown_evening",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          1185008
+        ]
+      }
+    ]
+  },
+  "1081": {
+    "backgroundId": 1081,
+    "iconAddress": "item_icon_bg_enoshimatrain_evening",
+    "bgAddress": "bg_enoshimatrain_evening",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          1185008
+        ]
+      }
+    ]
+  },
+  "1082": {
+    "backgroundId": 1082,
+    "iconAddress": "item_icon_bg_japanesestylestage_night",
+    "bgAddress": "bg_japanesestylestage_night",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          1207008
+        ]
+      }
+    ]
+  },
+  "1083": {
+    "backgroundId": 1083,
+    "iconAddress": "item_icon_bg_fairground_night",
+    "bgAddress": "bg_fairground_night",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          1207008
+        ]
+      }
+    ]
+  },
+  "1084": {
+    "backgroundId": 1084,
+    "iconAddress": "item_icon_bg_cogsdencity_day",
+    "bgAddress": "bg_cogsdencity_day",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          1214011
+        ]
+      }
+    ]
+  },
+  "1085": {
+    "backgroundId": 1085,
+    "iconAddress": "item_icon_bg_cogsdenappearance_day",
+    "bgAddress": "bg_cogsdenappearance_day",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          1214011
+        ]
+      }
+    ]
+  }
+}
