@@ -10,7 +10,9 @@
     "middleBossScore": 300,
     "bossScore": 400,
     "hiddenBossScore": 0,
-    "hiddenBosses": []
+    "difficulties": [],
+    "hiddenBosses": [],
+    "difficultyRelation": []
   },
   "2": {
     "unexploredId": 2,
@@ -23,7 +25,9 @@
     "middleBossScore": 300,
     "bossScore": 400,
     "hiddenBossScore": 0,
-    "hiddenBosses": []
+    "difficulties": [],
+    "hiddenBosses": [],
+    "difficultyRelation": []
   },
   "3": {
     "unexploredId": 3,
@@ -36,7 +40,9 @@
     "middleBossScore": 150,
     "bossScore": 200,
     "hiddenBossScore": 0,
-    "hiddenBosses": []
+    "difficulties": [],
+    "hiddenBosses": [],
+    "difficultyRelation": []
   },
   "4": {
     "unexploredId": 4,
@@ -49,6 +55,7 @@
     "middleBossScore": 300,
     "bossScore": 400,
     "hiddenBossScore": 350,
+    "difficulties": [],
     "hiddenBosses": [
       {
         "enemyCardId": 12052,
@@ -58,7 +65,8 @@
           11351
         ]
       }
-    ]
+    ],
+    "difficultyRelation": []
   },
   "5": {
     "unexploredId": 5,
@@ -71,6 +79,160 @@
     "middleBossScore": 150,
     "bossScore": 200,
     "hiddenBossScore": 0,
-    "hiddenBosses": []
+    "difficulties": [],
+    "hiddenBosses": [],
+    "difficultyRelation": []
+  },
+  "6": {
+    "unexploredId": 6,
+    "unexploredGroupId": 4,
+    "isEasy": false,
+    "bannerAddress": "ui_banner_event_questbanner_RogueNormal2609",
+    "hiddenBannerAddress": "",
+    "clearAdvLabel": "unexplored_inventor_2",
+    "genScore": 50,
+    "middleBossScore": 300,
+    "bossScore": 400,
+    "hiddenBossScore": 0,
+    "difficulties": [
+      {
+        "difficulty": 0,
+        "enemyHpCoefficient": 1,
+        "enemyAtkCoefficient": 1,
+        "middleBossHpCoefficient": 1,
+        "middleBossAtkCoefficient": 1,
+        "bossHpCoefficient": 1,
+        "bossAtkCoefficient": 1,
+        "descriptionKey": "UI_ROGUE_VISCUNAM_DIFFICULTY_0"
+      },
+      {
+        "difficulty": 1,
+        "enemyHpCoefficient": 1.1,
+        "enemyAtkCoefficient": 1.1,
+        "middleBossHpCoefficient": 1.1,
+        "middleBossAtkCoefficient": 1.1,
+        "bossHpCoefficient": 1.1,
+        "bossAtkCoefficient": 1.1,
+        "descriptionKey": "UI_ROGUE_VISCUNAM_DIFFICULTY_1"
+      },
+      {
+        "difficulty": 2,
+        "enemyHpCoefficient": 1.2,
+        "enemyAtkCoefficient": 1.2,
+        "middleBossHpCoefficient": 1.2,
+        "middleBossAtkCoefficient": 1.2,
+        "bossHpCoefficient": 1.2,
+        "bossAtkCoefficient": 1.2,
+        "descriptionKey": "UI_ROGUE_VISCUNAM_DIFFICULTY_2"
+      },
+      {
+        "difficulty": 3,
+        "enemyHpCoefficient": 1.3,
+        "enemyAtkCoefficient": 1.3,
+        "middleBossHpCoefficient": 1.3,
+        "middleBossAtkCoefficient": 1.3,
+        "bossHpCoefficient": 1.3,
+        "bossAtkCoefficient": 1.3,
+        "descriptionKey": "UI_ROGUE_VISCUNAM_DIFFICULTY_3"
+      },
+      {
+        "difficulty": 4,
+        "enemyHpCoefficient": 1.4,
+        "enemyAtkCoefficient": 1.4,
+        "middleBossHpCoefficient": 1.4,
+        "middleBossAtkCoefficient": 1.4,
+        "bossHpCoefficient": 1.4,
+        "bossAtkCoefficient": 1.4,
+        "descriptionKey": "UI_ROGUE_VISCUNAM_DIFFICULTY_4"
+      },
+      {
+        "difficulty": 5,
+        "enemyHpCoefficient": 1.5,
+        "enemyAtkCoefficient": 1.5,
+        "middleBossHpCoefficient": 1.5,
+        "middleBossAtkCoefficient": 1.5,
+        "bossHpCoefficient": 1.5,
+        "bossAtkCoefficient": 1.5,
+        "descriptionKey": "UI_ROGUE_VISCUNAM_DIFFICULTY_5"
+      }
+    ],
+    "hiddenBosses": [],
+    "difficultyRelation": [
+      {
+        "difficulty": 0,
+        "enemyHpCoefficient": 1,
+        "enemyAtkCoefficient": 1,
+        "middleBossHpCoefficient": 1,
+        "middleBossAtkCoefficient": 1,
+        "bossHpCoefficient": 1,
+        "bossAtkCoefficient": 1,
+        "descriptionKey": "UI_ROGUE_VISCUNAM_DIFFICULTY_0"
+      },
+      {
+        "difficulty": 1,
+        "enemyHpCoefficient": 1.1,
+        "enemyAtkCoefficient": 1.1,
+        "middleBossHpCoefficient": 1.1,
+        "middleBossAtkCoefficient": 1.1,
+        "bossHpCoefficient": 1.1,
+        "bossAtkCoefficient": 1.1,
+        "descriptionKey": "UI_ROGUE_VISCUNAM_DIFFICULTY_1"
+      },
+      {
+        "difficulty": 2,
+        "enemyHpCoefficient": 1.2,
+        "enemyAtkCoefficient": 1.2,
+        "middleBossHpCoefficient": 1.2,
+        "middleBossAtkCoefficient": 1.2,
+        "bossHpCoefficient": 1.2,
+        "bossAtkCoefficient": 1.2,
+        "descriptionKey": "UI_ROGUE_VISCUNAM_DIFFICULTY_2"
+      },
+      {
+        "difficulty": 3,
+        "enemyHpCoefficient": 1.3,
+        "enemyAtkCoefficient": 1.3,
+        "middleBossHpCoefficient": 1.3,
+        "middleBossAtkCoefficient": 1.3,
+        "bossHpCoefficient": 1.3,
+        "bossAtkCoefficient": 1.3,
+        "descriptionKey": "UI_ROGUE_VISCUNAM_DIFFICULTY_3"
+      },
+      {
+        "difficulty": 4,
+        "enemyHpCoefficient": 1.4,
+        "enemyAtkCoefficient": 1.4,
+        "middleBossHpCoefficient": 1.4,
+        "middleBossAtkCoefficient": 1.4,
+        "bossHpCoefficient": 1.4,
+        "bossAtkCoefficient": 1.4,
+        "descriptionKey": "UI_ROGUE_VISCUNAM_DIFFICULTY_4"
+      },
+      {
+        "difficulty": 5,
+        "enemyHpCoefficient": 1.5,
+        "enemyAtkCoefficient": 1.5,
+        "middleBossHpCoefficient": 1.5,
+        "middleBossAtkCoefficient": 1.5,
+        "bossHpCoefficient": 1.5,
+        "bossAtkCoefficient": 1.5,
+        "descriptionKey": "UI_ROGUE_VISCUNAM_DIFFICULTY_5"
+      }
+    ]
+  },
+  "7": {
+    "unexploredId": 7,
+    "unexploredGroupId": 4,
+    "isEasy": true,
+    "bannerAddress": "ui_banner_event_questbanner_RogueEasy2609",
+    "hiddenBannerAddress": "",
+    "clearAdvLabel": "unexplored_inventor_2",
+    "genScore": 25,
+    "middleBossScore": 150,
+    "bossScore": 200,
+    "hiddenBossScore": 0,
+    "difficulties": [],
+    "hiddenBosses": [],
+    "difficultyRelation": []
   }
 }

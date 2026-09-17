@@ -71,7 +71,8 @@
     ],
     "linkQuestIds": [
       303004,
-      303005
+      303005,
+      303011
     ],
     "characterQuestChapterIds": [
       301
@@ -87,7 +88,8 @@
     "eventIds": [
       6,
       18,
-      49
+      49,
+      180
     ],
     "linkQuestIds": [
       303008
@@ -140,7 +142,9 @@
       28,
       21
     ],
-    "linkQuestIds": [],
+    "linkQuestIds": [
+      303011
+    ],
     "characterQuestChapterIds": [
       301
     ]
@@ -304,7 +308,8 @@
       167
     ],
     "linkQuestIds": [
-      303004
+      303004,
+      303010
     ],
     "characterQuestChapterIds": []
   },
@@ -471,7 +476,9 @@
       54,
       101
     ],
-    "linkQuestIds": [],
+    "linkQuestIds": [
+      303011
+    ],
     "characterQuestChapterIds": []
   },
   "31": {
@@ -504,7 +511,8 @@
       303002,
       303004,
       303005,
-      303009
+      303009,
+      303010
     ],
     "characterQuestChapterIds": [
       301
@@ -596,7 +604,8 @@
       167
     ],
     "linkQuestIds": [
-      303008
+      303008,
+      303010
     ],
     "characterQuestChapterIds": [
       301
@@ -667,7 +676,8 @@
       14,
       97,
       42,
-      25
+      25,
+      180
     ],
     "linkQuestIds": [],
     "characterQuestChapterIds": []
@@ -713,7 +723,8 @@
       57
     ],
     "linkQuestIds": [
-      303004
+      303004,
+      303011
     ],
     "characterQuestChapterIds": [
       301
@@ -852,7 +863,9 @@
       177,
       152
     ],
-    "linkQuestIds": [],
+    "linkQuestIds": [
+      303010
+    ],
     "characterQuestChapterIds": []
   },
   "123": {
@@ -908,7 +921,8 @@
     "eventIds": [
       54,
       109,
-      72
+      72,
+      176
     ],
     "linkQuestIds": [],
     "characterQuestChapterIds": []
@@ -920,7 +934,8 @@
       54,
       97,
       71,
-      152
+      152,
+      180
     ],
     "linkQuestIds": [],
     "characterQuestChapterIds": []
@@ -944,7 +959,8 @@
     "mainChapterIds": [],
     "eventIds": [
       57,
-      109
+      109,
+      176
     ],
     "linkQuestIds": [],
     "characterQuestChapterIds": []
@@ -1005,7 +1021,8 @@
     ],
     "eventIds": [
       55,
-      177
+      126,
+      176
     ],
     "linkQuestIds": [],
     "characterQuestChapterIds": []
@@ -1108,7 +1125,8 @@
     "characterId": 198,
     "mainChapterIds": [],
     "eventIds": [
-      81
+      81,
+      180
     ],
     "linkQuestIds": [],
     "characterQuestChapterIds": []
@@ -1334,7 +1352,8 @@
     "characterId": 289,
     "mainChapterIds": [],
     "eventIds": [
-      147
+      147,
+      176
     ],
     "linkQuestIds": [],
     "characterQuestChapterIds": []
@@ -1343,8 +1362,9 @@
     "characterId": 301,
     "mainChapterIds": [],
     "eventIds": [
-      104,
-      151
+      149,
+      151,
+      176
     ],
     "linkQuestIds": [],
     "characterQuestChapterIds": []
@@ -1353,7 +1373,8 @@
     "characterId": 302,
     "mainChapterIds": [],
     "eventIds": [
-      151
+      151,
+      176
     ],
     "linkQuestIds": [],
     "characterQuestChapterIds": []

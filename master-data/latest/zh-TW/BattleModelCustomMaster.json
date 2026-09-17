@@ -11512,5 +11512,53 @@
       "targetStockId": 12001,
       "attachmentName": "att/stopper"
     }
+  },
+  "1313": {
+    "itemId": 21041101,
+    "customJson": {
+      "class": "CustomPlayTurnEffect",
+      "effectAddress": "blooming_Battlein_Effect",
+      "targetStockId": 10411
+    }
+  },
+  "1314": {
+    "itemId": 21041101,
+    "customJson": {
+      "class": "CustomGetTurnEffect",
+      "effectAddress": "TurnObject_Blooming",
+      "targetStockId": 10411
+    }
+  },
+  "1315": {
+    "itemId": 21042101,
+    "customJson": {
+      "class": "CustomPlayTurnEffect",
+      "effectAddress": "blooming_Battlein_Effect",
+      "targetStockId": 10421
+    }
+  },
+  "1316": {
+    "itemId": 21042101,
+    "customJson": {
+      "class": "CustomGetTurnEffect",
+      "effectAddress": "TurnObject_Blooming",
+      "targetStockId": 10421
+    }
+  },
+  "1317": {
+    "itemId": 21044101,
+    "customJson": {
+      "class": "CustomPlayTurnEffect",
+      "effectAddress": "blooming_Battlein_Effect",
+      "targetStockId": 10441
+    }
+  },
+  "1318": {
+    "itemId": 21044101,
+    "customJson": {
+      "class": "CustomGetTurnEffect",
+      "effectAddress": "TurnObject_Blooming",
+      "targetStockId": 10441
+    }
   }
 }

@@ -3987,6 +3987,150 @@
       "isInHome": true
     }
   ],
+  "10411": [
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 4,
+      "faceType": "",
+      "serifKey": "SERIF_WOLFMANFIRE_PLAYER",
+      "voiceFilename": "",
+      "resourceName": "wolfmanFire",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 5,
+      "faceType": "",
+      "serifKey": "SERIF_WOLFMANFIRE_HERO",
+      "voiceFilename": "",
+      "resourceName": "wolfmanFire",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 12,
+      "faceType": "d",
+      "serifKey": "SERIF_WOLFMANFIRE_TOUCH",
+      "voiceFilename": "",
+      "resourceName": "wolfmanFire",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 3,
+      "faceType": "",
+      "serifKey": "SERIF_WOLFMANFIRE_DAILY",
+      "voiceFilename": "",
+      "resourceName": "wolfmanFire",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 6,
+      "faceType": "",
+      "serifKey": "SERIF_WOLFMANFIRE_RELATION",
+      "voiceFilename": "",
+      "resourceName": "wolfmanFire",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 11,
+      "faceType": "",
+      "serifKey": "SERIF_WOLFMANFIRE_APPRECIATION",
+      "voiceFilename": "",
+      "resourceName": "wolfmanFire",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 27,
+      "faceType": "",
+      "serifKey": "SERIF_WOLFMANFIRE_EVENTA",
+      "voiceFilename": "",
+      "resourceName": "wolfmanFire",
+      "isInHome": false
+    }
+  ],
+  "10421": [
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 4,
+      "faceType": "",
+      "serifKey": "SERIF_WOLFMANWATER_PLAYER",
+      "voiceFilename": "",
+      "resourceName": "wolfmanWater",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 5,
+      "faceType": "",
+      "serifKey": "SERIF_WOLFMANWATER_HERO",
+      "voiceFilename": "",
+      "resourceName": "wolfmanWater",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 12,
+      "faceType": "d",
+      "serifKey": "SERIF_WOLFMANWATER_TOUCH",
+      "voiceFilename": "",
+      "resourceName": "wolfmanWater",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 3,
+      "faceType": "",
+      "serifKey": "SERIF_WOLFMANWATER_DAILY",
+      "voiceFilename": "",
+      "resourceName": "wolfmanWater",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 6,
+      "faceType": "",
+      "serifKey": "SERIF_WOLFMANWATER_RELATION",
+      "voiceFilename": "",
+      "resourceName": "wolfmanWater",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 11,
+      "faceType": "",
+      "serifKey": "SERIF_WOLFMANWATER_APPRECIATION",
+      "voiceFilename": "",
+      "resourceName": "wolfmanWater",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 27,
+      "faceType": "",
+      "serifKey": "SERIF_WOLFMANWATER_EVENTA",
+      "voiceFilename": "",
+      "resourceName": "wolfmanWater",
+      "isInHome": false
+    }
+  ],
   "10431": [
     {
       "cardType": 1,
@@ -4047,6 +4191,78 @@
       "voiceFilename": "",
       "resourceName": "wolfmanEarth",
       "isInHome": true
+    }
+  ],
+  "10441": [
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 4,
+      "faceType": "",
+      "serifKey": "SERIF_WOLFMANLIGHT_PLAYER",
+      "voiceFilename": "",
+      "resourceName": "wolfmanLight",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 5,
+      "faceType": "",
+      "serifKey": "SERIF_WOLFMANLIGHT_HERO",
+      "voiceFilename": "",
+      "resourceName": "wolfmanLight",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 12,
+      "faceType": "d",
+      "serifKey": "SERIF_WOLFMANLIGHT_TOUCH",
+      "voiceFilename": "",
+      "resourceName": "wolfmanLight",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 3,
+      "faceType": "",
+      "serifKey": "SERIF_WOLFMANLIGHT_DAILY",
+      "voiceFilename": "",
+      "resourceName": "wolfmanLight",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 6,
+      "faceType": "",
+      "serifKey": "SERIF_WOLFMANLIGHT_RELATION",
+      "voiceFilename": "",
+      "resourceName": "wolfmanLight",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 11,
+      "faceType": "",
+      "serifKey": "SERIF_WOLFMANLIGHT_APPRECIATION",
+      "voiceFilename": "",
+      "resourceName": "wolfmanLight",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 27,
+      "faceType": "",
+      "serifKey": "SERIF_WOLFMANLIGHT_EVENTA",
+      "voiceFilename": "",
+      "resourceName": "wolfmanLight",
+      "isInHome": false
     }
   ],
   "10451": [
@@ -8616,6 +8832,16 @@
       "voiceKind": 28,
       "faceType": "g",
       "serifKey": "SERIF_VISCUNAM_EVENTB",
+      "voiceFilename": "",
+      "resourceName": "viscunam",
+      "isInHome": false
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 29,
+      "faceType": "",
+      "serifKey": "SERIF_VISCUNAM_EVENTC",
       "voiceFilename": "",
       "resourceName": "viscunam",
       "isInHome": false
