@@ -1,0 +1,962 @@
+{
+  "1": {
+    "userRank": 1,
+    "nextExp": 100,
+    "totalExp": 0,
+    "maxStamina": 40
+  },
+  "2": {
+    "userRank": 2,
+    "nextExp": 200,
+    "totalExp": 100,
+    "maxStamina": 41
+  },
+  "3": {
+    "userRank": 3,
+    "nextExp": 400,
+    "totalExp": 300,
+    "maxStamina": 42
+  },
+  "4": {
+    "userRank": 4,
+    "nextExp": 600,
+    "totalExp": 700,
+    "maxStamina": 43
+  },
+  "5": {
+    "userRank": 5,
+    "nextExp": 800,
+    "totalExp": 1300,
+    "maxStamina": 44
+  },
+  "6": {
+    "userRank": 6,
+    "nextExp": 1000,
+    "totalExp": 2100,
+    "maxStamina": 45
+  },
+  "7": {
+    "userRank": 7,
+    "nextExp": 1200,
+    "totalExp": 3100,
+    "maxStamina": 46
+  },
+  "8": {
+    "userRank": 8,
+    "nextExp": 1400,
+    "totalExp": 4300,
+    "maxStamina": 47
+  },
+  "9": {
+    "userRank": 9,
+    "nextExp": 1600,
+    "totalExp": 5700,
+    "maxStamina": 48
+  },
+  "10": {
+    "userRank": 10,
+    "nextExp": 1800,
+    "totalExp": 7300,
+    "maxStamina": 49
+  },
+  "11": {
+    "userRank": 11,
+    "nextExp": 2000,
+    "totalExp": 9100,
+    "maxStamina": 50
+  },
+  "12": {
+    "userRank": 12,
+    "nextExp": 2200,
+    "totalExp": 11100,
+    "maxStamina": 51
+  },
+  "13": {
+    "userRank": 13,
+    "nextExp": 2400,
+    "totalExp": 13300,
+    "maxStamina": 52
+  },
+  "14": {
+    "userRank": 14,
+    "nextExp": 2600,
+    "totalExp": 15700,
+    "maxStamina": 53
+  },
+  "15": {
+    "userRank": 15,
+    "nextExp": 2800,
+    "totalExp": 18300,
+    "maxStamina": 54
+  },
+  "16": {
+    "userRank": 16,
+    "nextExp": 3000,
+    "totalExp": 21100,
+    "maxStamina": 55
+  },
+  "17": {
+    "userRank": 17,
+    "nextExp": 3200,
+    "totalExp": 24100,
+    "maxStamina": 56
+  },
+  "18": {
+    "userRank": 18,
+    "nextExp": 3400,
+    "totalExp": 27300,
+    "maxStamina": 57
+  },
+  "19": {
+    "userRank": 19,
+    "nextExp": 3600,
+    "totalExp": 30700,
+    "maxStamina": 58
+  },
+  "20": {
+    "userRank": 20,
+    "nextExp": 3800,
+    "totalExp": 34300,
+    "maxStamina": 59
+  },
+  "21": {
+    "userRank": 21,
+    "nextExp": 4000,
+    "totalExp": 38100,
+    "maxStamina": 60
+  },
+  "22": {
+    "userRank": 22,
+    "nextExp": 4200,
+    "totalExp": 42100,
+    "maxStamina": 61
+  },
+  "23": {
+    "userRank": 23,
+    "nextExp": 4400,
+    "totalExp": 46300,
+    "maxStamina": 62
+  },
+  "24": {
+    "userRank": 24,
+    "nextExp": 4600,
+    "totalExp": 50700,
+    "maxStamina": 63
+  },
+  "25": {
+    "userRank": 25,
+    "nextExp": 4800,
+    "totalExp": 55300,
+    "maxStamina": 64
+  },
+  "26": {
+    "userRank": 26,
+    "nextExp": 5000,
+    "totalExp": 60100,
+    "maxStamina": 65
+  },
+  "27": {
+    "userRank": 27,
+    "nextExp": 5200,
+    "totalExp": 65100,
+    "maxStamina": 66
+  },
+  "28": {
+    "userRank": 28,
+    "nextExp": 5400,
+    "totalExp": 70300,
+    "maxStamina": 67
+  },
+  "29": {
+    "userRank": 29,
+    "nextExp": 5600,
+    "totalExp": 75700,
+    "maxStamina": 68
+  },
+  "30": {
+    "userRank": 30,
+    "nextExp": 5800,
+    "totalExp": 81300,
+    "maxStamina": 69
+  },
+  "31": {
+    "userRank": 31,
+    "nextExp": 6000,
+    "totalExp": 87100,
+    "maxStamina": 70
+  },
+  "32": {
+    "userRank": 32,
+    "nextExp": 6200,
+    "totalExp": 93100,
+    "maxStamina": 71
+  },
+  "33": {
+    "userRank": 33,
+    "nextExp": 6400,
+    "totalExp": 99300,
+    "maxStamina": 72
+  },
+  "34": {
+    "userRank": 34,
+    "nextExp": 6600,
+    "totalExp": 105700,
+    "maxStamina": 73
+  },
+  "35": {
+    "userRank": 35,
+    "nextExp": 6800,
+    "totalExp": 112300,
+    "maxStamina": 74
+  },
+  "36": {
+    "userRank": 36,
+    "nextExp": 7000,
+    "totalExp": 119100,
+    "maxStamina": 75
+  },
+  "37": {
+    "userRank": 37,
+    "nextExp": 7200,
+    "totalExp": 126100,
+    "maxStamina": 76
+  },
+  "38": {
+    "userRank": 38,
+    "nextExp": 7400,
+    "totalExp": 133300,
+    "maxStamina": 77
+  },
+  "39": {
+    "userRank": 39,
+    "nextExp": 7600,
+    "totalExp": 140700,
+    "maxStamina": 78
+  },
+  "40": {
+    "userRank": 40,
+    "nextExp": 7800,
+    "totalExp": 148300,
+    "maxStamina": 79
+  },
+  "41": {
+    "userRank": 41,
+    "nextExp": 8000,
+    "totalExp": 156100,
+    "maxStamina": 80
+  },
+  "42": {
+    "userRank": 42,
+    "nextExp": 8200,
+    "totalExp": 164100,
+    "maxStamina": 81
+  },
+  "43": {
+    "userRank": 43,
+    "nextExp": 8400,
+    "totalExp": 172300,
+    "maxStamina": 82
+  },
+  "44": {
+    "userRank": 44,
+    "nextExp": 8600,
+    "totalExp": 180700,
+    "maxStamina": 83
+  },
+  "45": {
+    "userRank": 45,
+    "nextExp": 8800,
+    "totalExp": 189300,
+    "maxStamina": 84
+  },
+  "46": {
+    "userRank": 46,
+    "nextExp": 9000,
+    "totalExp": 198100,
+    "maxStamina": 85
+  },
+  "47": {
+    "userRank": 47,
+    "nextExp": 9200,
+    "totalExp": 207100,
+    "maxStamina": 86
+  },
+  "48": {
+    "userRank": 48,
+    "nextExp": 9400,
+    "totalExp": 216300,
+    "maxStamina": 87
+  },
+  "49": {
+    "userRank": 49,
+    "nextExp": 9600,
+    "totalExp": 225700,
+    "maxStamina": 88
+  },
+  "50": {
+    "userRank": 50,
+    "nextExp": 9800,
+    "totalExp": 235300,
+    "maxStamina": 89
+  },
+  "51": {
+    "userRank": 51,
+    "nextExp": 10000,
+    "totalExp": 245100,
+    "maxStamina": 90
+  },
+  "52": {
+    "userRank": 52,
+    "nextExp": 10200,
+    "totalExp": 255100,
+    "maxStamina": 91
+  },
+  "53": {
+    "userRank": 53,
+    "nextExp": 10400,
+    "totalExp": 265300,
+    "maxStamina": 92
+  },
+  "54": {
+    "userRank": 54,
+    "nextExp": 10600,
+    "totalExp": 275700,
+    "maxStamina": 93
+  },
+  "55": {
+    "userRank": 55,
+    "nextExp": 10800,
+    "totalExp": 286300,
+    "maxStamina": 94
+  },
+  "56": {
+    "userRank": 56,
+    "nextExp": 11000,
+    "totalExp": 297100,
+    "maxStamina": 95
+  },
+  "57": {
+    "userRank": 57,
+    "nextExp": 11200,
+    "totalExp": 308100,
+    "maxStamina": 96
+  },
+  "58": {
+    "userRank": 58,
+    "nextExp": 11400,
+    "totalExp": 319300,
+    "maxStamina": 97
+  },
+  "59": {
+    "userRank": 59,
+    "nextExp": 11600,
+    "totalExp": 330700,
+    "maxStamina": 98
+  },
+  "60": {
+    "userRank": 60,
+    "nextExp": 11800,
+    "totalExp": 342300,
+    "maxStamina": 99
+  },
+  "61": {
+    "userRank": 61,
+    "nextExp": 12000,
+    "totalExp": 354100,
+    "maxStamina": 100
+  },
+  "62": {
+    "userRank": 62,
+    "nextExp": 12200,
+    "totalExp": 366100,
+    "maxStamina": 101
+  },
+  "63": {
+    "userRank": 63,
+    "nextExp": 12400,
+    "totalExp": 378300,
+    "maxStamina": 102
+  },
+  "64": {
+    "userRank": 64,
+    "nextExp": 12600,
+    "totalExp": 390700,
+    "maxStamina": 103
+  },
+  "65": {
+    "userRank": 65,
+    "nextExp": 12800,
+    "totalExp": 403300,
+    "maxStamina": 104
+  },
+  "66": {
+    "userRank": 66,
+    "nextExp": 13000,
+    "totalExp": 416100,
+    "maxStamina": 105
+  },
+  "67": {
+    "userRank": 67,
+    "nextExp": 13200,
+    "totalExp": 429100,
+    "maxStamina": 106
+  },
+  "68": {
+    "userRank": 68,
+    "nextExp": 13400,
+    "totalExp": 442300,
+    "maxStamina": 107
+  },
+  "69": {
+    "userRank": 69,
+    "nextExp": 13600,
+    "totalExp": 455700,
+    "maxStamina": 108
+  },
+  "70": {
+    "userRank": 70,
+    "nextExp": 13800,
+    "totalExp": 469300,
+    "maxStamina": 109
+  },
+  "71": {
+    "userRank": 71,
+    "nextExp": 14000,
+    "totalExp": 483100,
+    "maxStamina": 110
+  },
+  "72": {
+    "userRank": 72,
+    "nextExp": 14200,
+    "totalExp": 497100,
+    "maxStamina": 111
+  },
+  "73": {
+    "userRank": 73,
+    "nextExp": 14400,
+    "totalExp": 511300,
+    "maxStamina": 112
+  },
+  "74": {
+    "userRank": 74,
+    "nextExp": 14600,
+    "totalExp": 525700,
+    "maxStamina": 113
+  },
+  "75": {
+    "userRank": 75,
+    "nextExp": 14800,
+    "totalExp": 540300,
+    "maxStamina": 114
+  },
+  "76": {
+    "userRank": 76,
+    "nextExp": 15000,
+    "totalExp": 555100,
+    "maxStamina": 115
+  },
+  "77": {
+    "userRank": 77,
+    "nextExp": 15200,
+    "totalExp": 570100,
+    "maxStamina": 116
+  },
+  "78": {
+    "userRank": 78,
+    "nextExp": 15400,
+    "totalExp": 585300,
+    "maxStamina": 117
+  },
+  "79": {
+    "userRank": 79,
+    "nextExp": 15600,
+    "totalExp": 600700,
+    "maxStamina": 118
+  },
+  "80": {
+    "userRank": 80,
+    "nextExp": 15800,
+    "totalExp": 616300,
+    "maxStamina": 119
+  },
+  "81": {
+    "userRank": 81,
+    "nextExp": 16000,
+    "totalExp": 632100,
+    "maxStamina": 120
+  },
+  "82": {
+    "userRank": 82,
+    "nextExp": 16500,
+    "totalExp": 648100,
+    "maxStamina": 121
+  },
+  "83": {
+    "userRank": 83,
+    "nextExp": 17000,
+    "totalExp": 664600,
+    "maxStamina": 121
+  },
+  "84": {
+    "userRank": 84,
+    "nextExp": 17500,
+    "totalExp": 681600,
+    "maxStamina": 122
+  },
+  "85": {
+    "userRank": 85,
+    "nextExp": 18000,
+    "totalExp": 699100,
+    "maxStamina": 122
+  },
+  "86": {
+    "userRank": 86,
+    "nextExp": 18500,
+    "totalExp": 717100,
+    "maxStamina": 123
+  },
+  "87": {
+    "userRank": 87,
+    "nextExp": 19000,
+    "totalExp": 735600,
+    "maxStamina": 123
+  },
+  "88": {
+    "userRank": 88,
+    "nextExp": 19500,
+    "totalExp": 754600,
+    "maxStamina": 124
+  },
+  "89": {
+    "userRank": 89,
+    "nextExp": 20000,
+    "totalExp": 774100,
+    "maxStamina": 124
+  },
+  "90": {
+    "userRank": 90,
+    "nextExp": 20500,
+    "totalExp": 794100,
+    "maxStamina": 125
+  },
+  "91": {
+    "userRank": 91,
+    "nextExp": 21000,
+    "totalExp": 814600,
+    "maxStamina": 125
+  },
+  "92": {
+    "userRank": 92,
+    "nextExp": 22000,
+    "totalExp": 835600,
+    "maxStamina": 126
+  },
+  "93": {
+    "userRank": 93,
+    "nextExp": 23000,
+    "totalExp": 857600,
+    "maxStamina": 126
+  },
+  "94": {
+    "userRank": 94,
+    "nextExp": 24000,
+    "totalExp": 880600,
+    "maxStamina": 127
+  },
+  "95": {
+    "userRank": 95,
+    "nextExp": 25000,
+    "totalExp": 904600,
+    "maxStamina": 127
+  },
+  "96": {
+    "userRank": 96,
+    "nextExp": 26000,
+    "totalExp": 929600,
+    "maxStamina": 128
+  },
+  "97": {
+    "userRank": 97,
+    "nextExp": 27000,
+    "totalExp": 955600,
+    "maxStamina": 128
+  },
+  "98": {
+    "userRank": 98,
+    "nextExp": 28000,
+    "totalExp": 982600,
+    "maxStamina": 129
+  },
+  "99": {
+    "userRank": 99,
+    "nextExp": 29000,
+    "totalExp": 1010600,
+    "maxStamina": 129
+  },
+  "100": {
+    "userRank": 100,
+    "nextExp": 30000,
+    "totalExp": 1039600,
+    "maxStamina": 130
+  },
+  "101": {
+    "userRank": 101,
+    "nextExp": 31000,
+    "totalExp": 1069600,
+    "maxStamina": 130
+  },
+  "102": {
+    "userRank": 102,
+    "nextExp": 32000,
+    "totalExp": 1100600,
+    "maxStamina": 130
+  },
+  "103": {
+    "userRank": 103,
+    "nextExp": 33000,
+    "totalExp": 1132600,
+    "maxStamina": 131
+  },
+  "104": {
+    "userRank": 104,
+    "nextExp": 34000,
+    "totalExp": 1165600,
+    "maxStamina": 131
+  },
+  "105": {
+    "userRank": 105,
+    "nextExp": 35000,
+    "totalExp": 1199600,
+    "maxStamina": 131
+  },
+  "106": {
+    "userRank": 106,
+    "nextExp": 36000,
+    "totalExp": 1234600,
+    "maxStamina": 132
+  },
+  "107": {
+    "userRank": 107,
+    "nextExp": 37000,
+    "totalExp": 1270600,
+    "maxStamina": 132
+  },
+  "108": {
+    "userRank": 108,
+    "nextExp": 38000,
+    "totalExp": 1307600,
+    "maxStamina": 132
+  },
+  "109": {
+    "userRank": 109,
+    "nextExp": 39000,
+    "totalExp": 1345600,
+    "maxStamina": 133
+  },
+  "110": {
+    "userRank": 110,
+    "nextExp": 40000,
+    "totalExp": 1384600,
+    "maxStamina": 133
+  },
+  "111": {
+    "userRank": 111,
+    "nextExp": 41000,
+    "totalExp": 1424600,
+    "maxStamina": 133
+  },
+  "112": {
+    "userRank": 112,
+    "nextExp": 42000,
+    "totalExp": 1465600,
+    "maxStamina": 134
+  },
+  "113": {
+    "userRank": 113,
+    "nextExp": 43000,
+    "totalExp": 1507600,
+    "maxStamina": 134
+  },
+  "114": {
+    "userRank": 114,
+    "nextExp": 44000,
+    "totalExp": 1550600,
+    "maxStamina": 134
+  },
+  "115": {
+    "userRank": 115,
+    "nextExp": 45000,
+    "totalExp": 1594600,
+    "maxStamina": 135
+  },
+  "116": {
+    "userRank": 116,
+    "nextExp": 46000,
+    "totalExp": 1639600,
+    "maxStamina": 135
+  },
+  "117": {
+    "userRank": 117,
+    "nextExp": 47000,
+    "totalExp": 1685600,
+    "maxStamina": 135
+  },
+  "118": {
+    "userRank": 118,
+    "nextExp": 48000,
+    "totalExp": 1732600,
+    "maxStamina": 136
+  },
+  "119": {
+    "userRank": 119,
+    "nextExp": 49000,
+    "totalExp": 1780600,
+    "maxStamina": 136
+  },
+  "120": {
+    "userRank": 120,
+    "nextExp": 50000,
+    "totalExp": 1829600,
+    "maxStamina": 136
+  },
+  "121": {
+    "userRank": 121,
+    "nextExp": 51200,
+    "totalExp": 1879600,
+    "maxStamina": 137
+  },
+  "122": {
+    "userRank": 122,
+    "nextExp": 52400,
+    "totalExp": 1930800,
+    "maxStamina": 137
+  },
+  "123": {
+    "userRank": 123,
+    "nextExp": 53600,
+    "totalExp": 1983200,
+    "maxStamina": 137
+  },
+  "124": {
+    "userRank": 124,
+    "nextExp": 54800,
+    "totalExp": 2036800,
+    "maxStamina": 138
+  },
+  "125": {
+    "userRank": 125,
+    "nextExp": 56000,
+    "totalExp": 2091600,
+    "maxStamina": 138
+  },
+  "126": {
+    "userRank": 126,
+    "nextExp": 57200,
+    "totalExp": 2147600,
+    "maxStamina": 138
+  },
+  "127": {
+    "userRank": 127,
+    "nextExp": 58400,
+    "totalExp": 2204800,
+    "maxStamina": 139
+  },
+  "128": {
+    "userRank": 128,
+    "nextExp": 59600,
+    "totalExp": 2263200,
+    "maxStamina": 139
+  },
+  "129": {
+    "userRank": 129,
+    "nextExp": 60800,
+    "totalExp": 2322800,
+    "maxStamina": 139
+  },
+  "130": {
+    "userRank": 130,
+    "nextExp": 62000,
+    "totalExp": 2383600,
+    "maxStamina": 140
+  },
+  "131": {
+    "userRank": 131,
+    "nextExp": 63200,
+    "totalExp": 2445600,
+    "maxStamina": 140
+  },
+  "132": {
+    "userRank": 132,
+    "nextExp": 64400,
+    "totalExp": 2508800,
+    "maxStamina": 140
+  },
+  "133": {
+    "userRank": 133,
+    "nextExp": 65600,
+    "totalExp": 2573200,
+    "maxStamina": 140
+  },
+  "134": {
+    "userRank": 134,
+    "nextExp": 66800,
+    "totalExp": 2638800,
+    "maxStamina": 140
+  },
+  "135": {
+    "userRank": 135,
+    "nextExp": 68000,
+    "totalExp": 2705600,
+    "maxStamina": 140
+  },
+  "136": {
+    "userRank": 136,
+    "nextExp": 69200,
+    "totalExp": 2773600,
+    "maxStamina": 141
+  },
+  "137": {
+    "userRank": 137,
+    "nextExp": 70400,
+    "totalExp": 2842800,
+    "maxStamina": 141
+  },
+  "138": {
+    "userRank": 138,
+    "nextExp": 71600,
+    "totalExp": 2913200,
+    "maxStamina": 141
+  },
+  "139": {
+    "userRank": 139,
+    "nextExp": 72800,
+    "totalExp": 2984800,
+    "maxStamina": 141
+  },
+  "140": {
+    "userRank": 140,
+    "nextExp": 74000,
+    "totalExp": 3057600,
+    "maxStamina": 141
+  },
+  "141": {
+    "userRank": 141,
+    "nextExp": 75200,
+    "totalExp": 3131600,
+    "maxStamina": 141
+  },
+  "142": {
+    "userRank": 142,
+    "nextExp": 76400,
+    "totalExp": 3206800,
+    "maxStamina": 142
+  },
+  "143": {
+    "userRank": 143,
+    "nextExp": 77600,
+    "totalExp": 3283200,
+    "maxStamina": 142
+  },
+  "144": {
+    "userRank": 144,
+    "nextExp": 78800,
+    "totalExp": 3360800,
+    "maxStamina": 142
+  },
+  "145": {
+    "userRank": 145,
+    "nextExp": 80000,
+    "totalExp": 3439600,
+    "maxStamina": 142
+  },
+  "146": {
+    "userRank": 146,
+    "nextExp": 81200,
+    "totalExp": 3519600,
+    "maxStamina": 142
+  },
+  "147": {
+    "userRank": 147,
+    "nextExp": 82400,
+    "totalExp": 3600800,
+    "maxStamina": 142
+  },
+  "148": {
+    "userRank": 148,
+    "nextExp": 83600,
+    "totalExp": 3683200,
+    "maxStamina": 143
+  },
+  "149": {
+    "userRank": 149,
+    "nextExp": 84800,
+    "totalExp": 3766800,
+    "maxStamina": 143
+  },
+  "150": {
+    "userRank": 150,
+    "nextExp": 86000,
+    "totalExp": 3851600,
+    "maxStamina": 143
+  },
+  "151": {
+    "userRank": 151,
+    "nextExp": 87200,
+    "totalExp": 3937600,
+    "maxStamina": 143
+  },
+  "152": {
+    "userRank": 152,
+    "nextExp": 88400,
+    "totalExp": 4024800,
+    "maxStamina": 143
+  },
+  "153": {
+    "userRank": 153,
+    "nextExp": 89600,
+    "totalExp": 4113200,
+    "maxStamina": 143
+  },
+  "154": {
+    "userRank": 154,
+    "nextExp": 90800,
+    "totalExp": 4202800,
+    "maxStamina": 144
+  },
+  "155": {
+    "userRank": 155,
+    "nextExp": 92000,
+    "totalExp": 4293600,
+    "maxStamina": 144
+  },
+  "156": {
+    "userRank": 156,
+    "nextExp": 93200,
+    "totalExp": 4385600,
+    "maxStamina": 144
+  },
+  "157": {
+    "userRank": 157,
+    "nextExp": 94400,
+    "totalExp": 4478800,
+    "maxStamina": 144
+  },
+  "158": {
+    "userRank": 158,
+    "nextExp": 95600,
+    "totalExp": 4573200,
+    "maxStamina": 144
+  },
+  "159": {
+    "userRank": 159,
+    "nextExp": 96800,
+    "totalExp": 4668800,
+    "maxStamina": 144
+  },
+  "160": {
+    "userRank": 160,
+    "nextExp": 98000,
+    "totalExp": 4765600,
+    "maxStamina": 145
+  }
+}
