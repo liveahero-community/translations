@@ -99,6 +99,14 @@
         "objectValue": 10,
         "isAddReward": false
       }
+    ],
+    "baseRewardBonuses": [
+      {
+        "startAt": null,
+        "endAt": "2026-10-08 14:00:00",
+        "multiplier": 2,
+        "baseRewardBonusId": 1
+      }
     ]
   },
   "2": {
@@ -201,6 +209,14 @@
         "objectValue": 10,
         "isAddReward": false
       }
+    ],
+    "baseRewardBonuses": [
+      {
+        "startAt": null,
+        "endAt": "2026-10-08 14:00:00",
+        "multiplier": 2,
+        "baseRewardBonusId": 2
+      }
     ]
   },
   "3": {
@@ -302,6 +318,14 @@
         "salesId": 3,
         "objectValue": 10,
         "isAddReward": false
+      }
+    ],
+    "baseRewardBonuses": [
+      {
+        "startAt": null,
+        "endAt": "2026-10-08 14:00:00",
+        "multiplier": 2,
+        "baseRewardBonusId": 3
       }
     ]
   }
