@@ -1,0 +1,110 @@
+{
+  "1": {
+    "patchSubStatusId": 1,
+    "valueScale": 1,
+    "skillEffectId": 1500,
+    "parameterType": 1,
+    "minValueScaled": 101,
+    "maxValueScaled": 125,
+    "subEffectDescriptionTextKey": "PATCH_SUB_STATUS_HP"
+  },
+  "2": {
+    "patchSubStatusId": 2,
+    "valueScale": 10,
+    "skillEffectId": 1501,
+    "parameterType": 2,
+    "minValueScaled": 1010,
+    "maxValueScaled": 1250,
+    "subEffectDescriptionTextKey": "PATCH_SUB_STATUS_ATK"
+  },
+  "3": {
+    "patchSubStatusId": 3,
+    "valueScale": 1,
+    "skillEffectId": 1502,
+    "parameterType": 1,
+    "minValueScaled": 101,
+    "maxValueScaled": 125,
+    "subEffectDescriptionTextKey": "PATCH_SUB_STATUS_VIEW"
+  },
+  "4": {
+    "patchSubStatusId": 4,
+    "valueScale": 1,
+    "skillEffectId": 1503,
+    "parameterType": 1,
+    "minValueScaled": 1,
+    "maxValueScaled": 5,
+    "subEffectDescriptionTextKey": "PATCH_SUB_STATUS_SPD"
+  },
+  "5": {
+    "patchSubStatusId": 5,
+    "valueScale": 10,
+    "skillEffectId": 1504,
+    "parameterType": 2,
+    "minValueScaled": 1010,
+    "maxValueScaled": 1250,
+    "subEffectDescriptionTextKey": "PATCH_SUB_STATUS_HEAL"
+  },
+  "6": {
+    "patchSubStatusId": 6,
+    "valueScale": 10,
+    "skillEffectId": 1505,
+    "parameterType": 2,
+    "minValueScaled": 990,
+    "maxValueScaled": 900,
+    "subEffectDescriptionTextKey": "UI_TAKEN_DAMAGE"
+  },
+  "7": {
+    "patchSubStatusId": 7,
+    "valueScale": 10,
+    "skillEffectId": 1506,
+    "parameterType": 2,
+    "minValueScaled": 1010,
+    "maxValueScaled": 1300,
+    "subEffectDescriptionTextKey": "PATCH_SUB_STATUS_SKILL1_EFFECT"
+  },
+  "8": {
+    "patchSubStatusId": 8,
+    "valueScale": 1,
+    "skillEffectId": 1507,
+    "parameterType": 1,
+    "minValueScaled": 99,
+    "maxValueScaled": 90,
+    "subEffectDescriptionTextKey": "PATCH_SUB_STATUS_SKILL1_VIEW_COST_REDUCTION"
+  },
+  "9": {
+    "patchSubStatusId": 9,
+    "valueScale": 10,
+    "skillEffectId": 1508,
+    "parameterType": 2,
+    "minValueScaled": 1010,
+    "maxValueScaled": 1300,
+    "subEffectDescriptionTextKey": "PATCH_SUB_STATUS_SKILL2_EFFECT"
+  },
+  "10": {
+    "patchSubStatusId": 10,
+    "valueScale": 1,
+    "skillEffectId": 1509,
+    "parameterType": 1,
+    "minValueScaled": 99,
+    "maxValueScaled": 90,
+    "subEffectDescriptionTextKey": "PATCH_SUB_STATUS_SKILL2_VIEW_COST_REDUCTION"
+  },
+  "11": {
+    "patchSubStatusId": 11,
+    "valueScale": 10,
+    "skillEffectId": 1510,
+    "parameterType": 2,
+    "minValueScaled": 1010,
+    "maxValueScaled": 1300,
+    "subEffectDescriptionTextKey": "PATCH_SUB_STATUS_SKILL3_EFFECT"
+  },
+  "12": {
+    "patchSubStatusId": 12,
+    "valueScale": 1,
+    "skillEffectId": 1511,
+    "parameterType": 1,
+    "minValueScaled": 99,
+    "maxValueScaled": 90,
+    "subEffectDescriptionTextKey": "PATCH_SUB_STATUS_SKILL3_VIEW_COST_REDUCTION"
+  }
+}

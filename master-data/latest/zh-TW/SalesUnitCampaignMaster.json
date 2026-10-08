@@ -1,1 +1,181 @@
-[]
+{
+  "1": {
+    "campaignName": "ブルースイベントリソース獲得",
+    "startAt": null,
+    "endAt": "2026-10-29 20:00:00",
+    "campaignId": 1,
+    "targets": [
+      {
+        "salesId": 1,
+        "bonuses": [
+          {
+            "isDisplay": true,
+            "iconAddress": "icon_salesBonus_add_reward",
+            "class": "StockCountBonus",
+            "values": [
+              {
+                "count": 1,
+                "upwardRate": 20
+              },
+              {
+                "count": 2,
+                "upwardRate": 40
+              },
+              {
+                "count": 3,
+                "upwardRate": 60
+              }
+            ],
+            "stocks": [
+              12362,
+              13041,
+              13351
+            ],
+            "description": "SALES_BONUS_DESCRIPTION_ITEM_BONUS",
+            "isAppendBonus": true
+          }
+        ],
+        "reports": [
+          {
+            "salesTitleTextKey": "SALES_TITLE_BLUES2610_REPORT_1",
+            "textKey": "SALES_EVENT_BLUES2610_REPORT_1",
+            "condition": null
+          },
+          {
+            "salesTitleTextKey": "SALES_TITLE_BLUES2610_REPORT_2",
+            "textKey": "SALES_EVENT_BLUES2610_REPORT_2",
+            "condition": null
+          },
+          {
+            "salesTitleTextKey": "SALES_TITLE_BLUES2610_REPORT_3",
+            "textKey": "SALES_EVENT_BLUES2610_REPORT_3",
+            "condition": null
+          }
+        ],
+        "rewards": [
+          {
+            "rewardType": 3,
+            "objectId": 295,
+            "salesId": 1,
+            "objectValue": 11,
+            "isAddReward": true
+          }
+        ]
+      },
+      {
+        "salesId": 2,
+        "bonuses": [
+          {
+            "isDisplay": true,
+            "iconAddress": "icon_salesBonus_add_reward",
+            "class": "StockCountBonus",
+            "values": [
+              {
+                "count": 1,
+                "upwardRate": 20
+              },
+              {
+                "count": 2,
+                "upwardRate": 40
+              },
+              {
+                "count": 3,
+                "upwardRate": 60
+              }
+            ],
+            "stocks": [
+              12362,
+              13041,
+              13351
+            ],
+            "description": "SALES_BONUS_DESCRIPTION_ITEM_BONUS",
+            "isAppendBonus": true
+          }
+        ],
+        "reports": [
+          {
+            "salesTitleTextKey": "SALES_TITLE_BLUES2610_REPORT_1",
+            "textKey": "SALES_EVENT_BLUES2610_REPORT_1",
+            "condition": null
+          },
+          {
+            "salesTitleTextKey": "SALES_TITLE_BLUES2610_REPORT_2",
+            "textKey": "SALES_EVENT_BLUES2610_REPORT_2",
+            "condition": null
+          },
+          {
+            "salesTitleTextKey": "SALES_TITLE_BLUES2610_REPORT_3",
+            "textKey": "SALES_EVENT_BLUES2610_REPORT_3",
+            "condition": null
+          }
+        ],
+        "rewards": [
+          {
+            "rewardType": 3,
+            "objectId": 295,
+            "salesId": 2,
+            "objectValue": 11,
+            "isAddReward": true
+          }
+        ]
+      },
+      {
+        "salesId": 3,
+        "bonuses": [
+          {
+            "isDisplay": true,
+            "iconAddress": "icon_salesBonus_add_reward",
+            "class": "StockCountBonus",
+            "values": [
+              {
+                "count": 1,
+                "upwardRate": 20
+              },
+              {
+                "count": 2,
+                "upwardRate": 40
+              },
+              {
+                "count": 3,
+                "upwardRate": 60
+              }
+            ],
+            "stocks": [
+              12362,
+              13041,
+              13351
+            ],
+            "description": "SALES_BONUS_DESCRIPTION_ITEM_BONUS",
+            "isAppendBonus": true
+          }
+        ],
+        "reports": [
+          {
+            "salesTitleTextKey": "SALES_TITLE_BLUES2610_REPORT_1",
+            "textKey": "SALES_EVENT_BLUES2610_REPORT_1",
+            "condition": null
+          },
+          {
+            "salesTitleTextKey": "SALES_TITLE_BLUES2610_REPORT_2",
+            "textKey": "SALES_EVENT_BLUES2610_REPORT_2",
+            "condition": null
+          },
+          {
+            "salesTitleTextKey": "SALES_TITLE_BLUES2610_REPORT_3",
+            "textKey": "SALES_EVENT_BLUES2610_REPORT_3",
+            "condition": null
+          }
+        ],
+        "rewards": [
+          {
+            "rewardType": 3,
+            "objectId": 295,
+            "salesId": 3,
+            "objectValue": 11,
+            "isAddReward": true
+          }
+        ]
+      }
+    ]
+  }
+}

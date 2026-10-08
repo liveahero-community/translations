@@ -100,14 +100,7 @@
         "isAddReward": false
       }
     ],
-    "baseRewardBonuses": [
-      {
-        "startAt": null,
-        "endAt": "2026-10-08 14:00:00",
-        "multiplier": 2,
-        "baseRewardBonusId": 1
-      }
-    ]
+    "baseRewardBonuses": []
   },
   "2": {
     "salesName": "結べ絆！リレーション営業",
@@ -210,14 +203,7 @@
         "isAddReward": false
       }
     ],
-    "baseRewardBonuses": [
-      {
-        "startAt": null,
-        "endAt": "2026-10-08 14:00:00",
-        "multiplier": 2,
-        "baseRewardBonusId": 2
-      }
-    ]
+    "baseRewardBonuses": []
   },
   "3": {
     "salesName": "遠征！ラフ稼ぎ！",
@@ -320,13 +306,6 @@
         "isAddReward": false
       }
     ],
-    "baseRewardBonuses": [
-      {
-        "startAt": null,
-        "endAt": "2026-10-08 14:00:00",
-        "multiplier": 2,
-        "baseRewardBonusId": 3
-      }
-    ]
+    "baseRewardBonuses": []
   }
 }

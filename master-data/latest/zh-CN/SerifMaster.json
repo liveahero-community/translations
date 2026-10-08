@@ -13773,6 +13773,88 @@
       "voiceFilename": "",
       "resourceName": "alend",
       "isInHome": false
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 31,
+      "faceType": "c",
+      "serifKey": "SERIF_ALEND_EVENTE",
+      "voiceFilename": "",
+      "resourceName": "alend",
+      "isInHome": false
+    }
+  ],
+  "12362": [
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 4,
+      "faceType": "",
+      "serifKey": "SERIF_ALENDBLUES2610_PLAYER",
+      "voiceFilename": "",
+      "resourceName": "alendBlues2610",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 5,
+      "faceType": "e",
+      "serifKey": "SERIF_ALENDBLUES2610_HERO",
+      "voiceFilename": "",
+      "resourceName": "alendBlues2610",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 12,
+      "faceType": "g",
+      "serifKey": "SERIF_ALENDBLUES2610_TOUCH",
+      "voiceFilename": "",
+      "resourceName": "alendBlues2610",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 27,
+      "faceType": "b",
+      "serifKey": "SERIF_ALENDBLUES2610_EVENTA",
+      "voiceFilename": "",
+      "resourceName": "alendBlues2610",
+      "isInHome": false
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 28,
+      "faceType": "",
+      "serifKey": "SERIF_ALENDBLUES2610_EVENTB",
+      "voiceFilename": "",
+      "resourceName": "alendBlues2610",
+      "isInHome": false
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 29,
+      "faceType": "",
+      "serifKey": "SERIF_ALENDBLUES2610_EVENTC",
+      "voiceFilename": "",
+      "resourceName": "alendBlues2610",
+      "isInHome": false
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 30,
+      "faceType": "c",
+      "serifKey": "SERIF_ALENDBLUES2610_EVENTD",
+      "voiceFilename": "",
+      "resourceName": "alendBlues2610",
+      "isInHome": false
     }
   ],
   "12371": [
@@ -15663,6 +15745,118 @@
       "isInHome": false
     }
   ],
+  "13041": [
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 4,
+      "faceType": "c",
+      "serifKey": "SERIF_THUBAN_PLAYER",
+      "voiceFilename": "",
+      "resourceName": "thuban",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 5,
+      "faceType": "",
+      "serifKey": "SERIF_THUBAN_HERO",
+      "voiceFilename": "",
+      "resourceName": "thuban",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 12,
+      "faceType": "c",
+      "serifKey": "SERIF_THUBAN_TOUCH",
+      "voiceFilename": "",
+      "resourceName": "thuban",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 3,
+      "faceType": "",
+      "serifKey": "SERIF_THUBAN_DAILY",
+      "voiceFilename": "",
+      "resourceName": "thuban",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 6,
+      "faceType": "e",
+      "serifKey": "SERIF_THUBAN_RELATION",
+      "voiceFilename": "",
+      "resourceName": "thuban",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 11,
+      "faceType": "f",
+      "serifKey": "SERIF_THUBAN_APPRECIATION",
+      "voiceFilename": "",
+      "resourceName": "thuban",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 27,
+      "faceType": "",
+      "serifKey": "SERIF_THUBAN_EVENTA",
+      "voiceFilename": "",
+      "resourceName": "thuban",
+      "isInHome": false
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 28,
+      "faceType": "g",
+      "serifKey": "SERIF_THUBAN_EVENTB",
+      "voiceFilename": "",
+      "resourceName": "thuban",
+      "isInHome": false
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 29,
+      "faceType": "",
+      "serifKey": "SERIF_THUBAN_EVENTC",
+      "voiceFilename": "",
+      "resourceName": "thuban",
+      "isInHome": false
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 30,
+      "faceType": "c",
+      "serifKey": "SERIF_THUBAN_EVENTD",
+      "voiceFilename": "",
+      "resourceName": "thuban",
+      "isInHome": false
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 31,
+      "faceType": "c",
+      "serifKey": "SERIF_THUBAN_EVENTE",
+      "voiceFilename": "",
+      "resourceName": "thuban",
+      "isInHome": false
+    }
+  ],
   "13051": [
     {
       "cardType": 1,
@@ -16384,6 +16578,118 @@
       "serifKey": "SERIF_RUCHBATH_EVENTD",
       "voiceFilename": "",
       "resourceName": "ruchbath",
+      "isInHome": false
+    }
+  ],
+  "13351": [
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 4,
+      "faceType": "",
+      "serifKey": "SERIF_CEPH_PLAYER",
+      "voiceFilename": "",
+      "resourceName": "ceph",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 5,
+      "faceType": "e",
+      "serifKey": "SERIF_CEPH_HERO",
+      "voiceFilename": "",
+      "resourceName": "ceph",
+      "isInHome": true
+    },
+    {
+      "cardType": 1,
+      "rarity": 0,
+      "voiceKind": 12,
+      "faceType": "b",
+      "serifKey": "SERIF_CEPH_TOUCH",
+      "voiceFilename": "",
+      "resourceName": "ceph",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 3,
+      "faceType": "f",
+      "serifKey": "SERIF_CEPH_DAILY",
+      "voiceFilename": "",
+      "resourceName": "ceph",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 6,
+      "faceType": "e",
+      "serifKey": "SERIF_CEPH_RELATION",
+      "voiceFilename": "",
+      "resourceName": "ceph",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 11,
+      "faceType": "c",
+      "serifKey": "SERIF_CEPH_APPRECIATION",
+      "voiceFilename": "",
+      "resourceName": "ceph",
+      "isInHome": true
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 27,
+      "faceType": "e",
+      "serifKey": "SERIF_CEPH_EVENTA",
+      "voiceFilename": "",
+      "resourceName": "ceph",
+      "isInHome": false
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 28,
+      "faceType": "c",
+      "serifKey": "SERIF_CEPH_EVENTB",
+      "voiceFilename": "",
+      "resourceName": "ceph",
+      "isInHome": false
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 29,
+      "faceType": "",
+      "serifKey": "SERIF_CEPH_EVENTC",
+      "voiceFilename": "",
+      "resourceName": "ceph",
+      "isInHome": false
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 30,
+      "faceType": "c",
+      "serifKey": "SERIF_CEPH_EVENTD",
+      "voiceFilename": "",
+      "resourceName": "ceph",
+      "isInHome": false
+    },
+    {
+      "cardType": 2,
+      "rarity": 0,
+      "voiceKind": 31,
+      "faceType": "c",
+      "serifKey": "SERIF_CEPH_EVENTE",
+      "voiceFilename": "",
+      "resourceName": "ceph",
       "isInHome": false
     }
   ],
