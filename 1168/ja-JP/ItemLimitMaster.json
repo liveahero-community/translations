@@ -1,0 +1,14 @@
+{
+  "38": {
+    "itemId": 38,
+    "limitValue": 3,
+    "weeklyLimitValue": -1,
+    "isErrorOnOver": false
+  },
+  "234": {
+    "itemId": 234,
+    "limitValue": 4000,
+    "weeklyLimitValue": 1000,
+    "isErrorOnOver": true
+  }
+}
