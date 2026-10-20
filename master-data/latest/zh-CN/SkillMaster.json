@@ -419948,7 +419948,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体に3回、40%ダメージ。",
+    "description": "敌単体に3回、40%ダメージ。",
     "shortenDescription": "",
     "cutin": [
       {
@@ -456068,7 +456068,7 @@
     "resourceName": "b_skill_debuff",
     "subResourceName": "s_skill_view",
     "timing": 0,
-    "description": "敵単体に1回の行動の間炸裂を付与。<style=\"改行\"></style>Viewを3000獲得。<style=\"改行\"></style>【自陣が1人の場合】対象に隣接する敵に1回の行動の間炸裂を付与。（敵専用）",
+    "description": "敌単体に1回の行动の间炸裂を付与。<style=\"改行\"></style>Viewを3000获得。<style=\"改行\"></style>【自阵が1人の场合】対象に隣接する敌に1回の行动の间炸裂を付与。（敌専用）",
     "shortenDescription": "",
     "cutin": [
       {
@@ -456194,7 +456194,7 @@
     "resourceName": "b_skill_healAll",
     "subResourceName": "s_skill_cureTeam",
     "timing": 0,
-    "description": "自身以外の味方全体のHPを基礎ATKの120%回復する。<style=\"改行\"></style>デバフを1つ解除。<style=\"改行\"></style>ATKチャージのチャージ数+1。（敵専用）",
+    "description": "自身以外の味方全体のHPを基础ATKの120%回复する。<style=\"改行\"></style>デバフを1つ解除。<style=\"改行\"></style>ATKチャージのチャージ数+1。（敌専用）",
     "shortenDescription": "",
     "cutin": [
       {
@@ -598986,14 +598986,14 @@
   },
   "6335101": {
     "skillId": 6335101,
-    "skillName": "2回行動",
+    "skillName": "2回行动",
     "skillIndex": 0,
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "b_skill_special",
     "subResourceName": "",
     "timing": 3,
-    "description": "このキャラクターは毎ターン2回行動する。<style=\"改行\"></style>2回目の行動時はスキル1を発動する。",
+    "description": "このキャラクターは毎ターン2回行动する。<style=\"改行\"></style>2回目の行动时はスキル1を発动する。",
     "shortenDescription": "",
     "cutin": [],
     "isEquip": true,
@@ -599192,14 +599192,14 @@
   },
   "6335103": {
     "skillId": 6335103,
-    "skillName": "陰からの手伝い",
+    "skillName": "阴からの手伝い",
     "skillIndex": 0,
     "useView": 0,
     "targetFlag": 3,
     "resourceName": "status_hide",
     "subResourceName": "",
     "timing": 4,
-    "description": "ターン開始時、自陣の人数が2人以上の場合、自身に1ターンの間隠蔽を付与。",
+    "description": "ターン开始时、自阵の人数が2人以上の场合、自身に1ターンの间隠蔽を付与。",
     "shortenDescription": "",
     "cutin": [],
     "isEquip": true,
@@ -599266,7 +599266,7 @@
     "resourceName": "b_skill_special",
     "subResourceName": "",
     "timing": 8,
-    "description": "ダメージを受けたターン中はスキル1のみを発動する。<style=\"改行\"></style>味方が自身のみの時、スキル1のみを発動する。",
+    "description": "ダメージを受けたターン中はスキル1のみを発动する。<style=\"改行\"></style>味方が自身のみの时、スキル1のみを発动する。",
     "shortenDescription": "",
     "cutin": [],
     "isEquip": true,
