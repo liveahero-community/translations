@@ -449376,7 +449376,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体と隣接する敵に60％ダメージ＋自身に付与されているバリアの値の合計に応じてダメージ量が上昇。(最大120％まで上昇。バリアの値の合計が10000の時最大ダメージに到達)（敵専用）",
+    "description": "敌単体と隣接する敌に60％ダメージ＋自身に付与されているバリアの値の合计に応じてダメージ量が上升。(最大120％まで上升。バリアの値の合计が10000の时最大ダメージに到达)（敌専用）",
     "shortenDescription": "",
     "cutin": [
       {
@@ -449466,7 +449466,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "【自身にバリアが付与されていない時】敵単体に60%ダメージ。<style=\"改行\"></style>【自身にバリアが付与されている時】敵全体に40%ダメージ。（敵専用）",
+    "description": "【自身にバリアが付与されていない时】敌単体に60%ダメージ。<style=\"改行\"></style>【自身にバリアが付与されている时】敌全体に40%ダメージ。（敌専用）",
     "shortenDescription": "",
     "cutin": [
       {
@@ -449608,7 +449608,7 @@
     "resourceName": "b_skill_buff",
     "subResourceName": "s_skill_cureOwn",
     "timing": 0,
-    "description": "自身に最大HPの10％の貫通ダメージを与えた後、2回の行動の間最大HPの10%の値のバリアを付与。<style=\"改行\"></style>このスキルによって与える貫通ダメージで味方は戦闘不能にならず、HPは最大値の1%残る。<style=\"改行\"></style>デバフを1つ解除。<style=\"改行\"></style>【ピンチ時追加効果】付与するバリアの回数が3回に増加する。（敵専用）",
+    "description": "自身に最大HPの10％の贯通ダメージを与えた后、2回の行动の间最大HPの10%の値のバリアを付与。<style=\"改行\"></style>このスキルによって与える贯通ダメージで味方は戦闘不能にならず、HPは最大値の1%残る。<style=\"改行\"></style>デバフを1つ解除。<style=\"改行\"></style>【ピンチ时追加効果】付与するバリアの回数が3回に増加する。（敌専用）",
     "shortenDescription": "",
     "cutin": [
       {
@@ -457106,7 +457106,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体に3回20%ダメージ。（敵専用）",
+    "description": "敌単体に3回20%ダメージ。（敌専用）",
     "shortenDescription": "",
     "cutin": [
       {
@@ -457221,7 +457221,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体に120%ダメージ。（敵専用）",
+    "description": "敌単体に120%ダメージ。（敌専用）",
     "shortenDescription": "",
     "cutin": [
       {
@@ -593045,14 +593045,14 @@
   },
   "6304111": {
     "skillId": 6304111,
-    "skillName": "背水の構え",
+    "skillName": "背水の构え",
     "skillIndex": 0,
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "status_firepower",
     "subResourceName": "",
     "timing": 1,
-    "description": "HPが減少するほどATKが上昇する。（最大で+50%）",
+    "description": "HPが减少するほどATKが上升する。（最大で+50%）",
     "shortenDescription": "",
     "cutin": [],
     "isEquip": true,
@@ -593108,7 +593108,7 @@
     "resourceName": "status_counter",
     "subResourceName": "",
     "timing": 24,
-    "description": "バリアが付与された状態でダメージを受けた時、スキル1で反撃する。<style=\"改行\"></style>【ピンチ時追加効果】バリアが付与されている間、デバフが付与される確率-50%。<style=\"改行\"></style>自身のゲージが0の場合、このスキルは発動しない。",
+    "description": "バリアが付与された状态でダメージを受けた时、スキル1で反撃する。<style=\"改行\"></style>【ピンチ时追加効果】バリアが付与されている间、デバフが付与される确率-50%。<style=\"改行\"></style>自身のゲージが0の场合、このスキルは発动しない。",
     "shortenDescription": "",
     "cutin": [],
     "isEquip": true,
@@ -593252,7 +593252,7 @@
     "resourceName": "",
     "subResourceName": "",
     "timing": 50,
-    "description": "バリアが付与されている時、デバフが付与される確率-50%。",
+    "description": "バリアが付与されている时、デバフが付与される确率-50%。",
     "shortenDescription": "",
     "cutin": [],
     "isEquip": false,
@@ -593431,7 +593431,7 @@
     "resourceName": "",
     "subResourceName": "",
     "timing": 99,
-    "description": "バリアが付与されている時、デバフが付与される確率-50%。",
+    "description": "バリアが付与されている时、デバフが付与される确率-50%。",
     "shortenDescription": "",
     "cutin": [],
     "isEquip": true,
