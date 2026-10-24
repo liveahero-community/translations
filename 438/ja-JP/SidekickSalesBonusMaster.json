@@ -1,0 +1,102 @@
+{
+  "1": {
+    "sidekickSalesBonusId": 1,
+    "bonusEffectJson": {
+      "class": "BaseSidekickSalesBonus",
+      "bonusValue": 2,
+      "description": "営業のボーナス+2%",
+      "iconResourceName": ""
+    }
+  },
+  "2": {
+    "sidekickSalesBonusId": 2,
+    "bonusEffectJson": {
+      "class": "BaseSidekickSalesBonus",
+      "bonusValue": 1.5,
+      "description": "営業のボーナス+1.5%",
+      "iconResourceName": ""
+    }
+  },
+  "3": {
+    "sidekickSalesBonusId": 3,
+    "bonusEffectJson": {
+      "class": "BaseSidekickSalesBonus",
+      "bonusValue": 1,
+      "description": "営業のボーナス+1%",
+      "iconResourceName": ""
+    }
+  },
+  "4": {
+    "sidekickSalesBonusId": 4,
+    "bonusEffectJson": {
+      "class": "SpecifiedSalesBonus",
+      "bonusValue": 1,
+      "description": "「成長！EXP営業！」に出発した場合、営業のボーナス+1%",
+      "targetSalesIds": [
+        10101,
+        10102,
+        10103,
+        10104,
+        10105,
+        10106
+      ],
+      "iconResourceName": "icon_salesBonus_baseUp"
+    }
+  },
+  "5": {
+    "sidekickSalesBonusId": 5,
+    "bonusEffectJson": {
+      "class": "SpecifiedSalesBonus",
+      "bonusValue": 1,
+      "description": "「遠征！ラフ稼ぎ！」に出発した場合、営業のボーナス+1%",
+      "targetSalesIds": [
+        10301,
+        10302,
+        10303,
+        10304,
+        10305,
+        10306
+      ],
+      "iconResourceName": "icon_salesBonus_baseUp"
+    }
+  },
+  "6": {
+    "sidekickSalesBonusId": 6,
+    "bonusEffectJson": {
+      "class": "SpecifiedSalesBonus",
+      "bonusValue": 1,
+      "description": "「結べ絆！リレーション営業」に出発した場合、営業のボーナス+1%",
+      "targetSalesIds": [
+        10401,
+        10402,
+        10403,
+        10404,
+        10405,
+        10406
+      ],
+      "iconResourceName": "icon_salesBonus_baseUp"
+    }
+  },
+  "7": {
+    "sidekickSalesBonusId": 7,
+    "bonusEffectJson": {
+      "class": "AddDropBonus",
+      "itemId": 59,
+      "baseProb": 1,
+      "dropValue": 1,
+      "description": "営業時間x1%の確率でパラレル・クオーツx1を営業終了時に獲得",
+      "iconResourceName": "item_pwexp"
+    }
+  },
+  "8": {
+    "sidekickSalesBonusId": 8,
+    "bonusEffectJson": {
+      "class": "AddDropBonus",
+      "itemId": 53,
+      "baseProb": 1,
+      "dropValue": 1,
+      "description": "営業時間x1%の確率でヒーローの証x1を営業終了時に獲得",
+      "iconResourceName": "item_rank_hero_token"
+    }
+  }
+}
