@@ -458438,7 +458438,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "敵単体に60%ダメージ。<style=\"改行\"></style>【BOSSピンチ時追加効果】2ターンの間誘導を付与。（敵専用）",
+    "description": "敌単体に60%ダメージ。<style=\"改行\"></style>【BOSSピンチ时追加効果】2ターンの间诱导を付与。（敌専用）",
     "shortenDescription": "",
     "cutin": [
       {
@@ -458539,7 +458539,7 @@
     "resourceName": "b_skill_buff",
     "subResourceName": "s_skill_view",
     "timing": 0,
-    "description": "BOSSに1回の行動の間ATKアップを付与。Viewを3000獲得。（敵専用）",
+    "description": "BOSSに1回の行动の间ATKアップを付与。Viewを3000获得。（敌専用）",
     "shortenDescription": "",
     "cutin": [
       {
@@ -458809,7 +458809,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_buffOwn",
     "timing": 0,
-    "description": "敵単体に120%ダメージ。<style=\"改行\"></style>【BOSSピンチ時追加効果】自身に2回の行動の間ATKアップを付与。（敵専用）",
+    "description": "敌単体に120%ダメージ。<style=\"改行\"></style>【BOSSピンチ时追加効果】自身に2回の行动の间ATKアップを付与。（敌専用）",
     "shortenDescription": "",
     "cutin": [
       {
@@ -459181,7 +459181,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "",
     "timing": 0,
-    "description": "敵単体に60%ダメージ。隣接する敵に30%ダメージ。",
+    "description": "敌単体に60%ダメージ。隣接する敌に30%ダメージ。",
     "shortenDescription": "",
     "cutin": [
       {
@@ -459451,7 +459451,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "s_skill_spdDownAll",
     "timing": 0,
-    "description": "敵全体に40%ダメージ。1回の行動の間SPDダウンを付与。（敵専用）",
+    "description": "敌全体に40%ダメージ。1回の行动の间SPDダウンを付与。（敌専用）",
     "shortenDescription": "",
     "cutin": [
       {
@@ -459541,7 +459541,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "s_skill_debuffTeam",
     "timing": 0,
-    "description": "敵単体に100%ダメージ。1ターンの間照準を付与。<style=\"改行\"></style>それ以外の敵全体に50%ダメージ。<style=\"改行\"></style>【ピンチ時追加効果】付与する照準のターン数が2ターンに増加。",
+    "description": "敌単体に100%ダメージ。1ターンの间照准を付与。<style=\"改行\"></style>それ以外の敌全体に50%ダメージ。<style=\"改行\"></style>【ピンチ时追加効果】付与する照准のターン数が2ターンに増加。",
     "shortenDescription": "",
     "cutin": [
       {
@@ -604013,7 +604013,7 @@
     "resourceName": "b_skill_heal",
     "subResourceName": "",
     "timing": 14,
-    "description": "戦闘不能時、100%のHPで復活＆BOSSのHPを最大値の5%減少。<style=\"改行\"></style>復活する度に、自身のDEFチャージのチャージ数を+1。<style=\"改行\"></style>復活時、自身に付与されているDEFチャージ以外の状態変化を全て解除。<style=\"改行\"></style>このスキルが発動したターン、行動が出来なくなる。",
+    "description": "戦闘不能时、100%のHPで复活＆BOSSのHPを最大値の5%减少。<style=\"改行\"></style>复活する度に、自身のDEFチャージのチャージ数を+1。<style=\"改行\"></style>复活时、自身に付与されているDEFチャージ以外の状态変化を全て解除。<style=\"改行\"></style>このスキルが発动したターン、行动が出来なくなる。",
     "shortenDescription": "",
     "cutin": [],
     "isEquip": true,
@@ -604291,7 +604291,7 @@
     "resourceName": "b_skill_heal",
     "subResourceName": "",
     "timing": 14,
-    "description": "戦闘不能時、100%のHPで復活＆BOSSのHPを最大値の10%減少。<style=\"改行\"></style>復活する度に、自身のDEFチャージのチャージ数を+1。<style=\"改行\"></style>復活時、自身に付与されているDEFチャージ以外の状態変化を全て解除。<style=\"改行\"></style>このスキルが発動したターン、行動が出来なくなる。",
+    "description": "戦闘不能时、100%のHPで复活＆BOSSのHPを最大値の10%减少。<style=\"改行\"></style>复活する度に、自身のDEFチャージのチャージ数を+1。<style=\"改行\"></style>复活时、自身に付与されているDEFチャージ以外の状态変化を全て解除。<style=\"改行\"></style>このスキルが発动したターン、行动が出来なくなる。",
     "shortenDescription": "",
     "cutin": [],
     "isEquip": true,
@@ -604609,14 +604609,14 @@
   },
   "6341203": {
     "skillId": 6341203,
-    "skillName": "勢力拡大",
+    "skillName": "势力拡大",
     "skillIndex": 0,
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "status_system_firepower",
     "subResourceName": "",
     "timing": 5,
-    "description": "ターン終了時、自身のATKチャージのチャージ数を+1。",
+    "description": "ターン终了时、自身のATKチャージのチャージ数を+1。",
     "shortenDescription": "",
     "cutin": [],
     "isEquip": true,
@@ -604712,14 +604712,14 @@
   },
   "6341204": {
     "skillId": 6341204,
-    "skillName": "勢力拡大（BOSS）",
+    "skillName": "势力拡大（BOSS）",
     "skillIndex": 0,
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "status_system_firepower",
     "subResourceName": "",
     "timing": 5,
-    "description": "ターン終了時、自身のATKチャージのチャージ数を+1。<style=\"改行\"></style>ピンチ状態になった時、ATKチャージのチャージ数を+3。<style=\"改行\"></style>ゲージが0になった時、ATKチャージのチャージ数を-2。",
+    "description": "ターン终了时、自身のATKチャージのチャージ数を+1。<style=\"改行\"></style>ピンチ状态になった时、ATKチャージのチャージ数を+3。<style=\"改行\"></style>ゲージが0になった时、ATKチャージのチャージ数を-2。",
     "shortenDescription": "",
     "cutin": [],
     "isEquip": true,
@@ -604815,7 +604815,7 @@
   },
   "6341205": {
     "skillId": 6341205,
-    "skillName": "勢力拡大（BOSS）",
+    "skillName": "势力拡大（BOSS）",
     "skillIndex": 0,
     "useView": 0,
     "targetFlag": 0,
@@ -604997,7 +604997,7 @@
     "resourceName": "status_system_defup",
     "subResourceName": "",
     "timing": 1,
-    "description": "ゲージが0ではない時、自身が受ける全てのダメージが0.2倍になる。",
+    "description": "ゲージが0ではない时、自身が受ける全てのダメージが0.2倍になる。",
     "shortenDescription": "",
     "cutin": [],
     "isEquip": true,
@@ -605717,7 +605717,7 @@
     "resourceName": "",
     "subResourceName": "",
     "timing": 99,
-    "description": "誰かの行動終了時、増援の撃破分（成体10%、幼体5%）を精算し、最大HPの100%を上限に自身のHPを減少させる。",
+    "description": "谁かの行动终了时、増援の撃破分（成体10%、幼体5%）を精算し、最大HPの100%を上限に自身のHPを减少させる。",
     "shortenDescription": "",
     "cutin": [],
     "isEquip": true,
