@@ -6896,6 +6896,94 @@
       }
     ]
   },
+  "146": {
+    "productId": 146,
+    "productName": "jp.co.lifewonders.liveahero.pack140",
+    "startAt": null,
+    "endAt": "2026-11-26 14:00:00",
+    "canPurchaseCount": 1,
+    "price": 4900,
+    "xsollaPrice": 4655,
+    "rewards": [
+      {
+        "rewardType": 3,
+        "objectId": 1,
+        "objectValue": 50,
+        "bonus": 100,
+        "fixAddValue": 0,
+        "isAddDrop": false,
+        "isAddReward": false,
+        "finalValue": 50,
+        "baseRewardBonusRate": 0
+      },
+      {
+        "rewardType": 3,
+        "objectId": 2,
+        "objectValue": 80,
+        "bonus": 100,
+        "fixAddValue": 0,
+        "isAddDrop": false,
+        "isAddReward": false,
+        "finalValue": 80,
+        "baseRewardBonusRate": 0
+      },
+      {
+        "rewardType": 3,
+        "objectId": 10,
+        "objectValue": 4,
+        "bonus": 100,
+        "fixAddValue": 0,
+        "isAddDrop": false,
+        "isAddReward": false,
+        "finalValue": 4,
+        "baseRewardBonusRate": 0
+      }
+    ]
+  },
+  "147": {
+    "productId": 147,
+    "productName": "jp.co.lifewonders.liveahero.pack141",
+    "startAt": null,
+    "endAt": "2026-11-26 14:00:00",
+    "canPurchaseCount": 1,
+    "price": 10000,
+    "xsollaPrice": 9500,
+    "rewards": [
+      {
+        "rewardType": 3,
+        "objectId": 1,
+        "objectValue": 103,
+        "bonus": 100,
+        "fixAddValue": 0,
+        "isAddDrop": false,
+        "isAddReward": false,
+        "finalValue": 103,
+        "baseRewardBonusRate": 0
+      },
+      {
+        "rewardType": 3,
+        "objectId": 2,
+        "objectValue": 97,
+        "bonus": 100,
+        "fixAddValue": 0,
+        "isAddDrop": false,
+        "isAddReward": false,
+        "finalValue": 97,
+        "baseRewardBonusRate": 0
+      },
+      {
+        "rewardType": 3,
+        "objectId": 10,
+        "objectValue": 10,
+        "bonus": 100,
+        "fixAddValue": 0,
+        "isAddDrop": false,
+        "isAddReward": false,
+        "finalValue": 10,
+        "baseRewardBonusRate": 0
+      }
+    ]
+  },
   "901": {
     "productId": 901,
     "productName": "jp.co.lifewonders.liveahero.pack901",

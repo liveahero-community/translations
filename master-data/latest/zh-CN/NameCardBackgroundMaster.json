@@ -1521,5 +1521,33 @@
         ]
       }
     ]
+  },
+  "1096": {
+    "backgroundId": 1096,
+    "iconAddress": "item_icon_bg_advertisingtowery_day",
+    "bgAddress": "bg_advertisingtowery_day",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          1305008
+        ]
+      }
+    ]
+  },
+  "1097": {
+    "backgroundId": 1097,
+    "iconAddress": "item_icon_bg_corporatebooth_day",
+    "bgAddress": "bg_corporatebooth_day",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          1305008
+        ]
+      }
+    ]
   }
 }
