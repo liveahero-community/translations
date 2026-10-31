@@ -1,0 +1,90 @@
+{
+  "101": {
+    "regionId": 101,
+    "regionName": "地球",
+    "subName": "オリエントシティ",
+    "peepingName": "EXP",
+    "resourceName": "earth",
+    "resourceInfo": "EXP素材",
+    "sortWeight": 1000,
+    "startAt": null,
+    "endAt": null
+  },
+  "103": {
+    "regionId": 103,
+    "regionName": "月",
+    "subName": "コペルニクス・コロニー",
+    "peepingName": "ラフ",
+    "resourceName": "moon",
+    "resourceInfo": "ラフ",
+    "sortWeight": 1000,
+    "startAt": null,
+    "endAt": null
+  },
+  "104": {
+    "regionId": 104,
+    "regionName": "火星",
+    "subName": "アラム・カオス公開演習場",
+    "peepingName": "リレーション",
+    "resourceName": "mars",
+    "resourceInfo": "リレーション素材",
+    "sortWeight": 1000,
+    "startAt": null,
+    "endAt": null
+  },
+  "201": {
+    "regionId": 201,
+    "regionName": "イベント地域",
+    "subName": "暁のゴールデン・スピリット",
+    "peepingName": "イベント地域",
+    "resourceName": "event_2010akatsuki",
+    "resourceInfo": "捜査資料",
+    "sortWeight": 1000,
+    "startAt": null,
+    "endAt": "2020-11-06 20:00:00"
+  },
+  "202": {
+    "regionId": 202,
+    "regionName": "イベント地域",
+    "subName": "暁のゴールデン・スピリット",
+    "peepingName": "イベント地域",
+    "resourceName": "event_2010akatsuki",
+    "resourceInfo": "謎の痕跡",
+    "sortWeight": 1000,
+    "startAt": null,
+    "endAt": "2020-11-06 20:00:00"
+  },
+  "203": {
+    "regionId": 203,
+    "regionName": "イベント地域",
+    "subName": "極楽！聖夜の熱湯戦線",
+    "peepingName": "イベント地域",
+    "resourceName": "event_Xmas2012",
+    "resourceInfo": "クリスマスオーナメント",
+    "sortWeight": 1000,
+    "startAt": null,
+    "endAt": "2021-01-06 20:00:00"
+  },
+  "204": {
+    "regionId": 204,
+    "regionName": "イベント地域",
+    "subName": "バレンタイン・サイバーウォーズ",
+    "peepingName": "イベント地域",
+    "resourceName": "event_Valentine2102",
+    "resourceInfo": "マイクロカメラ",
+    "sortWeight": 1000,
+    "startAt": null,
+    "endAt": "2021-03-15 20:00:00"
+  },
+  "205": {
+    "regionId": 205,
+    "regionName": "イベント地域",
+    "subName": "バレンタイン・サイバーウォーズ",
+    "peepingName": "イベント地域",
+    "resourceName": "event_Valentine2102",
+    "resourceInfo": "メカパーツ",
+    "sortWeight": 1000,
+    "startAt": "2021-03-01 18:00:00",
+    "endAt": "2021-03-15 20:00:00"
+  }
+}
