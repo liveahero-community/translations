@@ -661960,6 +661960,62 @@
     "effects": [],
     "appendPassiveSkillIds": null
   },
+  "8126211": {
+    "skillId": 8126211,
+    "skillName": "",
+    "skillIndex": 0,
+    "useView": 0,
+    "targetFlag": 0,
+    "resourceName": "",
+    "subResourceName": "",
+    "timing": 2,
+    "description": "",
+    "shortenDescription": "",
+    "cutin": [],
+    "isEquip": false,
+    "isHeroSkill": false,
+    "timingEntity": {
+      "timing": 2,
+      "trigger": null,
+      "dontExecTrigger": null
+    },
+    "skillStateCondition": null,
+    "targetEntity": {
+      "json": null,
+      "isLoop": false,
+      "target": 0
+    },
+    "descriptionInfo": null,
+    "iconInfo": [],
+    "effects": [
+      {
+        "skillId": 8126211,
+        "serialNo": 0,
+        "skillEffectId": 5664,
+        "prob": 100,
+        "effectTarget": 0,
+        "sequenceGroupId": 0,
+        "probGroupId": 0,
+        "randomGroupId": 0,
+        "popupTimingId": 0,
+        "isSameTimingBasePopup": false,
+        "conditionEntityId": 0,
+        "conditionGroupId": 0,
+        "conditionPriority": 0,
+        "conditionDescription": "",
+        "subIconAddress": "",
+        "notDisplayHint": false,
+        "triggerJson": [],
+        "receiverTriggerJson": [],
+        "targetEntity": {
+          "json": null,
+          "isLoop": false,
+          "target": 0
+        }
+      }
+    ],
+    "appendPassiveSkillIds": null
+  },
   "8128101": {
     "skillId": 8128101,
     "skillName": "",

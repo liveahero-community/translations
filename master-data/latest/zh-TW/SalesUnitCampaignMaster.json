@@ -1,7 +1,7 @@
 {
   "1": {
     "campaignName": "ブルースイベントリソース獲得",
-    "startAt": null,
+    "startAt": "2026-09-24 14:00:00",
     "endAt": "2026-10-29 20:00:00",
     "campaignId": 1,
     "targets": [
@@ -180,7 +180,7 @@
   },
   "2": {
     "campaignName": "クロスロードイベントリソース獲得",
-    "startAt": "2026-11-05 14:00:00",
+    "startAt": "2026-10-29 20:00:00",
     "endAt": "2026-11-19 20:00:00",
     "campaignId": 2,
     "targets": [
@@ -209,7 +209,23 @@
             "isAppendBonus": true
           }
         ],
-        "reports": [],
+        "reports": [
+          {
+            "salesTitleTextKey": "SALES_TITLE_CROSSROADS2611_REPORT_1",
+            "textKey": "SALES_EVENT_CROSSROADS2611_REPORT_1",
+            "condition": null
+          },
+          {
+            "salesTitleTextKey": "SALES_TITLE_CROSSROADS2611_REPORT_2",
+            "textKey": "SALES_EVENT_CROSSROADS2611_REPORT_2",
+            "condition": null
+          },
+          {
+            "salesTitleTextKey": "SALES_TITLE_CROSSROADS2611_REPORT_3",
+            "textKey": "SALES_EVENT_CROSSROADS2611_REPORT_3",
+            "condition": null
+          }
+        ],
         "rewards": [
           {
             "rewardType": 3,
@@ -245,7 +261,23 @@
             "isAppendBonus": true
           }
         ],
-        "reports": [],
+        "reports": [
+          {
+            "salesTitleTextKey": "SALES_TITLE_CROSSROADS2611_REPORT_1",
+            "textKey": "SALES_EVENT_CROSSROADS2611_REPORT_1",
+            "condition": null
+          },
+          {
+            "salesTitleTextKey": "SALES_TITLE_CROSSROADS2611_REPORT_2",
+            "textKey": "SALES_EVENT_CROSSROADS2611_REPORT_2",
+            "condition": null
+          },
+          {
+            "salesTitleTextKey": "SALES_TITLE_CROSSROADS2611_REPORT_3",
+            "textKey": "SALES_EVENT_CROSSROADS2611_REPORT_3",
+            "condition": null
+          }
+        ],
         "rewards": [
           {
             "rewardType": 3,
@@ -281,7 +313,23 @@
             "isAppendBonus": true
           }
         ],
-        "reports": [],
+        "reports": [
+          {
+            "salesTitleTextKey": "SALES_TITLE_CROSSROADS2611_REPORT_1",
+            "textKey": "SALES_EVENT_CROSSROADS2611_REPORT_1",
+            "condition": null
+          },
+          {
+            "salesTitleTextKey": "SALES_TITLE_CROSSROADS2611_REPORT_2",
+            "textKey": "SALES_EVENT_CROSSROADS2611_REPORT_2",
+            "condition": null
+          },
+          {
+            "salesTitleTextKey": "SALES_TITLE_CROSSROADS2611_REPORT_3",
+            "textKey": "SALES_EVENT_CROSSROADS2611_REPORT_3",
+            "condition": null
+          }
+        ],
         "rewards": [
           {
             "rewardType": 3,
