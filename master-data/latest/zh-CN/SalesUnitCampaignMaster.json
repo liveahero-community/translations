@@ -177,5 +177,121 @@
         ]
       }
     ]
+  },
+  "2": {
+    "campaignName": "クロスロードイベントリソース獲得",
+    "startAt": "2026-11-05 14:00:00",
+    "endAt": "2026-11-19 20:00:00",
+    "campaignId": 2,
+    "targets": [
+      {
+        "salesId": 1,
+        "bonuses": [
+          {
+            "isDisplay": true,
+            "iconAddress": "icon_salesBonus_add_reward",
+            "class": "StockCountBonus",
+            "values": [
+              {
+                "count": 1,
+                "upwardRate": 20
+              },
+              {
+                "count": 2,
+                "upwardRate": 40
+              }
+            ],
+            "stocks": [
+              11262,
+              12552
+            ],
+            "description": "SALES_BONUS_DESCRIPTION_ITEM_BONUS",
+            "isAppendBonus": true
+          }
+        ],
+        "reports": [],
+        "rewards": [
+          {
+            "rewardType": 3,
+            "objectId": 308,
+            "salesId": 1,
+            "objectValue": 11,
+            "isAddReward": true
+          }
+        ]
+      },
+      {
+        "salesId": 2,
+        "bonuses": [
+          {
+            "isDisplay": true,
+            "iconAddress": "icon_salesBonus_add_reward",
+            "class": "StockCountBonus",
+            "values": [
+              {
+                "count": 1,
+                "upwardRate": 20
+              },
+              {
+                "count": 2,
+                "upwardRate": 40
+              }
+            ],
+            "stocks": [
+              11262,
+              12552
+            ],
+            "description": "SALES_BONUS_DESCRIPTION_ITEM_BONUS",
+            "isAppendBonus": true
+          }
+        ],
+        "reports": [],
+        "rewards": [
+          {
+            "rewardType": 3,
+            "objectId": 308,
+            "salesId": 2,
+            "objectValue": 11,
+            "isAddReward": true
+          }
+        ]
+      },
+      {
+        "salesId": 3,
+        "bonuses": [
+          {
+            "isDisplay": true,
+            "iconAddress": "icon_salesBonus_add_reward",
+            "class": "StockCountBonus",
+            "values": [
+              {
+                "count": 1,
+                "upwardRate": 20
+              },
+              {
+                "count": 2,
+                "upwardRate": 40
+              }
+            ],
+            "stocks": [
+              11262,
+              12552
+            ],
+            "description": "SALES_BONUS_DESCRIPTION_ITEM_BONUS",
+            "isAppendBonus": true
+          }
+        ],
+        "reports": [],
+        "rewards": [
+          {
+            "rewardType": 3,
+            "objectId": 308,
+            "salesId": 3,
+            "objectValue": 11,
+            "isAddReward": true
+          }
+        ]
+      }
+    ]
   }
 }

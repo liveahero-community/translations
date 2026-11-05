@@ -1039,6 +1039,62 @@
       }
     ]
   },
+  "77": {
+    "nickNameId": 77,
+    "nickNameType": 2,
+    "rarity": 1,
+    "category": 2,
+    "nickNameTextKey": "NICK_NAME_77",
+    "getConditionDescription": "NICK_NAME_DESCRIPTION_77",
+    "conditions": [
+      {
+        "class": "MissionClear",
+        "missionId": 23054
+      }
+    ]
+  },
+  "78": {
+    "nickNameId": 78,
+    "nickNameType": 2,
+    "rarity": 1,
+    "category": 2,
+    "nickNameTextKey": "NICK_NAME_78",
+    "getConditionDescription": "NICK_NAME_DESCRIPTION_78",
+    "conditions": [
+      {
+        "class": "MissionClear",
+        "missionId": 23055
+      }
+    ]
+  },
+  "79": {
+    "nickNameId": 79,
+    "nickNameType": 1,
+    "rarity": 2,
+    "category": 2,
+    "nickNameTextKey": "NICK_NAME_79",
+    "getConditionDescription": "NICK_NAME_DESCRIPTION_79",
+    "conditions": [
+      {
+        "class": "MissionClear",
+        "missionId": 23056
+      }
+    ]
+  },
+  "80": {
+    "nickNameId": 80,
+    "nickNameType": 1,
+    "rarity": 3,
+    "category": 2,
+    "nickNameTextKey": "NICK_NAME_80",
+    "getConditionDescription": "NICK_NAME_DESCRIPTION_80",
+    "conditions": [
+      {
+        "class": "MissionClear",
+        "missionId": 23057
+      }
+    ]
+  },
   "110011": {
     "nickNameId": 110011,
     "nickNameType": 1,
@@ -2831,6 +2887,20 @@
       }
     ]
   },
+  "111262": {
+    "nickNameId": 111262,
+    "nickNameType": 1,
+    "rarity": 2,
+    "category": 3,
+    "nickNameTextKey": "NICK_NAME_111262",
+    "getConditionDescription": "NICK_NAME_DESCRIPTION_111262",
+    "conditions": [
+      {
+        "class": "HeroMaxRank",
+        "heroCardId": 112622
+      }
+    ]
+  },
   "111281": {
     "nickNameId": 111281,
     "nickNameType": 1,
@@ -3612,6 +3682,20 @@
       {
         "class": "HeroMaxRank",
         "heroCardId": 125514
+      }
+    ]
+  },
+  "112552": {
+    "nickNameId": 112552,
+    "nickNameType": 1,
+    "rarity": 2,
+    "category": 3,
+    "nickNameTextKey": "NICK_NAME_112552",
+    "getConditionDescription": "NICK_NAME_DESCRIPTION_112552",
+    "conditions": [
+      {
+        "class": "HeroMaxRank",
+        "heroCardId": 125522
       }
     ]
   },
