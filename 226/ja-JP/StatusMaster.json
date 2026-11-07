@@ -1,0 +1,576 @@
+{
+  "1": {
+    "statusId": 1,
+    "statusName": "ATKアップ",
+    "isGoodStatus": 1,
+    "statusType": 1,
+    "description": "攻撃力が1.5倍になる。"
+  },
+  "2": {
+    "statusId": 2,
+    "statusName": "DEFアップ",
+    "isGoodStatus": 1,
+    "statusType": 1,
+    "description": "一度だけ相手からのダメージが半分になる。"
+  },
+  "3": {
+    "statusId": 3,
+    "statusName": "SPDアップ",
+    "isGoodStatus": 1,
+    "statusType": 1,
+    "description": "SPDが+10される。"
+  },
+  "4": {
+    "statusId": 4,
+    "statusName": "注目",
+    "isGoodStatus": 1,
+    "statusType": 1,
+    "description": "自身のViewが1.5倍になる。"
+  },
+  "5": {
+    "statusId": 5,
+    "statusName": "挑発",
+    "isGoodStatus": 1,
+    "statusType": 1,
+    "description": "ターン終了時まで相手から狙われやすくなる。"
+  },
+  "6": {
+    "statusId": 6,
+    "statusName": "無敵",
+    "isGoodStatus": 1,
+    "statusType": 1,
+    "description": "一度だけ相手からのダメージを無効化する。"
+  },
+  "7": {
+    "statusId": 7,
+    "statusName": "幸運",
+    "isGoodStatus": 1,
+    "statusType": 1,
+    "description": "確率で発動する効果の発動率が20%上がる。"
+  },
+  "8": {
+    "statusId": 8,
+    "statusName": "覚醒",
+    "isGoodStatus": 1,
+    "statusType": 1,
+    "description": "スキルに必要なViewPowerが半分になる。"
+  },
+  "9": {
+    "statusId": 9,
+    "statusName": "復活",
+    "isGoodStatus": 1,
+    "statusType": 1,
+    "description": "死亡時に復活する。"
+  },
+  "10": {
+    "statusId": 10,
+    "statusName": "リジェネ",
+    "isGoodStatus": 1,
+    "statusType": 1,
+    "description": "ターン終了時にHP最大値の10%の回復する。"
+  },
+  "11": {
+    "statusId": 11,
+    "statusName": "ATKダウン",
+    "isGoodStatus": 0,
+    "statusType": 0,
+    "description": "攻撃力が0.5倍になる。"
+  },
+  "12": {
+    "statusId": 12,
+    "statusName": "DEFダウン",
+    "isGoodStatus": 0,
+    "statusType": 0,
+    "description": "一度だけ相手からのダメージが1.5倍になる。"
+  },
+  "13": {
+    "statusId": 13,
+    "statusName": "SPDダウン",
+    "isGoodStatus": 0,
+    "statusType": 0,
+    "description": "SPDが-10される。"
+  },
+  "14": {
+    "statusId": 14,
+    "statusName": "モザイク",
+    "isGoodStatus": 0,
+    "statusType": 0,
+    "description": "自身のViewが0になる。"
+  },
+  "15": {
+    "statusId": 15,
+    "statusName": "隠蔽",
+    "isGoodStatus": 1,
+    "statusType": 1,
+    "description": "ターン終了時まで相手から狙われなくなる。"
+  },
+  "16": {
+    "statusId": 16,
+    "statusName": "不幸",
+    "isGoodStatus": 0,
+    "statusType": 0,
+    "description": "確率で発動する効果の発動率が20%下がる。"
+  },
+  "17": {
+    "statusId": 17,
+    "statusName": "過消費",
+    "isGoodStatus": 0,
+    "statusType": 0,
+    "description": "スキルに必要なViewPowerが2倍になる。"
+  },
+  "18": {
+    "statusId": 18,
+    "statusName": "毒",
+    "isGoodStatus": 0,
+    "statusType": 0,
+    "description": "ターン終了時にHP最大値の5%のダメージを受ける。"
+  },
+  "19": {
+    "statusId": 19,
+    "statusName": "火傷",
+    "isGoodStatus": 0,
+    "statusType": 0,
+    "description": "ターン終了時にHP最大値の10%のダメージを受ける。"
+  },
+  "20": {
+    "statusId": 20,
+    "statusName": "超SPDアップ",
+    "isGoodStatus": 1,
+    "statusType": 1,
+    "description": "SPDが+30される。"
+  },
+  "21": {
+    "statusId": 21,
+    "statusName": "弱体抵抗",
+    "isGoodStatus": 1,
+    "statusType": 1,
+    "description": "被デバフ付与率が20%減少する。"
+  },
+  "22": {
+    "statusId": 22,
+    "statusName": "沈黙",
+    "isGoodStatus": 0,
+    "statusType": 0,
+    "description": "Viewを使用するスキルが使えなくなる。"
+  },
+  "23": {
+    "statusId": 23,
+    "statusName": "火事場力",
+    "isGoodStatus": 1,
+    "statusType": 1,
+    "description": "HPが減れば減るほど攻撃力が上昇する。"
+  },
+  "24": {
+    "statusId": 24,
+    "statusName": "ウェイト",
+    "isGoodStatus": 1,
+    "statusType": 2,
+    "description": "自身の行動順を現時点での最後にする。"
+  },
+  "25": {
+    "statusId": 25,
+    "statusName": "俊敏",
+    "isGoodStatus": 1,
+    "statusType": 1,
+    "description": "相手とSPDが離れてる程攻撃力が増加。"
+  },
+  "26": {
+    "statusId": 26,
+    "statusName": "ダメージ集約",
+    "isGoodStatus": 1,
+    "statusType": 1,
+    "description": "ターン終了時まで全体攻撃のダメージを自分に集める。"
+  },
+  "27": {
+    "statusId": 27,
+    "statusName": "永続効果",
+    "isGoodStatus": 1,
+    "statusType": 1,
+    "description": "バトル中に永続的に発動する効果。"
+  },
+  "28": {
+    "statusId": 28,
+    "statusName": "イベントボーナス",
+    "isGoodStatus": 1,
+    "statusType": 1,
+    "description": "イベントにより発動する効果。"
+  },
+  "29": {
+    "statusId": 29,
+    "statusName": "超SPDダウン",
+    "isGoodStatus": 0,
+    "statusType": 0,
+    "description": "SPDが-30される。"
+  },
+  "30": {
+    "statusId": 30,
+    "statusName": "アイテム効果",
+    "isGoodStatus": 1,
+    "statusType": 1,
+    "description": "アイテムによって発動する効果。"
+  },
+  "31": {
+    "statusId": 31,
+    "statusName": "アイテム効果：HPアップ",
+    "isGoodStatus": 1,
+    "statusType": 1,
+    "description": "アイテムによってHPが上昇する。"
+  },
+  "32": {
+    "statusId": 32,
+    "statusName": "アイテム効果：ATKアップ",
+    "isGoodStatus": 1,
+    "statusType": 1,
+    "description": "アイテムによってATKが上昇する。"
+  },
+  "33": {
+    "statusId": 33,
+    "statusName": "アイテム効果：被ダメージ減少",
+    "isGoodStatus": 1,
+    "statusType": 1,
+    "description": "アイテムによって被ダメージが減少する。"
+  },
+  "34": {
+    "statusId": 34,
+    "statusName": "炸裂",
+    "isGoodStatus": 0,
+    "statusType": 0,
+    "description": "ダメージを受けたときに炸裂の作成者のATK基礎値の40%のダメージを受ける。"
+  },
+  "35": {
+    "statusId": 35,
+    "statusName": "触手",
+    "isGoodStatus": 1,
+    "statusType": 1,
+    "description": "カイブツの触手。"
+  },
+  "36": {
+    "statusId": 36,
+    "statusName": "View消費-3000",
+    "isGoodStatus": 1,
+    "statusType": 1,
+    "description": "Viewの消費を-3000する。"
+  },
+  "37": {
+    "statusId": 37,
+    "statusName": "ボーナス：ATKアップ",
+    "isGoodStatus": 1,
+    "statusType": 1,
+    "description": "クエストボーナスによってATKが上昇する。"
+  },
+  "38": {
+    "statusId": 38,
+    "statusName": "View消費-2000",
+    "isGoodStatus": 1,
+    "statusType": 1,
+    "description": "Viewの消費を-2000する。"
+  },
+  "39": {
+    "statusId": 39,
+    "statusName": "View消費+4000",
+    "isGoodStatus": 0,
+    "statusType": 0,
+    "description": "Viewの消費を+4000する。"
+  },
+  "40": {
+    "statusId": 40,
+    "statusName": "行動停止",
+    "isGoodStatus": 0,
+    "statusType": 0,
+    "description": "そのターン、行動が出来なくなる。"
+  },
+  "41": {
+    "statusId": 41,
+    "statusName": "ATKアップ(微小)",
+    "isGoodStatus": 1,
+    "statusType": 1,
+    "description": "攻撃力が1.1倍になる。"
+  },
+  "42": {
+    "statusId": 42,
+    "statusName": "",
+    "isGoodStatus": 0,
+    "statusType": 0,
+    "description": ""
+  },
+  "43": {
+    "statusId": 43,
+    "statusName": "",
+    "isGoodStatus": 1,
+    "statusType": 1,
+    "description": ""
+  },
+  "44": {
+    "statusId": 44,
+    "statusName": "弱体抵抗100",
+    "isGoodStatus": 1,
+    "statusType": 1,
+    "description": "被デバフ付与率が100%減少する。"
+  },
+  "45": {
+    "statusId": 45,
+    "statusName": "",
+    "isGoodStatus": 1,
+    "statusType": 1,
+    "description": ""
+  },
+  "46": {
+    "statusId": 46,
+    "statusName": "弱体抵抗100",
+    "isGoodStatus": 1,
+    "statusType": 1,
+    "description": "被デバフ付与率が100%減少する。"
+  },
+  "47": {
+    "statusId": 47,
+    "statusName": "",
+    "isGoodStatus": 1,
+    "statusType": 1,
+    "description": ""
+  },
+  "48": {
+    "statusId": 48,
+    "statusName": "無効",
+    "isGoodStatus": 1,
+    "statusType": 1,
+    "description": "特定のデバフにかからない。"
+  },
+  "49": {
+    "statusId": 49,
+    "statusName": "クロックアップ",
+    "isGoodStatus": 1,
+    "statusType": 1,
+    "description": "SPD+5 & Viewの消費を-2000。スキルによる解除不可。"
+  },
+  "50": {
+    "statusId": 50,
+    "statusName": "標的",
+    "isGoodStatus": 0,
+    "statusType": 0,
+    "description": "ターン終了時まで相手から狙われやすくなる。"
+  },
+  "51": {
+    "statusId": 51,
+    "statusName": "View消費-18000",
+    "isGoodStatus": 1,
+    "statusType": 1,
+    "description": "Viewの消費を-18000する。"
+  },
+  "52": {
+    "statusId": 52,
+    "statusName": "弱体抵抗10",
+    "isGoodStatus": 1,
+    "statusType": 1,
+    "description": "被デバフ付与率が10%減少する。"
+  },
+  "53": {
+    "statusId": 53,
+    "statusName": "熱狂",
+    "isGoodStatus": 1,
+    "statusType": 1,
+    "description": "特殊なスキルで発動。バフでもデバフでも無い状態。"
+  },
+  "54": {
+    "statusId": 54,
+    "statusName": "",
+    "isGoodStatus": 2,
+    "statusType": 2,
+    "description": ""
+  },
+  "55": {
+    "statusId": 55,
+    "statusName": "View減少",
+    "isGoodStatus": 0,
+    "statusType": 0,
+    "description": "View基礎値が半分になる。"
+  },
+  "56": {
+    "statusId": 56,
+    "statusName": "酸素ボンベ",
+    "isGoodStatus": 1,
+    "statusType": 1,
+    "description": "海中での酸素補給を行うアイテム。ダメージを受けると破損する。"
+  },
+  "57": {
+    "statusId": 57,
+    "statusName": "",
+    "isGoodStatus": 2,
+    "statusType": 2,
+    "description": ""
+  },
+  "58": {
+    "statusId": 58,
+    "statusName": "View消費+1000",
+    "isGoodStatus": 0,
+    "statusType": 0,
+    "description": "Viewの消費を+1000する。"
+  },
+  "59": {
+    "statusId": 59,
+    "statusName": "弱体抵抗",
+    "isGoodStatus": 1,
+    "statusType": 1,
+    "description": "被デバフ付与率が数値だけ減少する。"
+  },
+  "60": {
+    "statusId": 60,
+    "statusName": "",
+    "isGoodStatus": 2,
+    "statusType": 2,
+    "description": "限定ヴィクトム専用システム効果"
+  },
+  "61": {
+    "statusId": 61,
+    "statusName": "View消費量減少",
+    "isGoodStatus": 1,
+    "statusType": 1,
+    "description": "Viewの消費量が減少する。スキルによる解除不可。"
+  },
+  "62": {
+    "statusId": 62,
+    "statusName": "View消費量増加",
+    "isGoodStatus": 0,
+    "statusType": 0,
+    "description": "Viewの消費量が増加する。スキルによる解除不可。"
+  },
+  "63": {
+    "statusId": 63,
+    "statusName": "View消費量減少",
+    "isGoodStatus": 0,
+    "statusType": 0,
+    "description": "Viewの消費量が減少する。スキルによる解除不可。"
+  },
+  "64": {
+    "statusId": 64,
+    "statusName": "",
+    "isGoodStatus": 0,
+    "statusType": 0,
+    "description": ""
+  },
+  "65": {
+    "statusId": 65,
+    "statusName": "",
+    "isGoodStatus": 0,
+    "statusType": 0,
+    "description": ""
+  },
+  "66": {
+    "statusId": 66,
+    "statusName": "",
+    "isGoodStatus": 2,
+    "statusType": 2,
+    "description": "オキタカのシステムスキル"
+  },
+  "67": {
+    "statusId": 67,
+    "statusName": "",
+    "isGoodStatus": 2,
+    "statusType": 2,
+    "description": "限定ヴィクトム専用システム効果2"
+  },
+  "68": {
+    "statusId": 68,
+    "statusName": "",
+    "isGoodStatus": 2,
+    "statusType": 2,
+    "description": "オキタカスキル１用システムスキル"
+  },
+  "69": {
+    "statusId": 69,
+    "statusName": "",
+    "isGoodStatus": 2,
+    "statusType": 2,
+    "description": "限定ヴィクトム専用システム効果 ViewMultipleAttackの実態(クエスト付随)"
+  },
+  "70": {
+    "statusId": 70,
+    "statusName": "ダメージ上限3000",
+    "isGoodStatus": 2,
+    "statusType": 2,
+    "description": "受けるダメージの上限が3000になる。"
+  },
+  "71": {
+    "statusId": 71,
+    "statusName": "ダメージ上限5000",
+    "isGoodStatus": 2,
+    "statusType": 2,
+    "description": "受けるダメージの上限が5000になる。"
+  },
+  "72": {
+    "statusId": 72,
+    "statusName": "ダメージ上限10000",
+    "isGoodStatus": 2,
+    "statusType": 2,
+    "description": "受けるダメージの上限が10000になる。"
+  },
+  "73": {
+    "statusId": 73,
+    "statusName": "ダメージ上限20000",
+    "isGoodStatus": 2,
+    "statusType": 2,
+    "description": "受けるダメージの上限が20000になる。"
+  },
+  "74": {
+    "statusId": 74,
+    "statusName": "View消費量減少",
+    "isGoodStatus": 1,
+    "statusType": 1,
+    "description": "Viewの消費量が減少する。"
+  },
+  "75": {
+    "statusId": 75,
+    "statusName": "ATKアップ(小)",
+    "isGoodStatus": 1,
+    "statusType": 1,
+    "description": "攻撃力が1.3倍になる。"
+  },
+  "76": {
+    "statusId": 76,
+    "statusName": "コアを守るもの",
+    "isGoodStatus": 1,
+    "statusType": 1,
+    "description": "一度だけ相手からのダメージが0.7倍になる。"
+  },
+  "77": {
+    "statusId": 77,
+    "statusName": "暴走",
+    "isGoodStatus": 2,
+    "statusType": 2,
+    "description": "1ターンに2回行動を行う。スキルによる解除不可。"
+  },
+  "78": {
+    "statusId": 78,
+    "statusName": "狂乱",
+    "isGoodStatus": 1,
+    "statusType": 1,
+    "description": "攻撃力が2倍になる。ターン終了時にHP最大値の15%のダメージを受ける。行動がオート行動になる。"
+  },
+  "79": {
+    "statusId": 79,
+    "statusName": "ATKアップ(重複不可)",
+    "isGoodStatus": 2,
+    "statusType": 2,
+    "description": "ATKが数値だけ上昇する。この効果が重複した場合、効果量が多い方を優先する。"
+  },
+  "80": {
+    "statusId": 80,
+    "statusName": "強化コア",
+    "isGoodStatus": 2,
+    "statusType": 2,
+    "description": "カイブツのコアを包む膜"
+  },
+  "81": {
+    "statusId": 81,
+    "statusName": "無効",
+    "isGoodStatus": 2,
+    "statusType": 2,
+    "description": "特定のデバフにかからない。"
+  },
+  "83": {
+    "statusId": 83,
+    "statusName": "",
+    "isGoodStatus": 2,
+    "statusType": 2,
+    "description": ""
+  }
+}

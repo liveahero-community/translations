@@ -1,0 +1,50 @@
+[
+  {
+    "parallelWeaponFormId": 0,
+    "formName": "オールラウンド",
+    "iconFilename": "",
+    "atkBase": 2,
+    "hpBase": 2,
+    "decreaseDamageBase": 2,
+    "atkFeature": 1,
+    "hpFeature": 1,
+    "decreaseDamageFeature": 1,
+    "description": "汎用性の高いフォーム"
+  },
+  {
+    "parallelWeaponFormId": 1,
+    "formName": "アタッカー",
+    "iconFilename": "",
+    "atkBase": 7.5,
+    "hpBase": 0,
+    "decreaseDamageBase": 0,
+    "atkFeature": 2,
+    "hpFeature": 0,
+    "decreaseDamageFeature": 0,
+    "description": "攻撃が得意なフォーム"
+  },
+  {
+    "parallelWeaponFormId": 2,
+    "formName": "タンク",
+    "iconFilename": "",
+    "atkBase": 0,
+    "hpBase": 15,
+    "decreaseDamageBase": 0,
+    "atkFeature": 0,
+    "hpFeature": 2,
+    "decreaseDamageFeature": 0,
+    "description": "前線にたつのに適したフォーム"
+  },
+  {
+    "parallelWeaponFormId": 3,
+    "formName": "ディフェンダー",
+    "iconFilename": "",
+    "atkBase": 0,
+    "hpBase": 0,
+    "decreaseDamageBase": 3,
+    "atkFeature": 0,
+    "hpFeature": 0,
+    "decreaseDamageFeature": 2,
+    "description": "防御に秀でたフォーム"
+  }
+]
