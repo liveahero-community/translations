@@ -661869,6 +661869,8 @@
       "timing": 59,
       "trigger": {
         "isActive": 1,
+        "actorTeam": 2,
+        "sourceTeam": 2,
         "sameCharacter": 2
       },
       "dontExecTrigger": null
