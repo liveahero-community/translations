@@ -1,0 +1,308 @@
+{
+  "1": {
+    "salesName": "成長！EXP営業！",
+    "areaResource": "ui_image_sales_region_earth",
+    "sortWeight": 1,
+    "startAt": null,
+    "endAt": null,
+    "salesId": 1,
+    "reports": [
+      {
+        "salesTitleTextKey": "SALES_TITLE_1",
+        "textKey": "SALES_REPORT_1",
+        "condition": null
+      },
+      {
+        "salesTitleTextKey": "SALES_TITLE_2",
+        "textKey": "SALES_REPORT_2",
+        "condition": null
+      },
+      {
+        "salesTitleTextKey": "SALES_TITLE_3",
+        "textKey": "SALES_REPORT_3",
+        "condition": null
+      },
+      {
+        "salesTitleTextKey": "SALES_TITLE_4",
+        "textKey": "SALES_REPORT_4",
+        "condition": null
+      },
+      {
+        "salesTitleTextKey": "SALES_TITLE_5",
+        "textKey": "SALES_REPORT_5",
+        "condition": null
+      },
+      {
+        "salesTitleTextKey": "SALES_TITLE_6",
+        "textKey": "SALES_REPORT_6",
+        "condition": null
+      },
+      {
+        "salesTitleTextKey": "SALES_TITLE_7",
+        "textKey": "SALES_REPORT_7",
+        "condition": null
+      },
+      {
+        "salesTitleTextKey": "SALES_TITLE_8",
+        "textKey": "SALES_REPORT_8",
+        "condition": null
+      },
+      {
+        "salesTitleTextKey": "SALES_TITLE_9",
+        "textKey": "SALES_REPORT_9",
+        "condition": null
+      },
+      {
+        "salesTitleTextKey": "SALES_TITLE_10",
+        "textKey": "SALES_REPORT_10",
+        "condition": null
+      },
+      {
+        "salesTitleTextKey": "SALES_TITLE_111",
+        "textKey": "SALES_REPORT_11",
+        "condition": null
+      },
+      {
+        "salesTitleTextKey": "SALES_TITLE_12",
+        "textKey": "SALES_REPORT_12",
+        "condition": null
+      },
+      {
+        "salesTitleTextKey": "SALES_TITLE_13",
+        "textKey": "SALES_REPORT_13",
+        "condition": null
+      },
+      {
+        "salesTitleTextKey": "SALES_TITLE_14",
+        "textKey": "SALES_REPORT_14",
+        "condition": null
+      },
+      {
+        "salesTitleTextKey": "SALES_TITLE_15",
+        "textKey": "SALES_REPORT_15",
+        "condition": null
+      }
+    ],
+    "maxSalesTimeSeconds": 90000,
+    "rewards": [
+      {
+        "rewardType": 3,
+        "objectId": 11,
+        "salesId": 1,
+        "objectValue": 800,
+        "isAddReward": false
+      },
+      {
+        "rewardType": 6,
+        "objectId": 0,
+        "salesId": 1,
+        "objectValue": 10,
+        "isAddReward": false
+      }
+    ]
+  },
+  "2": {
+    "salesName": "結べ絆！リレーション営業",
+    "areaResource": "ui_image_sales_region_mers",
+    "sortWeight": 2,
+    "startAt": null,
+    "endAt": null,
+    "salesId": 2,
+    "reports": [
+      {
+        "salesTitleTextKey": "SALES_TITLE_1",
+        "textKey": "SALES_REPORT_1",
+        "condition": null
+      },
+      {
+        "salesTitleTextKey": "SALES_TITLE_2",
+        "textKey": "SALES_REPORT_2",
+        "condition": null
+      },
+      {
+        "salesTitleTextKey": "SALES_TITLE_3",
+        "textKey": "SALES_REPORT_3",
+        "condition": null
+      },
+      {
+        "salesTitleTextKey": "SALES_TITLE_4",
+        "textKey": "SALES_REPORT_4",
+        "condition": null
+      },
+      {
+        "salesTitleTextKey": "SALES_TITLE_5",
+        "textKey": "SALES_REPORT_5",
+        "condition": null
+      },
+      {
+        "salesTitleTextKey": "SALES_TITLE_6",
+        "textKey": "SALES_REPORT_6",
+        "condition": null
+      },
+      {
+        "salesTitleTextKey": "SALES_TITLE_7",
+        "textKey": "SALES_REPORT_7",
+        "condition": null
+      },
+      {
+        "salesTitleTextKey": "SALES_TITLE_8",
+        "textKey": "SALES_REPORT_8",
+        "condition": null
+      },
+      {
+        "salesTitleTextKey": "SALES_TITLE_9",
+        "textKey": "SALES_REPORT_9",
+        "condition": null
+      },
+      {
+        "salesTitleTextKey": "SALES_TITLE_10",
+        "textKey": "SALES_REPORT_10",
+        "condition": null
+      },
+      {
+        "salesTitleTextKey": "SALES_TITLE_111",
+        "textKey": "SALES_REPORT_11",
+        "condition": null
+      },
+      {
+        "salesTitleTextKey": "SALES_TITLE_12",
+        "textKey": "SALES_REPORT_12",
+        "condition": null
+      },
+      {
+        "salesTitleTextKey": "SALES_TITLE_13",
+        "textKey": "SALES_REPORT_13",
+        "condition": null
+      },
+      {
+        "salesTitleTextKey": "SALES_TITLE_14",
+        "textKey": "SALES_REPORT_14",
+        "condition": null
+      },
+      {
+        "salesTitleTextKey": "SALES_TITLE_15",
+        "textKey": "SALES_REPORT_15",
+        "condition": null
+      }
+    ],
+    "maxSalesTimeSeconds": 90000,
+    "rewards": [
+      {
+        "rewardType": 3,
+        "objectId": 30,
+        "salesId": 2,
+        "objectValue": 800,
+        "isAddReward": false
+      },
+      {
+        "rewardType": 6,
+        "objectId": 0,
+        "salesId": 2,
+        "objectValue": 10,
+        "isAddReward": false
+      }
+    ]
+  },
+  "3": {
+    "salesName": "遠征！ラフ稼ぎ！",
+    "areaResource": "ui_image_sales_region_moon",
+    "sortWeight": 3,
+    "startAt": null,
+    "endAt": null,
+    "salesId": 3,
+    "reports": [
+      {
+        "salesTitleTextKey": "SALES_TITLE_1",
+        "textKey": "SALES_REPORT_1",
+        "condition": null
+      },
+      {
+        "salesTitleTextKey": "SALES_TITLE_2",
+        "textKey": "SALES_REPORT_2",
+        "condition": null
+      },
+      {
+        "salesTitleTextKey": "SALES_TITLE_3",
+        "textKey": "SALES_REPORT_3",
+        "condition": null
+      },
+      {
+        "salesTitleTextKey": "SALES_TITLE_4",
+        "textKey": "SALES_REPORT_4",
+        "condition": null
+      },
+      {
+        "salesTitleTextKey": "SALES_TITLE_5",
+        "textKey": "SALES_REPORT_5",
+        "condition": null
+      },
+      {
+        "salesTitleTextKey": "SALES_TITLE_6",
+        "textKey": "SALES_REPORT_6",
+        "condition": null
+      },
+      {
+        "salesTitleTextKey": "SALES_TITLE_7",
+        "textKey": "SALES_REPORT_7",
+        "condition": null
+      },
+      {
+        "salesTitleTextKey": "SALES_TITLE_8",
+        "textKey": "SALES_REPORT_8",
+        "condition": null
+      },
+      {
+        "salesTitleTextKey": "SALES_TITLE_9",
+        "textKey": "SALES_REPORT_9",
+        "condition": null
+      },
+      {
+        "salesTitleTextKey": "SALES_TITLE_10",
+        "textKey": "SALES_REPORT_10",
+        "condition": null
+      },
+      {
+        "salesTitleTextKey": "SALES_TITLE_111",
+        "textKey": "SALES_REPORT_11",
+        "condition": null
+      },
+      {
+        "salesTitleTextKey": "SALES_TITLE_12",
+        "textKey": "SALES_REPORT_12",
+        "condition": null
+      },
+      {
+        "salesTitleTextKey": "SALES_TITLE_13",
+        "textKey": "SALES_REPORT_13",
+        "condition": null
+      },
+      {
+        "salesTitleTextKey": "SALES_TITLE_14",
+        "textKey": "SALES_REPORT_14",
+        "condition": null
+      },
+      {
+        "salesTitleTextKey": "SALES_TITLE_15",
+        "textKey": "SALES_REPORT_15",
+        "condition": null
+      }
+    ],
+    "maxSalesTimeSeconds": 90000,
+    "rewards": [
+      {
+        "rewardType": 3,
+        "objectId": 35,
+        "salesId": 3,
+        "objectValue": 1200,
+        "isAddReward": false
+      },
+      {
+        "rewardType": 6,
+        "objectId": 0,
+        "salesId": 3,
+        "objectValue": 10,
+        "isAddReward": false
+      }
+    ]
+  }
+}
