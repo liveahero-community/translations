@@ -15448,7 +15448,7 @@
     "resourceName": "b_skill_heal",
     "subResourceName": "",
     "timing": 0,
-    "description": "対象を復活",
+    "description": "対象を复活",
     "shortenDescription": "",
     "cutin": [],
     "isEquip": false,
@@ -333806,7 +333806,7 @@
     "resourceName": "b_skill_damageAll",
     "subResourceName": "s_skill_debuffAll",
     "timing": 0,
-    "description": "敵全体に80%ダメージ。1ターンの間火傷を付与。（敵専用）",
+    "description": "敌全体に80%ダメージ。1ターンの间火伤を付与。（敌専用）",
     "shortenDescription": "",
     "cutin": [
       {
@@ -346562,7 +346562,7 @@
     "resourceName": "b_skill_damage",
     "subResourceName": "s_skill_view",
     "timing": 0,
-    "description": "敵単体に60%ダメージ。Viewを8000獲得。<style=\"改行\"></style>味方が2人以下の場合、この攻撃は全体攻撃になる。（敵専用）",
+    "description": "敌単体に60%ダメージ。Viewを8000获得。<style=\"改行\"></style>味方が2人以下の场合、この攻撃は全体攻撃になる。（敌専用）",
     "shortenDescription": "",
     "cutin": [
       {
@@ -346699,7 +346699,7 @@
     "resourceName": "b_skill_buffAll",
     "subResourceName": "s_skill_view",
     "timing": 0,
-    "description": "味方全体のATKチャージ＆SPDチャージのチャージ数+1。Viewを10000獲得。<style=\"改行\"></style>味方が自身のみの場合、ATKチャージ＆SPDチャージのチャージ増加量が+2になる。（敵専用）",
+    "description": "味方全体のATKチャージ＆SPDチャージのチャージ数+1。Viewを10000获得。<style=\"改行\"></style>味方が自身のみの场合、ATKチャージ＆SPDチャージのチャージ増加量が+2になる。（敌専用）",
     "shortenDescription": "",
     "cutin": [
       {
@@ -511680,7 +511680,7 @@
     "resourceName": "b_skill_buffAll",
     "subResourceName": "",
     "timing": 14,
-    "description": "戦闘不能時、味方全体にView消費量-2000を付与。",
+    "description": "戦闘不能时、味方全体にView消费量-2000を付与。",
     "shortenDescription": "",
     "cutin": [],
     "isEquip": true,
@@ -511736,7 +511736,7 @@
     "resourceName": "b_skill_special",
     "subResourceName": "",
     "timing": 99,
-    "description": "味方が2人以下の時、スキル1を使用しなくなる。",
+    "description": "味方が2人以下の时、スキル1を使用しなくなる。",
     "shortenDescription": "",
     "cutin": [],
     "isEquip": true,
@@ -511813,7 +511813,7 @@
     "resourceName": "b_skill_buff",
     "subResourceName": "",
     "timing": 1,
-    "description": "スキル発動後のViewPowerに応じてATKが上昇。(最大+50%。ViewPower100000の時最大値に到達)",
+    "description": "スキル発动后のViewPowerに応じてATKが上升。(最大+50%。ViewPower100000の时最大値に到达)",
     "shortenDescription": "",
     "cutin": [],
     "isEquip": true,
@@ -511869,7 +511869,7 @@
     "resourceName": "b_skill_special",
     "subResourceName": "",
     "timing": 3,
-    "description": "味方が2人以下の時、このキャラクターは毎ターン2回行動する。2回目の行動時はスキル1を発動する。",
+    "description": "味方が2人以下の时、このキャラクターは毎ターン2回行动する。2回目の行动时はスキル1を発动する。",
     "shortenDescription": "",
     "cutin": [],
     "isEquip": true,
@@ -511992,7 +511992,7 @@
     "resourceName": "status_hide",
     "subResourceName": "",
     "timing": 1,
-    "description": "Viewが5000以上ある場合、自身に「隠蔽」と同様の効果を発動。",
+    "description": "Viewが5000以上ある场合、自身に「隠蔽」と同様の効果を発动。",
     "shortenDescription": "",
     "cutin": [],
     "isEquip": true,
@@ -663721,7 +663721,7 @@
     "resourceName": "status_music_special",
     "subResourceName": "",
     "timing": 0,
-    "description": "温かな希望を歌声に乗せて響き渡らせる。",
+    "description": "温かな希望を歌声に乗せて响き渡らせる。",
     "shortenDescription": "",
     "cutin": [
       {
@@ -695970,14 +695970,14 @@
   },
   "8255213": {
     "skillId": 8255213,
-    "skillName": "過ぎし日への旋律",
+    "skillName": "过ぎし日への旋律",
     "skillIndex": 0,
     "useView": 0,
     "targetFlag": 0,
     "resourceName": "status_music_special",
     "subResourceName": "",
     "timing": 0,
-    "description": "蘇る思い出のリック。",
+    "description": "苏る思い出のリック。",
     "shortenDescription": "",
     "cutin": [
       {
@@ -696131,7 +696131,7 @@
     "resourceName": "status_music_special",
     "subResourceName": "",
     "timing": 0,
-    "description": "郷愁の祈りを旋律に乗せて響き渡らせる。",
+    "description": "郷愁の祈りを旋律に乗せて响き渡らせる。",
     "shortenDescription": "",
     "cutin": [
       {
