@@ -1549,5 +1549,35 @@
         ]
       }
     ]
+  },
+  "1098": {
+    "backgroundId": 1098,
+    "iconAddress": "item_icon_bg_musicfestivalvenue_hope",
+    "bgAddress": "bg_musicfestivalvenue_hope",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          1310006,
+          1310007
+        ]
+      }
+    ]
+  },
+  "1099": {
+    "backgroundId": 1099,
+    "iconAddress": "item_icon_bg_musicfestivalvenue_melancholy",
+    "bgAddress": "bg_musicfestivalvenue_melancholy",
+    "conditions": [
+      {
+        "class": "AnyQuestClear",
+        "isStrict": true,
+        "questIds": [
+          1310006,
+          1310007
+        ]
+      }
+    ]
   }
 }
