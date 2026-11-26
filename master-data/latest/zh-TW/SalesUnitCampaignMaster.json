@@ -341,5 +341,184 @@
         ]
       }
     ]
+  },
+  "3": {
+    "campaignName": "復刻ステラリンクイベントリソース獲得",
+    "startAt": "2026-11-26 14:00:00",
+    "endAt": "2026-12-10 20:00:00",
+    "campaignId": 3,
+    "targets": [
+      {
+        "salesId": 1,
+        "bonuses": [
+          {
+            "isDisplay": true,
+            "iconAddress": "icon_salesBonus_add_reward",
+            "class": "StockCountBonus",
+            "values": [
+              {
+                "count": 1,
+                "upwardRate": 20
+              },
+              {
+                "count": 2,
+                "upwardRate": 40
+              },
+              {
+                "count": 3,
+                "upwardRate": 60
+              }
+            ],
+            "stocks": [
+              10073,
+              12092,
+              12871
+            ],
+            "description": "SALES_BONUS_DESCRIPTION_ITEM_BONUS",
+            "isAppendBonus": true
+          }
+        ],
+        "reports": [
+          {
+            "salesTitleTextKey": "SALES_TITLE_STELLA2510_REPORT_1",
+            "textKey": "SALES_EVENT_STELLA_REPORT_1",
+            "condition": null
+          },
+          {
+            "salesTitleTextKey": "SALES_TITLE_STELLA2510_REPORT_2",
+            "textKey": "SALES_EVENT_STELLA_REPORT_2",
+            "condition": null
+          },
+          {
+            "salesTitleTextKey": "SALES_TITLE_STELLA2510_REPORT_3",
+            "textKey": "SALES_EVENT_STELLA_REPORT_3",
+            "condition": null
+          }
+        ],
+        "rewards": [
+          {
+            "rewardType": 3,
+            "objectId": 257,
+            "salesId": 1,
+            "objectValue": 11,
+            "isAddReward": true
+          }
+        ]
+      },
+      {
+        "salesId": 2,
+        "bonuses": [
+          {
+            "isDisplay": true,
+            "iconAddress": "icon_salesBonus_add_reward",
+            "class": "StockCountBonus",
+            "values": [
+              {
+                "count": 1,
+                "upwardRate": 20
+              },
+              {
+                "count": 2,
+                "upwardRate": 40
+              },
+              {
+                "count": 3,
+                "upwardRate": 60
+              }
+            ],
+            "stocks": [
+              10073,
+              12092,
+              12871
+            ],
+            "description": "SALES_BONUS_DESCRIPTION_ITEM_BONUS",
+            "isAppendBonus": true
+          }
+        ],
+        "reports": [
+          {
+            "salesTitleTextKey": "SALES_TITLE_STELLA2510_REPORT_1",
+            "textKey": "SALES_EVENT_STELLA_REPORT_1",
+            "condition": null
+          },
+          {
+            "salesTitleTextKey": "SALES_TITLE_STELLA2510_REPORT_2",
+            "textKey": "SALES_EVENT_STELLA_REPORT_2",
+            "condition": null
+          },
+          {
+            "salesTitleTextKey": "SALES_TITLE_STELLA2510_REPORT_3",
+            "textKey": "SALES_EVENT_STELLA_REPORT_3",
+            "condition": null
+          }
+        ],
+        "rewards": [
+          {
+            "rewardType": 3,
+            "objectId": 257,
+            "salesId": 2,
+            "objectValue": 11,
+            "isAddReward": true
+          }
+        ]
+      },
+      {
+        "salesId": 3,
+        "bonuses": [
+          {
+            "isDisplay": true,
+            "iconAddress": "icon_salesBonus_add_reward",
+            "class": "StockCountBonus",
+            "values": [
+              {
+                "count": 1,
+                "upwardRate": 20
+              },
+              {
+                "count": 2,
+                "upwardRate": 40
+              },
+              {
+                "count": 3,
+                "upwardRate": 60
+              }
+            ],
+            "stocks": [
+              10073,
+              12092,
+              12871
+            ],
+            "description": "SALES_BONUS_DESCRIPTION_ITEM_BONUS",
+            "isAppendBonus": true
+          }
+        ],
+        "reports": [
+          {
+            "salesTitleTextKey": "SALES_TITLE_STELLA2510_REPORT_1",
+            "textKey": "SALES_EVENT_STELLA_REPORT_1",
+            "condition": null
+          },
+          {
+            "salesTitleTextKey": "SALES_TITLE_STELLA2510_REPORT_2",
+            "textKey": "SALES_EVENT_STELLA_REPORT_2",
+            "condition": null
+          },
+          {
+            "salesTitleTextKey": "SALES_TITLE_STELLA2510_REPORT_3",
+            "textKey": "SALES_EVENT_STELLA_REPORT_3",
+            "condition": null
+          }
+        ],
+        "rewards": [
+          {
+            "rewardType": 3,
+            "objectId": 257,
+            "salesId": 3,
+            "objectValue": 11,
+            "isAddReward": true
+          }
+        ]
+      }
+    ]
   }
 }

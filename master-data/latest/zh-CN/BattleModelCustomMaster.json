@@ -11640,5 +11640,245 @@
       "effectAddress": "TurnObject_Blooming",
       "targetStockId": 12552
     }
+  },
+  "1335": {
+    "itemId": 11007301,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att/L_weapon",
+      "targetStockId": 10073,
+      "attachmentName": "att/L_weapon"
+    }
+  },
+  "1336": {
+    "itemId": 11007301,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att/R_weapon",
+      "targetStockId": 10073,
+      "attachmentName": "att/R_weapon"
+    }
+  },
+  "1337": {
+    "itemId": 11007301,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": true,
+      "slotName": "L_weapon",
+      "targetStockId": 10073,
+      "attachmentName": "L_weapon"
+    }
+  },
+  "1338": {
+    "itemId": 11007301,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": true,
+      "slotName": "R_weapon",
+      "targetStockId": 10073,
+      "attachmentName": "R_weapon"
+    }
+  },
+  "1339": {
+    "itemId": 11209201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att_aarrow_Attack",
+      "targetStockId": 12092,
+      "attachmentName": "att_aarrow_Attack"
+    }
+  },
+  "1340": {
+    "itemId": 11209201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att_arrow",
+      "targetStockId": 12092,
+      "attachmentName": "att/arrow"
+    }
+  },
+  "1341": {
+    "itemId": 11209201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att_arrow2",
+      "targetStockId": 12092,
+      "attachmentName": "att/arrow_head"
+    }
+  },
+  "1342": {
+    "itemId": 11209201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att_arrow4",
+      "targetStockId": 12092,
+      "attachmentName": "att/arrow_fuse"
+    }
+  },
+  "1343": {
+    "itemId": 11209201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att_arrow_Attack_fuse",
+      "targetStockId": 12092,
+      "attachmentName": "att_arrow_Attack_fuse"
+    }
+  },
+  "1344": {
+    "itemId": 11209201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att_arrow_Attack_head",
+      "targetStockId": 12092,
+      "attachmentName": "att_arrow_Attack_head"
+    }
+  },
+  "1345": {
+    "itemId": 11209201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att_arrow_BattleIn",
+      "targetStockId": 12092,
+      "attachmentName": "att_arrow_BattleIn"
+    }
+  },
+  "1346": {
+    "itemId": 11209201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att_arrow_attack_spark",
+      "targetStockId": 12092,
+      "attachmentName": "att_arrow_attack_spark"
+    }
+  },
+  "1347": {
+    "itemId": 11209201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att_arrow_fuse_BattleIn",
+      "targetStockId": 12092,
+      "attachmentName": "att_arrow_fuse_BattleIn"
+    }
+  },
+  "1348": {
+    "itemId": 11209201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att_arrow_head_BattleIn",
+      "targetStockId": 12092,
+      "attachmentName": "att_arrow_head_BattleIn"
+    }
+  },
+  "1349": {
+    "itemId": 11209201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att_arrow_spark",
+      "targetStockId": 12092,
+      "attachmentName": "att/arrow_spark"
+    }
+  },
+  "1350": {
+    "itemId": 11209201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att_arrow_spark_BattleIn",
+      "targetStockId": 12092,
+      "attachmentName": "att_arrow_spark_BattleIn"
+    }
+  },
+  "1351": {
+    "itemId": 11209201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att_arrows_B",
+      "targetStockId": 12092,
+      "attachmentName": "att/arrows_B"
+    }
+  },
+  "1352": {
+    "itemId": 11209201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": true,
+      "slotName": "ori_arrow",
+      "targetStockId": 12092,
+      "attachmentName": "arrow"
+    }
+  },
+  "1353": {
+    "itemId": 11209201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": true,
+      "slotName": "ori_arrow_Attack",
+      "targetStockId": 12092,
+      "attachmentName": "ori_arrow_Attack"
+    }
+  },
+  "1354": {
+    "itemId": 11209201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": true,
+      "slotName": "ori_arrow_BattleIn",
+      "targetStockId": 12092,
+      "attachmentName": "ori_arrow_BattleIn"
+    }
+  },
+  "1355": {
+    "itemId": 11209201,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": true,
+      "slotName": "ori_arrows_B",
+      "targetStockId": 12092,
+      "attachmentName": "arrows_B"
+    }
+  },
+  "1356": {
+    "itemId": 11287101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att/att01",
+      "targetStockId": 12871,
+      "attachmentName": "att/att01"
+    }
+  },
+  "1357": {
+    "itemId": 11287101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att/att02",
+      "targetStockId": 12871,
+      "attachmentName": "att/att02"
+    }
+  },
+  "1358": {
+    "itemId": 11287101,
+    "customJson": {
+      "class": "CustomSpineParts",
+      "isRemove": false,
+      "slotName": "att/att03",
+      "targetStockId": 12871,
+      "attachmentName": "att/att03"
+    }
   }
 }
